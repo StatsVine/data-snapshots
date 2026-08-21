@@ -35,7 +35,38 @@ scripts/fetch.sh sleeper/state-nfl https://api.sleeper.app/v1/state/nfl
 git diff --stat
 ```
 
-Flags: `--no-csv` to skip the CSV, `--drop f1,f2` to strip volatile fields.
+Flags: `--no-csv` to skip the CSV, `--drop f1,f2` to strip volatile fields,
+plus the two CSV knobs below.
+
+## Keeping the CSV small
+
+The JSON is the complete record. The CSV is a **view** of it — deliberately
+narrow, because a full flatten of `players-nfl` is 12,221 rows x 103 columns
+(4.3MB), which GitHub renders badly and which buries the dozen fields anyone
+actually reads.
+
+Two knobs, both set per source in the caller workflow:
+
+- **`columns`** — an ordered allowlist. Cherry-pick the fields worth having.
+- **`where`** — comma-separated row filters, ANDed. `field` keeps non-empty
+  values, `field=value` and `field!=value` compare.
+
+```yaml
+columns: >-
+  _key,full_name,team,position,status,injury_status,age,years_exp,
+  number,college,espn_id,gsis_id,sportradar_id
+where: active=true,team
+```
+
+That takes `players-nfl` from **4.3MB to 298KB**. Note that `active` is doing
+almost none of that work — Sleeper flags 9,414 of 12,221 players active. A
+non-empty `team` is what actually means "on a roster", and cuts to 3,221.
+
+An explicit `columns` list also makes the header *more* stable than the
+default: it is fixed by config, so a field appearing upstream for the first
+time can no longer shift every column and blow up the diff. Naming a column
+that matches no data warns on stderr and emits it empty, rather than silently
+dropping it — a typo should be visible, not invisible.
 
 When iterating on the transform steps, work off the copy already in `.raw/`
 rather than re-pulling — `sleeper/players-nfl` is a 14MB download and there is

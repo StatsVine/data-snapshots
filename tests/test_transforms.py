@@ -193,3 +193,79 @@ def test_rerunning_flatten_changes_nothing(root):
 def test_flatten_uses_unix_line_endings(root):
     keyed(root, "s", {"p1": {"x": 1}})
     assert "\r\n" not in csv_of(root, "s")
+
+
+# --- projection and filtering ---------------------------------------------
+
+
+def test_columns_keeps_only_listed_fields_in_the_given_order(root):
+    keyed(root, "s", {"p1": {"a": 1, "b": 2, "c": 3}})
+    run("flatten.py", root, "s", "--columns", "_key,c,a")
+    assert csv_of(root, "s") == "_key,c,a\np1,3,1\n"
+
+
+def test_columns_tolerates_whitespace_from_folded_yaml(root):
+    """A YAML `>-` block joins lines with spaces, so ' b' must still match."""
+    keyed(root, "s", {"p1": {"a": 1, "b": 2}})
+    run("flatten.py", root, "s", "--columns", "_key, a, b")
+    assert csv_of(root, "s") == "_key,a,b\np1,1,2\n"
+
+
+def test_unknown_column_warns_but_still_emits_a_stable_header(root):
+    keyed(root, "s", {"p1": {"a": 1}})
+    proc = run("flatten.py", root, "s", "--columns", "_key,a,typo")
+    assert "typo" in proc.stderr
+    assert csv_of(root, "s") == "_key,a,typo\np1,1,\n"
+
+
+def test_where_bare_field_keeps_only_non_empty(root):
+    keyed(root, "s", {"p1": {"team": "SF"}, "p2": {"team": None}})
+    run("flatten.py", root, "s", "--where", "team")
+    assert csv_of(root, "s") == "_key,team\np1,SF\n"
+
+
+def test_where_equality(root):
+    keyed(root, "s", {"p1": {"active": True}, "p2": {"active": False}})
+    run("flatten.py", root, "s", "--where", "active=true")
+    assert csv_of(root, "s") == "_key,active\np1,true\n"
+
+
+def test_where_inequality(root):
+    keyed(root, "s", {"p1": {"pos": "QB"}, "p2": {"pos": "RB"}})
+    run("flatten.py", root, "s", "--where", "pos!=RB")
+    assert csv_of(root, "s") == "_key,pos\np1,QB\n"
+
+
+def test_where_conditions_are_anded(root):
+    keyed(
+        root,
+        "s",
+        {
+            "keep": {"active": True, "team": "SF"},
+            "no_team": {"active": True, "team": None},
+            "inactive": {"active": False, "team": "GB"},
+        },
+    )
+    run("flatten.py", root, "s", "--where", "active=true,team")
+    assert [ln.split(",")[0] for ln in csv_of(root, "s").splitlines()[1:]] == ["keep"]
+
+
+def test_filter_and_projection_compose(root):
+    keyed(root, "s", {"a": {"t": "SF", "junk": 9}, "b": {"t": None, "junk": 8}})
+    run("flatten.py", root, "s", "--columns", "_key,t", "--where", "t")
+    assert csv_of(root, "s") == "_key,t\na,SF\n"
+
+
+def test_filtering_everything_out_still_writes_the_header(root):
+    """An empty result must not silently leave yesterday's file in place."""
+    keyed(root, "s", {"p1": {"team": None}})
+    run("flatten.py", root, "s", "--columns", "_key,team", "--where", "team")
+    assert csv_of(root, "s") == "_key,team\n"
+
+
+def test_filtered_output_is_still_deterministic(root):
+    keyed(root, "s", {"z": {"t": "SF"}, "a": {"t": "GB"}, "m": {"t": None}})
+    run("flatten.py", root, "s", "--columns", "_key,t", "--where", "t")
+    first = csv_of(root, "s")
+    run("flatten.py", root, "s", "--columns", "_key,t", "--where", "t")
+    assert csv_of(root, "s") == first

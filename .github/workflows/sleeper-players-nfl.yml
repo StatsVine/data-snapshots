@@ -16,4 +16,12 @@ jobs:
       name: sleeper/players-nfl
       url: https://api.sleeper.app/v1/players/nfl
       csv: true
-      # drop: search_rank   # uncomment if daily churn gets noisy
+      # The JSON stays complete; the CSV is a deliberately narrow view of it.
+      # Unfiltered this is 12k rows x 103 cols = 4.3MB, which GitHub renders
+      # badly and which buries the handful of fields anyone actually reads.
+      columns: >-
+        _key,full_name,team,position,status,injury_status,age,years_exp,
+        number,college,espn_id,gsis_id,sportradar_id
+      # `active` alone barely filters (Sleeper flags 9.4k of 12.2k players
+      # active); a non-empty `team` is what actually means "on a roster".
+      where: active=true,team

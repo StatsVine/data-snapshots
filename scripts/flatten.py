@@ -67,9 +67,49 @@ def rows_for(data):
     return [{"value": json.dumps(data)}], False
 
 
+def parse_where(expr):
+    """`a=1,b!=2,c` -> conditions, ANDed. A bare field means "non-empty"."""
+    conds = []
+    for part in expr.split(","):
+        part = part.strip()
+        if not part:
+            continue
+        if "!=" in part:
+            field, value = part.split("!=", 1)
+            conds.append((field.strip(), "!=", value.strip()))
+        elif "=" in part:
+            field, value = part.split("=", 1)
+            conds.append((field.strip(), "==", value.strip()))
+        else:
+            conds.append((part, "nonempty", None))
+    return conds
+
+
+def matches(row, conds):
+    for field, op, value in conds:
+        cell = str(row.get(field, ""))
+        if op == "nonempty" and not cell:
+            return False
+        if op == "==" and cell != value:
+            return False
+        if op == "!=" and cell == value:
+            return False
+    return True
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("name")
+    ap.add_argument(
+        "--columns",
+        default="",
+        help="comma-separated columns to keep, in this order (default: all)",
+    )
+    ap.add_argument(
+        "--where",
+        default="",
+        help="comma-separated row filters, ANDed: 'active=true,team'",
+    )
     args = ap.parse_args()
 
     src = ROOT / "data" / f"{args.name}.json"
@@ -85,21 +125,40 @@ def main():
     if keyed:
         rows.sort(key=lambda r: r["_key"])
 
-    cols = sorted({c for r in rows for c in r})
-    if "_key" in cols:
-        cols.remove("_key")
-        cols.insert(0, "_key")
+    total = len(rows)
+    if args.where:
+        conds = parse_where(args.where)
+        rows = [r for r in rows if matches(r, conds)]
+
+    if args.columns:
+        # An explicit list fixes the header from config, which is the most
+        # stable arrangement there is: a field appearing upstream for the
+        # first time can no longer shift every column.
+        cols = [c.strip() for c in args.columns.split(",") if c.strip()]
+        present = {c for r in rows for c in r}
+        for c in cols:
+            if c not in present:
+                print(f"  warning: column {c!r} matched no data", file=sys.stderr)
+    else:
+        cols = sorted({c for r in rows for c in r})
+        if "_key" in cols:
+            cols.remove("_key")
+            cols.insert(0, "_key")
 
     out = ROOT / "csv" / f"{args.name}.csv"
     out.parent.mkdir(parents=True, exist_ok=True)
     with out.open("w", encoding="utf-8", newline="") as fh:
-        w = csv.DictWriter(fh, fieldnames=cols, restval="", lineterminator="\n")
+        w = csv.DictWriter(
+            fh,
+            fieldnames=cols,
+            restval="",
+            extrasaction="ignore",
+            lineterminator="\n",
+        )
         w.writeheader()
         w.writerows(rows)
-    print(
-        f"flatten {args.name} -> {out.relative_to(ROOT)} "
-        f"({len(rows)} rows, {len(cols)} cols)"
-    )
+    kept = f"{len(rows)} of {total} rows" if len(rows) != total else f"{total} rows"
+    print(f"flatten {args.name} -> {out.relative_to(ROOT)} ({kept}, {len(cols)} cols)")
     return 0
 
 

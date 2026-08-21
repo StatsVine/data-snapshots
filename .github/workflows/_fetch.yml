@@ -23,6 +23,16 @@ on:
         required: false
         type: string
         default: ""
+      columns:
+        description: "Comma-separated CSV columns to keep, in order (default: all)"
+        required: false
+        type: string
+        default: ""
+      where:
+        description: "Comma-separated CSV row filters, ANDed: 'active=true,team'"
+        required: false
+        type: string
+        default: ""
 
 # All sources serialize here so two schedules can never race the same push.
 concurrency:
@@ -50,7 +60,9 @@ jobs:
             "${{ inputs.name }}" \
             "${{ inputs.url }}" \
             ${{ inputs.csv && ' ' || '--no-csv' }} \
-            --drop "${{ inputs.drop }}"
+            --drop "${{ inputs.drop }}" \
+            --columns "${{ inputs.columns }}" \
+            --where "${{ inputs.where }}"
 
       - name: Commit
         run: |

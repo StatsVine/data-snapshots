@@ -62,6 +62,30 @@ That takes `players-nfl` from **4.3MB to 298KB**. Note that `active` is doing
 almost none of that work — Sleeper flags 9,414 of 12,221 players active. A
 non-empty `team` is what actually means "on a roster", and cuts to 3,221.
 
+### Multiple views
+
+One source can produce several CSVs from a single download. Set `views` to a
+JSON array instead of the `columns`/`where` pair — workflow_call inputs are
+strings, so JSON is how a list gets through:
+
+```yaml
+views: |
+  [
+    {"name": "all"},
+    {"name": "rostered",
+     "columns": "_key,full_name,team,position,...",
+     "where": "active=true,team"}
+  ]
+```
+
+Each view lands at `csv/<source>-<view>.csv`. The source is downloaded and
+parsed once and the rows are shared, so views cost nothing upstream. Dropping
+or renaming a view prunes its old file, so a config change cannot strand an
+orphan CSV in the repo.
+
+`views` takes precedence over `columns`/`where`. Use the simple pair for
+single-view sources; reach for `views` when you want more than one.
+
 An explicit `columns` list also makes the header *more* stable than the
 default: it is fixed by config, so a field appearing upstream for the first
 time can no longer shift every column and blow up the diff. Naming a column

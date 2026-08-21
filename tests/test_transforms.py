@@ -269,3 +269,98 @@ def test_filtered_output_is_still_deterministic(root):
     first = csv_of(root, "s")
     run("flatten.py", root, "s", "--columns", "_key,t", "--where", "t")
     assert csv_of(root, "s") == first
+
+
+# --- multiple views -------------------------------------------------------
+
+
+def prep(root, name, data):
+    seed(root, name, data)
+    run("canonicalize.py", root, name)
+
+
+def test_views_write_one_suffixed_file_each(root):
+    prep(root, "s", {"a": {"t": "SF"}, "b": {"t": None}})
+    run(
+        "flatten.py",
+        root,
+        "s",
+        "--views",
+        '[{"name":"all"},{"name":"rostered","where":"t"}]',
+    )
+    assert (root / "csv" / "s-all.csv").read_text() == "_key,t\na,SF\nb,\n"
+    assert (root / "csv" / "s-rostered.csv").read_text() == "_key,t\na,SF\n"
+
+
+def test_views_read_the_source_once_and_stay_independent(root):
+    """Filtering one view must not narrow the rows the next view sees."""
+    prep(root, "s", {"a": {"t": "SF"}, "b": {"t": None}})
+    run(
+        "flatten.py",
+        root,
+        "s",
+        "--views",
+        '[{"name":"narrow","where":"t"},{"name":"wide"}]',
+    )
+    assert len((root / "csv" / "s-wide.csv").read_text().splitlines()) == 3
+
+
+def test_stale_view_is_pruned_when_config_changes(root):
+    prep(root, "s", {"a": {"t": "SF"}})
+    run("flatten.py", root, "s", "--views", '[{"name":"old"}]')
+    assert (root / "csv" / "s-old.csv").exists()
+    run("flatten.py", root, "s", "--views", '[{"name":"new"}]')
+    assert not (root / "csv" / "s-old.csv").exists()
+    assert (root / "csv" / "s-new.csv").exists()
+
+
+def test_switching_to_views_prunes_the_unsuffixed_file(root):
+    prep(root, "s", {"a": {"t": "SF"}})
+    run("flatten.py", root, "s")
+    assert (root / "csv" / "s.csv").exists()
+    run("flatten.py", root, "s", "--views", '[{"name":"all"}]')
+    assert not (root / "csv" / "s.csv").exists()
+
+
+def test_prune_leaves_other_sources_alone(root):
+    prep(root, "other", {"a": {"t": "GB"}})
+    run("flatten.py", root, "other")
+    prep(root, "s", {"a": {"t": "SF"}})
+    run("flatten.py", root, "s", "--views", '[{"name":"all"}]')
+    assert (root / "csv" / "other.csv").exists()
+
+
+def test_view_name_that_looks_like_a_path_is_refused(root):
+    prep(root, "s", {"a": {"t": "SF"}})
+    proc = run(
+        "flatten.py", root, "s", "--views", '[{"name":"../escape"}]', expect_ok=False
+    )
+    assert proc.returncode == 1
+    assert "must match" in proc.stderr
+
+
+def test_duplicate_view_names_are_refused(root):
+    prep(root, "s", {"a": {"t": "SF"}})
+    proc = run(
+        "flatten.py",
+        root,
+        "s",
+        "--views",
+        '[{"name":"x"},{"name":"x"}]',
+        expect_ok=False,
+    )
+    assert proc.returncode == 1
+    assert "duplicate" in proc.stderr
+
+
+def test_malformed_views_json_fails_loudly(root):
+    prep(root, "s", {"a": {"t": "SF"}})
+    proc = run("flatten.py", root, "s", "--views", "{not json", expect_ok=False)
+    assert proc.returncode == 1
+
+
+def test_views_must_be_a_non_empty_array(root):
+    prep(root, "s", {"a": {"t": "SF"}})
+    proc = run("flatten.py", root, "s", "--views", "[]", expect_ok=False)
+    assert proc.returncode == 1
+    assert "non-empty JSON array" in proc.stderr

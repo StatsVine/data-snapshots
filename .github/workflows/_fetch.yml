@@ -33,6 +33,14 @@ on:
         required: false
         type: string
         default: ""
+      views:
+        description: >-
+          JSON array of named CSV views, each with optional columns/where.
+          Takes precedence over the single columns/where pair above.
+          Output lands at csv/<name>-<view>.csv.
+        required: false
+        type: string
+        default: ""
 
 # All sources serialize here so two schedules can never race the same push.
 concurrency:
@@ -52,19 +60,29 @@ jobs:
           python-version: "3.14"
 
       - name: Fetch
-        # The true branch is a space, not '' — an empty string is falsy in
-        # GitHub expressions, so `csv && '' || '--no-csv'` would always
-        # take the false branch.
+        # Inputs go through env rather than being interpolated straight into
+        # the script: a `${{ }}` inside run: is a shell-injection seam.
+        env:
+          SOURCE_NAME: ${{ inputs.name }}
+          SOURCE_URL: ${{ inputs.url }}
+          WANT_CSV: ${{ inputs.csv }}
+          DROP: ${{ inputs.drop }}
+          COLUMNS: ${{ inputs.columns }}
+          WHERE: ${{ inputs.where }}
+          VIEWS: ${{ inputs.views }}
         run: |
-          scripts/fetch.sh \
-            "${{ inputs.name }}" \
-            "${{ inputs.url }}" \
-            ${{ inputs.csv && ' ' || '--no-csv' }} \
-            --drop "${{ inputs.drop }}" \
-            --columns "${{ inputs.columns }}" \
-            --where "${{ inputs.where }}"
+          args=("$SOURCE_NAME" "$SOURCE_URL" --drop "$DROP")
+          [ "$WANT_CSV" = "true" ] || args+=(--no-csv)
+          if [ -n "$VIEWS" ]; then
+            args+=(--views "$VIEWS")
+          else
+            args+=(--columns "$COLUMNS" --where "$WHERE")
+          fi
+          scripts/fetch.sh "${args[@]}"
 
       - name: Commit
+        env:
+          SOURCE_NAME: ${{ inputs.name }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -73,7 +91,7 @@ jobs:
             echo "no changes"
             exit 0
           fi
-          git commit -m "${{ inputs.name }}: $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+          git commit -m "$SOURCE_NAME: $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
           # Concurrency should prevent races, but GitHub only queues one
           # pending run per group — rebase rather than fail if one slips past.
           git pull --rebase --autostash origin "${GITHUB_REF_NAME}"

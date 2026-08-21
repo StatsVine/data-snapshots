@@ -1,0 +1,68 @@
+name: _fetch
+
+# Reusable core. Holds no configuration of its own — every source lives in its
+# own caller workflow, which owns its schedule and its parameters.
+on:
+  workflow_call:
+    inputs:
+      name:
+        description: "Source name; becomes data/<name>.json and csv/<name>.csv"
+        required: true
+        type: string
+      url:
+        description: "URL to fetch"
+        required: true
+        type: string
+      csv:
+        description: "Also emit a flattened CSV"
+        required: false
+        type: boolean
+        default: true
+      drop:
+        description: "Comma-separated volatile fields to strip before committing"
+        required: false
+        type: string
+        default: ""
+
+# All sources serialize here so two schedules can never race the same push.
+concurrency:
+  group: fetch-commit
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.14"
+
+      - name: Fetch
+        # The true branch is a space, not '' — an empty string is falsy in
+        # GitHub expressions, so `csv && '' || '--no-csv'` would always
+        # take the false branch.
+        run: |
+          scripts/fetch.sh \
+            "${{ inputs.name }}" \
+            "${{ inputs.url }}" \
+            ${{ inputs.csv && ' ' || '--no-csv' }} \
+            --drop "${{ inputs.drop }}"
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data csv
+          if git diff --cached --quiet; then
+            echo "no changes"
+            exit 0
+          fi
+          git commit -m "${{ inputs.name }}: $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+          # Concurrency should prevent races, but GitHub only queues one
+          # pending run per group — rebase rather than fail if one slips past.
+          git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+          git push

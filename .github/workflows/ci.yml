@@ -1,0 +1,52 @@
+name: ci
+
+on:
+  push:
+  pull_request:
+
+# A push landing mid-run supersedes the older run.
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.14"
+          cache: pip
+
+      - run: pip install -r requirements-dev.txt
+
+      - name: black
+        run: black --check --diff scripts tests
+
+      - name: ruff
+        run: ruff check scripts tests
+
+      - name: shellcheck
+        run: shellcheck scripts/*.sh
+
+      - name: pytest
+        # Offline by construction: the transform tests run against fixtures in
+        # a temp tree, so CI never calls a data source.
+        run: pytest -q
+
+      - name: executable bits
+        # A script that loses +x fails at 2am in a scheduled run, not here.
+        run: |
+          fail=0
+          for f in scripts/*.sh scripts/*.py; do
+            [ -x "$f" ] || { echo "not executable: $f"; fail=1; }
+          done
+          exit $fail
+
+  workflows:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: rhysd/actionlint@v1.7.7

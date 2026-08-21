@@ -1,0 +1,17 @@
+name: sleeper/state-nfl
+
+on:
+  # Tiny payload that flips at the week boundary — cheap to poll often.
+  schedule:
+    - cron: "20 * * * *"
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    uses: ./.github/workflows/_fetch.yml
+    permissions:
+      contents: write
+    with:
+      name: sleeper/state-nfl
+      url: https://api.sleeper.app/v1/state/nfl
+      csv: true

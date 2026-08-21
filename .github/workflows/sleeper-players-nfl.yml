@@ -1,0 +1,19 @@
+name: sleeper/players-nfl
+
+on:
+  # ~19MB pretty. Sleeper only refreshes this daily, so polling harder just
+  # burns minutes and grows the repo for nothing.
+  schedule:
+    - cron: "15 7 * * *"
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    uses: ./.github/workflows/_fetch.yml
+    permissions:
+      contents: write
+    with:
+      name: sleeper/players-nfl
+      url: https://api.sleeper.app/v1/players/nfl
+      csv: true
+      # drop: search_rank   # uncomment if daily churn gets noisy

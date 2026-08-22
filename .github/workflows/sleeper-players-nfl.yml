@@ -16,6 +16,13 @@ jobs:
       name: sleeper/players-nfl
       url: https://api.sleeper.app/v1/players/nfl
       csv: true
+      # Both move on their own, for players whose real fields never change.
+      # The first daily diff was 1,346 changed lines, 1,272 of them these two:
+      # search_rank is a global popularity rank, so one player's news nudges
+      # everyone below them, and news_updated is a millisecond timestamp that
+      # already moved between two pulls minutes apart. Neither is worth a line
+      # of history; `status`/`injury_status` still carry the news that matters.
+      drop: news_updated,search_rank
       # One download, two views that answer different questions and do not
       # overlap. Both are derived from the same parse.
       #

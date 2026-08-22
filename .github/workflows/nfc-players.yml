@@ -27,12 +27,19 @@ jobs:
       # sport comes first because id is only unique within a sport -- 217 ids
       # are reused across the three, so id alone is not a key.
       sort: sport,id
-      # One view per sport: they partition the file exactly, so nothing is
-      # duplicated across them, and a football diff is not buried in MLB
-      # transactions. `value` is their name field; `sport` is dropped from the
-      # columns since it is constant within each file.
+      # Four views over one download: the whole crosswalk, plus a slice per
+      # sport so a football diff is not buried in MLB transactions. `value` is
+      # their name field; the sport views drop the `sport` column, which is
+      # constant within each of those files.
+      #
+      # The three sport views partition the file exactly and so never overlap
+      # each other, but every row does appear again in -all -- one team change
+      # diffs twice. That is the deliberate cost of having both the single
+      # lookup table and the per-sport slices. It costs nothing upstream: all
+      # four views are projections of one parse of one download.
       views: |
         [
+          {"name": "all",        "columns": "id,sport,value,team"},
           {"name": "football",   "columns": "id,value,team", "where": "sport=football"},
           {"name": "baseball",   "columns": "id,value,team", "where": "sport=baseball"},
           {"name": "basketball", "columns": "id,value,team", "where": "sport=basketball"}

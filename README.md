@@ -162,11 +162,18 @@ Two things about that shape drive the config:
 - **`id` is unique only within a sport.** 217 ids are reused across the three,
   so the key is `(sport, id)` — which is what `sort: sport,id` pins the file
   to.
-- **The three sports partition cleanly**, so it ships three views, one each,
-  with `where: sport=football` and columns `id,value,team`. No row appears
-  twice, `sport` is dropped from the columns because it is constant within
-  each file, and an NFL transaction does not have to be picked out of a day of
-  MLB ones.
+- **The three sports partition cleanly**, so it ships a view each, with
+  `where: sport=football` and columns `id,value,team` — `sport` is dropped
+  there because it is constant within those files. An NFL transaction is then
+  never picked out of a day of MLB ones.
+
+It also ships a fourth view, `-all`, holding the whole crosswalk with the
+`sport` column kept. That one knowingly breaks the no-overlap rule above:
+every row lives in both `-all` and its sport's file, so a player changing team
+diffs twice. The trade is deliberate — one lookup table is what you want when
+you do not know the sport up front, the slices are what you want when you do —
+and it costs nothing upstream, since all four views are projections of a
+single parse of a single download.
 
 ## Why pretty JSON, not minified
 

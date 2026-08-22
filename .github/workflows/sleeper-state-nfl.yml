@@ -1,9 +1,12 @@
 name: sleeper/state-nfl
 
 on:
-  # Tiny payload that flips at the week boundary — cheap to poll often.
+  # Tiny payload, but it only flips at the week boundary — hourly polling
+  # was 24x the requests for at most one change a week. Offset from the
+  # players run so the two never queue behind each other on the shared
+  # fetch-commit concurrency group.
   schedule:
-    - cron: "20 * * * *"
+    - cron: "45 7 * * *"
   workflow_dispatch:
 
 jobs:

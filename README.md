@@ -11,7 +11,7 @@ free, diffable record of how the data moved over time.
 .github/workflows/
   _fetch.yml               reusable core — download, canonicalize, flatten, commit
   sleeper-players-nfl.yml  one caller per source: its schedule, its parameters
-  sleeper-state-nfl.yml
+  sleeper-state-nfl.yml    (07:15 and 07:45 UTC daily, offset from each other)
 .raw/                      verbatim API responses (gitignored)
 data/<name>.json           canonical pretty JSON — committed
 csv/<name>.csv             flattened table       — committed

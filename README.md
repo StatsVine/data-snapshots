@@ -43,7 +43,7 @@ plus the two CSV knobs below.
 ## Keeping the CSV small
 
 The JSON is the complete record. The CSV is a **view** of it — deliberately
-narrow, because a full flatten of `players-nfl` is 12,221 rows x 103 columns
+narrow, because a full flatten of `players-nfl` is 12,221 rows x 101 columns
 (4.3MB), which GitHub renders badly and which buries the dozen fields anyone
 actually reads.
 
@@ -192,15 +192,23 @@ Volatile fields (counters, timestamps, ranks that jitter every poll) produce
 diffs that carry no information and bloat the history. Strip them with the
 `drop` input on the caller workflow.
 
-`sleeper/players-nfl` is ~19MB pretty (~2.2MB compressed). That is fine as a
-baseline, but keep an eye on whether daily deltas stay small.
+`sleeper/players-nfl` drops two, and the first daily commit is why: of its
+1,346 changed JSON lines, 1,122 were `search_rank` and 150 `news_updated` —
+94% of the diff, on players whose real fields never moved.
 
-Observed so far: `news_updated` is a per-player millisecond timestamp that
-moves on its own. Two consecutive pulls a few minutes apart already produced a
-2-line diff from it alone. It is not pure noise — it does mark that news
-landed — so it is left in for now. If daily diffs turn out to be mostly
-`news_updated` churn on players whose other fields never move, it is the first
-candidate for `drop`.
+- **`search_rank`** is a *global* popularity rank, which makes it the worse of
+  the two. One player's news nudges the rank of everyone below them, so a
+  single upstream event rewrites hundreds of unrelated lines.
+- **`news_updated`** is a per-player millisecond timestamp that moves on its
+  own — two pulls a few minutes apart already produced a 2-line diff from it
+  alone.
+
+Dropping them costs less than it looks: `status` and `injury_status` still
+carry the news that matters, and they change when the *player* does, which is
+the thing this history is for.
+
+The file is still ~18MB pretty (~2.1MB compressed). That is fine as a baseline;
+what matters is that the daily deltas stay small.
 
 ### Order
 

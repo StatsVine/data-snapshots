@@ -104,6 +104,7 @@ VIEW_NAME = re.compile(r"^[A-Za-z0-9_-]+$")
 def write_view(source, rows, view):
     """Write one CSV view. `rows` is shared across views and never mutated."""
     total = len(rows)
+    all_rows = rows
     if view.get("where"):
         conds = parse_where(view["where"])
         rows = [r for r in rows if matches(r, conds)]
@@ -118,7 +119,10 @@ def write_view(source, rows, view):
             if c not in present:
                 print(f"  warning: column {c!r} matched no data", file=sys.stderr)
     else:
-        cols = sorted({c for r in rows for c in r})
+        # Derived from every row, not just the kept ones: a filtered subset
+        # happening not to use a field must not drop that column, or the
+        # header starts moving whenever the data does.
+        cols = sorted({c for r in all_rows for c in r})
         if "_key" in cols:
             cols.remove("_key")
             cols.insert(0, "_key")

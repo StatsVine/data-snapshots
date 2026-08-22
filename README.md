@@ -78,6 +78,21 @@ views: |
   ]
 ```
 
+`players-nfl` ships two, chosen so neither contains the other:
+
+- **`-ids`** — every player ever, narrow. A crosswalk table: you look up
+  retired players by `espn_id`, so it keeps all rows. Columns are curated
+  rather than "every field ending in `_id`" — `player_id` duplicates `_key`
+  exactly, `opta_id` and `pandascore_id` arealways empty, and the `metadata.*`
+  ones are Sleeper internals.
+- **`-rostered`** — the current squad in full detail, `where: team`. A
+  non-empty team is what means "on a roster"; `active` alone passes 77% of
+  the file and barely filters.
+
+Overlapping views are worth avoiding beyond their size: this repo's history
+is the product, and a player changing team should show up as one diff, not
+the same diff repeated across five files.
+
 Each view lands at `csv/<source>-<view>.csv`. The source is downloaded and
 parsed once and the rows are shared, so views cost nothing upstream. Dropping
 or renaming a view prunes its old file, so a config change cannot strand an
@@ -88,7 +103,11 @@ single-view sources; reach for `views` when you want more than one.
 
 An explicit `columns` list also makes the header *more* stable than the
 default: it is fixed by config, so a field appearing upstream for the first
-time can no longer shift every column and blow up the diff. Naming a column
+time can no longer shift every column and blow up the diff. Where the header
+is derived instead, it comes from every row in the source rather than only
+the rows a filter kept — otherwise a filtered subset that happens not to use
+a field would drop that column, and the header would move whenever the data
+did. Naming a column
 that matches no data warns on stderr and emits it empty, rather than silently
 dropping it — a typo should be visible, not invisible.
 

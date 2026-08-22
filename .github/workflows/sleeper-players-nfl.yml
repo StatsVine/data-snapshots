@@ -16,12 +16,21 @@ jobs:
       name: sleeper/players-nfl
       url: https://api.sleeper.app/v1/players/nfl
       csv: true
-      # One download, many views. The JSON stays complete either way; these
-      # only shape the tabular projections of it.
+      # One download, two views that answer different questions and do not
+      # overlap. Both are derived from the same parse.
+      #
+      # ids: every player ever, narrow. This is the crosswalk table -- you
+      #   look up retired players by espn_id, so it deliberately keeps all
+      #   rows. The columns are curated rather than every field ending in
+      #   _id: player_id duplicates _key exactly, opta_id and pandascore_id
+      #   are 100% empty, and the metadata.* ones are Sleeper internals.
+      # rostered: the current squad in full detail. A non-empty team is what
+      #   actually means "on a roster" -- `active` alone passes 77% of the
+      #   file and barely filters at all.
       views: |
         [
-          {"name": "all"},
+          {"name": "ids",
+           "columns": "_key,active,full_name,team,position,status,espn_id,fantasy_data_id,gsis_id,kalshi_id,oddsjam_id,rotowire_id,rotoworld_id,sportradar_id,stats_id,swish_id,yahoo_id"},
           {"name": "rostered",
-           "columns": "_key,full_name,team,position,status,injury_status,age,years_exp,number,college,espn_id,gsis_id,sportradar_id",
-           "where": "active=true,team"}
+           "where": "team"}
         ]

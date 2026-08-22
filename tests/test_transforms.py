@@ -364,3 +364,11 @@ def test_views_must_be_a_non_empty_array(root):
     proc = run("flatten.py", root, "s", "--views", "[]", expect_ok=False)
     assert proc.returncode == 1
     assert "non-empty JSON array" in proc.stderr
+
+
+def test_header_does_not_narrow_when_rows_are_filtered(root):
+    """A filtered-out row still defines the schema; otherwise the header
+    moves whenever the data does."""
+    prep(root, "s", {"a": {"t": "SF"}, "b": {"t": None, "rare": 1}})
+    run("flatten.py", root, "s", "--where", "t")
+    assert csv_of(root, "s") == "_key,rare,t\na,,SF\n"

@@ -11,7 +11,8 @@ free, diffable record of how the data moved over time.
 .github/workflows/
   _fetch.yml               reusable core — download, canonicalize, flatten, commit
   sleeper-players-nfl.yml  one caller per source: its schedule, its parameters
-  sleeper-state-nfl.yml    (07:15 and 07:45 UTC daily, offset from each other)
+  sleeper-state-nfl.yml    (07:15, 07:45 and 08:15 UTC daily, offset from
+  nfc-players.yml          each other)
 .raw/                      verbatim API responses (gitignored)
 data/<name>.json           canonical pretty JSON — committed
 csv/<name>.csv             flattened table       — committed
@@ -36,6 +37,7 @@ git diff --stat
 ```
 
 Flags: `--no-csv` to skip the CSV, `--drop f1,f2` to strip volatile fields,
+`--sort f1,f2` to pin the order of a top-level array (see [Order](#order)),
 plus the two CSV knobs below.
 
 ## Keeping the CSV small
@@ -143,6 +145,36 @@ jobs:
       csv: true
 ```
 
+### A worked example: nfc/players
+
+`nfc/players` is the autocomplete index behind the player search at
+`nfc.shgn.com` — the National Fantasy Championship (NFBC/NFFC/NFBKC), *not*
+the football conference. It is the only public place their player ids appear,
+which makes it a crosswalk worth keeping.
+
+The endpoint ignores query parameters: every request returns the whole dump —
+8,965 rows, 604KB minified, 868KB pretty — and the browser filters it. Each
+row has exactly four fields: `id`, `team`, `value` (the display name), and
+`sport`, covering 3,398 football players, 3,591 baseball and 1,976 basketball.
+
+Two things about that shape drive the config:
+
+- **`id` is unique only within a sport.** 217 ids are reused across the three,
+  so the key is `(sport, id)` — which is what `sort: sport,id` pins the file
+  to.
+- **The three sports partition cleanly**, so it ships a view each, with
+  `where: sport=football` and columns `id,value,team` — `sport` is dropped
+  there because it is constant within those files. An NFL transaction is then
+  never picked out of a day of MLB ones.
+
+It also ships a fourth view, `-all`, holding the whole crosswalk with the
+`sport` column kept. That one knowingly breaks the no-overlap rule above:
+every row lives in both `-all` and its sport's file, so a player changing team
+diffs twice. The trade is deliberate — one lookup table is what you want when
+you do not know the sport up front, the slices are what you want when you do —
+and it costs nothing upstream, since all four views are projections of a
+single parse of a single download.
+
 ## Why pretty JSON, not minified
 
 Git diffs line-by-line. Minified JSON is a single line, so any change renders
@@ -169,6 +201,30 @@ moves on its own. Two consecutive pulls a few minutes apart already produced a
 landed — so it is left in for now. If daily diffs turn out to be mostly
 `news_updated` churn on players whose other fields never move, it is the first
 candidate for `drop`.
+
+### Order
+
+Churn also comes from *position*. A source that returns a top-level array picks
+that array's order, and it owes you no stability: `nfc/players` arrives sorted
+by last name, which is a detail of the search box it feeds. One `ORDER BY`
+change upstream and every line moves — the diff reads "the whole file changed"
+while the data sat still.
+
+`--sort f1,f2` (`sort:` on the caller workflow) reorders a top-level array by
+the named fields, then by the full canonical row as a final tiebreaker. The
+order becomes a function of the data alone, with nothing left inheriting the
+source's whims. Sorting by an ascending id has a second benefit: new rows land
+at the end rather than scattered through the middle, so an insertion reads as
+an insertion.
+
+```yaml
+sort: sport,id
+```
+
+Top level only. A nested list's order is usually itself the data — rankings,
+trends — and shuffling it would destroy information. `--sort` against anything
+but an array of objects fails loudly, and a field matching no data warns on
+stderr rather than quietly sorting by nothing.
 
 ## Development
 

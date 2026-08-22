@@ -1,0 +1,46 @@
+name: nfc/players
+
+# NFC here is the National Fantasy Championship (SportsHub Games Network) --
+# the NFBC/NFFC/NFBKC family -- not the football conference. This is the
+# autocomplete index behind their player search: one flat array covering all
+# three sports, which is also the only public place their player ids appear.
+on:
+  schedule:
+    - cron: "15 8 * * *"
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    uses: ./.github/workflows/_fetch.yml
+    permissions:
+      contents: write
+    with:
+      name: nfc/players
+      url: https://nfc.shgn.com/player_search.data.php
+      csv: true
+      # The endpoint hands back a bare array ordered by last name, which is a
+      # presentation detail we cannot rely on: one ORDER BY change upstream
+      # and every line moves. Sorting by (sport, id) ourselves makes the file
+      # a function of the data alone, and puts new players at the end of their
+      # own sport rather than scattered through the middle.
+      #
+      # sport comes first because id is only unique within a sport -- 217 ids
+      # are reused across the three, so id alone is not a key.
+      sort: sport,id
+      # Four views over one download: the whole crosswalk, plus a slice per
+      # sport so a football diff is not buried in MLB transactions. `value` is
+      # their name field; the sport views drop the `sport` column, which is
+      # constant within each of those files.
+      #
+      # The three sport views partition the file exactly and so never overlap
+      # each other, but every row does appear again in -all -- one team change
+      # diffs twice. That is the deliberate cost of having both the single
+      # lookup table and the per-sport slices. It costs nothing upstream: all
+      # four views are projections of one parse of one download.
+      views: |
+        [
+          {"name": "all",        "columns": "id,sport,value,team"},
+          {"name": "football",   "columns": "id,value,team", "where": "sport=football"},
+          {"name": "baseball",   "columns": "id,value,team", "where": "sport=baseball"},
+          {"name": "basketball", "columns": "id,value,team", "where": "sport=basketball"}
+        ]

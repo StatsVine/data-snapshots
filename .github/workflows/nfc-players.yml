@@ -1,0 +1,39 @@
+name: nfc/players
+
+# NFC here is the National Fantasy Championship (SportsHub Games Network) --
+# the NFBC/NFFC/NFBKC family -- not the football conference. This is the
+# autocomplete index behind their player search: one flat array covering all
+# three sports, which is also the only public place their player ids appear.
+on:
+  schedule:
+    - cron: "15 8 * * *"
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    uses: ./.github/workflows/_fetch.yml
+    permissions:
+      contents: write
+    with:
+      name: nfc/players
+      url: https://nfc.shgn.com/player_search.data.php
+      csv: true
+      # The endpoint hands back a bare array ordered by last name, which is a
+      # presentation detail we cannot rely on: one ORDER BY change upstream
+      # and every line moves. Sorting by (sport, id) ourselves makes the file
+      # a function of the data alone, and puts new players at the end of their
+      # own sport rather than scattered through the middle.
+      #
+      # sport comes first because id is only unique within a sport -- 217 ids
+      # are reused across the three, so id alone is not a key.
+      sort: sport,id
+      # One view per sport: they partition the file exactly, so nothing is
+      # duplicated across them, and a football diff is not buried in MLB
+      # transactions. `value` is their name field; `sport` is dropped from the
+      # columns since it is constant within each file.
+      views: |
+        [
+          {"name": "football",   "columns": "id,value,team", "where": "sport=football"},
+          {"name": "baseball",   "columns": "id,value,team", "where": "sport=baseball"},
+          {"name": "basketball", "columns": "id,value,team", "where": "sport=basketball"}
+        ]

@@ -23,6 +23,13 @@ on:
         required: false
         type: string
         default: ""
+      sort:
+        description: >-
+          Comma-separated fields to sort a top-level JSON array by. Use it for
+          any source that returns a table in an order of its own choosing.
+        required: false
+        type: string
+        default: ""
       columns:
         description: "Comma-separated CSV columns to keep, in order (default: all)"
         required: false
@@ -67,11 +74,12 @@ jobs:
           SOURCE_URL: ${{ inputs.url }}
           WANT_CSV: ${{ inputs.csv }}
           DROP: ${{ inputs.drop }}
+          SORT: ${{ inputs.sort }}
           COLUMNS: ${{ inputs.columns }}
           WHERE: ${{ inputs.where }}
           VIEWS: ${{ inputs.views }}
         run: |
-          args=("$SOURCE_NAME" "$SOURCE_URL" --drop "$DROP")
+          args=("$SOURCE_NAME" "$SOURCE_URL" --drop "$DROP" --sort "$SORT")
           [ "$WANT_CSV" = "true" ] || args+=(--no-csv)
           if [ -n "$VIEWS" ]; then
             args+=(--views "$VIEWS")

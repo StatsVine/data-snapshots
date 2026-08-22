@@ -2,7 +2,7 @@
 # Fetch one source end to end: download, canonicalize, flatten.
 # Same entrypoint the Action uses, so a local run and CI cannot drift.
 #
-# Usage: scripts/fetch.sh <name> <url> [--no-csv] [--drop f1,f2]
+# Usage: scripts/fetch.sh <name> <url> [--no-csv] [--drop f1,f2] [--sort f1,f2]
 #                         [--columns c1,c2] [--where 'active=true,team']
 #                         [--views '[{"name":"all"},{"name":"x","where":"team"}]']
 set -euo pipefail
@@ -14,6 +14,7 @@ shift 2
 
 csv=1
 drop=""
+sort=""
 columns=""
 where=""
 views=""
@@ -21,6 +22,7 @@ while [[ $# -gt 0 ]]; do
   case "$1" in
     --no-csv)  csv=0; shift ;;
     --drop)    drop="${2:-}"; shift 2 ;;
+    --sort)    sort="${2:-}"; shift 2 ;;
     --columns) columns="${2:-}"; shift 2 ;;
     --where)   where="${2:-}"; shift 2 ;;
     --views)   views="${2:-}"; shift 2 ;;
@@ -29,7 +31,7 @@ while [[ $# -gt 0 ]]; do
 done
 
 "$here/download.sh" "$name" "$url"
-"$here/canonicalize.py" "$name" --drop "$drop"
+"$here/canonicalize.py" "$name" --drop "$drop" --sort "$sort"
 if [[ $csv -eq 1 ]]; then
   if [[ -n "$views" ]]; then
     "$here/flatten.py" "$name" --views "$views"

@@ -127,6 +127,91 @@ def test_empty_drop_removes_nothing(root):
     assert json.loads(canon(root, "s")) == {"a": 1}
 
 
+# --- --sort on canonicalize -------------------------------------------------
+
+
+def test_sorts_a_top_level_array_by_a_single_field(root):
+    seed(root, "s", [{"n": "third"}, {"n": "first"}, {"n": "second"}])
+    run("canonicalize.py", root, "s", "--sort", "n")
+    assert json.loads(canon(root, "s")) == [
+        {"n": "first"},
+        {"n": "second"},
+        {"n": "third"},
+    ]
+
+
+def test_sorted_output_is_byte_identical_regardless_of_input_order(root):
+    """The whole reason the flag exists: upstream reorders must not diff."""
+    seed(root, "a", [{"x": 2}, {"x": 1}])
+    seed(root, "b", [{"x": 1}, {"x": 2}])
+    run("canonicalize.py", root, "a", "--sort", "x")
+    run("canonicalize.py", root, "b", "--sort", "x")
+    assert canon(root, "a") == canon(root, "b")
+
+
+def test_sorts_by_multiple_fields_in_order(root):
+    seed(root, "s", [{"a": 1, "b": 2}, {"a": 1, "b": 1}, {"a": 2, "b": 1}])
+    run("canonicalize.py", root, "s", "--sort", "a,b")
+    assert json.loads(canon(root, "s")) == [
+        {"a": 1, "b": 1},
+        {"a": 1, "b": 2},
+        {"a": 2, "b": 1},
+    ]
+
+
+def test_numbers_sort_numerically_not_lexically(root):
+    seed(root, "s", [{"id": 10}, {"id": 2}])
+    run("canonicalize.py", root, "s", "--sort", "id")
+    assert json.loads(canon(root, "s")) == [{"id": 2}, {"id": 10}]
+
+
+def test_tied_rows_get_fixed_order_via_tiebreaker(root):
+    seed(root, "a", [{"x": 1, "v": 2}, {"x": 1, "v": 1}])
+    seed(root, "b", [{"x": 1, "v": 1}, {"x": 1, "v": 2}])
+    run("canonicalize.py", root, "a", "--sort", "x")
+    run("canonicalize.py", root, "b", "--sort", "x")
+    assert canon(root, "a") == canon(root, "b")
+
+
+def test_a_nested_list_keeps_its_own_order(root):
+    """Only the top level is reordered -- a nested list's order is the data."""
+    seed(root, "s", [{"id": 2, "tags": [3, 1, 2]}, {"id": 1, "tags": [9, 8]}])
+    run("canonicalize.py", root, "s", "--sort", "id")
+    assert json.loads(canon(root, "s")) == [
+        {"id": 1, "tags": [9, 8]},
+        {"id": 2, "tags": [3, 1, 2]},
+    ]
+
+
+def test_mixed_types_in_one_sort_field_stay_comparable(root):
+    """Real sources are consistent; a total order must not depend on that."""
+    seed(root, "s", '[{"x": "a"}, {"x": null}, {"x": 2}, {"x": true}]')
+    run("canonicalize.py", root, "s", "--sort", "x")
+    assert [r["x"] for r in json.loads(canon(root, "s"))] == [None, True, 2, "a"]
+
+
+def test_unknown_sort_field_warns_but_succeeds(root):
+    seed(root, "s", [{"x": 1}])
+    proc = run("canonicalize.py", root, "s", "--sort", "missing")
+    assert "matched no data" in proc.stderr
+
+
+def test_sort_against_top_level_object_fails(root):
+    seed(root, "s", {"a": 1, "b": 2})
+    proc = run("canonicalize.py", root, "s", "--sort", "a", expect_ok=False)
+    assert proc.returncode == 1
+    assert "FAILED" in proc.stderr
+    assert not (root / "data" / "s.json").exists()
+
+
+def test_empty_sort_leaves_order_untouched(root):
+    seed(root, "s", [{"n": "b"}, {"n": "a"}])
+    run("canonicalize.py", root, "s", "--sort", "")
+    assert canon(root, "s") == (
+        '[\n  {\n    "n": "b"\n  },\n  {\n    "n": "a"\n  }\n]\n'
+    )
+
+
 # --- flatten --------------------------------------------------------------
 
 

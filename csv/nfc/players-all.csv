@@ -3590,6 +3590,7 @@ id,sport,value,team
 12742,baseball,Matt Wilkinson,SF
 12743,baseball,Mark Manfredi,COL
 12744,baseball,Erik Tolman,WAS
+12745,baseball,Andrew Sears,DET
 1015,basketball,Tyson Chandler,HOU
 1023,basketball,Joe Johnson,BOS
 1091,basketball,Mike James,BKN
@@ -6839,7 +6840,7 @@ id,sport,value,team
 17053,football,Mecole Hardman Jr.,BUF
 17054,football,Miles Boykin,CHI
 17055,football,Hunter Renfrow,CAR
-17056,football,Gary Jennings,CAR
+17056,football,Gary Jennings,LAC
 17057,football,Greg Dortch,DET
 17058,football,Emanuel Hall,WAS
 17059,football,Anthony Johnson,PIT
@@ -8827,7 +8828,7 @@ id,sport,value,team
 23384,football,Kole Wilson,CLE
 23385,football,TJ Harden,SEA
 23389,football,Aaron Anderson,CLE
-23391,football,Dominic Richardson,TEN
+23391,football,Dominic Richardson,NYJ
 23392,football,Camden Brown,DAL
 23393,football,Jordan Hudson,DAL
 23396,football,DJ Rogers,DAL

@@ -21546,6 +21546,12 @@
     "value": "Erik Tolman"
   },
   {
+    "id": 12745,
+    "sport": "baseball",
+    "team": "DET",
+    "value": "Andrew Sears"
+  },
+  {
     "id": 1015,
     "sport": "basketball",
     "team": "HOU",
@@ -41042,7 +41048,7 @@
   {
     "id": 17056,
     "sport": "football",
-    "team": "CAR",
+    "team": "LAC",
     "value": "Gary Jennings"
   },
   {
@@ -52970,7 +52976,7 @@
   {
     "id": 23391,
     "sport": "football",
-    "team": "TEN",
+    "team": "NYJ",
     "value": "Dominic Richardson"
   },
   {

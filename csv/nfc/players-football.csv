@@ -991,7 +991,7 @@ id,value,team
 16155,Ian Thomas,LV
 16156,Chris Herndon,NO
 16157,Hayden Hurst,LAC
-16158,Daniel Carlson,LV
+16158,Daniel Carlson,NO
 16159,Eddy Pineiro,SF
 16160,Michael Badgley,BUF
 16161,Justin Yoon,
@@ -1819,7 +1819,7 @@ id,value,team
 18829,Trey Sermon,ATL
 18830,Khalil Herbert,SF
 18831,CJ Verdell,IND
-18832,Zamir White,SF
+18832,Zamir White,NO
 18833,Master Teague,PIT
 18834,Kadarius Toney,CLE
 18835,Dee Eskridge,MIA
@@ -2305,9 +2305,9 @@ id,value,team
 20322,Jake Haener,NYG
 20323,Tank Dell,HOU
 20325,Parker White,GB
-20326,Kayshon Boutte,NE
+20326,Kayshon Boutte,HOU
 20327,Nathan Rourke,ATL
-20328,Deuce Vaughn,DEN
+20328,Deuce Vaughn,HOU
 20329,Tyjae Spears,TEN
 20330,Tyler Scott,LA
 20331,A.T. Perry,PIT
@@ -2466,7 +2466,7 @@ id,value,team
 20929,Chris Coleman,MIA
 20930,Daewood Davis,CAR
 20932,Tyrell Shavers,BUF
-20933,Jordan Mims,MIN
+20933,Jordan Mims,PHI
 20934,Jalen Wayne,GB
 20938,Julian Hill,NE
 20941,James Blackman,MIA
@@ -3097,7 +3097,7 @@ id,value,team
 22881,Brett Gabbert,MIA
 22882,Montana Lemonious-Craig,PIT
 22884,Sam Brown,GB
-22887,Mitch Van Vooren,NE
+22887,Mitch Van Vooren,DAL
 22888,Ife Adeyi,PHI
 22897,Mark McNamee,GB
 22898,Winston Wright,CLE
@@ -3221,7 +3221,7 @@ id,value,team
 23254,Trebor Pena,JAX
 23255,Brady Boyd,JAX
 23262,Joey Aguilar,JAX
-23265,Ethan Conner,JAX
+23265,Ethan Conner,MIA
 23267,Gregory Desrosiers,LAC
 23270,Sincere Brown,LAC
 23272,Evan Svoboda,LAC
@@ -3296,7 +3296,7 @@ id,value,team
 23480,Jacob Clark,LV
 23482,Kansei Matsuzawa,LV
 23483,E.J. Williams Jr.,LV
-23484,Matt Lauter,TEN
+23484,Matt Lauter,MIN
 23486,Roman Hemby,LV
 23488,Mark Gronowski,MIA
 23489,Donaven McCulley,MIA
@@ -3390,10 +3390,11 @@ id,value,team
 23740,Jeremiah Franklin,MIA
 23741,Tyler Moore,IND
 23742,Liam Clifford,LAC
-23743,Roydell Williams,IND
+23743,Roydell Williams,DET
 23746,Jeff Weimer,KC
 23747,Drew Biber,CLE
 23748,Connor Hulstein,NYJ
 23750,Grant Finley,NYG
 23756,Justin Jones,SEA
 23759,Barika Kpeenu,TB
+23761,Alex Tecza,PIT

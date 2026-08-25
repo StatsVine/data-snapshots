@@ -7070,7 +7070,7 @@
   {
     "id": 9938,
     "sport": "baseball",
-    "team": "ATL",
+    "team": "DET",
     "value": "Tyler Kinley"
   },
   {
@@ -15428,7 +15428,7 @@
   {
     "id": 11589,
     "sport": "baseball",
-    "team": "HOU",
+    "team": "SD",
     "value": "Dustin Harris"
   },
   {
@@ -21550,6 +21550,12 @@
     "sport": "baseball",
     "team": "DET",
     "value": "Andrew Sears"
+  },
+  {
+    "id": 12746,
+    "sport": "baseball",
+    "team": "COL",
+    "value": "Blake Adams"
   },
   {
     "id": 1015,
@@ -39362,7 +39368,7 @@
   {
     "id": 16158,
     "sport": "football",
-    "team": "LV",
+    "team": "NO",
     "value": "Daniel Carlson"
   },
   {
@@ -44330,7 +44336,7 @@
   {
     "id": 18832,
     "sport": "football",
-    "team": "SF",
+    "team": "NO",
     "value": "Zamir White"
   },
   {
@@ -47246,7 +47252,7 @@
   {
     "id": 20326,
     "sport": "football",
-    "team": "NE",
+    "team": "HOU",
     "value": "Kayshon Boutte"
   },
   {
@@ -47258,7 +47264,7 @@
   {
     "id": 20328,
     "sport": "football",
-    "team": "DEN",
+    "team": "HOU",
     "value": "Deuce Vaughn"
   },
   {
@@ -48212,7 +48218,7 @@
   {
     "id": 20933,
     "sport": "football",
-    "team": "MIN",
+    "team": "PHI",
     "value": "Jordan Mims"
   },
   {
@@ -51998,7 +52004,7 @@
   {
     "id": 22887,
     "sport": "football",
-    "team": "NE",
+    "team": "DAL",
     "value": "Mitch Van Vooren"
   },
   {
@@ -52742,7 +52748,7 @@
   {
     "id": 23265,
     "sport": "football",
-    "team": "JAX",
+    "team": "MIA",
     "value": "Ethan Conner"
   },
   {
@@ -53192,7 +53198,7 @@
   {
     "id": 23484,
     "sport": "football",
-    "team": "TEN",
+    "team": "MIN",
     "value": "Matt Lauter"
   },
   {
@@ -53756,7 +53762,7 @@
   {
     "id": 23743,
     "sport": "football",
-    "team": "IND",
+    "team": "DET",
     "value": "Roydell Williams"
   },
   {
@@ -53794,5 +53800,11 @@
     "sport": "football",
     "team": "TB",
     "value": "Barika Kpeenu"
+  },
+  {
+    "id": 23761,
+    "sport": "football",
+    "team": "PIT",
+    "value": "Alex Tecza"
   }
 ]

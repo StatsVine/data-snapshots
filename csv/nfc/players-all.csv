@@ -2196,7 +2196,7 @@ id,sport,value,team
 11123,baseball,Brett Baty,NYM
 11124,baseball,Jackson Cluff,WAS
 11125,baseball,Drew Mendoza,WAS
-11126,baseball,Justin Topa,MIN
+11126,baseball,Justin Topa,NYY
 11127,baseball,Jason Foley,SF
 11128,baseball,Logan Shore,DET
 11129,baseball,Gabe Holt,MLW
@@ -2748,7 +2748,7 @@ id,sport,value,team
 11812,baseball,Bryan Hudson,CWS
 11813,baseball,Connor Kaiser,ARZ
 11814,baseball,Grant Hartwig,NYM
-11815,baseball,Matt Waldron,TOR
+11815,baseball,Matt Waldron,WAS
 11816,baseball,Randy Wynne,CIN
 11817,baseball,Jake Wong,CIN
 11818,baseball,Amos Willingham,ATL
@@ -2986,7 +2986,7 @@ id,sport,value,team
 12082,baseball,Emmanuel Ramirez,TOR
 12083,baseball,Zac Kristofak,LAA
 12084,baseball,Jordan Beck,COL
-12086,baseball,Chris Roycroft,TB
+12086,baseball,Chris Roycroft,ATH
 12087,baseball,Tyler Ferguson,CHC
 12088,baseball,Jake Slaughter,SEA
 12089,baseball,Luis Rodriguez,HOU
@@ -3592,6 +3592,7 @@ id,sport,value,team
 12744,baseball,Erik Tolman,WAS
 12745,baseball,Andrew Sears,DET
 12746,baseball,Blake Adams,COL
+12747,baseball,Mason Adams,COL
 1015,basketball,Tyson Chandler,HOU
 1023,basketball,Joe Johnson,BOS
 1091,basketball,Mike James,BKN
@@ -4045,7 +4046,7 @@ id,sport,value,team
 2669,basketball,Ron Baker,WAS
 2670,basketball,Mindaugas Kuzminskas,NY
 2671,basketball,Kay Felder,TOR
-2672,basketball,Georges Niang,MEM
+2672,basketball,Georges Niang,GS
 2673,basketball,Patrick McCaw,TOR
 2674,basketball,Damian Jones,CLE
 2675,basketball,Timothe Luwawu-Cabarrot,PHO
@@ -4908,7 +4909,7 @@ id,sport,value,team
 3599,basketball,Aleem Ford,ORL
 3600,basketball,Malik Ellison,ATL
 3601,basketball,Jarron Cumberland,POR
-3602,basketball,Brandon Williams,DAL
+3602,basketball,Brandon Williams,GS
 3603,basketball,Xavier Moon,LAC
 3604,basketball,Justin Tillman,DEN
 3605,basketball,Craig Sword,WAS
@@ -7923,7 +7924,7 @@ id,sport,value,team
 20529,football,Anders Carlson,NYJ
 20530,football,Lew Nichols,PIT
 20535,football,Jared Wayne,HOU
-20551,football,Derek Parish,JAX
+20551,football,Derek Parish,HOU
 20557,football,Davis Allen,LA
 20566,football,Scott Matlock,LAC
 20567,football,Max Duggan,LAC
@@ -8052,7 +8053,7 @@ id,sport,value,team
 20986,football,Tanner Taula,TB
 20987,football,Taye Barber,TB
 20992,football,Kade Warner,TB
-20996,football,Ryan Miller,NYG
+20996,football,Ryan Miller,MIA
 20997,football,Isaiah Bowser,BUF
 21001,football,Emanuel Wilson,SEA
 21004,football,Dallas Daniels,DEN
@@ -8967,3 +8968,4 @@ id,sport,value,team
 23756,football,Justin Jones,SEA
 23759,football,Barika Kpeenu,TB
 23761,football,Alex Tecza,PIT
+23764,football,Matthew Henry,TB

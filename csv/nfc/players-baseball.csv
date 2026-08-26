@@ -2196,7 +2196,7 @@ id,value,team
 11123,Brett Baty,NYM
 11124,Jackson Cluff,WAS
 11125,Drew Mendoza,WAS
-11126,Justin Topa,MIN
+11126,Justin Topa,NYY
 11127,Jason Foley,SF
 11128,Logan Shore,DET
 11129,Gabe Holt,MLW
@@ -2748,7 +2748,7 @@ id,value,team
 11812,Bryan Hudson,CWS
 11813,Connor Kaiser,ARZ
 11814,Grant Hartwig,NYM
-11815,Matt Waldron,TOR
+11815,Matt Waldron,WAS
 11816,Randy Wynne,CIN
 11817,Jake Wong,CIN
 11818,Amos Willingham,ATL
@@ -2986,7 +2986,7 @@ id,value,team
 12082,Emmanuel Ramirez,TOR
 12083,Zac Kristofak,LAA
 12084,Jordan Beck,COL
-12086,Chris Roycroft,TB
+12086,Chris Roycroft,ATH
 12087,Tyler Ferguson,CHC
 12088,Jake Slaughter,SEA
 12089,Luis Rodriguez,HOU
@@ -3592,3 +3592,4 @@ id,value,team
 12744,Erik Tolman,WAS
 12745,Andrew Sears,DET
 12746,Blake Adams,COL
+12747,Mason Adams,COL

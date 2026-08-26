@@ -13184,7 +13184,7 @@
   {
     "id": 11126,
     "sport": "baseball",
-    "team": "MIN",
+    "team": "NYY",
     "value": "Justin Topa"
   },
   {
@@ -16496,7 +16496,7 @@
   {
     "id": 11815,
     "sport": "baseball",
-    "team": "TOR",
+    "team": "WAS",
     "value": "Matt Waldron"
   },
   {
@@ -17924,7 +17924,7 @@
   {
     "id": 12086,
     "sport": "baseball",
-    "team": "TB",
+    "team": "ATH",
     "value": "Chris Roycroft"
   },
   {
@@ -21558,6 +21558,12 @@
     "value": "Blake Adams"
   },
   {
+    "id": 12747,
+    "sport": "baseball",
+    "team": "COL",
+    "value": "Mason Adams"
+  },
+  {
     "id": 1015,
     "sport": "basketball",
     "team": "HOU",
@@ -24278,7 +24284,7 @@
   {
     "id": 2672,
     "sport": "basketball",
-    "team": "MEM",
+    "team": "GS",
     "value": "Georges Niang"
   },
   {
@@ -29456,7 +29462,7 @@
   {
     "id": 3602,
     "sport": "basketball",
-    "team": "DAL",
+    "team": "GS",
     "value": "Brandon Williams"
   },
   {
@@ -47546,7 +47552,7 @@
   {
     "id": 20551,
     "sport": "football",
-    "team": "JAX",
+    "team": "HOU",
     "value": "Derek Parish"
   },
   {
@@ -48320,7 +48326,7 @@
   {
     "id": 20996,
     "sport": "football",
-    "team": "NYG",
+    "team": "MIA",
     "value": "Ryan Miller"
   },
   {
@@ -53806,5 +53812,11 @@
     "sport": "football",
     "team": "PIT",
     "value": "Alex Tecza"
+  },
+  {
+    "id": 23764,
+    "sport": "football",
+    "team": "TB",
+    "value": "Matthew Henry"
   }
 ]

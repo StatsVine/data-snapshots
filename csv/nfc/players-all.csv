@@ -631,7 +631,7 @@ id,sport,value,team
 9210,baseball,Mike Clevinger,CWS
 9215,baseball,Michael Ynoa,CWS
 9216,baseball,Wynton Bernard,COL
-9217,baseball,Michael Fulmer,LAA
+9217,baseball,Michael Fulmer,NYY
 9221,baseball,JT Chargois,SEA
 9224,baseball,Mason Melotakis,MIN
 9225,baseball,Taylor Rogers,MIN
@@ -2398,7 +2398,7 @@ id,sport,value,team
 11369,baseball,Steven Wilson,TB
 11370,baseball,Ezequiel Duran,TEX
 11371,baseball,Ronny Henriquez,MIA
-11372,baseball,Ricky Vanasco,DET
+11372,baseball,Ricky Vanasco,ATL
 11375,baseball,Ryan Weiss,HOU
 11376,baseball,Canaan Smith-Njigba,PIT
 11377,baseball,Jack Suwinski,LAD
@@ -3462,6 +3462,7 @@ id,sport,value,team
 12599,baseball,Matt Pushard,STL
 12600,baseball,Jedixson Paez,CWS
 12601,baseball,Peyton Pallette,CLE
+12602,baseball,Cade Winquest,STL
 12605,baseball,Spencer Miles,TOR
 12606,baseball,Ryan Watson,LAA
 12607,baseball,Carter Baumler,TEX
@@ -3593,6 +3594,7 @@ id,sport,value,team
 12745,baseball,Andrew Sears,DET
 12746,baseball,Blake Adams,COL
 12747,baseball,Mason Adams,COL
+12748,baseball,Braxton Roxby,SF
 1015,basketball,Tyson Chandler,HOU
 1023,basketball,Joe Johnson,BOS
 1091,basketball,Mike James,BKN
@@ -4822,7 +4824,7 @@ id,sport,value,team
 3512,basketball,Franz Wagner,ORL
 3513,basketball,Jalen Suggs,ORL
 3514,basketball,Rokas Jokubaitis,NY
-3515,basketball,Jonathan Kuminga,ATL
+3515,basketball,Jonathan Kuminga,MIN
 3516,basketball,Usman Garuba,GS
 3517,basketball,Alperen Sengun,HOU
 3518,basketball,Jalen Green,PHO
@@ -4949,7 +4951,7 @@ id,sport,value,team
 3639,basketball,Khalifa Diop,CLE
 3640,basketball,Andrew Nembhard,IND
 3641,basketball,Kendall Brown,BOS
-3642,basketball,Bennedict Mathurin,LAC
+3642,basketball,Bennedict Mathurin,NO
 3643,basketball,Patrick Baldwin Jr.,SAC
 3644,basketball,Ryan Rollins,MIL
 3645,basketball,Gui Santos,GS
@@ -4979,7 +4981,7 @@ id,sport,value,team
 3670,basketball,JD Davison,HOU
 3671,basketball,Blake Wesley,POR
 3672,basketball,Jeremy Sochan,POR
-3673,basketball,Malaki Branham,CHA
+3673,basketball,Malaki Branham,ORL
 3674,basketball,Christian Koloko,NO
 3675,basketball,Moussa Diabate,CHA
 3676,basketball,Nikola Jovic,MIA
@@ -5560,7 +5562,7 @@ id,sport,value,team
 4311,basketball,Tobe Awaka,CHI
 4312,basketball,Jaylin Sellers,CHI
 4313,basketball,Carson Cooper,MEM
-4314,basketball,Rafael Castro,MIL
+4314,basketball,Rafael Castro,HOU
 4315,basketball,Ernest Udeh Jr.,CLE
 4316,basketball,Michael Ajayi,CHA
 4317,basketball,Kylan Boswell,CHA
@@ -7164,7 +7166,7 @@ id,sport,value,team
 18040,football,Jacques Patrick,NYJ
 18041,football,James Robinson,NO
 18042,football,Ramiz Ahmed,WAS
-18104,football,Josiah Deguara,SF
+18104,football,Josiah Deguara,NYG
 18128,football,Dalton Keene,HOU
 18158,football,Tyler Bass,BUF
 18169,football,Darnell Mooney,NYG
@@ -7924,7 +7926,6 @@ id,sport,value,team
 20529,football,Anders Carlson,NYJ
 20530,football,Lew Nichols,PIT
 20535,football,Jared Wayne,HOU
-20551,football,Derek Parish,HOU
 20557,football,Davis Allen,LA
 20566,football,Scott Matlock,LAC
 20567,football,Max Duggan,LAC
@@ -8154,7 +8155,7 @@ id,sport,value,team
 21173,football,Javon Baker,SF
 21175,football,Dylan Laube,LV
 21176,football,Xavier Weaver,ARZ
-21177,football,Jha'Quan Jackson,HOU
+21177,football,Jha'Quan Jackson,TB
 21178,football,Isaac Guerendo,SF
 21179,football,Jaheim Bell,PIT
 21180,football,Cody Schrader,DEN
@@ -8181,7 +8182,7 @@ id,sport,value,team
 21380,football,Keilan Robinson,NYJ
 21386,football,Joshua Karty,ARZ
 21389,football,Jordan Whittington,LA
-21398,football,Tahj Washington,MIA
+21398,football,Tahj Washington,PHI
 21404,football,Will Reichard,MIN
 21408,football,Joe Milton III,DAL
 21413,football,Spencer Rattler,NO
@@ -8821,7 +8822,7 @@ id,sport,value,team
 23349,football,Joe Fagnano,BAL
 23356,football,Ja'Mori Maclin,BUF
 23358,football,Max Tomczak,BUF
-23362,football,Kobe Prentice,NE
+23362,football,Kobe Prentice,NYG
 23364,football,Gabriel Plascencia,CHI
 23366,football,Hayden Large,CHI
 23372,football,Noah Thomas,CIN
@@ -8889,7 +8890,7 @@ id,sport,value,team
 23524,football,Ethan Sanchez,SF
 23526,football,Octavian Smith Jr.,BAL
 23528,football,Desmond Reid,BUF
-23530,football,Coleman Bennett,CHI
+23530,football,Coleman Bennett,MIA
 23533,football,Dane Key,DEN
 23534,football,Sean Brown,DEN
 23537,football,Jalen Walthall,NYJ

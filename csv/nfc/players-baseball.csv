@@ -631,7 +631,7 @@ id,value,team
 9210,Mike Clevinger,CWS
 9215,Michael Ynoa,CWS
 9216,Wynton Bernard,COL
-9217,Michael Fulmer,LAA
+9217,Michael Fulmer,NYY
 9221,JT Chargois,SEA
 9224,Mason Melotakis,MIN
 9225,Taylor Rogers,MIN
@@ -2398,7 +2398,7 @@ id,value,team
 11369,Steven Wilson,TB
 11370,Ezequiel Duran,TEX
 11371,Ronny Henriquez,MIA
-11372,Ricky Vanasco,DET
+11372,Ricky Vanasco,ATL
 11375,Ryan Weiss,HOU
 11376,Canaan Smith-Njigba,PIT
 11377,Jack Suwinski,LAD
@@ -3462,6 +3462,7 @@ id,value,team
 12599,Matt Pushard,STL
 12600,Jedixson Paez,CWS
 12601,Peyton Pallette,CLE
+12602,Cade Winquest,STL
 12605,Spencer Miles,TOR
 12606,Ryan Watson,LAA
 12607,Carter Baumler,TEX
@@ -3593,3 +3594,4 @@ id,value,team
 12745,Andrew Sears,DET
 12746,Blake Adams,COL
 12747,Mason Adams,COL
+12748,Braxton Roxby,SF

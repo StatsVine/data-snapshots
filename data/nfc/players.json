@@ -3794,7 +3794,7 @@
   {
     "id": 9217,
     "sport": "baseball",
-    "team": "LAA",
+    "team": "NYY",
     "value": "Michael Fulmer"
   },
   {
@@ -14396,7 +14396,7 @@
   {
     "id": 11372,
     "sport": "baseball",
-    "team": "DET",
+    "team": "ATL",
     "value": "Ricky Vanasco"
   },
   {
@@ -20778,6 +20778,12 @@
     "value": "Peyton Pallette"
   },
   {
+    "id": 12602,
+    "sport": "baseball",
+    "team": "STL",
+    "value": "Cade Winquest"
+  },
+  {
     "id": 12605,
     "sport": "baseball",
     "team": "TOR",
@@ -21562,6 +21568,12 @@
     "sport": "baseball",
     "team": "COL",
     "value": "Mason Adams"
+  },
+  {
+    "id": 12748,
+    "sport": "baseball",
+    "team": "SF",
+    "value": "Braxton Roxby"
   },
   {
     "id": 1015,
@@ -28940,7 +28952,7 @@
   {
     "id": 3515,
     "sport": "basketball",
-    "team": "ATL",
+    "team": "MIN",
     "value": "Jonathan Kuminga"
   },
   {
@@ -29702,7 +29714,7 @@
   {
     "id": 3642,
     "sport": "basketball",
-    "team": "LAC",
+    "team": "NO",
     "value": "Bennedict Mathurin"
   },
   {
@@ -29882,7 +29894,7 @@
   {
     "id": 3673,
     "sport": "basketball",
-    "team": "CHA",
+    "team": "ORL",
     "value": "Malaki Branham"
   },
   {
@@ -33368,7 +33380,7 @@
   {
     "id": 4314,
     "sport": "basketball",
-    "team": "MIL",
+    "team": "HOU",
     "value": "Rafael Castro"
   },
   {
@@ -42992,7 +43004,7 @@
   {
     "id": 18104,
     "sport": "football",
-    "team": "SF",
+    "team": "NYG",
     "value": "Josiah Deguara"
   },
   {
@@ -47550,12 +47562,6 @@
     "value": "Jared Wayne"
   },
   {
-    "id": 20551,
-    "sport": "football",
-    "team": "HOU",
-    "value": "Derek Parish"
-  },
-  {
     "id": 20557,
     "sport": "football",
     "team": "LA",
@@ -48932,7 +48938,7 @@
   {
     "id": 21177,
     "sport": "football",
-    "team": "HOU",
+    "team": "TB",
     "value": "Jha'Quan Jackson"
   },
   {
@@ -49094,7 +49100,7 @@
   {
     "id": 21398,
     "sport": "football",
-    "team": "MIA",
+    "team": "PHI",
     "value": "Tahj Washington"
   },
   {
@@ -52934,7 +52940,7 @@
   {
     "id": 23362,
     "sport": "football",
-    "team": "NE",
+    "team": "NYG",
     "value": "Kobe Prentice"
   },
   {
@@ -53342,7 +53348,7 @@
   {
     "id": 23530,
     "sport": "football",
-    "team": "CHI",
+    "team": "MIA",
     "value": "Coleman Bennett"
   },
   {

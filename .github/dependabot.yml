@@ -1,0 +1,23 @@
+# Restores the update flow that pinning actions by SHA gives up.
+#
+# The workflows pin every action to a commit SHA, with the release tag as a
+# trailing comment. Dependabot reads that comment, so its PRs bump the SHA and
+# the comment together and the files stay readable.
+version: 2
+
+updates:
+  - package-ecosystem: github-actions
+    # For this ecosystem, "/" means .github/workflows, not the repo root.
+    directory: "/"
+    schedule:
+      interval: weekly
+      day: monday
+      time: "09:00"
+      timezone: Etc/UTC
+    # One PR for all of them rather than one each. There are only three
+    # actions here and they move rarely; separate PRs would be noise, and CI
+    # checks the whole set together anyway.
+    groups:
+      actions:
+        patterns:
+          - "*"

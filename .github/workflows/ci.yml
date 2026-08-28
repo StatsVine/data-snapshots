@@ -13,9 +13,9 @@ jobs:
   lint:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v7
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
-      - uses: actions/setup-python@v7
+      - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
         with:
           python-version: "3.14"
           cache: pip
@@ -47,9 +47,26 @@ jobs:
 
   workflows:
     runs-on: ubuntu-latest
+    # The released binary rather than the Docker image. rhysd/actionlint
+    # publishes no action.yml, so `uses:` against the repo does not work, and
+    # `docker://` was the workaround -- but it leaves a third-party image as
+    # the only non-GitHub thing this repo runs, which is what stops Actions
+    # permissions being narrowed to GitHub-authored actions only. A checksummed
+    # download is also more auditable than an opaque image: the bytes are
+    # verified before anything executes.
+    env:
+      ACTIONLINT_VERSION: "1.7.12"
+      ACTIONLINT_SHA256: "8aca8db96f1b94770f1b0d72b6dddcb1ebb8123cb3712530b08cc387b349a3d8"
     steps:
-      - uses: actions/checkout@v7
-      # Container action: runs the binary directly, so no Node runtime is
-      # involved. rhysd/actionlint publishes no action.yml, so `uses:` against
-      # the repo itself does not work.
-      - uses: docker://rhysd/actionlint:1.7.7
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: actionlint
+        run: |
+          tarball="actionlint_${ACTIONLINT_VERSION}_linux_amd64.tar.gz"
+          curl -fsSL --retry 3 --retry-delay 2 \
+            "https://github.com/rhysd/actionlint/releases/download/v${ACTIONLINT_VERSION}/${tarball}" \
+            -o "$tarball"
+          # Verify before extracting, so unexpected bytes are never executed.
+          echo "${ACTIONLINT_SHA256}  ${tarball}" | sha256sum -c -
+          tar xzf "$tarball" actionlint
+          ./actionlint -color

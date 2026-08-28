@@ -18,6 +18,23 @@ on:
         required: false
         type: boolean
         default: true
+      root:
+        description: >-
+          Dotted path to a subtree to hoist to the top of the file, for a
+          source that wraps its table in an envelope. Applied before drop and
+          sort, so a nested table becomes sortable.
+        required: false
+        type: string
+        default: ""
+      keep:
+        description: >-
+          Comma-separated allowlist of record fields. Everything else is
+          dropped, so a field the source adds later defaults to excluded
+          rather than being published automatically. Mutually exclusive
+          with drop.
+        required: false
+        type: string
+        default: ""
       drop:
         description: "Comma-separated volatile fields to strip before committing"
         required: false
@@ -48,6 +65,21 @@ on:
         required: false
         type: string
         default: ""
+      header:
+        description: >-
+          Name of an auth header to send, e.g. x-api-key. Only the name goes
+          here -- the value comes from the api_key secret below. Sources that
+          need no auth leave this empty.
+        required: false
+        type: string
+        default: ""
+    secrets:
+      api_key:
+        description: >-
+          Value for the `header` request header. Declared optional so the
+          unauthenticated sources can keep calling this workflow without it;
+          download.sh fails loudly if `header` is set and this is not.
+        required: false
 
 # All sources serialize here so two schedules can never race the same push.
 concurrency:
@@ -73,14 +105,21 @@ jobs:
           SOURCE_NAME: ${{ inputs.name }}
           SOURCE_URL: ${{ inputs.url }}
           WANT_CSV: ${{ inputs.csv }}
+          ROOT: ${{ inputs.root }}
+          KEEP: ${{ inputs.keep }}
           DROP: ${{ inputs.drop }}
           SORT: ${{ inputs.sort }}
           COLUMNS: ${{ inputs.columns }}
           WHERE: ${{ inputs.where }}
           VIEWS: ${{ inputs.views }}
+          HEADER: ${{ inputs.header }}
+          # Masked by Actions wherever it would otherwise appear in a log.
+          SOURCE_API_KEY: ${{ secrets.api_key }}
         run: |
-          args=("$SOURCE_NAME" "$SOURCE_URL" --drop "$DROP" --sort "$SORT")
+          args=("$SOURCE_NAME" "$SOURCE_URL" --root "$ROOT" --keep "$KEEP")
+          args+=(--drop "$DROP" --sort "$SORT")
           [ "$WANT_CSV" = "true" ] || args+=(--no-csv)
+          [ -z "$HEADER" ] || args+=(--header "$HEADER")
           if [ -n "$VIEWS" ]; then
             args+=(--views "$VIEWS")
           else

@@ -457,3 +457,217 @@ def test_header_does_not_narrow_when_rows_are_filtered(root):
     prep(root, "s", {"a": {"t": "SF"}, "b": {"t": None, "rare": 1}})
     run("flatten.py", root, "s", "--where", "t")
     assert csv_of(root, "s") == "_key,rare,t\na,,SF\n"
+
+
+# --- download auth --------------------------------------------------------
+#
+# Only the pre-flight checks are testable offline: everything past them makes
+# a request. That is enough to cover the case that actually costs us, which is
+# a scheduled run quietly fetching an unauthenticated error body and canonical-
+# izing it over good data.
+
+
+def test_header_without_a_key_fails_before_making_a_request(root):
+    proc = run(
+        "download.sh",
+        root,
+        "s",
+        "https://example.invalid/x",
+        "--header",
+        "x-api-key",
+        expect_ok=False,
+    )
+    assert proc.returncode == 1
+    assert "SOURCE_API_KEY is empty" in proc.stderr
+    assert not (root / ".raw" / "s.json").exists()
+
+
+def test_the_key_is_never_echoed_by_the_failure_path(root):
+    proc = run(
+        "download.sh",
+        root,
+        "s",
+        "https://example.invalid/x",
+        "--header",
+        "x-api-key",
+        expect_ok=False,
+    )
+    assert "x-api-key" in proc.stderr  # the header name is fine to print
+    assert "SOURCE_API_KEY" in proc.stderr  # the variable name, not its value
+
+
+def test_unknown_download_flag_is_rejected(root):
+    proc = run(
+        "download.sh",
+        root,
+        "s",
+        "https://example.invalid/x",
+        "--secret",
+        "hunter2",
+        expect_ok=False,
+    )
+    assert proc.returncode == 2
+    assert "unknown arg" in proc.stderr
+
+
+# --- root -----------------------------------------------------------------
+#
+# Envelope-wrapped sources: the rows sit one level down, which both buries
+# real churn in the envelope's own fields and puts the table out of --sort's
+# reach. Hoisting fixes both, so the two are tested together.
+
+
+def test_root_hoists_a_nested_array(root):
+    seed(root, "s", '{"count": 512, "players": [{"id": 2}, {"id": 1}]}')
+    run("canonicalize.py", root, "s", "--root", "players")
+    assert json.loads(canon(root, "s")) == [{"id": 2}, {"id": 1}]
+
+
+def test_root_makes_a_nested_table_sortable(root):
+    """The reason --root exists: --sort is top-level only, so the rows have to
+    come up before they can be pinned."""
+    seed(root, "s", '{"count": 2, "players": [{"id": 2}, {"id": 1}]}')
+    run("canonicalize.py", root, "s", "--root", "players", "--sort", "id")
+    assert json.loads(canon(root, "s")) == [{"id": 1}, {"id": 2}]
+
+
+def test_sorting_a_nested_table_without_root_still_fails(root):
+    seed(root, "s2", '{"players": [{"id": 2}, {"id": 1}]}')
+    proc = run("canonicalize.py", root, "s2", "--sort", "id", expect_ok=False)
+    assert proc.returncode == 1
+    assert "top-level array" in proc.stderr
+
+
+def test_root_discards_the_envelope_and_its_churn(root):
+    """A ticking `count` or a rolling `week` must not diff once hoisted."""
+    seed(root, "s", '{"count": 511, "week": "0", "players": [{"id": 1}]}')
+    run("canonicalize.py", root, "s", "--root", "players")
+    first = canon(root, "s")
+    seed(root, "s", '{"count": 512, "week": "1", "players": [{"id": 1}]}')
+    run("canonicalize.py", root, "s", "--root", "players")
+    assert canon(root, "s") == first
+
+
+def test_root_follows_a_dotted_path(root):
+    seed(root, "s", '{"a": {"b": [{"id": 1}]}}')
+    run("canonicalize.py", root, "s", "--root", "a.b")
+    assert json.loads(canon(root, "s")) == [{"id": 1}]
+
+
+def test_root_hoists_an_object_too(root):
+    seed(root, "s", '{"meta": 1, "players": {"x": {"id": 1}}}')
+    run("canonicalize.py", root, "s", "--root", "players")
+    assert json.loads(canon(root, "s")) == {"x": {"id": 1}}
+
+
+def test_missing_root_path_fails_loudly(root):
+    seed(root, "s", '{"players": [{"id": 1}]}')
+    proc = run("canonicalize.py", root, "s", "--root", "results", expect_ok=False)
+    assert proc.returncode == 1
+    assert "not in this response" in proc.stderr
+
+
+def test_root_pointing_at_a_scalar_fails_loudly(root):
+    seed(root, "s", '{"count": 512}')
+    proc = run("canonicalize.py", root, "s", "--root", "count", expect_ok=False)
+    assert proc.returncode == 1
+    assert "not an array or object" in proc.stderr
+
+
+def test_empty_root_leaves_the_document_alone(root):
+    seed(root, "s", '{"count": 1, "players": [{"id": 1}]}')
+    run("canonicalize.py", root, "s", "--root", "")
+    assert json.loads(canon(root, "s")) == {"count": 1, "players": [{"id": 1}]}
+
+
+def test_root_applies_before_drop(root):
+    seed(root, "s", '{"count": 1, "players": [{"id": 1, "rank": 9}]}')
+    run("canonicalize.py", root, "s", "--root", "players", "--drop", "rank")
+    assert json.loads(canon(root, "s")) == [{"id": 1}]
+
+
+# --- keep -----------------------------------------------------------------
+#
+# The allowlist counterpart to --drop. The test that matters is that a field
+# the source adds later defaults to excluded: a denylist fails open, and this
+# is the knob for when that is the wrong way to fail.
+
+
+def test_keep_narrows_records_to_the_allowlist(root):
+    seed(root, "s", '[{"id": 1, "name": "a", "rank": 9}]')
+    run("canonicalize.py", root, "s", "--keep", "id,name")
+    assert json.loads(canon(root, "s")) == [{"id": 1, "name": "a"}]
+
+
+def test_a_new_upstream_field_is_excluded_by_default(root):
+    """The whole point: --drop would have let this through, --keep must not."""
+    seed(root, "s", '[{"id": 1, "rank_ecr": 3}]')
+    run("canonicalize.py", root, "s", "--keep", "id")
+    before = canon(root, "s")
+    seed(root, "s", '[{"id": 1, "rank_ecr": 3, "rank_ecr_superflex": 7}]')
+    run("canonicalize.py", root, "s", "--keep", "id")
+    assert canon(root, "s") == before
+
+
+def test_keep_leaves_record_identity_alone_on_a_keyed_object(root):
+    """The outer keys are which record it is, not a field of it."""
+    seed(root, "s", '{"p1": {"id": 1, "rank": 9}, "p2": {"id": 2, "rank": 8}}')
+    run("canonicalize.py", root, "s", "--keep", "id")
+    assert json.loads(canon(root, "s")) == {"p1": {"id": 1}, "p2": {"id": 2}}
+
+
+def test_keep_narrows_a_single_flat_object(root):
+    seed(root, "s", '{"week": 3, "season": "2026", "secret": "x"}')
+    run("canonicalize.py", root, "s", "--keep", "week,season")
+    assert json.loads(canon(root, "s")) == {"week": 3, "season": "2026"}
+
+
+def test_keep_keeps_nested_structure_under_a_kept_field(root):
+    seed(root, "s", '[{"id": 1, "positions": ["QB", "RB"], "rank": 9}]')
+    run("canonicalize.py", root, "s", "--keep", "id,positions")
+    assert json.loads(canon(root, "s")) == [{"id": 1, "positions": ["QB", "RB"]}]
+
+
+def test_keep_composes_with_root_and_sort(root):
+    seed(root, "s", '{"count": 2, "players": [{"id": 2, "r": 9}, {"id": 1, "r": 8}]}')
+    run(
+        "canonicalize.py",
+        root,
+        "s",
+        "--root",
+        "players",
+        "--keep",
+        "id",
+        "--sort",
+        "id",
+    )
+    assert json.loads(canon(root, "s")) == [{"id": 1}, {"id": 2}]
+
+
+def test_unknown_keep_field_warns_but_succeeds(root):
+    seed(root, "s", '[{"id": 1}]')
+    proc = run("canonicalize.py", root, "s", "--keep", "id,nope")
+    assert "keep field 'nope' matched no data" in proc.stderr
+    assert json.loads(canon(root, "s")) == [{"id": 1}]
+
+
+def test_keep_and_drop_together_fail_loudly(root):
+    seed(root, "s", '[{"id": 1, "rank": 9}]')
+    proc = run(
+        "canonicalize.py", root, "s", "--keep", "id", "--drop", "rank", expect_ok=False
+    )
+    assert proc.returncode == 1
+    assert "mutually exclusive" in proc.stderr
+
+
+def test_keep_against_an_array_of_scalars_fails_loudly(root):
+    seed(root, "s", "[1, 2, 3]")
+    proc = run("canonicalize.py", root, "s", "--keep", "id", expect_ok=False)
+    assert proc.returncode == 1
+    assert "array of objects" in proc.stderr
+
+
+def test_empty_keep_leaves_every_field_alone(root):
+    seed(root, "s", '[{"id": 1, "rank": 9}]')
+    run("canonicalize.py", root, "s", "--keep", "")
+    assert json.loads(canon(root, "s")) == [{"id": 1, "rank": 9}]

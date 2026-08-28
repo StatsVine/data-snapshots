@@ -1,0 +1,82 @@
+name: fantasypros/players-nfl
+
+# FantasyPros' NFL player index. Unlike the other sources here this one is
+# authenticated and metered (500 requests/day, 1/second), so it is polled once
+# a day and never more.
+#
+# The sport is a path segment, so MLB and NBA are additional callers rather
+# than a parameter here -- each gets its own name, schedule, external_ids and
+# keep set. Give them their own cron slots: every source shares one
+# `fetch-commit` concurrency group, and GitHub keeps only one pending run per
+# group, so same-minute schedules would silently drop runs.
+#
+# It earns its place as a crosswalk rather than as a player list: Sleeper is
+# missing espn_id and yahoo_id for roughly three quarters of its *rostered*
+# players, and FantasyPros carries both for ~98% of them. The join is
+# sportsdata_player_id, which is the same UUID space as Sleeper's
+# sportradar_id (verified against the current roster, matching on birthdate,
+# team and position independently).
+on:
+  schedule:
+    - cron: "45 8 * * *"
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    uses: ./.github/workflows/_fetch.yml
+    permissions:
+      contents: write
+    with:
+      name: fantasypros/players-nfl
+      # `ecr` is a row filter, not a field filter -- it selects players in or
+      # out of consensus rankings, and the two halves are disjoint (512 and
+      # 8022). Omitting it returns all 8534 in one request rather than two.
+      #
+      # external_ids is off by default and is the whole point of the source.
+      # Only the five we publish are requested; the API offers 19 and widening
+      # the pull costs nothing extra, but an id we do not keep is bytes we do
+      # not need.
+      url: >-
+        https://api.fantasypros.com/public/v2/json/nfl/players?external_ids=yahoo:espn:cbs:nfl:mfl
+      header: x-api-key
+      # Wrapped in an envelope: {sport, count, season, week, players: [...]}.
+      # The envelope's own fields move without the rows moving, and the table
+      # underneath is a nested list that --sort cannot reach. Hoisting fixes
+      # both.
+      root: players
+      # An allowlist, not a denylist: this is a paid source whose shape we do
+      # not control, and a field it adds next season should default to out.
+      #
+      # What is deliberately absent, all verified against the full 8534-row
+      # dump rather than assumed:
+      #   age            exactly equals age computed from birthdate for all
+      #                  6,984 dated records, and ticks on birthdays -- about
+      #                  19 rows of pure churn a day.
+      #   birthdatetime  exactly epoch(birthdate), zero exceptions.
+      #   reverse_name   exactly "last, first" for all 8,534.
+      #   short_name     derived, and not even unique.
+      #   rookie         4.8% present, single value, flips wholesale each
+      #                  season, derivable from draft_class.
+      #   xmlteam_id     2.4% overall and 0.6% among rostered players.
+      #   rank_*         rankings, which are synced elsewhere, not here.
+      #
+      # filename is kept for the slug. It is not derivable from the name --
+      # 12.3% differ (DSTs become <city>-defense) -- and it is the only field
+      # that separates all 204 same-name records cleanly, where birthdate plus
+      # draft_class still leaves two colliding.
+      keep: >-
+        player_id,player_name,first_name,last_name,position_id,positions,
+        team_id,filename,sportsdata_player_id,yahoo_id,cbs_id,mfl_id,espn_id,
+        nfl_id,birthdate,draft_class
+      # player_id is unique and ascending, so new players land at the end of
+      # the file rather than scattered through it.
+      sort: player_id
+      csv: true
+      # One view: the file is already a crosswalk table, and a second
+      # overlapping view would diff the same team change twice.
+      columns: >-
+        player_id,player_name,first_name,last_name,position_id,positions,
+        team_id,birthdate,draft_class,sportsdata_player_id,espn_id,yahoo_id,
+        cbs_id,nfl_id,mfl_id,filename
+    secrets:
+      api_key: ${{ secrets.FANTASYPROS_API_KEY }}

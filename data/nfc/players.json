@@ -596,7 +596,7 @@
   {
     "id": 7938,
     "sport": "baseball",
-    "team": "CLE",
+    "team": "KC",
     "value": "Anthony Gose"
   },
   {
@@ -3164,7 +3164,7 @@
   {
     "id": 9028,
     "sport": "baseball",
-    "team": "COL",
+    "team": "TOR",
     "value": "Michael Lorenzen"
   },
   {
@@ -16736,7 +16736,7 @@
   {
     "id": 11857,
     "sport": "baseball",
-    "team": "PIT",
+    "team": "SD",
     "value": "Hunter Stratton"
   },
   {
@@ -28214,7 +28214,7 @@
   {
     "id": 3334,
     "sport": "basketball",
-    "team": "CHI",
+    "team": "MIA",
     "value": "Nick Richards"
   },
   {
@@ -29666,7 +29666,7 @@
   {
     "id": 3634,
     "sport": "basketball",
-    "team": "PHI",
+    "team": "GS",
     "value": "Dalen Terry"
   },
   {
@@ -37790,7 +37790,7 @@
   {
     "id": 15319,
     "sport": "football",
-    "team": "PIT",
+    "team": "GB",
     "value": "Jonnu Smith"
   },
   {
@@ -44222,7 +44222,7 @@
   {
     "id": 18802,
     "sport": "football",
-    "team": "MIA",
+    "team": "LA",
     "value": "Tutu Atwell"
   },
   {
@@ -50738,7 +50738,7 @@
   {
     "id": 22124,
     "sport": "football",
-    "team": "LA",
+    "team": "MIA",
     "value": "Jarquez Hunter"
   },
   {

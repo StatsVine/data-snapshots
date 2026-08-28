@@ -98,7 +98,7 @@ id,sport,value,team
 7924,baseball,Brian Schlitter,ATH
 7931,baseball,Kenley Jansen,DET
 7932,baseball,Fernando Abad,COL
-7938,baseball,Anthony Gose,CLE
+7938,baseball,Anthony Gose,KC
 7954,baseball,Michael Kirkman,ATL
 7961,baseball,Greg Infante,CWS
 7964,baseball,Chris Hatcher,ATH
@@ -526,7 +526,7 @@ id,sport,value,team
 9022,baseball,Rey Navarro,SEA
 9025,baseball,Cory Mazzoni,CHC
 9027,baseball,Jack Leathersich,CLE
-9028,baseball,Michael Lorenzen,COL
+9028,baseball,Michael Lorenzen,TOR
 9029,baseball,Enrique Burgos,DET
 9033,baseball,Elvis Araujo,BAL
 9035,baseball,Carlos Perez,ATH
@@ -2788,7 +2788,7 @@ id,sport,value,team
 11854,baseball,Carson Spiers,CIN
 11855,baseball,Connor Phillips,CIN
 11856,baseball,Andrew Saalfrank,ARZ
-11857,baseball,Hunter Stratton,PIT
+11857,baseball,Hunter Stratton,SD
 11858,baseball,Luke Little,KC
 11859,baseball,Easton Lucas,TOR
 11860,baseball,Enmanuel De Jesus,DET
@@ -4701,7 +4701,7 @@ id,sport,value,team
 3331,basketball,Cassius Winston,WAS
 3332,basketball,Lamar Stevens,MEM
 3333,basketball,Jay Scrubb,BOS
-3334,basketball,Nick Richards,CHI
+3334,basketball,Nick Richards,MIA
 3335,basketball,Austin Wiley,FA
 3336,basketball,Omer Yurtseven,GS
 3337,basketball,Markus Howard,DEN
@@ -4943,7 +4943,7 @@ id,sport,value,team
 3631,basketball,Jamaree Bouyea,PHO
 3632,basketball,Iverson Molinar,MIL
 3633,basketball,Keon Ellis,BKN
-3634,basketball,Dalen Terry,PHI
+3634,basketball,Dalen Terry,GS
 3635,basketball,Trevor Keels,MIA
 3636,basketball,Ochai Agbaji,BKN
 3637,basketball,Isaiah Mobley,PHI
@@ -6297,7 +6297,7 @@ id,sport,value,team
 15313,football,C.J. Beathard,DET
 15316,football,Chris Godwin Jr.,TB
 15318,football,Taywan Taylor,HOU
-15319,football,Jonnu Smith,PIT
+15319,football,Jonnu Smith,GB
 15326,football,Tarik Cohen,NYJ
 15331,football,Josh Malone,PIT
 15333,football,Ryan Switzer,CAR
@@ -7369,7 +7369,7 @@ id,sport,value,team
 18799,football,Trey Lance,LAC
 18800,football,Mac Jones,SF
 18801,football,Hunter Long,JAX
-18802,football,Tutu Atwell,MIA
+18802,football,Tutu Atwell,LA
 18803,football,Sage Surratt,ARZ
 18804,football,Anthony Schwartz,MIA
 18806,football,Zach Wilson,NO
@@ -8455,7 +8455,7 @@ id,sport,value,team
 22121,football,Elijah Arroyo,SEA
 22122,football,Ja'Corey Brooks,WAS
 22123,football,Gunnar Helm,TEN
-22124,football,Jarquez Hunter,LA
+22124,football,Jarquez Hunter,MIA
 22126,football,Dont'e Thornton Jr.,LV
 22127,football,Luke Lachey,GB
 22128,football,Kyle Williams,NE

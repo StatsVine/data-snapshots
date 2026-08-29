@@ -47395,7 +47395,7 @@
       "RB"
     ],
     "sportsdata_player_id": "ef87e355-8e0c-40ed-a85d-bca4896d4f1e",
-    "team_id": "SF",
+    "team_id": "FA",
     "yahoo_id": "33235"
   },
   {
@@ -85412,7 +85412,7 @@
       "WR"
     ],
     "sportsdata_player_id": "bc25629f-1501-4f58-ae46-c6cf502a4b13",
-    "team_id": "PIT",
+    "team_id": "FA",
     "yahoo_id": "33569"
   },
   {
@@ -109159,7 +109159,7 @@
       "TE"
     ],
     "sportsdata_player_id": "c9b2f6f5-b8bc-48ca-ac33-fa18883c2f6b",
-    "team_id": "PIT",
+    "team_id": "FA",
     "yahoo_id": "41106"
   },
   {
@@ -117191,7 +117191,7 @@
       "S"
     ],
     "sportsdata_player_id": "2be4f414-9baa-4ccd-9a52-444c3e4b6738",
-    "team_id": "PIT",
+    "team_id": "FA",
     "yahoo_id": "40249"
   },
   {
@@ -119533,7 +119533,7 @@
       "WR"
     ],
     "sportsdata_player_id": "23cd4b70-ea0b-11ed-9937-afc55efa97bf",
-    "team_id": "PIT",
+    "team_id": "FA",
     "yahoo_id": "40466"
   },
   {
@@ -140849,7 +140849,7 @@
       "LB"
     ],
     "sportsdata_player_id": "6e74b967-c938-44d8-97df-c15086086938",
-    "team_id": "FA",
+    "team_id": "SEA",
     "yahoo_id": "41958"
   },
   {
@@ -142444,7 +142444,7 @@
       "WR"
     ],
     "sportsdata_player_id": "b3906110-42ba-11f1-894b-1bf81f6c216b",
-    "team_id": "NYJ",
+    "team_id": "FA",
     "yahoo_id": "43165"
   },
   {
@@ -146769,7 +146769,7 @@
       "CB"
     ],
     "sportsdata_player_id": "b8708350-2307-11f0-b5cd-e3ccdf0c825a",
-    "team_id": "PIT",
+    "team_id": "FA",
     "yahoo_id": "42064"
   },
   {
@@ -148821,7 +148821,7 @@
       "WR"
     ],
     "sportsdata_player_id": "544fef60-250e-11f0-857f-bb5e18a396f3",
-    "team_id": "PIT",
+    "team_id": "FA",
     "yahoo_id": "42246"
   },
   {
@@ -150427,7 +150427,7 @@
       "S"
     ],
     "sportsdata_player_id": "c982ead0-25f9-11f0-8919-337a311ea045",
-    "team_id": "PIT",
+    "team_id": "FA",
     "yahoo_id": "42411"
   },
   {
@@ -159626,7 +159626,7 @@
       "CB"
     ],
     "sportsdata_player_id": "669f8750-426f-11f1-8c03-4b4e12343571",
-    "team_id": "PIT",
+    "team_id": "FA",
     "yahoo_id": "43021"
   },
   {
@@ -165616,6 +165616,7 @@
   {
     "birthdate": "",
     "cbs_id": "26698173",
+    "draft_class": 2026,
     "espn_id": null,
     "filename": "https://www.fantasypros.com/nfl/players/nate-evans-cb.php",
     "first_name": "Nate",
@@ -167213,7 +167214,7 @@
       "DB"
     ],
     "sportsdata_player_id": "02a43c30-52fc-11f1-a84e-43f34b0f5141",
-    "team_id": "PIT",
+    "team_id": "FA",
     "yahoo_id": null
   },
   {
@@ -169394,7 +169395,7 @@
       "RB"
     ],
     "sportsdata_player_id": "e3759b00-9fd2-11f1-aecb-5d66f987dd8d",
-    "team_id": "PIT",
+    "team_id": "FA",
     "yahoo_id": "43609"
   },
   {

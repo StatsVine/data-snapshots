@@ -4280,7 +4280,7 @@
   {
     "id": 9342,
     "sport": "baseball",
-    "team": "PIT",
+    "team": "NYM",
     "value": "Chris Devenski"
   },
   {
@@ -27326,7 +27326,7 @@
   {
     "id": 3181,
     "sport": "basketball",
-    "team": "UTH",
+    "team": "MIN",
     "value": "John Konchar"
   },
   {
@@ -28022,7 +28022,7 @@
   {
     "id": 3302,
     "sport": "basketball",
-    "team": "MIN",
+    "team": "UTH",
     "value": "Josh Green"
   },
   {
@@ -31412,7 +31412,7 @@
   {
     "id": 3981,
     "sport": "basketball",
-    "team": "UTH",
+    "team": "MIN",
     "value": "Cody Williams"
   },
   {
@@ -53824,5 +53824,11 @@
     "sport": "football",
     "team": "TB",
     "value": "Matthew Henry"
+  },
+  {
+    "id": 23765,
+    "sport": "football",
+    "team": "SF",
+    "value": "Daejon Love"
   }
 ]

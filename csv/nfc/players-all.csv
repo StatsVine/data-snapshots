@@ -712,7 +712,7 @@ id,sport,value,team
 9339,baseball,Tim Mayza,PHI
 9340,baseball,Tyler White,TOR
 9341,baseball,Jeremy Hazelbaker,TB
-9342,baseball,Chris Devenski,PIT
+9342,baseball,Chris Devenski,NYM
 9343,baseball,Matt Buschmann,ARZ
 9347,baseball,Greg Mahle,LAA
 9349,baseball,William Cuevas,BOS
@@ -4553,7 +4553,7 @@ id,sport,value,team
 3178,basketball,Naz Reid,CHA
 3179,basketball,Luguentz Dort,ATL
 3180,basketball,Justin Robinson,DET
-3181,basketball,John Konchar,UTH
+3181,basketball,John Konchar,MIN
 3182,basketball,Zach Norvell,CHI
 3183,basketball,Amir Coffey,PHO
 3184,basketball,Garrison Mathews,IND
@@ -4669,7 +4669,7 @@ id,sport,value,team
 3299,basketball,Tyrell Terry,MEM
 3300,basketball,Saddiq Bey,NO
 3301,basketball,Tyrese Maxey,PHI
-3302,basketball,Josh Green,MIN
+3302,basketball,Josh Green,UTH
 3303,basketball,Jaden McDaniels,MIN
 3304,basketball,Kira Lewis,WAS
 3305,basketball,Nico Mannion,GS
@@ -5234,7 +5234,7 @@ id,sport,value,team
 3978,basketball,Stephon Castle,SA
 3979,basketball,Ja'Kobe Walter,TOR
 3980,basketball,Isaiah Collier,UTH
-3981,basketball,Cody Williams,UTH
+3981,basketball,Cody Williams,MIN
 3982,basketball,Kel'el Ware,MIL
 3983,basketball,Ryan Dunn,PHO
 3984,basketball,Dillon Jones,NY
@@ -8970,3 +8970,4 @@ id,sport,value,team
 23759,football,Barika Kpeenu,TB
 23761,football,Alex Tecza,PIT
 23764,football,Matthew Henry,TB
+23765,football,Daejon Love,SF

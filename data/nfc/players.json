@@ -4064,7 +4064,7 @@
   {
     "id": 9289,
     "sport": "baseball",
-    "team": "WAS",
+    "team": "ARZ",
     "value": "Derek Law"
   },
   {
@@ -21574,6 +21574,18 @@
     "sport": "baseball",
     "team": "SF",
     "value": "Braxton Roxby"
+  },
+  {
+    "id": 12749,
+    "sport": "baseball",
+    "team": "SF",
+    "value": "Seth Lonsway"
+  },
+  {
+    "id": 12750,
+    "sport": "baseball",
+    "team": "SF",
+    "value": "Yunior Marte"
   },
   {
     "id": 1015,
@@ -50438,7 +50450,7 @@
   {
     "id": 22070,
     "sport": "football",
-    "team": "MIA",
+    "team": "JAX",
     "value": "Quinn Ewers"
   },
   {
@@ -51662,7 +51674,7 @@
   {
     "id": 22722,
     "sport": "football",
-    "team": "ARZ",
+    "team": "NE",
     "value": "Corey Kiner"
   },
   {

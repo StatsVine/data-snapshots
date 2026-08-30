@@ -676,7 +676,7 @@ id,sport,value,team
 9284,baseball,Matt Koch,COL
 9285,baseball,Ty Blach,CHC
 9286,baseball,Ray Black,MLW
-9289,baseball,Derek Law,WAS
+9289,baseball,Derek Law,ARZ
 9290,baseball,Steven Okert,HOU
 9292,baseball,Chris Stratton,LAD
 9294,baseball,Carlos Estevez,KC
@@ -3595,6 +3595,8 @@ id,sport,value,team
 12746,baseball,Blake Adams,COL
 12747,baseball,Mason Adams,COL
 12748,baseball,Braxton Roxby,SF
+12749,baseball,Seth Lonsway,SF
+12750,baseball,Yunior Marte,SF
 1015,basketball,Tyson Chandler,HOU
 1023,basketball,Joe Johnson,BOS
 1091,basketball,Mike James,BKN
@@ -8405,7 +8407,7 @@ id,sport,value,team
 22067,football,Tyler Warren,IND
 22068,football,Evan Stewart,FA
 22069,football,Omarion Hampton,LAC
-22070,football,Quinn Ewers,MIA
+22070,football,Quinn Ewers,JAX
 22071,football,Ollie Gordon II,MIA
 22072,football,TreVeyon Henderson,NE
 22073,football,Savion Williams,GB
@@ -8609,7 +8611,7 @@ id,sport,value,team
 22712,football,Marshall Lang,MIN
 22716,football,Jacardia Wright,SEA
 22721,football,Isaiah Neyor,GB
-22722,football,Corey Kiner,ARZ
+22722,football,Corey Kiner,NE
 22734,football,Myles Price,MIN
 22742,football,Kobe Hudson,CAR
 22746,football,Jahdae Walker,CHI

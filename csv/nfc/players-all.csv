@@ -1195,7 +1195,7 @@ id,sport,value,team
 9955,baseball,Edwin Rios,CIN
 9956,baseball,Jon Duplantier,ARZ
 9957,baseball,Jordan Hicks,CWS
-9958,baseball,Luis Robert Jr.,NYM
+9958,baseball,Luis Robert Jr.,BAL
 9959,baseball,Cal Quantrill,TEX
 9960,baseball,Ryan Borucki,SF
 9961,baseball,Frank Schwindel,CHC
@@ -1215,7 +1215,7 @@ id,sport,value,team
 9980,baseball,Tim Hill,NYY
 9983,baseball,Garrett Hampson,STL
 9985,baseball,Seby Zavala,SEA
-9986,baseball,John Schreiber,KC
+9986,baseball,John Schreiber,NYY
 9987,baseball,Vidal Brujan,NYM
 9988,baseball,Carl Chester,TB
 9989,baseball,Sean Keselica,PIT
@@ -3597,6 +3597,7 @@ id,sport,value,team
 12748,baseball,Braxton Roxby,SF
 12749,baseball,Seth Lonsway,SF
 12750,baseball,Yunior Marte,SF
+12751,baseball,John Peck,DET
 1015,basketball,Tyson Chandler,HOU
 1023,basketball,Joe Johnson,BOS
 1091,basketball,Mike James,BKN
@@ -6847,7 +6848,7 @@ id,sport,value,team
 17054,football,Miles Boykin,CHI
 17055,football,Hunter Renfrow,CAR
 17056,football,Gary Jennings,LAC
-17057,football,Greg Dortch,DET
+17057,football,Greg Dortch,BUF
 17058,football,Emanuel Hall,WAS
 17059,football,Anthony Johnson,PIT
 17060,football,Tyre Brady,JAX
@@ -7313,7 +7314,7 @@ id,sport,value,team
 18651,football,Dominik Eberle,DET
 18653,football,Nick Bowers,MIA
 18657,football,Siaosi Mariner,BAL
-18664,football,Cody White,SEA
+18664,football,Cody White,LV
 18666,football,Maurice Ffrench,LAC
 18668,football,Andre Baccellia,ARZ
 18673,football,Justice Shelton-Mosley,KC

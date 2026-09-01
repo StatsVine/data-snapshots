@@ -7178,7 +7178,7 @@
   {
     "id": 9958,
     "sport": "baseball",
-    "team": "NYM",
+    "team": "BAL",
     "value": "Luis Robert Jr."
   },
   {
@@ -7298,7 +7298,7 @@
   {
     "id": 9986,
     "sport": "baseball",
-    "team": "KC",
+    "team": "NYY",
     "value": "John Schreiber"
   },
   {
@@ -21586,6 +21586,12 @@
     "sport": "baseball",
     "team": "SF",
     "value": "Yunior Marte"
+  },
+  {
+    "id": 12751,
+    "sport": "baseball",
+    "team": "DET",
+    "value": "John Peck"
   },
   {
     "id": 1015,
@@ -41090,7 +41096,7 @@
   {
     "id": 17057,
     "sport": "football",
-    "team": "DET",
+    "team": "BUF",
     "value": "Greg Dortch"
   },
   {
@@ -43886,7 +43892,7 @@
   {
     "id": 18664,
     "sport": "football",
-    "team": "SEA",
+    "team": "LV",
     "value": "Cody White"
   },
   {

@@ -1676,7 +1676,7 @@
   {
     "id": 8615,
     "sport": "baseball",
-    "team": "CHC",
+    "team": "PIT",
     "value": "Christian Bethancourt"
   },
   {
@@ -2738,7 +2738,7 @@
   {
     "id": 8919,
     "sport": "baseball",
-    "team": "NYM",
+    "team": "CWS",
     "value": "Tommy Pham"
   },
   {
@@ -4784,7 +4784,7 @@
   {
     "id": 9457,
     "sport": "baseball",
-    "team": "WAS",
+    "team": "TEX",
     "value": "Trevor Williams"
   },
   {
@@ -5384,7 +5384,7 @@
   {
     "id": 9589,
     "sport": "baseball",
-    "team": "CHC",
+    "team": "SEA",
     "value": "Hoby Milner"
   },
   {
@@ -19125,7 +19125,7 @@
     "id": 12304,
     "sport": "baseball",
     "team": "SEA",
-    "value": "Lazaro  Montes"
+    "value": "Lazaro Montes"
   },
   {
     "id": 12305,
@@ -20145,7 +20145,7 @@
     "id": 12494,
     "sport": "baseball",
     "team": "STL",
-    "value": "Leonardo Bernal"
+    "value": "Leo Bernal"
   },
   {
     "id": 12495,
@@ -20768,7 +20768,7 @@
   {
     "id": 12600,
     "sport": "baseball",
-    "team": "CWS",
+    "team": "BOS",
     "value": "Jedixson Paez"
   },
   {
@@ -21592,6 +21592,42 @@
     "sport": "baseball",
     "team": "DET",
     "value": "John Peck"
+  },
+  {
+    "id": 12752,
+    "sport": "baseball",
+    "team": "ATL",
+    "value": "Blake Burkhalter"
+  },
+  {
+    "id": 12753,
+    "sport": "baseball",
+    "team": "STL",
+    "value": "Hancel Rincon"
+  },
+  {
+    "id": 12754,
+    "sport": "baseball",
+    "team": "MIN",
+    "value": "Ben Ross"
+  },
+  {
+    "id": 12755,
+    "sport": "baseball",
+    "team": "CHC",
+    "value": "BJ Murray Jr."
+  },
+  {
+    "id": 12756,
+    "sport": "baseball",
+    "team": "WAS",
+    "value": "Jared Simpson"
+  },
+  {
+    "id": 12757,
+    "sport": "baseball",
+    "team": "SF",
+    "value": "Cesar Perdomo"
   },
   {
     "id": 1015,
@@ -33450,6 +33486,12 @@
     "value": "Malik Dia"
   },
   {
+    "id": 4323,
+    "sport": "basketball",
+    "team": "CHA",
+    "value": "Trey Townsend"
+  },
+  {
     "id": 615,
     "sport": "football",
     "team": "LAC",
@@ -33850,6 +33892,12 @@
     "sport": "football",
     "team": "FA",
     "value": "Chris Watson"
+  },
+  {
+    "id": 3469,
+    "sport": "football",
+    "team": "WAS",
+    "value": "Terrelle Smith"
   },
   {
     "id": 3477,
@@ -40928,7 +40976,7 @@
   {
     "id": 17029,
     "sport": "football",
-    "team": "IND",
+    "team": "TB",
     "value": "Easton Stick"
   },
   {
@@ -46046,7 +46094,7 @@
   {
     "id": 19819,
     "sport": "football",
-    "team": "PHI",
+    "team": "NO",
     "value": "Stone Smartt"
   },
   {
@@ -46448,7 +46496,7 @@
   {
     "id": 20038,
     "sport": "football",
-    "team": "LV",
+    "team": "PIT",
     "value": "Brandon Johnson"
   },
   {
@@ -46562,7 +46610,7 @@
   {
     "id": 20091,
     "sport": "football",
-    "team": "NO",
+    "team": "HOU",
     "value": "Zaire Mitchell-Paden"
   },
   {
@@ -47078,7 +47126,7 @@
   {
     "id": 20290,
     "sport": "football",
-    "team": "CLE",
+    "team": "NO",
     "value": "Cedric Tillman"
   },
   {
@@ -47486,19 +47534,19 @@
   {
     "id": 20453,
     "sport": "football",
-    "team": "PHI",
+    "team": "NE",
     "value": "Cameron Latu"
   },
   {
     "id": 20455,
     "sport": "football",
-    "team": "WAS",
+    "team": "BAL",
     "value": "Jake Moody"
   },
   {
     "id": 20468,
     "sport": "football",
-    "team": "CIN",
+    "team": "NYG",
     "value": "Charlie Jones"
   },
   {
@@ -47558,7 +47606,7 @@
   {
     "id": 20527,
     "sport": "football",
-    "team": "CIN",
+    "team": "SF",
     "value": "Sean Clifford"
   },
   {
@@ -47642,7 +47690,7 @@
   {
     "id": 20629,
     "sport": "football",
-    "team": "IND",
+    "team": "NYJ",
     "value": "Blake Grupe"
   },
   {
@@ -47708,7 +47756,7 @@
   {
     "id": 20659,
     "sport": "football",
-    "team": "CIN",
+    "team": "HOU",
     "value": "Mitch Tinsley"
   },
   {
@@ -47834,7 +47882,7 @@
   {
     "id": 20719,
     "sport": "football",
-    "team": "KC",
+    "team": "DAL",
     "value": "Emari Demercado"
   },
   {
@@ -48098,7 +48146,7 @@
   {
     "id": 20829,
     "sport": "football",
-    "team": "MIN",
+    "team": "CHI",
     "value": "Zavier Scott"
   },
   {
@@ -48128,7 +48176,7 @@
   {
     "id": 20849,
     "sport": "football",
-    "team": "BUF",
+    "team": "KC",
     "value": "Ben VanSumeren"
   },
   {
@@ -48374,7 +48422,7 @@
   {
     "id": 21005,
     "sport": "football",
-    "team": "DEN",
+    "team": "CLE",
     "value": "Jaleel McLaughlin"
   },
   {
@@ -49652,7 +49700,7 @@
   {
     "id": 21705,
     "sport": "football",
-    "team": "NE",
+    "team": "WAS",
     "value": "Jack Westover"
   },
   {
@@ -49748,7 +49796,7 @@
   {
     "id": 21753,
     "sport": "football",
-    "team": "GB",
+    "team": "CLE",
     "value": "Messiah Swinson"
   },
   {
@@ -49766,7 +49814,7 @@
   {
     "id": 21760,
     "sport": "football",
-    "team": "ARZ",
+    "team": "GB",
     "value": "Kedon Slovis"
   },
   {
@@ -50246,7 +50294,7 @@
   {
     "id": 21996,
     "sport": "football",
-    "team": "SF",
+    "team": "JAX",
     "value": "Hayden Rucci"
   },
   {
@@ -50570,7 +50618,7 @@
   {
     "id": 22092,
     "sport": "football",
-    "team": "DAL",
+    "team": "PHI",
     "value": "Jaydon Blue"
   },
   {
@@ -51086,7 +51134,7 @@
   {
     "id": 22434,
     "sport": "football",
-    "team": "GB",
+    "team": "MIA",
     "value": "Will Sheppard"
   },
   {
@@ -51272,7 +51320,7 @@
   {
     "id": 22532,
     "sport": "football",
-    "team": "ATL",
+    "team": "WAS",
     "value": "Joshua Simon"
   },
   {
@@ -51284,7 +51332,7 @@
   {
     "id": 22536,
     "sport": "football",
-    "team": "ATL",
+    "team": "KC",
     "value": "Nathan Carter"
   },
   {
@@ -51302,7 +51350,7 @@
   {
     "id": 22543,
     "sport": "football",
-    "team": "JAX",
+    "team": "LAC",
     "value": "Patrick Herbert"
   },
   {
@@ -51752,7 +51800,7 @@
   {
     "id": 22775,
     "sport": "football",
-    "team": "KC",
+    "team": "MIA",
     "value": "Tre Watson"
   },
   {
@@ -52988,7 +53036,7 @@
   {
     "id": 23383,
     "sport": "football",
-    "team": "CLE",
+    "team": "IND",
     "value": "Davon Booth"
   },
   {
@@ -53102,7 +53150,7 @@
   {
     "id": 23434,
     "sport": "football",
-    "team": "KC",
+    "team": "NYJ",
     "value": "Al-Jay Henderson"
   },
   {

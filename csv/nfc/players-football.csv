@@ -66,6 +66,7 @@ id,value,team
 2985,Tennessee Titans TK,TEN
 2986,Washington Commanders TK,WAS
 3055,Chris Watson,FA
+3469,Terrelle Smith,WAS
 3477,Tom Brady,TB
 4343,Houston Texans TDSP,HOU
 4345,Houston Texans TK,HOU
@@ -1245,7 +1246,7 @@ id,value,team
 17025,Gardner Minshew II,ARZ
 17026,Ryan Finley,HOU
 17027,Tyree Jackson,WAS
-17029,Easton Stick,IND
+17029,Easton Stick,TB
 17030,Dexter Williams,GB
 17031,Bryce Love,WAS
 17032,Karan Higdon,HOU
@@ -2098,7 +2099,7 @@ id,value,team
 19815,Kevin Marks,LAC
 19816,Erik Krommenhoek,LAC
 19818,James McCourt,LV
-19819,Stone Smartt,PHI
+19819,Stone Smartt,NO
 19821,Brandon Peters,LAC
 19823,Trevon Bradford,LAC
 19826,Leddie Brown,LAC
@@ -2165,7 +2166,7 @@ id,value,team
 20033,Tyreik McAllister,LV
 20035,Dylan Parham,DEN
 20037,Jalen Virgil,BUF
-20038,Brandon Johnson,LV
+20038,Brandon Johnson,PIT
 20039,Rodney Williams,PIT
 20041,Dre Miller,GB
 20047,Austin Allen,GB
@@ -2184,7 +2185,7 @@ id,value,team
 20083,Travell Harris,CLE
 20088,Isaiah Weston,CLE
 20090,Felix Harper,CLE
-20091,Zaire Mitchell-Paden,NO
+20091,Zaire Mitchell-Paden,HOU
 20092,Ty Fryfogle,KC
 20093,Dennis Houston,TB
 20098,Jaquarii Roberson,LA
@@ -2270,7 +2271,7 @@ id,value,team
 20287,Rashee Rice,KC
 20288,Zay Flowers,BAL
 20289,Hendon Hooker,TEN
-20290,Cedric Tillman,CLE
+20290,Cedric Tillman,NO
 20291,Parker Washington,JAX
 20292,Chase Brown,CIN
 20293,Marvin Mims Jr.,DEN
@@ -2338,9 +2339,9 @@ id,value,team
 20358,Jalen Moreno-Cropper,NO
 20359,Jason Brownlee,KC
 20425,Brenton Strange,JAX
-20453,Cameron Latu,PHI
-20455,Jake Moody,WAS
-20468,Charlie Jones,CIN
+20453,Cameron Latu,NE
+20455,Jake Moody,BAL
+20468,Charlie Jones,NYG
 20479,Stetson Bennett IV,LA
 20480,Derius Davis,LAC
 20481,Aidan O'Connell,LV
@@ -2350,7 +2351,7 @@ id,value,team
 20518,Dorian Thompson-Robinson,PHI
 20519,Jalen Brooks,ARZ
 20526,Antoine Green,DET
-20527,Sean Clifford,CIN
+20527,Sean Clifford,SF
 20529,Anders Carlson,NYJ
 20530,Lew Nichols,PIT
 20535,Jared Wayne,HOU
@@ -2364,7 +2365,7 @@ id,value,team
 20620,Robert Burns,ATL
 20623,Adrian Martinez,SF
 20628,Malik Cunningham,DET
-20629,Blake Grupe,IND
+20629,Blake Grupe,NYJ
 20630,Thayer Thomas,DEN
 20634,Jack Podlesny,GB
 20637,Malik Knowles,SF
@@ -2375,7 +2376,7 @@ id,value,team
 20649,B.T. Potter,TB
 20655,Kearis Jackson,HOU
 20658,Charles McClelland,TEN
-20659,Mitch Tinsley,CIN
+20659,Mitch Tinsley,HOU
 20661,Kazmeir Allen,WAS
 20664,Shaquan Davis,PIT
 20670,Sy Barnett,NO
@@ -2396,7 +2397,7 @@ id,value,team
 20710,Tanner Brown,NO
 20712,Christopher Dunn,LA
 20717,Joel Honigford,ARZ
-20719,Emari Demercado,KC
+20719,Emari Demercado,DAL
 20721,Daniel Arias,ARZ
 20722,Blake Whiteheart,CLE
 20726,Carlos Washington Jr.,MIA
@@ -2440,12 +2441,12 @@ id,value,team
 20818,Shedrick Jackson,LV
 20825,Hassan Hall,ARZ
 20828,Johnny King,PHI
-20829,Zavier Scott,MIN
+20829,Zavier Scott,CHI
 20830,Darius Hagans,PIT
 20836,Cody Chrest,IND
 20840,Titus Swen,IND
 20845,Tommy DeVito,NE
-20849,Ben VanSumeren,BUF
+20849,Ben VanSumeren,KC
 20852,Joseph Ngata,PHI
 20855,Jadon Haselwood,PHI
 20857,Brady Russell,SEA
@@ -2486,7 +2487,7 @@ id,value,team
 20997,Isaiah Bowser,BUF
 21001,Emanuel Wilson,SEA
 21004,Dallas Daniels,DEN
-21005,Jaleel McLaughlin,DEN
+21005,Jaleel McLaughlin,CLE
 21011,Nate Adkins,DEN
 21012,Taylor Grimes,DEN
 21014,Kris Leach,DEN
@@ -2699,7 +2700,7 @@ id,value,team
 21701,Talik Keaton,PHI
 21702,Kendall Milton,CIN
 21704,Garrett Greene,TB
-21705,Jack Westover,NE
+21705,Jack Westover,WAS
 21706,Chevan Cordeiro,SEA
 21707,Hayden Hatten,SEA
 21709,George Holani,SEA
@@ -2715,10 +2716,10 @@ id,value,team
 21741,Jarveon Howard,BUF
 21746,Julian Hicks,SEA
 21751,Alex McNulty,GB
-21753,Messiah Swinson,GB
+21753,Messiah Swinson,CLE
 21754,British Brooks,HOU
 21758,Jaxon Janke,HOU
-21760,Kedon Slovis,ARZ
+21760,Kedon Slovis,GB
 21762,Malcolm Epps,IND
 21763,Justin Strong,IND
 21764,Xavier White,IND
@@ -2798,7 +2799,7 @@ id,value,team
 21989,Jude McAtamney,NYG
 21990,John Jiles,NE
 21991,Tre Mosley,CIN
-21996,Hayden Rucci,SF
+21996,Hayden Rucci,JAX
 21998,Jadon Janke,GB
 21999,Tanner Knue,TB
 22002,John Jackson,CHI
@@ -2852,7 +2853,7 @@ id,value,team
 22089,Ontaria Wilson,NYJ
 22090,LeQuint Allen Jr.,JAX
 22091,Elic Ayomanor,TEN
-22092,Jaydon Blue,DAL
+22092,Jaydon Blue,PHI
 22094,Trevor Etienne,CAR
 22095,Harold Fannin Jr.,CLE
 22096,DJ Giddens,IND
@@ -2938,7 +2939,7 @@ id,value,team
 22431,Connor Bazelak,TB
 22432,Anthony Landphere,TB
 22433,Josh Williams,TB
-22434,Will Sheppard,GB
+22434,Will Sheppard,MIA
 22437,Bryson Green,ARZ
 22438,Oscar Cardenas,ARZ
 22439,Ahmani Marshall,CLE
@@ -2969,12 +2970,12 @@ id,value,team
 22518,Monaray Baldwin,MIA
 22519,Montrell Johnson,CAR
 22522,Silas Bolden,HOU
-22532,Joshua Simon,ATL
+22532,Joshua Simon,WAS
 22535,Quincy Skinner Jr.,NYJ
-22536,Nathan Carter,ATL
+22536,Nathan Carter,KC
 22538,Nick Nash,WAS
 22540,Seth Henigan,IND
-22543,Patrick Herbert,JAX
+22543,Patrick Herbert,LAC
 22546,Dalen Cambre,NYG
 22547,Beaux Collins,ATL
 22549,Jordan Bly,NYG
@@ -3049,7 +3050,7 @@ id,value,team
 22765,Zach Horton,DET
 22767,Julian Fleming,GB
 22771,Dante Wright,KC
-22775,Tre Watson,KC
+22775,Tre Watson,MIA
 22776,Qualan Jones,KC
 22778,Carter Runyon,LV
 22780,Ben Yurosek,MIN
@@ -3255,7 +3256,7 @@ id,value,team
 23366,Hayden Large,CHI
 23372,Noah Thomas,CIN
 23373,Josh Kattus,CIN
-23383,Davon Booth,CLE
+23383,Davon Booth,IND
 23384,Kole Wilson,CLE
 23385,TJ Harden,SEA
 23389,Aaron Anderson,CLE
@@ -3274,7 +3275,7 @@ id,value,team
 23420,Joshua Pitsenberger,HOU
 23422,Raylen Sharpe,IND
 23430,EJ Smith,KC
-23434,Al-Jay Henderson,KC
+23434,Al-Jay Henderson,NYJ
 23436,Terion Stewart,KC
 23438,Ken Seals,KC
 23440,John Michael Gyllenborg,KC

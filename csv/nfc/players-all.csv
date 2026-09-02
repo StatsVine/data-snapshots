@@ -278,7 +278,7 @@ id,sport,value,team
 8611,baseball,Chris Owings,PIT
 8613,baseball,David Hale,PHI
 8614,baseball,Juan Centeno,BOS
-8615,baseball,Christian Bethancourt,CHC
+8615,baseball,Christian Bethancourt,PIT
 8617,baseball,Onelki Garcia,KC
 8618,baseball,Nick Buss,MIN
 8623,baseball,Enny Romero,LAD
@@ -455,7 +455,7 @@ id,sport,value,team
 8913,baseball,R.J. Alvarez,NYM
 8915,baseball,Spencer Patton,ATH
 8917,baseball,Jairo Diaz,COL
-8919,baseball,Tommy Pham,NYM
+8919,baseball,Tommy Pham,CWS
 8921,baseball,Danny Coulombe,BOS
 8922,baseball,Rusney Castillo,BOS
 8923,baseball,Bryce Brentz,BOS
@@ -796,7 +796,7 @@ id,sport,value,team
 9452,baseball,Carson Kelly,CHC
 9453,baseball,Jose De Leon,BOS
 9456,baseball,Kevin McCarthy,BOS
-9457,baseball,Trevor Williams,WAS
+9457,baseball,Trevor Williams,TEX
 9460,baseball,Joely Rodriguez,BOS
 9461,baseball,Trey Mancini,LAA
 9463,baseball,Carlos Asuaje,LAD
@@ -896,7 +896,7 @@ id,sport,value,team
 9586,baseball,Glenn Sparkman,MIN
 9587,baseball,Kevin Gadea,TB
 9588,baseball,Aneury Tavarez,BOS
-9589,baseball,Hoby Milner,CHC
+9589,baseball,Hoby Milner,SEA
 9590,baseball,Dylan Covey,NYM
 9591,baseball,Miguel Diaz,HOU
 9592,baseball,Justin Haley,BOS
@@ -3186,7 +3186,7 @@ id,sport,value,team
 12301,baseball,Max Muncy,ATH
 12302,baseball,JJ Wetherholt,STL
 12303,baseball,Justin Crawford,PHI
-12304,baseball,Lazaro  Montes,SEA
+12304,baseball,Lazaro Montes,SEA
 12305,baseball,Shane Smith,CWS
 12306,baseball,David Sandlin,CWS
 12307,baseball,Ryan Ward,LAD
@@ -3356,7 +3356,7 @@ id,sport,value,team
 12491,baseball,Carlos Lagrange,NYY
 12492,baseball,Hiroto Saiki,FA
 12493,baseball,Ethan Pecko,HOU
-12494,baseball,Leonardo Bernal,STL
+12494,baseball,Leo Bernal,STL
 12495,baseball,Henry Bolte,ATH
 12496,baseball,Nelson Rada,LAA
 12497,baseball,Jacob Reimer,NYM
@@ -3460,7 +3460,7 @@ id,sport,value,team
 12597,baseball,Daison Acosta,SD
 12598,baseball,RJ Petit,COL
 12599,baseball,Matt Pushard,STL
-12600,baseball,Jedixson Paez,CWS
+12600,baseball,Jedixson Paez,BOS
 12601,baseball,Peyton Pallette,CLE
 12602,baseball,Cade Winquest,STL
 12605,baseball,Spencer Miles,TOR
@@ -3598,6 +3598,12 @@ id,sport,value,team
 12749,baseball,Seth Lonsway,SF
 12750,baseball,Yunior Marte,SF
 12751,baseball,John Peck,DET
+12752,baseball,Blake Burkhalter,ATL
+12753,baseball,Hancel Rincon,STL
+12754,baseball,Ben Ross,MIN
+12755,baseball,BJ Murray Jr.,CHC
+12756,baseball,Jared Simpson,WAS
+12757,baseball,Cesar Perdomo,SF
 1015,basketball,Tyson Chandler,HOU
 1023,basketball,Joe Johnson,BOS
 1091,basketball,Mike James,BKN
@@ -5574,6 +5580,7 @@ id,sport,value,team
 4320,basketball,Terrell Brown Jr.,UTH
 4321,basketball,Kobe Stewart,CHA
 4322,basketball,Malik Dia,NO
+4323,basketball,Trey Townsend,CHA
 615,football,Kent Shelby,LAC
 1038,football,Leon Johnson,LAC
 1533,football,Chase Cota,HOU
@@ -5641,6 +5648,7 @@ id,sport,value,team
 2985,football,Tennessee Titans TK,TEN
 2986,football,Washington Commanders TK,WAS
 3055,football,Chris Watson,FA
+3469,football,Terrelle Smith,WAS
 3477,football,Tom Brady,TB
 4343,football,Houston Texans TDSP,HOU
 4345,football,Houston Texans TK,HOU
@@ -6820,7 +6828,7 @@ id,sport,value,team
 17025,football,Gardner Minshew II,ARZ
 17026,football,Ryan Finley,HOU
 17027,football,Tyree Jackson,WAS
-17029,football,Easton Stick,IND
+17029,football,Easton Stick,TB
 17030,football,Dexter Williams,GB
 17031,football,Bryce Love,WAS
 17032,football,Karan Higdon,HOU
@@ -7673,7 +7681,7 @@ id,sport,value,team
 19815,football,Kevin Marks,LAC
 19816,football,Erik Krommenhoek,LAC
 19818,football,James McCourt,LV
-19819,football,Stone Smartt,PHI
+19819,football,Stone Smartt,NO
 19821,football,Brandon Peters,LAC
 19823,football,Trevon Bradford,LAC
 19826,football,Leddie Brown,LAC
@@ -7740,7 +7748,7 @@ id,sport,value,team
 20033,football,Tyreik McAllister,LV
 20035,football,Dylan Parham,DEN
 20037,football,Jalen Virgil,BUF
-20038,football,Brandon Johnson,LV
+20038,football,Brandon Johnson,PIT
 20039,football,Rodney Williams,PIT
 20041,football,Dre Miller,GB
 20047,football,Austin Allen,GB
@@ -7759,7 +7767,7 @@ id,sport,value,team
 20083,football,Travell Harris,CLE
 20088,football,Isaiah Weston,CLE
 20090,football,Felix Harper,CLE
-20091,football,Zaire Mitchell-Paden,NO
+20091,football,Zaire Mitchell-Paden,HOU
 20092,football,Ty Fryfogle,KC
 20093,football,Dennis Houston,TB
 20098,football,Jaquarii Roberson,LA
@@ -7845,7 +7853,7 @@ id,sport,value,team
 20287,football,Rashee Rice,KC
 20288,football,Zay Flowers,BAL
 20289,football,Hendon Hooker,TEN
-20290,football,Cedric Tillman,CLE
+20290,football,Cedric Tillman,NO
 20291,football,Parker Washington,JAX
 20292,football,Chase Brown,CIN
 20293,football,Marvin Mims Jr.,DEN
@@ -7913,9 +7921,9 @@ id,sport,value,team
 20358,football,Jalen Moreno-Cropper,NO
 20359,football,Jason Brownlee,KC
 20425,football,Brenton Strange,JAX
-20453,football,Cameron Latu,PHI
-20455,football,Jake Moody,WAS
-20468,football,Charlie Jones,CIN
+20453,football,Cameron Latu,NE
+20455,football,Jake Moody,BAL
+20468,football,Charlie Jones,NYG
 20479,football,Stetson Bennett IV,LA
 20480,football,Derius Davis,LAC
 20481,football,Aidan O'Connell,LV
@@ -7925,7 +7933,7 @@ id,sport,value,team
 20518,football,Dorian Thompson-Robinson,PHI
 20519,football,Jalen Brooks,ARZ
 20526,football,Antoine Green,DET
-20527,football,Sean Clifford,CIN
+20527,football,Sean Clifford,SF
 20529,football,Anders Carlson,NYJ
 20530,football,Lew Nichols,PIT
 20535,football,Jared Wayne,HOU
@@ -7939,7 +7947,7 @@ id,sport,value,team
 20620,football,Robert Burns,ATL
 20623,football,Adrian Martinez,SF
 20628,football,Malik Cunningham,DET
-20629,football,Blake Grupe,IND
+20629,football,Blake Grupe,NYJ
 20630,football,Thayer Thomas,DEN
 20634,football,Jack Podlesny,GB
 20637,football,Malik Knowles,SF
@@ -7950,7 +7958,7 @@ id,sport,value,team
 20649,football,B.T. Potter,TB
 20655,football,Kearis Jackson,HOU
 20658,football,Charles McClelland,TEN
-20659,football,Mitch Tinsley,CIN
+20659,football,Mitch Tinsley,HOU
 20661,football,Kazmeir Allen,WAS
 20664,football,Shaquan Davis,PIT
 20670,football,Sy Barnett,NO
@@ -7971,7 +7979,7 @@ id,sport,value,team
 20710,football,Tanner Brown,NO
 20712,football,Christopher Dunn,LA
 20717,football,Joel Honigford,ARZ
-20719,football,Emari Demercado,KC
+20719,football,Emari Demercado,DAL
 20721,football,Daniel Arias,ARZ
 20722,football,Blake Whiteheart,CLE
 20726,football,Carlos Washington Jr.,MIA
@@ -8015,12 +8023,12 @@ id,sport,value,team
 20818,football,Shedrick Jackson,LV
 20825,football,Hassan Hall,ARZ
 20828,football,Johnny King,PHI
-20829,football,Zavier Scott,MIN
+20829,football,Zavier Scott,CHI
 20830,football,Darius Hagans,PIT
 20836,football,Cody Chrest,IND
 20840,football,Titus Swen,IND
 20845,football,Tommy DeVito,NE
-20849,football,Ben VanSumeren,BUF
+20849,football,Ben VanSumeren,KC
 20852,football,Joseph Ngata,PHI
 20855,football,Jadon Haselwood,PHI
 20857,football,Brady Russell,SEA
@@ -8061,7 +8069,7 @@ id,sport,value,team
 20997,football,Isaiah Bowser,BUF
 21001,football,Emanuel Wilson,SEA
 21004,football,Dallas Daniels,DEN
-21005,football,Jaleel McLaughlin,DEN
+21005,football,Jaleel McLaughlin,CLE
 21011,football,Nate Adkins,DEN
 21012,football,Taylor Grimes,DEN
 21014,football,Kris Leach,DEN
@@ -8274,7 +8282,7 @@ id,sport,value,team
 21701,football,Talik Keaton,PHI
 21702,football,Kendall Milton,CIN
 21704,football,Garrett Greene,TB
-21705,football,Jack Westover,NE
+21705,football,Jack Westover,WAS
 21706,football,Chevan Cordeiro,SEA
 21707,football,Hayden Hatten,SEA
 21709,football,George Holani,SEA
@@ -8290,10 +8298,10 @@ id,sport,value,team
 21741,football,Jarveon Howard,BUF
 21746,football,Julian Hicks,SEA
 21751,football,Alex McNulty,GB
-21753,football,Messiah Swinson,GB
+21753,football,Messiah Swinson,CLE
 21754,football,British Brooks,HOU
 21758,football,Jaxon Janke,HOU
-21760,football,Kedon Slovis,ARZ
+21760,football,Kedon Slovis,GB
 21762,football,Malcolm Epps,IND
 21763,football,Justin Strong,IND
 21764,football,Xavier White,IND
@@ -8373,7 +8381,7 @@ id,sport,value,team
 21989,football,Jude McAtamney,NYG
 21990,football,John Jiles,NE
 21991,football,Tre Mosley,CIN
-21996,football,Hayden Rucci,SF
+21996,football,Hayden Rucci,JAX
 21998,football,Jadon Janke,GB
 21999,football,Tanner Knue,TB
 22002,football,John Jackson,CHI
@@ -8427,7 +8435,7 @@ id,sport,value,team
 22089,football,Ontaria Wilson,NYJ
 22090,football,LeQuint Allen Jr.,JAX
 22091,football,Elic Ayomanor,TEN
-22092,football,Jaydon Blue,DAL
+22092,football,Jaydon Blue,PHI
 22094,football,Trevor Etienne,CAR
 22095,football,Harold Fannin Jr.,CLE
 22096,football,DJ Giddens,IND
@@ -8513,7 +8521,7 @@ id,sport,value,team
 22431,football,Connor Bazelak,TB
 22432,football,Anthony Landphere,TB
 22433,football,Josh Williams,TB
-22434,football,Will Sheppard,GB
+22434,football,Will Sheppard,MIA
 22437,football,Bryson Green,ARZ
 22438,football,Oscar Cardenas,ARZ
 22439,football,Ahmani Marshall,CLE
@@ -8544,12 +8552,12 @@ id,sport,value,team
 22518,football,Monaray Baldwin,MIA
 22519,football,Montrell Johnson,CAR
 22522,football,Silas Bolden,HOU
-22532,football,Joshua Simon,ATL
+22532,football,Joshua Simon,WAS
 22535,football,Quincy Skinner Jr.,NYJ
-22536,football,Nathan Carter,ATL
+22536,football,Nathan Carter,KC
 22538,football,Nick Nash,WAS
 22540,football,Seth Henigan,IND
-22543,football,Patrick Herbert,JAX
+22543,football,Patrick Herbert,LAC
 22546,football,Dalen Cambre,NYG
 22547,football,Beaux Collins,ATL
 22549,football,Jordan Bly,NYG
@@ -8624,7 +8632,7 @@ id,sport,value,team
 22765,football,Zach Horton,DET
 22767,football,Julian Fleming,GB
 22771,football,Dante Wright,KC
-22775,football,Tre Watson,KC
+22775,football,Tre Watson,MIA
 22776,football,Qualan Jones,KC
 22778,football,Carter Runyon,LV
 22780,football,Ben Yurosek,MIN
@@ -8830,7 +8838,7 @@ id,sport,value,team
 23366,football,Hayden Large,CHI
 23372,football,Noah Thomas,CIN
 23373,football,Josh Kattus,CIN
-23383,football,Davon Booth,CLE
+23383,football,Davon Booth,IND
 23384,football,Kole Wilson,CLE
 23385,football,TJ Harden,SEA
 23389,football,Aaron Anderson,CLE
@@ -8849,7 +8857,7 @@ id,sport,value,team
 23420,football,Joshua Pitsenberger,HOU
 23422,football,Raylen Sharpe,IND
 23430,football,EJ Smith,KC
-23434,football,Al-Jay Henderson,KC
+23434,football,Al-Jay Henderson,NYJ
 23436,football,Terion Stewart,KC
 23438,football,Ken Seals,KC
 23440,football,John Michael Gyllenborg,KC

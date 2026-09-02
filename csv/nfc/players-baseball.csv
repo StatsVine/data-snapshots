@@ -278,7 +278,7 @@ id,value,team
 8611,Chris Owings,PIT
 8613,David Hale,PHI
 8614,Juan Centeno,BOS
-8615,Christian Bethancourt,CHC
+8615,Christian Bethancourt,PIT
 8617,Onelki Garcia,KC
 8618,Nick Buss,MIN
 8623,Enny Romero,LAD
@@ -455,7 +455,7 @@ id,value,team
 8913,R.J. Alvarez,NYM
 8915,Spencer Patton,ATH
 8917,Jairo Diaz,COL
-8919,Tommy Pham,NYM
+8919,Tommy Pham,CWS
 8921,Danny Coulombe,BOS
 8922,Rusney Castillo,BOS
 8923,Bryce Brentz,BOS
@@ -796,7 +796,7 @@ id,value,team
 9452,Carson Kelly,CHC
 9453,Jose De Leon,BOS
 9456,Kevin McCarthy,BOS
-9457,Trevor Williams,WAS
+9457,Trevor Williams,TEX
 9460,Joely Rodriguez,BOS
 9461,Trey Mancini,LAA
 9463,Carlos Asuaje,LAD
@@ -896,7 +896,7 @@ id,value,team
 9586,Glenn Sparkman,MIN
 9587,Kevin Gadea,TB
 9588,Aneury Tavarez,BOS
-9589,Hoby Milner,CHC
+9589,Hoby Milner,SEA
 9590,Dylan Covey,NYM
 9591,Miguel Diaz,HOU
 9592,Justin Haley,BOS
@@ -3186,7 +3186,7 @@ id,value,team
 12301,Max Muncy,ATH
 12302,JJ Wetherholt,STL
 12303,Justin Crawford,PHI
-12304,Lazaro  Montes,SEA
+12304,Lazaro Montes,SEA
 12305,Shane Smith,CWS
 12306,David Sandlin,CWS
 12307,Ryan Ward,LAD
@@ -3356,7 +3356,7 @@ id,value,team
 12491,Carlos Lagrange,NYY
 12492,Hiroto Saiki,FA
 12493,Ethan Pecko,HOU
-12494,Leonardo Bernal,STL
+12494,Leo Bernal,STL
 12495,Henry Bolte,ATH
 12496,Nelson Rada,LAA
 12497,Jacob Reimer,NYM
@@ -3460,7 +3460,7 @@ id,value,team
 12597,Daison Acosta,SD
 12598,RJ Petit,COL
 12599,Matt Pushard,STL
-12600,Jedixson Paez,CWS
+12600,Jedixson Paez,BOS
 12601,Peyton Pallette,CLE
 12602,Cade Winquest,STL
 12605,Spencer Miles,TOR
@@ -3598,3 +3598,9 @@ id,value,team
 12749,Seth Lonsway,SF
 12750,Yunior Marte,SF
 12751,John Peck,DET
+12752,Blake Burkhalter,ATL
+12753,Hancel Rincon,STL
+12754,Ben Ross,MIN
+12755,BJ Murray Jr.,CHC
+12756,Jared Simpson,WAS
+12757,Cesar Perdomo,SF

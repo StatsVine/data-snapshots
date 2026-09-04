@@ -2955,7 +2955,7 @@ id,sport,value,team
 12038,baseball,Isaac Coffey,BOS
 12039,baseball,Samuel Basallo,BAL
 12040,baseball,Walker Jenkins,MIN
-12042,baseball,Brett Harris,BOS
+12042,baseball,Brett Harris,SF
 12043,baseball,Jake Armbruester,FA
 12044,baseball,Justin Armbruester,FA
 12045,baseball,Chase Petty,CIN
@@ -3524,7 +3524,7 @@ id,sport,value,team
 12675,baseball,Rikuu Nishida,CWS
 12676,baseball,Tanner Andrews,TOR
 12677,baseball,Charles McAdoo,TOR
-12678,baseball,Cameron Weston,BAL
+12678,baseball,Cameron Weston,NYM
 12679,baseball,Jacob Gonzalez,PIT
 12680,baseball,Hayden Juenger,ATH
 12681,baseball,Jonah Cox,SF
@@ -4987,7 +4987,7 @@ id,sport,value,team
 3667,basketball,Dyson Daniels,ATL
 3668,basketball,E.J. Liddell,BKN
 3669,basketball,Karlo Matkovic,NO
-3670,basketball,JD Davison,HOU
+3670,basketball,JD Davison,ORL
 3671,basketball,Blake Wesley,POR
 3672,basketball,Jeremy Sochan,POR
 3673,basketball,Malaki Branham,ORL
@@ -7640,7 +7640,7 @@ id,sport,value,team
 19654,football,Trestan Ebner,CHI
 19663,football,Michael Woods II,DEN
 19675,football,Montrell Washington,HOU
-19680,football,James Mitchell,CAR
+19680,football,James Mitchell,DAL
 19686,football,Teagan Quitoriano,ARZ
 19689,football,Drew Ogletree,IND
 19693,football,Snoop Conner,DAL
@@ -7878,7 +7878,7 @@ id,sport,value,team
 20312,football,Tucker Kraft,GB
 20313,football,DeWayne McBride,MIN
 20314,football,Dontayvion Wicks,PHI
-20315,football,Ronnie Bell,NO
+20315,football,Ronnie Bell,LV
 20316,football,Mohamed Ibrahim,MIN
 20317,football,Camerun Peoples,CAR
 20318,football,Rakim Jarrett,PIT
@@ -8524,7 +8524,7 @@ id,sport,value,team
 22434,football,Will Sheppard,MIA
 22437,football,Bryson Green,ARZ
 22438,football,Oscar Cardenas,ARZ
-22439,football,Ahmani Marshall,CLE
+22439,football,Ahmani Marshall,CAR
 22442,football,Ryan Coe,TB
 22449,football,Luke Grimm,LAC
 22454,football,Landon Parker,IND
@@ -8584,7 +8584,7 @@ id,sport,value,team
 22598,football,Bryson Nesbit,MIN
 22601,football,Dontae Fleming,MIN
 22605,football,Robert Lewis,MIN
-22608,football,Brady Cook,NYJ
+22608,football,Brady Cook,MIA
 22613,football,Jamaal Pritchett,NYJ
 22615,football,Bryce Pierre,CAR
 22616,football,Kayron Lynch-Adams,CAR
@@ -8760,7 +8760,7 @@ id,sport,value,team
 23136,football,Joe Royer,CLE
 23137,football,Carsen Ryan,CLE
 23140,football,Anthony Smith,DAL
-23141,football,Justin Joly,DEN
+23141,football,Justin Joly,MIA
 23142,football,Dallen Bentley,DEN
 23147,football,Kendrick Law,DET
 23151,football,Trey Smack,GB

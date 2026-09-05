@@ -28590,7 +28590,7 @@
       "WR"
     ],
     "sportsdata_player_id": "f7ff7599-a175-4a0c-b887-3ae9e596fc64",
-    "team_id": "CHI",
+    "team_id": "FA",
     "yahoo_id": "31157"
   },
   {
@@ -33392,7 +33392,7 @@
       "TE"
     ],
     "sportsdata_player_id": "617aee8a-70be-4bdf-9a71-2e2b74e647e6",
-    "team_id": "LV",
+    "team_id": "FA",
     "yahoo_id": "32788"
   },
   {
@@ -39995,7 +39995,7 @@
       "LB"
     ],
     "sportsdata_player_id": "c5175598-1392-4eaa-ae62-d99811a0c477",
-    "team_id": "BUF",
+    "team_id": "FA",
     "yahoo_id": "32319"
   },
   {
@@ -43935,7 +43935,7 @@
       "DE,LB"
     ],
     "sportsdata_player_id": "3f4fe254-f18f-4b56-83e0-c37cfc72c7f7",
-    "team_id": "ATL",
+    "team_id": "FA",
     "yahoo_id": "32817"
   },
   {
@@ -90805,7 +90805,7 @@
       "RB"
     ],
     "sportsdata_player_id": "23334610-4291-11f1-9ea6-9949f2621be7",
-    "team_id": "KC",
+    "team_id": "FA",
     "yahoo_id": "43115"
   },
   {
@@ -106736,7 +106736,7 @@
       "QB"
     ],
     "sportsdata_player_id": "7078cdfc-032b-4f85-8b4b-720f926ba1cb",
-    "team_id": "KC",
+    "team_id": "FA",
     "yahoo_id": "34197"
   },
   {
@@ -113379,7 +113379,7 @@
       "LB,DE"
     ],
     "sportsdata_player_id": "1c5dddf1-b744-4019-b57b-4fc8a3798dee",
-    "team_id": "FA",
+    "team_id": "ATL",
     "yahoo_id": "40955"
   },
   {
@@ -133137,7 +133137,7 @@
       "LB"
     ],
     "sportsdata_player_id": "8685ab70-072b-11ef-bd95-696f2af85280",
-    "team_id": "MIN",
+    "team_id": "FA",
     "yahoo_id": "41374"
   },
   {
@@ -140071,7 +140071,7 @@
       "DE,LB"
     ],
     "sportsdata_player_id": "83573dd8-c19e-4e20-9c3d-056418bf3842",
-    "team_id": "LAC",
+    "team_id": "FA",
     "yahoo_id": "41890"
   },
   {
@@ -140466,7 +140466,7 @@
     "filename": "https://www.fantasypros.com/nfl/players/ethan-burke.php",
     "first_name": "Ethan",
     "last_name": "Burke",
-    "mfl_id": null,
+    "mfl_id": "17768",
     "nfl_id": null,
     "player_id": 27160,
     "player_name": "Ethan Burke",
@@ -145836,7 +145836,7 @@
       "DE,LB"
     ],
     "sportsdata_player_id": "d180aee0-10b2-11f0-9c59-63cff113188c",
-    "team_id": "WAS",
+    "team_id": "FA",
     "yahoo_id": "41783"
   },
   {
@@ -151502,7 +151502,7 @@
       "DE"
     ],
     "sportsdata_player_id": "e8264aa0-2f53-11f0-9adb-990c0f22dbf2",
-    "team_id": "LV",
+    "team_id": "FA",
     "yahoo_id": "42510"
   },
   {
@@ -155039,7 +155039,7 @@
       "WR"
     ],
     "sportsdata_player_id": "0c02af70-429c-11f1-bcde-396d2feaac5b",
-    "team_id": "LV",
+    "team_id": "FA",
     "yahoo_id": "43126"
   },
   {
@@ -162413,7 +162413,7 @@
     "filename": "https://www.fantasypros.com/nfl/players/aaron-hall.php",
     "first_name": "Aaron",
     "last_name": "Hall",
-    "mfl_id": null,
+    "mfl_id": "17769",
     "nfl_id": null,
     "player_id": 28586,
     "player_name": "Aaron Hall",
@@ -169509,6 +169509,186 @@
       "K"
     ],
     "sportsdata_player_id": "729eb990-e778-11ed-8e34-05012ea4203f",
+    "team_id": "FA",
+    "yahoo_id": null
+  },
+  {
+    "birthdate": "",
+    "cbs_id": null,
+    "draft_class": 2027,
+    "espn_id": null,
+    "filename": "https://www.fantasypros.com/nfl/players/jelani-thurman.php",
+    "first_name": "Jelani",
+    "last_name": "Thurman",
+    "mfl_id": null,
+    "nfl_id": null,
+    "player_id": 29435,
+    "player_name": "Jelani Thurman",
+    "position_id": "TE",
+    "positions": [
+      "TE"
+    ],
+    "sportsdata_player_id": "",
+    "team_id": "FA",
+    "yahoo_id": null
+  },
+  {
+    "birthdate": "",
+    "cbs_id": null,
+    "draft_class": 2029,
+    "espn_id": null,
+    "filename": "https://www.fantasypros.com/nfl/players/gavin-mueller.php",
+    "first_name": "Gavin",
+    "last_name": "Mueller",
+    "mfl_id": null,
+    "nfl_id": null,
+    "player_id": 29436,
+    "player_name": "Gavin Mueller",
+    "position_id": "TE",
+    "positions": [
+      "TE"
+    ],
+    "sportsdata_player_id": "",
+    "team_id": "FA",
+    "yahoo_id": null
+  },
+  {
+    "birthdate": "",
+    "cbs_id": null,
+    "draft_class": 2029,
+    "espn_id": null,
+    "filename": "https://www.fantasypros.com/nfl/players/lamarcus-bell.php",
+    "first_name": "LaMarcus",
+    "last_name": "Bell",
+    "mfl_id": null,
+    "nfl_id": null,
+    "player_id": 29437,
+    "player_name": "LaMarcus Bell",
+    "position_id": "RB",
+    "positions": [
+      "RB"
+    ],
+    "sportsdata_player_id": "",
+    "team_id": "FA",
+    "yahoo_id": null
+  },
+  {
+    "birthdate": "",
+    "cbs_id": null,
+    "draft_class": 2027,
+    "espn_id": null,
+    "filename": "https://www.fantasypros.com/nfl/players/terrell-anderson.php",
+    "first_name": "Terrell",
+    "last_name": "Anderson",
+    "mfl_id": null,
+    "nfl_id": null,
+    "player_id": 29438,
+    "player_name": "Terrell Anderson",
+    "position_id": "WR",
+    "positions": [
+      "WR"
+    ],
+    "sportsdata_player_id": "",
+    "team_id": "FA",
+    "yahoo_id": null
+  },
+  {
+    "birthdate": "",
+    "cbs_id": null,
+    "draft_class": 2027,
+    "espn_id": null,
+    "filename": "https://www.fantasypros.com/nfl/players/devin-mccuin.php",
+    "first_name": "Devin",
+    "last_name": "McCuin",
+    "mfl_id": null,
+    "nfl_id": null,
+    "player_id": 29439,
+    "player_name": "Devin McCuin",
+    "position_id": "WR",
+    "positions": [
+      "WR"
+    ],
+    "sportsdata_player_id": "",
+    "team_id": "FA",
+    "yahoo_id": null
+  },
+  {
+    "birthdate": "",
+    "cbs_id": null,
+    "draft_class": 2028,
+    "espn_id": null,
+    "filename": "https://www.fantasypros.com/nfl/players/ed-small.php",
+    "first_name": "Ed",
+    "last_name": "Small",
+    "mfl_id": null,
+    "nfl_id": null,
+    "player_id": 29440,
+    "player_name": "Ed Small",
+    "position_id": "WR",
+    "positions": [
+      "WR"
+    ],
+    "sportsdata_player_id": "",
+    "team_id": "FA",
+    "yahoo_id": null
+  },
+  {
+    "birthdate": "",
+    "cbs_id": null,
+    "draft_class": 2028,
+    "espn_id": null,
+    "filename": "https://www.fantasypros.com/nfl/players/will-hammond.php",
+    "first_name": "Will",
+    "last_name": "Hammond",
+    "mfl_id": null,
+    "nfl_id": null,
+    "player_id": 29441,
+    "player_name": "Will Hammond",
+    "position_id": "QB",
+    "positions": [
+      "QB"
+    ],
+    "sportsdata_player_id": "",
+    "team_id": "FA",
+    "yahoo_id": null
+  },
+  {
+    "birthdate": "",
+    "cbs_id": null,
+    "draft_class": 2027,
+    "espn_id": null,
+    "filename": "https://www.fantasypros.com/nfl/players/austin-simmons.php",
+    "first_name": "Austin",
+    "last_name": "Simmons",
+    "mfl_id": null,
+    "nfl_id": null,
+    "player_id": 29442,
+    "player_name": "Austin Simmons",
+    "position_id": "QB",
+    "positions": [
+      "QB"
+    ],
+    "sportsdata_player_id": "",
+    "team_id": "FA",
+    "yahoo_id": null
+  },
+  {
+    "birthdate": "",
+    "cbs_id": null,
+    "draft_class": 2027,
+    "espn_id": null,
+    "filename": "https://www.fantasypros.com/nfl/players/javon-tracy.php",
+    "first_name": "Javon",
+    "last_name": "Tracy",
+    "mfl_id": null,
+    "nfl_id": null,
+    "player_id": 29443,
+    "player_name": "Javon Tracy",
+    "position_id": "WR",
+    "positions": [
+      "WR"
+    ],
+    "sportsdata_player_id": "",
     "team_id": "FA",
     "yahoo_id": null
   }

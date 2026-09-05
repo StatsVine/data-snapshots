@@ -1796,7 +1796,7 @@ id,sport,value,team
 10672,baseball,Adonis Rosa,NYY
 10673,baseball,Dom Nunez,CLE
 10674,baseball,Taylor Guilbeau,ARZ
-10675,baseball,Joel Kuhnel,MLW
+10675,baseball,Joel Kuhnel,SF
 10677,baseball,Seth Brown,ATH
 10678,baseball,Rico Garcia,BAL
 10679,baseball,Bryan Garcia,DET
@@ -3320,7 +3320,7 @@ id,sport,value,team
 12454,baseball,Andrew Alvarez,WAS
 12455,baseball,Mitch Farris,LAA
 12456,baseball,Carter Jensen,KC
-12457,baseball,Hayden Harris,ATL
+12457,baseball,Hayden Harris,COL
 12458,baseball,Nick Raquet,BAL
 12459,baseball,Connelly Early,WAS
 12460,baseball,Cody Laweryson,MIN
@@ -3604,6 +3604,8 @@ id,sport,value,team
 12755,baseball,BJ Murray Jr.,CHC
 12756,baseball,Jared Simpson,WAS
 12757,baseball,Cesar Perdomo,SF
+12758,baseball,Carlos Jorge,CIN
+12759,baseball,Jack Sinclair,WAS
 1015,basketball,Tyson Chandler,HOU
 1023,basketball,Joe Johnson,BOS
 1091,basketball,Mike James,BKN
@@ -4061,7 +4063,7 @@ id,sport,value,team
 2673,basketball,Patrick McCaw,TOR
 2674,basketball,Damian Jones,CLE
 2675,basketball,Timothe Luwawu-Cabarrot,PHO
-2676,basketball,Ben Simmons,LAC
+2676,basketball,Ben Simmons,SAC
 2677,basketball,James Webb III,BKN
 2678,basketball,Sergio Rodriguez,PHI
 2679,basketball,Shawn Long,HOU
@@ -5015,7 +5017,7 @@ id,sport,value,team
 3695,basketball,Javon Freeman-Liberty,TOR
 3696,basketball,Simone Fontecchio,MIA
 3697,basketball,Kellan Grady,DEN
-3698,basketball,John Butler,WAS
+3698,basketball,John Butler Jr.,MIL
 3700,basketball,Josh Minnott,FA
 3701,basketball,Caleb Houston,FA
 3702,basketball,JD Davidson,FA

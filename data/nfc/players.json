@@ -10784,7 +10784,7 @@
   {
     "id": 10675,
     "sport": "baseball",
-    "team": "MLW",
+    "team": "SF",
     "value": "Joel Kuhnel"
   },
   {
@@ -19928,7 +19928,7 @@
   {
     "id": 12457,
     "sport": "baseball",
-    "team": "ATL",
+    "team": "COL",
     "value": "Hayden Harris"
   },
   {
@@ -21628,6 +21628,18 @@
     "sport": "baseball",
     "team": "SF",
     "value": "Cesar Perdomo"
+  },
+  {
+    "id": 12758,
+    "sport": "baseball",
+    "team": "CIN",
+    "value": "Carlos Jorge"
+  },
+  {
+    "id": 12759,
+    "sport": "baseball",
+    "team": "WAS",
+    "value": "Jack Sinclair"
   },
   {
     "id": 1015,
@@ -24374,7 +24386,7 @@
   {
     "id": 2676,
     "sport": "basketball",
-    "team": "LAC",
+    "team": "SAC",
     "value": "Ben Simmons"
   },
   {
@@ -30098,8 +30110,8 @@
   {
     "id": 3698,
     "sport": "basketball",
-    "team": "WAS",
-    "value": "John Butler"
+    "team": "MIL",
+    "value": "John Butler Jr."
   },
   {
     "id": 3700,

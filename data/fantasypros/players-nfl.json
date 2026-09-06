@@ -4006,7 +4006,7 @@
       "S"
     ],
     "sportsdata_player_id": "407f1923-6659-4564-800f-25b8746d6d3e",
-    "team_id": "FA",
+    "team_id": "MIN",
     "yahoo_id": "25739"
   },
   {
@@ -43935,7 +43935,7 @@
       "DE,LB"
     ],
     "sportsdata_player_id": "3f4fe254-f18f-4b56-83e0-c37cfc72c7f7",
-    "team_id": "FA",
+    "team_id": "SF",
     "yahoo_id": "32817"
   },
   {
@@ -92685,7 +92685,7 @@
       "CB"
     ],
     "sportsdata_player_id": "34786359-962b-44e4-8882-d387d1a8ed42",
-    "team_id": "LAR",
+    "team_id": "FA",
     "yahoo_id": "33511"
   },
   {
@@ -110731,7 +110731,7 @@
       "S"
     ],
     "sportsdata_player_id": "8b181df0-d30a-11ec-8b77-45b1765fd110",
-    "team_id": "FA",
+    "team_id": "SEA",
     "yahoo_id": "34475"
   },
   {
@@ -113057,7 +113057,7 @@
       "TE"
     ],
     "sportsdata_player_id": "0a25d350-133c-11ed-b006-a39c0834c6a9",
-    "team_id": "FA",
+    "team_id": "KC",
     "yahoo_id": "34300"
   },
   {
@@ -116900,7 +116900,7 @@
       "TE"
     ],
     "sportsdata_player_id": "733cc366-53e3-4703-a2fc-2aa860272cf3",
-    "team_id": "SF",
+    "team_id": "FA",
     "yahoo_id": "40261"
   },
   {
@@ -137400,7 +137400,7 @@
       "DE,LB"
     ],
     "sportsdata_player_id": "f1608400-0ef7-11ef-937d-e3ddb9378fcd",
-    "team_id": "MIN",
+    "team_id": "FA",
     "yahoo_id": "41688"
   },
   {
@@ -143425,11 +143425,11 @@
     "espn_id": null,
     "filename": "https://www.fantasypros.com/nfl/players/ryan-williams-wr.php",
     "first_name": "Ryan",
-    "last_name": "Williams",
+    "last_name": "Coleman-Williams",
     "mfl_id": null,
     "nfl_id": null,
     "player_id": 27363,
-    "player_name": "Ryan Williams",
+    "player_name": "Ryan Coleman-Williams",
     "position_id": "WR",
     "positions": [
       "WR"
@@ -148406,7 +148406,7 @@
       "DT"
     ],
     "sportsdata_player_id": "5d1dcbd0-249b-11f0-9d05-2f208fd62ab5",
-    "team_id": "JAC",
+    "team_id": "FA",
     "yahoo_id": "42213"
   },
   {
@@ -160798,7 +160798,7 @@
       "DT"
     ],
     "sportsdata_player_id": "57dad5d5-8dfc-4faa-884a-390e3c3892bc",
-    "team_id": "FA",
+    "team_id": "PHI",
     "yahoo_id": "42873"
   },
   {

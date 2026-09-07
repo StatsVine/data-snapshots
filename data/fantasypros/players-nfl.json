@@ -116900,7 +116900,7 @@
       "TE"
     ],
     "sportsdata_player_id": "733cc366-53e3-4703-a2fc-2aa860272cf3",
-    "team_id": "FA",
+    "team_id": "SF",
     "yahoo_id": "40261"
   },
   {
@@ -162502,7 +162502,7 @@
       "DE,LB"
     ],
     "sportsdata_player_id": "497cd380-426a-11f1-8658-11038d7bedf8",
-    "team_id": "SEA",
+    "team_id": "FA",
     "yahoo_id": "43006"
   },
   {
@@ -169399,7 +169399,7 @@
   },
   {
     "birthdate": "",
-    "cbs_id": null,
+    "cbs_id": "28908694",
     "espn_id": null,
     "filename": "https://www.fantasypros.com/nfl/players/alex-tecza.php",
     "first_name": "Alex",
@@ -169418,7 +169418,7 @@
   },
   {
     "birthdate": "",
-    "cbs_id": null,
+    "cbs_id": "3162000",
     "draft_class": 2025,
     "espn_id": null,
     "filename": "https://www.fantasypros.com/nfl/players/jaheim-thomas.php",
@@ -169457,7 +169457,7 @@
   },
   {
     "birthdate": "",
-    "cbs_id": null,
+    "cbs_id": "29408013",
     "espn_id": null,
     "filename": "https://www.fantasypros.com/nfl/players/matthew-henry.php",
     "first_name": "Matthew",

@@ -1486,7 +1486,7 @@ id,sport,value,team
 10293,baseball,MJ Melendez,NYM
 10295,baseball,Nate Pearson,KC
 10296,baseball,Nathaniel Lowe,CLE
-10297,baseball,Nick Madrigal,LAA
+10297,baseball,Nick Madrigal,TB
 10298,baseball,Nick Neidert,MIA
 10299,baseball,Nick Pratto,KC
 10300,baseball,Nick Schnell,TB
@@ -5095,7 +5095,7 @@ id,sport,value,team
 3776,basketball,Taylor Hendricks,MEM
 3777,basketball,Keyonte George,UTH
 3778,basketball,Nick Smith Jr.,LAL
-3779,basketball,Jordan Hawkins,NO
+3779,basketball,Jordan Hawkins,MEM
 3780,basketball,Cason Wallace,OKC
 3781,basketball,Jalen Hood-Schifino,PHI
 3782,basketball,Jett Howard,DAL
@@ -5258,7 +5258,7 @@ id,sport,value,team
 3992,basketball,Ronald Holland II,DET
 3993,basketball,Tidjane Salaun,CHA
 3994,basketball,Zaccharie Risacher,DAL
-3995,basketball,AJ Johnson,MEM
+3995,basketball,AJ Johnson,NO
 3996,basketball,Nikola Topic,OKC
 3997,basketball,Kevin McCullar Jr.,NY
 3998,basketball,Tyler Kolek,NY
@@ -5431,7 +5431,7 @@ id,sport,value,team
 4168,basketball,Javon Small,MEM
 4169,basketball,Adou Thiero,LAL
 4170,basketball,Jahmai Mashack,MEM
-4171,basketball,Micah Peavy,NO
+4171,basketball,Micah Peavy,MEM
 4172,basketball,Hunter Dickinson,NO
 4173,basketball,Amari Williams,BOS
 4174,basketball,Max Shulga,BOS
@@ -5502,7 +5502,7 @@ id,sport,value,team
 4239,basketball,Payton Sandfort,OKC
 4240,basketball,Jayson Kent,POR
 4241,basketball,Andersson Garcia,UTH
-4242,basketball,Bez Mbeng,UTH
+4242,basketball,Bez Mbeng,CHA
 4243,basketball,Adama Bal,MEM
 4244,basketball,Toby Okani,MEM
 4245,basketball,Tyreke Key,TOR
@@ -7960,7 +7960,7 @@ id,sport,value,team
 20649,football,B.T. Potter,TB
 20655,football,Kearis Jackson,HOU
 20658,football,Charles McClelland,TEN
-20659,football,Mitch Tinsley,HOU
+20659,football,Mitchell Tinsley,HOU
 20661,football,Kazmeir Allen,WAS
 20664,football,Shaquan Davis,PIT
 20670,football,Sy Barnett,NO
@@ -8199,7 +8199,7 @@ id,sport,value,team
 21404,football,Will Reichard,MIN
 21408,football,Joe Milton III,DAL
 21413,football,Spencer Rattler,NO
-21414,football,Bub Means,NO
+21414,football,Bub Means,CLE
 21419,football,Jordan Travis,NYJ
 21434,football,Devin Culp,TB
 21442,football,Luke Benson,LAC
@@ -8882,7 +8882,7 @@ id,sport,value,team
 23483,football,E.J. Williams Jr.,LV
 23484,football,Matt Lauter,MIN
 23486,football,Roman Hemby,LV
-23488,football,Mark Gronowski,MIA
+23488,football,Mark Gronowski,HOU
 23489,football,Donaven McCulley,MIA
 23491,football,Anthony Hankerson,SEA
 23492,football,Romello Brinson,DAL
@@ -8942,7 +8942,7 @@ id,sport,value,team
 23644,football,Jimmy Kibble,NE
 23645,football,Nick DeGennaro,NE
 23646,football,Damon Bankston,NYG
-23653,football,Kenny Fletcher Jr.,TB
+23653,football,Kenny Fletcher Jr.,IND
 23660,football,Drew Stevens,WAS
 23661,football,Kolbe Katsis,DEN
 23669,football,Stone Eby,DEN

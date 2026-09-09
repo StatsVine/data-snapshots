@@ -8924,7 +8924,7 @@
   {
     "id": 10297,
     "sport": "baseball",
-    "team": "LAA",
+    "team": "TB",
     "value": "Nick Madrigal"
   },
   {
@@ -30578,7 +30578,7 @@
   {
     "id": 3779,
     "sport": "basketball",
-    "team": "NO",
+    "team": "MEM",
     "value": "Jordan Hawkins"
   },
   {
@@ -31556,7 +31556,7 @@
   {
     "id": 3995,
     "sport": "basketball",
-    "team": "MEM",
+    "team": "NO",
     "value": "AJ Johnson"
   },
   {
@@ -32594,7 +32594,7 @@
   {
     "id": 4171,
     "sport": "basketball",
-    "team": "NO",
+    "team": "MEM",
     "value": "Micah Peavy"
   },
   {
@@ -33020,7 +33020,7 @@
   {
     "id": 4242,
     "sport": "basketball",
-    "team": "UTH",
+    "team": "CHA",
     "value": "Bez Mbeng"
   },
   {
@@ -47769,7 +47769,7 @@
     "id": 20659,
     "sport": "football",
     "team": "HOU",
-    "value": "Mitch Tinsley"
+    "value": "Mitchell Tinsley"
   },
   {
     "id": 20661,
@@ -49202,7 +49202,7 @@
   {
     "id": 21414,
     "sport": "football",
-    "team": "NO",
+    "team": "CLE",
     "value": "Bub Means"
   },
   {
@@ -53300,7 +53300,7 @@
   {
     "id": 23488,
     "sport": "football",
-    "team": "MIA",
+    "team": "HOU",
     "value": "Mark Gronowski"
   },
   {
@@ -53660,7 +53660,7 @@
   {
     "id": 23653,
     "sport": "football",
-    "team": "TB",
+    "team": "IND",
     "value": "Kenny Fletcher Jr."
   },
   {

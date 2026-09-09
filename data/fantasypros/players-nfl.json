@@ -8051,7 +8051,8 @@
     "player_name": "Aaron Donald",
     "position_id": "DT",
     "positions": [
-      "DT"
+      "DT",
+      "DE,DT"
     ],
     "sportsdata_player_id": "8bb5c7ef-e7be-4015-8874-2f0982286acc",
     "team_id": "LAR",
@@ -20538,7 +20539,8 @@
     "player_name": "Myles Garrett",
     "position_id": "DE",
     "positions": [
-      "DE"
+      "DE",
+      "DE,LB"
     ],
     "sportsdata_player_id": "a85a0ba9-674c-4f37-a944-474fc6cdf557",
     "team_id": "LAR",
@@ -39975,7 +39977,7 @@
       "DT"
     ],
     "sportsdata_player_id": "2a86a6b4-58ef-42f5-aff9-d5d979bea6c7",
-    "team_id": "FA",
+    "team_id": "SF",
     "yahoo_id": "32321"
   },
   {
@@ -42149,7 +42151,8 @@
     "player_name": "A.J. Epenesa",
     "position_id": "DE",
     "positions": [
-      "DE"
+      "DE",
+      "DE,LB"
     ],
     "sportsdata_player_id": "3fa3a270-f8b2-4d53-a265-84bc928af5c5",
     "team_id": "PHI",
@@ -92768,7 +92771,7 @@
       "S,CB"
     ],
     "sportsdata_player_id": "e2aa4576-83a6-4b81-ab95-49126a0cf1d4",
-    "team_id": "ATL",
+    "team_id": "FA",
     "yahoo_id": "33496"
   },
   {
@@ -105885,12 +105888,12 @@
     "draft_class": 2023,
     "espn_id": "4690070",
     "filename": "https://www.fantasypros.com/nfl/players/mitchell-tinsley.php",
-    "first_name": "Mitch",
+    "first_name": "Mitchell",
     "last_name": "Tinsley",
     "mfl_id": "16403",
     "nfl_id": "2571650",
     "player_id": 24370,
-    "player_name": "Mitch Tinsley",
+    "player_name": "Mitchell Tinsley",
     "position_id": "WR",
     "positions": [
       "WR"
@@ -109782,7 +109785,7 @@
       "CB"
     ],
     "sportsdata_player_id": "6f9135a9-2761-4b13-8651-56b536f0f22f",
-    "team_id": "IND",
+    "team_id": "FA",
     "yahoo_id": "40258"
   },
   {
@@ -118313,7 +118316,7 @@
     "position_id": "DT",
     "positions": [
       "DT",
-      "DE,DT"
+      "DE,DT,LB"
     ],
     "sportsdata_player_id": "a344e6d1-86a1-4ec6-b734-7a0a0f706206",
     "team_id": "LAR",
@@ -123936,7 +123939,7 @@
       "TE"
     ],
     "sportsdata_player_id": "87aa9f00-431b-11f1-ac73-13a0e1220921",
-    "team_id": "FA",
+    "team_id": "ATL",
     "yahoo_id": "43178"
   },
   {
@@ -128122,7 +128125,7 @@
       "WR"
     ],
     "sportsdata_player_id": "ef0feb13-57b8-474c-a723-cf03f57a321a",
-    "team_id": "FA",
+    "team_id": "CLE",
     "yahoo_id": "41045"
   },
   {
@@ -130011,7 +130014,7 @@
       "CB"
     ],
     "sportsdata_player_id": "10126054-8bc0-4470-b1a8-a98c94c0afb7",
-    "team_id": "PIT",
+    "team_id": "FA",
     "yahoo_id": "41055"
   },
   {
@@ -131159,7 +131162,7 @@
       "CB"
     ],
     "sportsdata_player_id": "c3046dc0-0573-11ef-b660-4d07270c2b35",
-    "team_id": "NYG",
+    "team_id": "FA",
     "yahoo_id": "41190"
   },
   {
@@ -131725,7 +131728,7 @@
       "WR"
     ],
     "sportsdata_player_id": "e88c3c70-06fa-11ef-92ba-0de371d8ef1a",
-    "team_id": "CLE",
+    "team_id": "FA",
     "yahoo_id": "41251"
   },
   {
@@ -133558,7 +133561,7 @@
       "S"
     ],
     "sportsdata_player_id": "9d76b520-072d-11ef-a877-6b032c0eabad",
-    "team_id": "FA",
+    "team_id": "PHI",
     "yahoo_id": "41384"
   },
   {
@@ -141104,7 +141107,7 @@
       "WR"
     ],
     "sportsdata_player_id": "483872b0-2630-11f0-b7f1-df7c830143e7",
-    "team_id": "FA",
+    "team_id": "ATL",
     "yahoo_id": "42444"
   },
   {
@@ -142995,7 +142998,7 @@
       "TE"
     ],
     "sportsdata_player_id": "ee887ce0-4282-11f1-b4e9-874e09b60b90",
-    "team_id": "GB",
+    "team_id": "FA",
     "yahoo_id": "43087"
   },
   {
@@ -146558,7 +146561,7 @@
       "LB"
     ],
     "sportsdata_player_id": "78ad74c0-22f9-11f0-8b9f-6ddb00adf3a1",
-    "team_id": "FA",
+    "team_id": "SEA",
     "yahoo_id": "42045"
   },
   {
@@ -149291,7 +149294,7 @@
       "RB"
     ],
     "sportsdata_player_id": "d8418de0-2533-11f0-8f9f-099ffd59a543",
-    "team_id": "FA",
+    "team_id": "SEA",
     "yahoo_id": "42293"
   },
   {
@@ -152303,7 +152306,7 @@
       "DE"
     ],
     "sportsdata_player_id": "d14a8040-427a-11f1-b75b-07e060f31117",
-    "team_id": "FA",
+    "team_id": "CLE",
     "yahoo_id": "43077"
   },
   {
@@ -154419,7 +154422,7 @@
       "QB"
     ],
     "sportsdata_player_id": "4dde2140-42ab-11f1-910d-8569d31b1363",
-    "team_id": "FA",
+    "team_id": "HOU",
     "yahoo_id": "43146"
   },
   {
@@ -157210,7 +157213,7 @@
       "DT"
     ],
     "sportsdata_player_id": "c5df9520-4a1c-11f1-a77b-69ccb20d5ee5",
-    "team_id": "HOU",
+    "team_id": "FA",
     "yahoo_id": "43296"
   },
   {
@@ -160298,7 +160301,7 @@
       "RB"
     ],
     "sportsdata_player_id": "7b27c7b0-4b1f-11f1-a3bd-a959a689b398",
-    "team_id": "FA",
+    "team_id": "NE",
     "yahoo_id": "43367"
   },
   {
@@ -161800,7 +161803,7 @@
       "DE,LB"
     ],
     "sportsdata_player_id": "d8a95510-4193-11f1-8875-5da9493ec89c",
-    "team_id": "FA",
+    "team_id": "CLE",
     "yahoo_id": "42891"
   },
   {
@@ -162978,7 +162981,7 @@
       "DT"
     ],
     "sportsdata_player_id": "d8621a60-4279-11f1-b9e6-fd588e466732",
-    "team_id": "FA",
+    "team_id": "DAL",
     "yahoo_id": "43075"
   },
   {
@@ -165687,7 +165690,7 @@
       "TE"
     ],
     "sportsdata_player_id": "3bee9050-4b16-11f1-9ed7-39626f63fb16",
-    "team_id": "FA",
+    "team_id": "IND",
     "yahoo_id": "43357"
   },
   {
@@ -165856,12 +165859,12 @@
     "draft_class": 2026,
     "espn_id": null,
     "filename": "https://www.fantasypros.com/nfl/players/devonta-smith-cb.php",
-    "first_name": "Devonta",
+    "first_name": "DeVonta",
     "last_name": "Smith",
     "mfl_id": null,
     "nfl_id": null,
     "player_id": 28822,
-    "player_name": "Devonta Smith",
+    "player_name": "DeVonta Smith",
     "position_id": "CB",
     "positions": [
       "CB"

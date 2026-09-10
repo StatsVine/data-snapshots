@@ -1448,25 +1448,6 @@
     "yahoo_id": "9066"
   },
   {
-    "birthdate": "1978-03-12",
-    "cbs_id": "187880",
-    "espn_id": null,
-    "filename": "https://www.fantasypros.com/nfl/players/terrelle-smith.php",
-    "first_name": "Terrelle",
-    "last_name": "Smith",
-    "mfl_id": "5745",
-    "nfl_id": null,
-    "player_id": 9591,
-    "player_name": "Terrelle Smith",
-    "position_id": "RB",
-    "positions": [
-      "RB"
-    ],
-    "sportsdata_player_id": "46e9ef8b-a484-47e6-9ea5-054989bc5bde",
-    "team_id": "WAS",
-    "yahoo_id": "5125"
-  },
-  {
     "birthdate": "1977-08-03",
     "cbs_id": "187741",
     "draft_class": 2000,
@@ -17747,7 +17728,7 @@
       "DE,DT,LB"
     ],
     "sportsdata_player_id": "852b00dd-fd1c-4edb-809d-912a6472cd07",
-    "team_id": "FA",
+    "team_id": "MIN",
     "yahoo_id": "29278"
   },
   {
@@ -44850,7 +44831,7 @@
       "DE,LB"
     ],
     "sportsdata_player_id": "586bc34d-f368-4d82-96b1-816d08fa2837",
-    "team_id": "CHI",
+    "team_id": "FA",
     "yahoo_id": "32912"
   },
   {
@@ -48706,7 +48687,7 @@
       "LB,DE"
     ],
     "sportsdata_player_id": "112b95ea-d080-4aa7-bedc-5755c6c6b80c",
-    "team_id": "CAR",
+    "team_id": "FA",
     "yahoo_id": "33272"
   },
   {
@@ -53896,7 +53877,7 @@
       "DE,DT"
     ],
     "sportsdata_player_id": "d92a275a-a102-4768-965b-60fffe155288",
-    "team_id": "NO",
+    "team_id": "FA",
     "yahoo_id": "33263"
   },
   {
@@ -85006,7 +84987,7 @@
       "LB,DE"
     ],
     "sportsdata_player_id": "32a47bc0-c980-11ec-a1a0-57a82b503f37",
-    "team_id": "FA",
+    "team_id": "CAR",
     "yahoo_id": "34397"
   },
   {
@@ -87111,7 +87092,7 @@
       "RB"
     ],
     "sportsdata_player_id": "cdc61676-6592-43f9-a4a6-d29ce52ac8f4",
-    "team_id": "WAS",
+    "team_id": "FA",
     "yahoo_id": "34112"
   },
   {
@@ -107511,9 +107492,9 @@
     "yahoo_id": "34631"
   },
   {
-    "birthdate": "2003-09-17",
+    "birthdate": "1998-04-08",
     "cbs_id": "2221997",
-    "draft_class": 2026,
+    "draft_class": 2022,
     "espn_id": null,
     "filename": "https://www.fantasypros.com/nfl/players/skyler-thomas.php",
     "first_name": "Skyler",
@@ -107527,7 +107508,7 @@
       "S"
     ],
     "sportsdata_player_id": "a49160a0-ca2e-11ec-be96-e90abdfa0fef",
-    "team_id": "CHI",
+    "team_id": "FA",
     "yahoo_id": "34638"
   },
   {
@@ -109072,7 +109053,7 @@
       "DT"
     ],
     "sportsdata_player_id": "87895e2c-f210-497d-956a-cb5aac9fd8b5",
-    "team_id": "FA",
+    "team_id": "ATL",
     "yahoo_id": "40111"
   },
   {
@@ -110773,7 +110754,7 @@
       "WR"
     ],
     "sportsdata_player_id": "2fb00370-d30e-11ec-8b77-45b1765fd110",
-    "team_id": "TB",
+    "team_id": "FA",
     "yahoo_id": "34592"
   },
   {
@@ -111185,7 +111166,7 @@
       "CB"
     ],
     "sportsdata_player_id": "3a886c50-d3a0-11ec-96a0-c3471a31202c",
-    "team_id": "CHI",
+    "team_id": "FA",
     "yahoo_id": "34503"
   },
   {
@@ -113657,7 +113638,7 @@
     "mfl_id": "16267",
     "nfl_id": "2569627",
     "player_id": 25263,
-    "player_name": "Tyrique Stevenson",
+    "player_name": "Tyrique Stevenson Sr.",
     "position_id": "CB",
     "positions": [
       "CB"
@@ -119265,7 +119246,7 @@
       "S"
     ],
     "sportsdata_player_id": "fcdc7670-e8fd-11ed-8f16-bf9f502d2331",
-    "team_id": "FA",
+    "team_id": "TEN",
     "yahoo_id": "40426"
   },
   {
@@ -119388,7 +119369,7 @@
       "LB,DE"
     ],
     "sportsdata_player_id": "c7dd5440-e906-11ed-a42e-29305ff7e69f",
-    "team_id": "ATL",
+    "team_id": "FA",
     "yahoo_id": "40446"
   },
   {
@@ -121494,7 +121475,7 @@
       "CB,S"
     ],
     "sportsdata_player_id": "01831580-f0dd-11ed-b8be-811e1be6b8e1",
-    "team_id": "FA",
+    "team_id": "CHI",
     "yahoo_id": "40654"
   },
   {
@@ -122641,7 +122622,7 @@
       "CB,S"
     ],
     "sportsdata_player_id": "d470e520-f421-11ed-990e-333ce5b07033",
-    "team_id": "FA",
+    "team_id": "GB",
     "yahoo_id": "40756"
   },
   {
@@ -123923,7 +123904,7 @@
     "yahoo_id": "41795"
   },
   {
-    "birthdate": "",
+    "birthdate": "2003-10-29",
     "cbs_id": "28923845",
     "draft_class": 2026,
     "espn_id": null,
@@ -129953,7 +129934,7 @@
       "CB,LB,S"
     ],
     "sportsdata_player_id": "d83c6686-ffd6-41cd-a2ca-9583a0470769",
-    "team_id": "FA",
+    "team_id": "TEN",
     "yahoo_id": "41039"
   },
   {
@@ -131808,7 +131789,7 @@
       "DT"
     ],
     "sportsdata_player_id": "4e322bc0-0700-11ef-94ae-451c7174095a",
-    "team_id": "NE",
+    "team_id": "FA",
     "yahoo_id": "41254"
   },
   {
@@ -141898,7 +141879,7 @@
     "yahoo_id": "41855"
   },
   {
-    "birthdate": "",
+    "birthdate": "2001-01-22",
     "cbs_id": "3126602",
     "draft_class": 2025,
     "espn_id": null,
@@ -146139,7 +146120,7 @@
       "LB"
     ],
     "sportsdata_player_id": "8da4c940-6483-46e7-af3b-c49e8d2355c7",
-    "team_id": "CHI",
+    "team_id": "FA",
     "yahoo_id": "41923"
   },
   {
@@ -151606,7 +151587,7 @@
       "WR"
     ],
     "sportsdata_player_id": "10e1f570-2f6d-11f0-83ff-1b0af9d7582e",
-    "team_id": "LAC",
+    "team_id": "FA",
     "yahoo_id": "42519"
   },
   {
@@ -151707,7 +151688,7 @@
       "WR"
     ],
     "sportsdata_player_id": "43d85f40-2f78-11f0-8abe-47b509daf5d5",
-    "team_id": "FA",
+    "team_id": "NO",
     "yahoo_id": "42527"
   },
   {
@@ -153068,7 +153049,7 @@
     "yahoo_id": "42663"
   },
   {
-    "birthdate": "",
+    "birthdate": "2001-10-09",
     "cbs_id": "3162807",
     "draft_class": 2026,
     "espn_id": null,
@@ -154767,7 +154748,7 @@
   },
   {
     "birthdate": "",
-    "cbs_id": null,
+    "cbs_id": "26696811",
     "draft_class": 2026,
     "espn_id": null,
     "filename": "https://www.fantasypros.com/nfl/players/al-jay-henderson.php",
@@ -155407,7 +155388,7 @@
     "yahoo_id": null
   },
   {
-    "birthdate": "",
+    "birthdate": "2003-06-27",
     "cbs_id": "28921356",
     "draft_class": 2026,
     "espn_id": null,
@@ -160044,7 +160025,7 @@
     "yahoo_id": "42743"
   },
   {
-    "birthdate": "",
+    "birthdate": "2002-05-29",
     "cbs_id": "26697764",
     "draft_class": 2026,
     "espn_id": null,
@@ -160285,7 +160266,7 @@
     "yahoo_id": "42620"
   },
   {
-    "birthdate": "",
+    "birthdate": "2003-04-04",
     "cbs_id": "26703126",
     "draft_class": 2026,
     "espn_id": null,
@@ -161222,7 +161203,7 @@
       "CB"
     ],
     "sportsdata_player_id": "06929030-419f-11f1-b96d-afa0ac0124a0",
-    "team_id": "MIN",
+    "team_id": "FA",
     "yahoo_id": "42907"
   },
   {
@@ -161948,7 +161929,7 @@
     "yahoo_id": "42958"
   },
   {
-    "birthdate": "",
+    "birthdate": "2003-05-22",
     "cbs_id": "26701823",
     "draft_class": 2026,
     "espn_id": null,
@@ -162664,7 +162645,7 @@
       "DT"
     ],
     "sportsdata_player_id": "836be950-426a-11f1-b1e0-670f822a7f33",
-    "team_id": "ATL",
+    "team_id": "FA",
     "yahoo_id": "42997"
   },
   {
@@ -163959,7 +163940,7 @@
     "yahoo_id": "43155"
   },
   {
-    "birthdate": "",
+    "birthdate": "2002-08-07",
     "cbs_id": "26707209",
     "draft_class": 2026,
     "espn_id": null,
@@ -164475,7 +164456,7 @@
       "S"
     ],
     "sportsdata_player_id": "ba1df2f0-4322-11f1-a40a-f3839e0f339e",
-    "team_id": "GB",
+    "team_id": "FA",
     "yahoo_id": "43199"
   },
   {
@@ -164618,7 +164599,7 @@
     "yahoo_id": "43206"
   },
   {
-    "birthdate": "",
+    "birthdate": "2003-09-13",
     "cbs_id": "26726631",
     "draft_class": 2026,
     "espn_id": null,
@@ -165770,11 +165751,11 @@
       "RB"
     ],
     "sportsdata_player_id": "cfa33ec0-4b13-11f1-8161-c93330a9a32d",
-    "team_id": "FA",
+    "team_id": "GB",
     "yahoo_id": "43354"
   },
   {
-    "birthdate": "",
+    "birthdate": "2004-02-04",
     "cbs_id": "29721343",
     "draft_class": 2026,
     "espn_id": null,
@@ -165934,7 +165915,7 @@
     "yahoo_id": null
   },
   {
-    "birthdate": "",
+    "birthdate": "2002-05-30",
     "cbs_id": null,
     "draft_class": 2026,
     "espn_id": null,
@@ -169693,6 +169674,25 @@
     ],
     "sportsdata_player_id": "",
     "team_id": "FA",
+    "yahoo_id": null
+  },
+  {
+    "birthdate": "2003-09-17",
+    "cbs_id": null,
+    "espn_id": null,
+    "filename": "https://www.fantasypros.com/nfl/players/skyler-thomas-db.php",
+    "first_name": "Skyler",
+    "last_name": "Thomas",
+    "mfl_id": null,
+    "nfl_id": null,
+    "player_id": 29444,
+    "player_name": "Skyler Thomas",
+    "position_id": "DB",
+    "positions": [
+      "DB"
+    ],
+    "sportsdata_player_id": "44513bf0-ac58-11f1-ab1e-2b39cb16076a",
+    "team_id": "CHI",
     "yahoo_id": null
   }
 ]

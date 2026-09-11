@@ -36602,7 +36602,7 @@
       "WR"
     ],
     "sportsdata_player_id": "49f9f357-e90a-45b7-9f55-fe451125149f",
-    "team_id": "FA",
+    "team_id": "LAC",
     "yahoo_id": "31952"
   },
   {
@@ -42378,7 +42378,7 @@
       "WR"
     ],
     "sportsdata_player_id": "06ff7f42-5fe7-4899-84a5-9ba5349d17e8",
-    "team_id": "FA",
+    "team_id": "MIA",
     "yahoo_id": "32691"
   },
   {
@@ -46044,7 +46044,7 @@
       "CB"
     ],
     "sportsdata_player_id": "07dbf3ec-0d6b-42f1-a2e8-7dd437339417",
-    "team_id": "MIA",
+    "team_id": "FA",
     "yahoo_id": "33306"
   },
   {
@@ -50060,7 +50060,7 @@
       "TE"
     ],
     "sportsdata_player_id": "0f369885-8ecd-4ca0-a3dc-df8530a0db6e",
-    "team_id": "IND",
+    "team_id": "FA",
     "yahoo_id": "33101"
   },
   {
@@ -105240,7 +105240,7 @@
       "RB"
     ],
     "sportsdata_player_id": "e71d4c32-3233-467f-ab01-71de34e5d9b4",
-    "team_id": "FA",
+    "team_id": "MIA",
     "yahoo_id": "41919"
   },
   {
@@ -109766,7 +109766,7 @@
       "CB"
     ],
     "sportsdata_player_id": "6f9135a9-2761-4b13-8651-56b536f0f22f",
-    "team_id": "FA",
+    "team_id": "TEN",
     "yahoo_id": "40258"
   },
   {
@@ -113787,7 +113787,7 @@
       "S"
     ],
     "sportsdata_player_id": "f7bc36e8-7fb8-4d91-8216-f6a3a669f069",
-    "team_id": "FA",
+    "team_id": "CHI",
     "yahoo_id": "40282"
   },
   {
@@ -115016,7 +115016,7 @@
       "TE"
     ],
     "sportsdata_player_id": "cef32a80-e761-11ed-ac46-e3b4ebd723e5",
-    "team_id": "MIA",
+    "team_id": "FA",
     "yahoo_id": "40335"
   },
   {
@@ -119065,7 +119065,7 @@
       "RB"
     ],
     "sportsdata_player_id": "43670880-e8f9-11ed-a4c3-31452e24a6c7",
-    "team_id": "FA",
+    "team_id": "MIA",
     "yahoo_id": "40420"
   },
   {
@@ -122319,7 +122319,7 @@
       "DT"
     ],
     "sportsdata_player_id": "b2f6a5a0-f32d-11ed-af69-7df16e87cbc5",
-    "team_id": "FA",
+    "team_id": "JAC",
     "yahoo_id": null
   },
   {
@@ -122459,7 +122459,7 @@
       "CB"
     ],
     "sportsdata_player_id": "5068d7b0-f368-11ed-b622-936c98a846ff",
-    "team_id": "FA",
+    "team_id": "DET",
     "yahoo_id": "40745"
   },
   {
@@ -123740,7 +123740,7 @@
       "TE"
     ],
     "sportsdata_player_id": "6b948ff0-2513-11f0-9bc2-f7eecce84199",
-    "team_id": "MIN",
+    "team_id": "FA",
     "yahoo_id": "42266"
   },
   {
@@ -125385,12 +125385,12 @@
     "draft_class": 2025,
     "espn_id": "4566154",
     "filename": "https://www.fantasypros.com/nfl/players/jt-tuimoloau.php",
-    "first_name": "JT",
+    "first_name": "Jaylahn",
     "last_name": "Tuimoloau",
     "mfl_id": "17149",
     "nfl_id": "2574201",
     "player_id": 26104,
-    "player_name": "JT Tuimoloau",
+    "player_name": "Jaylahn Tuimoloau",
     "position_id": "DT",
     "positions": [
       "DT",
@@ -127622,7 +127622,7 @@
       "CB"
     ],
     "sportsdata_player_id": "0b114d80-0584-11ef-8549-c35bdee1a640",
-    "team_id": "MIN",
+    "team_id": "FA",
     "yahoo_id": "41210"
   },
   {
@@ -133000,7 +133000,7 @@
       "DT"
     ],
     "sportsdata_player_id": "2c430580-072c-11ef-9d94-ad0be07b87fb",
-    "team_id": "FA",
+    "team_id": "MIA",
     "yahoo_id": null
   },
   {
@@ -133121,7 +133121,7 @@
       "LB"
     ],
     "sportsdata_player_id": "8685ab70-072b-11ef-bd95-696f2af85280",
-    "team_id": "FA",
+    "team_id": "MIN",
     "yahoo_id": "41374"
   },
   {
@@ -137384,7 +137384,7 @@
       "DE,LB"
     ],
     "sportsdata_player_id": "f1608400-0ef7-11ef-937d-e3ddb9378fcd",
-    "team_id": "FA",
+    "team_id": "MIN",
     "yahoo_id": "41688"
   },
   {
@@ -145560,7 +145560,7 @@
       "CB"
     ],
     "sportsdata_player_id": "d86c8910-2631-11f0-86d3-951d8223bd3d",
-    "team_id": "LAC",
+    "team_id": "FA",
     "yahoo_id": "42447"
   },
   {
@@ -146562,7 +146562,7 @@
       "S"
     ],
     "sportsdata_player_id": "b40add10-22f8-11f0-b42c-b17b086f009d",
-    "team_id": "FA",
+    "team_id": "MIA",
     "yahoo_id": "42046"
   },
   {
@@ -148138,18 +148138,18 @@
     "draft_class": 2025,
     "espn_id": "4605841",
     "filename": "https://www.fantasypros.com/nfl/players/nate-carter.php",
-    "first_name": "Nathan",
+    "first_name": "Nate",
     "last_name": "Carter",
     "mfl_id": "17348",
     "nfl_id": null,
     "player_id": 27667,
-    "player_name": "Nathan Carter",
+    "player_name": "Nate Carter",
     "position_id": "RB",
     "positions": [
       "RB"
     ],
     "sportsdata_player_id": "be0e5b20-2479-11f0-8e28-d7828261d278",
-    "team_id": "FA",
+    "team_id": "KC",
     "yahoo_id": "42196"
   },
   {
@@ -148974,7 +148974,7 @@
       "WR"
     ],
     "sportsdata_player_id": "d3f1c620-250f-11f0-860d-4396a96b1cd5",
-    "team_id": "FA",
+    "team_id": "MIN",
     "yahoo_id": "42255"
   },
   {
@@ -150562,7 +150562,7 @@
       "CB"
     ],
     "sportsdata_player_id": "e4851020-2620-11f0-aaa6-01badd5b0ec1",
-    "team_id": "TEN",
+    "team_id": "FA",
     "yahoo_id": "42431"
   },
   {
@@ -156648,7 +156648,8 @@
     "player_name": "Kyle Louis",
     "position_id": "LB",
     "positions": [
-      "LB"
+      "LB",
+      "LB,S"
     ],
     "sportsdata_player_id": "273b6e0a-85c5-4b58-8785-ff6870066aa8",
     "team_id": "MIA",
@@ -161203,7 +161204,7 @@
       "CB"
     ],
     "sportsdata_player_id": "06929030-419f-11f1-b96d-afa0ac0124a0",
-    "team_id": "FA",
+    "team_id": "MIN",
     "yahoo_id": "42907"
   },
   {
@@ -163347,12 +163348,12 @@
     "draft_class": 2026,
     "espn_id": null,
     "filename": "https://www.fantasypros.com/nfl/players/cameron-ball.php",
-    "first_name": "Cameron",
+    "first_name": "Cam",
     "last_name": "Ball",
     "mfl_id": null,
     "nfl_id": null,
     "player_id": 28649,
-    "player_name": "Cameron Ball",
+    "player_name": "Cam Ball",
     "position_id": "DT",
     "positions": [
       "DT"
@@ -165251,7 +165252,7 @@
       "S"
     ],
     "sportsdata_player_id": "2d588930-47d1-11f1-accb-1578b3778048",
-    "team_id": "CHI",
+    "team_id": "FA",
     "yahoo_id": "43282"
   },
   {
@@ -165591,7 +165592,7 @@
       "DE"
     ],
     "sportsdata_player_id": "b2870020-4af9-11f1-b0c9-876af633df92",
-    "team_id": "FA",
+    "team_id": "MIA",
     "yahoo_id": "43341"
   },
   {

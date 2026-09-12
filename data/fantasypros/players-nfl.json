@@ -8381,7 +8381,7 @@
       "DT"
     ],
     "sportsdata_player_id": "0d038341-cd66-4651-93c4-e76c6d218135",
-    "team_id": "FA",
+    "team_id": "NE",
     "yahoo_id": "27640"
   },
   {
@@ -54701,7 +54701,7 @@
       "RB"
     ],
     "sportsdata_player_id": "de456390-b27b-4146-87b9-0267f1ea8db4",
-    "team_id": "MIN",
+    "team_id": "FA",
     "yahoo_id": "33644"
   },
   {
@@ -100332,7 +100332,7 @@
       "DT,DE"
     ],
     "sportsdata_player_id": "ab636859-ef8d-443e-b2db-b555b21705c8",
-    "team_id": "GB",
+    "team_id": "HOU",
     "yahoo_id": "41076"
   },
   {
@@ -120531,7 +120531,7 @@
       "WR"
     ],
     "sportsdata_player_id": "840a7940-ebaa-11ed-a11b-41cbcb1c4445",
-    "team_id": "FA",
+    "team_id": "PHI",
     "yahoo_id": "40548"
   },
   {
@@ -126267,7 +126267,7 @@
       "WR"
     ],
     "sportsdata_player_id": "1472d4aa-ffbf-4683-aa91-86bc4795b34e",
-    "team_id": "CLE",
+    "team_id": "FA",
     "yahoo_id": "41016"
   },
   {
@@ -145661,7 +145661,7 @@
       "LB,S"
     ],
     "sportsdata_player_id": "38dff710-2479-11f0-8c55-3797c7ee2c25",
-    "team_id": "ATL",
+    "team_id": "FA",
     "yahoo_id": "42195"
   },
   {
@@ -152287,7 +152287,7 @@
       "DE"
     ],
     "sportsdata_player_id": "d14a8040-427a-11f1-b75b-07e060f31117",
-    "team_id": "CLE",
+    "team_id": "FA",
     "yahoo_id": "43077"
   },
   {
@@ -155711,7 +155711,7 @@
     "birthdate": "2003-07-07",
     "cbs_id": "26713728",
     "draft_class": 2026,
-    "espn_id": null,
+    "espn_id": "4683308",
     "filename": "https://www.fantasypros.com/nfl/players/tanner-arkin.php",
     "first_name": "Tanner",
     "last_name": "Arkin",
@@ -157961,7 +157961,7 @@
       "DE,DT"
     ],
     "sportsdata_player_id": "6fc5ede3-b472-45af-a2a9-7bd72bf0be35",
-    "team_id": "DET",
+    "team_id": "FA",
     "yahoo_id": "42844"
   },
   {
@@ -161973,7 +161973,7 @@
     "birthdate": "2002-08-29",
     "cbs_id": "3175784",
     "draft_class": 2026,
-    "espn_id": null,
+    "espn_id": "4693371",
     "filename": "https://www.fantasypros.com/nfl/players/james-thompson-jr.php",
     "first_name": "James",
     "last_name": "Thompson",
@@ -169174,6 +169174,7 @@
   {
     "birthdate": "",
     "cbs_id": "50063058",
+    "draft_class": 2026,
     "espn_id": null,
     "filename": "https://www.fantasypros.com/nfl/players/grant-finley.php",
     "first_name": "Grant",
@@ -169680,6 +169681,7 @@
   {
     "birthdate": "2003-09-17",
     "cbs_id": null,
+    "draft_class": 2026,
     "espn_id": null,
     "filename": "https://www.fantasypros.com/nfl/players/skyler-thomas-db.php",
     "first_name": "Skyler",

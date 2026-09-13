@@ -17168,7 +17168,7 @@
   {
     "id": 11930,
     "sport": "baseball",
-    "team": "NYY",
+    "team": "WAS",
     "value": "Chase Hampton"
   },
   {
@@ -18032,7 +18032,7 @@
   {
     "id": 12106,
     "sport": "baseball",
-    "team": "SF",
+    "team": "KC",
     "value": "Spencer Bivens"
   },
   {
@@ -21640,6 +21640,12 @@
     "sport": "baseball",
     "team": "WAS",
     "value": "Jack Sinclair"
+  },
+  {
+    "id": 12760,
+    "sport": "baseball",
+    "team": "MIA",
+    "value": "Aiva Arquette"
   },
   {
     "id": 1015,

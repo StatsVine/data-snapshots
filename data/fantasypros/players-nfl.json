@@ -91628,7 +91628,7 @@
       "QB"
     ],
     "sportsdata_player_id": "e21828d0-4196-11f1-a8e3-b7d185dfbdc3",
-    "team_id": "FA",
+    "team_id": "CHI",
     "yahoo_id": "42902"
   },
   {
@@ -121475,7 +121475,7 @@
       "CB,S"
     ],
     "sportsdata_player_id": "01831580-f0dd-11ed-b8be-811e1be6b8e1",
-    "team_id": "CHI",
+    "team_id": "FA",
     "yahoo_id": "40654"
   },
   {
@@ -125983,7 +125983,7 @@
       "LB"
     ],
     "sportsdata_player_id": "67ffa300-250b-11f0-98d3-01166c061cfb",
-    "team_id": "FA",
+    "team_id": "BAL",
     "yahoo_id": "42239"
   },
   {
@@ -162227,7 +162227,7 @@
       "CB,S"
     ],
     "sportsdata_player_id": "18a712e0-4277-11f1-bfb7-e5659cc5f69b",
-    "team_id": "BAL",
+    "team_id": "FA",
     "yahoo_id": "43040"
   },
   {
@@ -165743,7 +165743,7 @@
     "filename": "https://www.fantasypros.com/nfl/players/damon-bankston.php",
     "first_name": "Damon",
     "last_name": "Bankston",
-    "mfl_id": null,
+    "mfl_id": "17770",
     "nfl_id": null,
     "player_id": 28816,
     "player_name": "Damon Bankston",
@@ -167261,7 +167261,7 @@
     "yahoo_id": "43445"
   },
   {
-    "birthdate": "",
+    "birthdate": "2001-08-19",
     "cbs_id": "3121620",
     "draft_class": 2026,
     "espn_id": null,
@@ -168940,7 +168940,7 @@
     "yahoo_id": null
   },
   {
-    "birthdate": "",
+    "birthdate": "2001-11-10",
     "cbs_id": "3163798",
     "draft_class": 2025,
     "espn_id": null,
@@ -169696,6 +169696,44 @@
     ],
     "sportsdata_player_id": "44513bf0-ac58-11f1-ab1e-2b39cb16076a",
     "team_id": "CHI",
+    "yahoo_id": null
+  },
+  {
+    "birthdate": "",
+    "cbs_id": null,
+    "espn_id": null,
+    "filename": "https://www.fantasypros.com/nfl/players/legend-glasker.php",
+    "first_name": "Legend",
+    "last_name": "Glasker",
+    "mfl_id": null,
+    "nfl_id": null,
+    "player_id": 29445,
+    "player_name": "Legend Glasker",
+    "position_id": "WR",
+    "positions": [
+      "WR"
+    ],
+    "sportsdata_player_id": "",
+    "team_id": "FA",
+    "yahoo_id": null
+  },
+  {
+    "birthdate": "",
+    "cbs_id": null,
+    "espn_id": null,
+    "filename": "https://www.fantasypros.com/nfl/players/jesse-legree.php",
+    "first_name": "Jesse",
+    "last_name": "Legree",
+    "mfl_id": null,
+    "nfl_id": null,
+    "player_id": 29446,
+    "player_name": "Jesse Legree",
+    "position_id": "WR",
+    "positions": [
+      "WR"
+    ],
+    "sportsdata_player_id": "",
+    "team_id": "FA",
     "yahoo_id": null
   }
 ]

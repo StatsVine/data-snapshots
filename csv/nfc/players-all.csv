@@ -1428,7 +1428,7 @@ id,sport,value,team
 10233,baseball,Jeisson Rosario,NYY
 10234,baseball,Jeremiah Jackson,BAL
 10235,baseball,Jesus Luzardo,PHI
-10236,baseball,Jesus Sanchez,TOR
+10236,baseball,Jesus Sanchez,ARZ
 10237,baseball,Jeter Downs,NYY
 10238,baseball,Jhailyn Ortiz,PHI
 10239,baseball,Jhoan Duran,PHI
@@ -3762,7 +3762,7 @@ id,sport,value,team
 2034,basketball,Alec Burks,MIA
 2035,basketball,Markieff Morris,LAL
 2036,basketball,Marcus Morris,NY
-2037,basketball,Kawhi Leonard,LAC
+2037,basketball,Kawhi Leonard,TOR
 2038,basketball,Nikola Vucevic,ORL
 2039,basketball,Iman Shumpert,BKN
 2040,basketball,Enes Freedom,BOS
@@ -4083,7 +4083,7 @@ id,sport,value,team
 2691,basketball,Deyonta Davis,HOU
 2692,basketball,Wayne Selden,NY
 2693,basketball,Ivica Zubac,IND
-2694,basketball,Brandon Ingram,TOR
+2694,basketball,Brandon Ingram,LAC
 2695,basketball,Chinanu Onuaku,POR
 2696,basketball,Taurean Prince,DET
 2697,basketball,Matt Costello,SA
@@ -5090,7 +5090,7 @@ id,sport,value,team
 3769,basketball,Amen Thompson,HOU
 3770,basketball,Cam Whitmore,CLE
 3771,basketball,Ausar Thompson,DET
-3772,basketball,Gradey Dick,TOR
+3772,basketball,Gradey Dick,LAC
 3773,basketball,Jarace Walker,IND
 3774,basketball,Anthony Black,ORL
 3775,basketball,Leonard Miller,CHI
@@ -5252,7 +5252,7 @@ id,sport,value,team
 3983,basketball,Ryan Dunn,PHO
 3984,basketball,Dillon Jones,PHI
 3985,basketball,Donovan Clingan,POR
-3986,basketball,Devin Carter,ATL
+3986,basketball,Devin Carter,BOS
 3988,basketball,Tristan da Silva,ORL
 3989,basketball,Matas Buzelis,CHI
 3990,basketball,Pacome Dadiet,NY
@@ -8493,7 +8493,7 @@ id,sport,value,team
 22292,football,JP Richardson,CHI
 22299,football,Jonathan Kim,CHI
 22300,football,Tahj Brooks,CIN
-22305,football,Phil Mafah,DAL
+22305,football,Phil Mafah,NYG
 22310,football,Caleb Lohner,DEN
 22314,football,Dominic Lovett,DET
 22320,football,Graham Mertz,HOU
@@ -8567,7 +8567,7 @@ id,sport,value,team
 22549,football,Jordan Bly,NYG
 22550,football,Da'Quan Felton,NYJ
 22551,football,Nate McCollum,ARZ
-22555,football,Chandler Brayboy,JAX
+22555,football,Chandler Brayboy,NE
 22556,football,John Copenhaver,JAX
 22557,football,Eli Pancol,IND
 22561,football,Ja'Quinden Jackson,PHI

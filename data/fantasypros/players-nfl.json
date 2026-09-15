@@ -28473,7 +28473,7 @@
       "LS"
     ],
     "sportsdata_player_id": "6bbb8551-be80-4eae-a1a5-9f877f917a05",
-    "team_id": "GB",
+    "team_id": "FA",
     "yahoo_id": null
   },
   {
@@ -36903,7 +36903,7 @@
       "WR"
     ],
     "sportsdata_player_id": "b7f930af-ddd2-4a48-9617-96bda81b0334",
-    "team_id": "DEN",
+    "team_id": "FA",
     "yahoo_id": "32494"
   },
   {
@@ -53877,7 +53877,7 @@
       "DE,DT"
     ],
     "sportsdata_player_id": "d92a275a-a102-4768-965b-60fffe155288",
-    "team_id": "FA",
+    "team_id": "NO",
     "yahoo_id": "33263"
   },
   {
@@ -87232,7 +87232,7 @@
       "RB"
     ],
     "sportsdata_player_id": "54b97d06-1639-46a3-9dcc-67320687281d",
-    "team_id": "FA",
+    "team_id": "NYG",
     "yahoo_id": "42018"
   },
   {
@@ -98577,7 +98577,7 @@
       "RB"
     ],
     "sportsdata_player_id": "f3a50b5d-0197-4ae8-b5a5-bb54484b8941",
-    "team_id": "NE",
+    "team_id": "FA",
     "yahoo_id": "34087"
   },
   {
@@ -107499,13 +107499,14 @@
     "filename": "https://www.fantasypros.com/nfl/players/skyler-thomas.php",
     "first_name": "Skyler",
     "last_name": "Thomas",
-    "mfl_id": null,
+    "mfl_id": "17771",
     "nfl_id": null,
     "player_id": 24624,
     "player_name": "Skyler Thomas",
     "position_id": "S",
     "positions": [
-      "S"
+      "S",
+      "CB,S"
     ],
     "sportsdata_player_id": "a49160a0-ca2e-11ec-be96-e90abdfa0fef",
     "team_id": "FA",
@@ -132971,7 +132972,7 @@
     "filename": "https://www.fantasypros.com/nfl/players/treyton-welch.php",
     "first_name": "Treyton",
     "last_name": "Welch",
-    "mfl_id": null,
+    "mfl_id": "17774",
     "nfl_id": "2573040",
     "player_id": 26661,
     "player_name": "Treyton Welch",
@@ -147135,7 +147136,7 @@
     "filename": "https://www.fantasypros.com/nfl/players/terah-edwards.php",
     "first_name": "TeRah",
     "last_name": "Edwards",
-    "mfl_id": null,
+    "mfl_id": "17773",
     "nfl_id": "2574509",
     "player_id": 27599,
     "player_name": "TeRah Edwards",
@@ -148310,7 +148311,7 @@
       "WR"
     ],
     "sportsdata_player_id": "1aaa7e70-249a-11f0-911c-335182558d13",
-    "team_id": "FA",
+    "team_id": "NE",
     "yahoo_id": "42210"
   },
   {
@@ -148593,7 +148594,7 @@
       "S"
     ],
     "sportsdata_player_id": "b3161f70-24fe-11f0-95dd-439d3ee090de",
-    "team_id": "FA",
+    "team_id": "NYJ",
     "yahoo_id": "42228"
   },
   {
@@ -149838,7 +149839,7 @@
       "S"
     ],
     "sportsdata_player_id": "9b9a1330-2551-11f0-9371-f9b494c39630",
-    "team_id": "NE",
+    "team_id": "FA",
     "yahoo_id": "42346"
   },
   {
@@ -150582,7 +150583,7 @@
       "CB"
     ],
     "sportsdata_player_id": "e4b8a770-2619-11f0-9545-db5fd58c23a0",
-    "team_id": "IND",
+    "team_id": "FA",
     "yahoo_id": "42425"
   },
   {
@@ -154747,7 +154748,7 @@
     "yahoo_id": null
   },
   {
-    "birthdate": "",
+    "birthdate": "2003-06-21",
     "cbs_id": "26696811",
     "draft_class": 2026,
     "espn_id": null,
@@ -155668,7 +155669,7 @@
     "yahoo_id": "42790"
   },
   {
-    "birthdate": "",
+    "birthdate": "2002-09-04",
     "cbs_id": "26697547",
     "draft_class": 2026,
     "espn_id": null,
@@ -157408,7 +157409,7 @@
     "filename": "https://www.fantasypros.com/nfl/players/eric-oneill.php",
     "first_name": "Eric",
     "last_name": "O'Neill",
-    "mfl_id": null,
+    "mfl_id": "17778",
     "nfl_id": null,
     "player_id": 28289,
     "player_name": "Eric O'Neill",
@@ -160767,7 +160768,7 @@
     "yahoo_id": "42834"
   },
   {
-    "birthdate": "",
+    "birthdate": "2004-10-10",
     "cbs_id": "50046961",
     "draft_class": 2026,
     "espn_id": "5344966",
@@ -161149,7 +161150,7 @@
     "yahoo_id": "42944"
   },
   {
-    "birthdate": "",
+    "birthdate": "2001-03-27",
     "cbs_id": null,
     "draft_class": 2026,
     "espn_id": null,
@@ -161268,7 +161269,7 @@
     "yahoo_id": "42937"
   },
   {
-    "birthdate": "",
+    "birthdate": "2001-02-24",
     "cbs_id": "29415939",
     "draft_class": 2026,
     "espn_id": null,
@@ -161349,7 +161350,7 @@
     "yahoo_id": "42924"
   },
   {
-    "birthdate": "",
+    "birthdate": "2002-11-20",
     "cbs_id": "26701252",
     "draft_class": 2026,
     "espn_id": null,
@@ -161429,7 +161430,7 @@
     "yahoo_id": "42920"
   },
   {
-    "birthdate": "",
+    "birthdate": "2002-06-27",
     "cbs_id": null,
     "draft_class": 2026,
     "espn_id": null,
@@ -161509,7 +161510,7 @@
     "yahoo_id": "42913"
   },
   {
-    "birthdate": "",
+    "birthdate": "2003-01-08",
     "cbs_id": "29121987",
     "draft_class": 2026,
     "espn_id": null,
@@ -162227,7 +162228,7 @@
       "CB,S"
     ],
     "sportsdata_player_id": "18a712e0-4277-11f1-bfb7-e5659cc5f69b",
-    "team_id": "FA",
+    "team_id": "BAL",
     "yahoo_id": "43040"
   },
   {
@@ -162491,7 +162492,7 @@
     "yahoo_id": "43006"
   },
   {
-    "birthdate": "",
+    "birthdate": "2003-02-28",
     "cbs_id": "26700072",
     "draft_class": 2026,
     "espn_id": null,
@@ -162568,7 +162569,7 @@
     "yahoo_id": "43026"
   },
   {
-    "birthdate": "",
+    "birthdate": "2003-08-24",
     "cbs_id": "26727040",
     "draft_class": 2026,
     "espn_id": null,
@@ -162768,7 +162769,7 @@
     "yahoo_id": "43070"
   },
   {
-    "birthdate": "",
+    "birthdate": "2003-08-07",
     "cbs_id": "26693737",
     "draft_class": 2026,
     "espn_id": null,
@@ -162844,7 +162845,7 @@
       "LB"
     ],
     "sportsdata_player_id": "af8e78c0-4276-11f1-a222-c378f853240d",
-    "team_id": "BAL",
+    "team_id": "FA",
     "yahoo_id": "43062"
   },
   {
@@ -163046,7 +163047,7 @@
     "yahoo_id": "43049"
   },
   {
-    "birthdate": "",
+    "birthdate": "2002-02-12",
     "cbs_id": "3162327",
     "draft_class": 2026,
     "espn_id": null,
@@ -163204,7 +163205,7 @@
     "yahoo_id": "43090"
   },
   {
-    "birthdate": "",
+    "birthdate": "2002-08-26",
     "cbs_id": null,
     "draft_class": 2026,
     "espn_id": null,
@@ -163224,7 +163225,7 @@
     "yahoo_id": null
   },
   {
-    "birthdate": "",
+    "birthdate": "2003-03-25",
     "cbs_id": "26713355",
     "draft_class": 2026,
     "espn_id": null,
@@ -163323,7 +163324,7 @@
     "yahoo_id": "43103"
   },
   {
-    "birthdate": "",
+    "birthdate": "2000-03-19",
     "cbs_id": null,
     "draft_class": 2026,
     "espn_id": null,
@@ -163383,7 +163384,7 @@
     "yahoo_id": "43095"
   },
   {
-    "birthdate": "",
+    "birthdate": "2002-08-13",
     "cbs_id": "26706024",
     "draft_class": 2026,
     "espn_id": null,
@@ -163430,7 +163431,7 @@
     "filename": "https://www.fantasypros.com/nfl/players/tahj-chambers.php",
     "first_name": "Tahj",
     "last_name": "Chambers",
-    "mfl_id": null,
+    "mfl_id": "17776",
     "nfl_id": null,
     "player_id": 28653,
     "player_name": "Tahj Chambers",
@@ -163462,7 +163463,7 @@
     "yahoo_id": "43098"
   },
   {
-    "birthdate": "",
+    "birthdate": "2002-03-17",
     "cbs_id": "3169610",
     "draft_class": 2026,
     "espn_id": null,
@@ -163962,7 +163963,7 @@
     "yahoo_id": "43141"
   },
   {
-    "birthdate": "",
+    "birthdate": "2002-10-08",
     "cbs_id": "26693641",
     "draft_class": 2026,
     "espn_id": null,
@@ -163982,7 +163983,7 @@
     "yahoo_id": "43159"
   },
   {
-    "birthdate": "",
+    "birthdate": "2001-08-23",
     "cbs_id": "26745172",
     "draft_class": 2026,
     "espn_id": null,
@@ -164122,7 +164123,7 @@
     "yahoo_id": "43163"
   },
   {
-    "birthdate": "",
+    "birthdate": "2003-10-03",
     "cbs_id": "50046960",
     "draft_class": 2026,
     "espn_id": null,
@@ -164361,7 +164362,7 @@
     "yahoo_id": "43186"
   },
   {
-    "birthdate": "",
+    "birthdate": "2003-02-22",
     "cbs_id": "28888678",
     "draft_class": 2026,
     "espn_id": null,
@@ -164388,7 +164389,7 @@
     "filename": "https://www.fantasypros.com/nfl/players/sabastian-harsh.php",
     "first_name": "Sabastian",
     "last_name": "Harsh",
-    "mfl_id": null,
+    "mfl_id": "17777",
     "nfl_id": null,
     "player_id": 28710,
     "player_name": "Sabastian Harsh",
@@ -164719,7 +164720,7 @@
     "yahoo_id": "43208"
   },
   {
-    "birthdate": "",
+    "birthdate": "2002-09-11",
     "cbs_id": "28877283",
     "draft_class": 2026,
     "espn_id": null,
@@ -164856,7 +164857,7 @@
     "yahoo_id": null
   },
   {
-    "birthdate": "",
+    "birthdate": "2002-07-24",
     "cbs_id": "26706359",
     "draft_class": 2026,
     "espn_id": null,
@@ -165137,7 +165138,7 @@
     "yahoo_id": "43264"
   },
   {
-    "birthdate": "",
+    "birthdate": "2003-05-12",
     "cbs_id": null,
     "draft_class": 2026,
     "espn_id": null,
@@ -165157,7 +165158,7 @@
     "yahoo_id": null
   },
   {
-    "birthdate": "",
+    "birthdate": "2002-02-18",
     "cbs_id": "3169599",
     "draft_class": 2026,
     "espn_id": null,
@@ -165575,7 +165576,7 @@
     "yahoo_id": "43339"
   },
   {
-    "birthdate": "",
+    "birthdate": "2002-03-31",
     "cbs_id": "26695166",
     "draft_class": 2026,
     "espn_id": null,
@@ -165656,7 +165657,7 @@
     "yahoo_id": "43358"
   },
   {
-    "birthdate": "",
+    "birthdate": "2003-12-04",
     "cbs_id": "28873912",
     "draft_class": 2026,
     "espn_id": null,
@@ -165776,14 +165777,14 @@
     "yahoo_id": "43364"
   },
   {
-    "birthdate": "",
+    "birthdate": "2002-05-02",
     "cbs_id": "3161523",
     "draft_class": 2026,
     "espn_id": "4685970",
     "filename": "https://www.fantasypros.com/nfl/players/kenneth-harris.php",
     "first_name": "Kenneth",
     "last_name": "Harris",
-    "mfl_id": null,
+    "mfl_id": "17772",
     "nfl_id": null,
     "player_id": 28818,
     "player_name": "Kenneth Harris",
@@ -165836,7 +165837,7 @@
     "yahoo_id": "43363"
   },
   {
-    "birthdate": "",
+    "birthdate": "2002-12-11",
     "cbs_id": "26861125",
     "draft_class": 2026,
     "espn_id": null,
@@ -166579,7 +166580,7 @@
     "yahoo_id": "43409"
   },
   {
-    "birthdate": "",
+    "birthdate": "2002-05-20",
     "cbs_id": "26696444",
     "draft_class": 2026,
     "espn_id": null,
@@ -166619,7 +166620,7 @@
     "yahoo_id": "43424"
   },
   {
-    "birthdate": "",
+    "birthdate": "2003-05-06",
     "cbs_id": "50024044",
     "draft_class": 2026,
     "espn_id": null,
@@ -166639,7 +166640,7 @@
     "yahoo_id": "43421"
   },
   {
-    "birthdate": "",
+    "birthdate": "2003-04-17",
     "cbs_id": "26701961",
     "draft_class": 2026,
     "espn_id": null,
@@ -166916,7 +166917,7 @@
       "DE,LB"
     ],
     "sportsdata_player_id": "122cf0c0-4d7a-11f1-9d2c-096c58959a69",
-    "team_id": "FA",
+    "team_id": "NE",
     "yahoo_id": "43431"
   },
   {
@@ -167181,7 +167182,7 @@
     "yahoo_id": "43442"
   },
   {
-    "birthdate": "",
+    "birthdate": "2002-01-28",
     "cbs_id": "3172308",
     "draft_class": 2026,
     "espn_id": null,
@@ -169172,7 +169173,7 @@
     "yahoo_id": "43472"
   },
   {
-    "birthdate": "",
+    "birthdate": "2003-08-19",
     "cbs_id": "50063058",
     "draft_class": 2026,
     "espn_id": null,

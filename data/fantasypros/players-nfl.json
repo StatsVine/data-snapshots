@@ -17141,7 +17141,7 @@
       "WR"
     ],
     "sportsdata_player_id": "1ffc735b-74d8-44d2-ab32-00c5485c799f",
-    "team_id": "FA",
+    "team_id": "NYJ",
     "yahoo_id": "29274"
   },
   {
@@ -26407,7 +26407,8 @@
     "player_name": "Dorance Armstrong Jr.",
     "position_id": "DE",
     "positions": [
-      "DE"
+      "DE",
+      "DE,LB"
     ],
     "sportsdata_player_id": "a28daf84-6354-49e6-a047-1bc549997f29",
     "team_id": "WAS",
@@ -28553,7 +28554,7 @@
       "WR"
     ],
     "sportsdata_player_id": "e7f0a505-8060-403e-a3b3-9d4e88dda1dc",
-    "team_id": "FA",
+    "team_id": "LAC",
     "yahoo_id": "31144"
   },
   {
@@ -36903,7 +36904,7 @@
       "WR"
     ],
     "sportsdata_player_id": "b7f930af-ddd2-4a48-9617-96bda81b0334",
-    "team_id": "FA",
+    "team_id": "DEN",
     "yahoo_id": "32494"
   },
   {
@@ -37405,7 +37406,7 @@
       "WR"
     ],
     "sportsdata_player_id": "93c17735-5275-45cf-b3ef-620351c62313",
-    "team_id": "FA",
+    "team_id": "NYJ",
     "yahoo_id": "32831"
   },
   {
@@ -41152,7 +41153,7 @@
       "CB"
     ],
     "sportsdata_player_id": "3f0926f7-103e-44d5-85f0-e53ec48fe452",
-    "team_id": "CLE",
+    "team_id": "FA",
     "yahoo_id": "32223"
   },
   {
@@ -42277,7 +42278,7 @@
       "LB"
     ],
     "sportsdata_player_id": "79bf0ca5-a8db-4c39-a40b-67674ccb60d0",
-    "team_id": "FA",
+    "team_id": "HOU",
     "yahoo_id": "32693"
   },
   {
@@ -45922,7 +45923,7 @@
       "TE"
     ],
     "sportsdata_player_id": "7874d188-0fcd-4af9-9289-27c27e2bbd16",
-    "team_id": "FA",
+    "team_id": "PHI",
     "yahoo_id": "32764"
   },
   {
@@ -53368,7 +53369,7 @@
       "DT"
     ],
     "sportsdata_player_id": "a1be5d02-d5c4-42f6-8749-7ac2ff2a6f09",
-    "team_id": "CLE",
+    "team_id": "FA",
     "yahoo_id": "33220"
   },
   {
@@ -55221,7 +55222,7 @@
       "WR"
     ],
     "sportsdata_player_id": "39156891-0d05-470b-8b64-751602820bb1",
-    "team_id": "ARI",
+    "team_id": "FA",
     "yahoo_id": "33545"
   },
   {
@@ -87139,7 +87140,7 @@
     "birthdate": "2002-12-09",
     "cbs_id": "26697836",
     "draft_class": 2025,
-    "espn_id": null,
+    "espn_id": "4431196",
     "filename": "https://www.fantasypros.com/nfl/players/jake-briningstool.php",
     "first_name": "Jake",
     "last_name": "Briningstool",
@@ -88110,7 +88111,7 @@
       "RB"
     ],
     "sportsdata_player_id": "3fec8370-ca72-11ec-a83a-8732d3d5a7e3",
-    "team_id": "ATL",
+    "team_id": "DAL",
     "yahoo_id": "34261"
   },
   {
@@ -88490,7 +88491,7 @@
       "WR"
     ],
     "sportsdata_player_id": "bb529080-4260-11f1-a80d-bff068733e76",
-    "team_id": "GB",
+    "team_id": "FA",
     "yahoo_id": "42987"
   },
   {
@@ -89930,7 +89931,7 @@
       "RB"
     ],
     "sportsdata_player_id": "dcc536c1-36f2-4e34-8028-ccf32d930018",
-    "team_id": "FA",
+    "team_id": "CLE",
     "yahoo_id": "40198"
   },
   {
@@ -92127,7 +92128,7 @@
       "TE"
     ],
     "sportsdata_player_id": "0560d134-d316-4cda-9d48-34d32267af68",
-    "team_id": "FA",
+    "team_id": "SF",
     "yahoo_id": "33891"
   },
   {
@@ -95882,7 +95883,7 @@
       "TE"
     ],
     "sportsdata_player_id": "0cafaac9-20fb-4e5a-9362-158d8a4e7904",
-    "team_id": "NE",
+    "team_id": "FA",
     "yahoo_id": "33803"
   },
   {
@@ -101704,7 +101705,7 @@
       "K"
     ],
     "sportsdata_player_id": "e7a7eaea-0f77-42ab-b6a2-12ebcf51227c",
-    "team_id": "BAL",
+    "team_id": "FA",
     "yahoo_id": "40129"
   },
   {
@@ -105540,7 +105541,7 @@
       "RB"
     ],
     "sportsdata_player_id": "07802728-2d68-4aac-8e1f-ee306977495d",
-    "team_id": "DAL",
+    "team_id": "FA",
     "yahoo_id": "40165"
   },
   {
@@ -108388,7 +108389,7 @@
       "LB,DE"
     ],
     "sportsdata_player_id": "f4d8da18-8be8-470c-947c-d9fd3d85612c",
-    "team_id": "FA",
+    "team_id": "JAC",
     "yahoo_id": "40088"
   },
   {
@@ -109164,12 +109165,12 @@
     "draft_class": 2023,
     "espn_id": "4259558",
     "filename": "https://www.fantasypros.com/nfl/players/robert-beal.php",
-    "first_name": "Robert",
+    "first_name": "Rob",
     "last_name": "Beal",
     "mfl_id": "16322",
     "nfl_id": "2570299",
     "player_id": 24748,
-    "player_name": "Robert Beal Jr.",
+    "player_name": "Rob Beal Jr.",
     "position_id": "DE",
     "positions": [
       "DE"
@@ -114093,7 +114094,7 @@
       "DE,LB"
     ],
     "sportsdata_player_id": "11feb266-14e8-488c-9f7e-f221eaa92df8",
-    "team_id": "WAS",
+    "team_id": "FA",
     "yahoo_id": "40092"
   },
   {
@@ -116642,7 +116643,7 @@
       "CB"
     ],
     "sportsdata_player_id": "254842eb-c5ad-4e57-8679-3df5a674a14e",
-    "team_id": "WAS",
+    "team_id": "FA",
     "yahoo_id": "40170"
   },
   {
@@ -120432,7 +120433,7 @@
       "S"
     ],
     "sportsdata_player_id": "db902210-eba9-11ed-91b3-7dd28cd7975d",
-    "team_id": "GB",
+    "team_id": "FA",
     "yahoo_id": "40543"
   },
   {
@@ -121056,7 +121057,7 @@
       "S,CB"
     ],
     "sportsdata_player_id": "b5fdb5c0-ec77-11ed-8372-71b34770f6bc",
-    "team_id": "KC",
+    "team_id": "FA",
     "yahoo_id": "40599"
   },
   {
@@ -125721,7 +125722,7 @@
       "DT"
     ],
     "sportsdata_player_id": "00b1481f-e562-4727-9e2b-9ab3293f2748",
-    "team_id": "FA",
+    "team_id": "SF",
     "yahoo_id": "40949"
   },
   {
@@ -133162,7 +133163,7 @@
       "LB"
     ],
     "sportsdata_player_id": "a132f370-0725-11ef-a24c-e3710bb6fc6a",
-    "team_id": "FA",
+    "team_id": "TEN",
     "yahoo_id": "41355"
   },
   {
@@ -135188,7 +135189,7 @@
       "CB"
     ],
     "sportsdata_player_id": "25449550-0975-11ef-bde2-2bfe04e0121e",
-    "team_id": "TEN",
+    "team_id": "FA",
     "yahoo_id": "41532"
   },
   {
@@ -142198,7 +142199,7 @@
       "WR"
     ],
     "sportsdata_player_id": "f15872a6-7bc1-41e4-a2cd-0a2fbc432bf7",
-    "team_id": "CAR",
+    "team_id": "FA",
     "yahoo_id": "41999"
   },
   {
@@ -142794,7 +142795,7 @@
     "mfl_id": "17501",
     "nfl_id": null,
     "player_id": 27331,
-    "player_name": "KC Concepcion",
+    "player_name": "KC Concepcion Jr.",
     "position_id": "WR",
     "positions": [
       "WR"
@@ -145561,7 +145562,7 @@
       "CB"
     ],
     "sportsdata_player_id": "d86c8910-2631-11f0-86d3-951d8223bd3d",
-    "team_id": "FA",
+    "team_id": "LAC",
     "yahoo_id": "42447"
   },
   {
@@ -147888,7 +147889,7 @@
       "S"
     ],
     "sportsdata_player_id": "bea720e0-2446-11f0-8c23-0ba26e76f291",
-    "team_id": "FA",
+    "team_id": "NYJ",
     "yahoo_id": "42171"
   },
   {
@@ -148090,7 +148091,7 @@
       "WR"
     ],
     "sportsdata_player_id": "01503bc0-247e-11f0-b5b5-5dec6993a22b",
-    "team_id": "NYG",
+    "team_id": "FA",
     "yahoo_id": "42200"
   },
   {
@@ -149276,7 +149277,7 @@
       "RB"
     ],
     "sportsdata_player_id": "d8418de0-2533-11f0-8f9f-099ffd59a543",
-    "team_id": "SEA",
+    "team_id": "BUF",
     "yahoo_id": "42293"
   },
   {
@@ -149839,7 +149840,7 @@
       "S"
     ],
     "sportsdata_player_id": "9b9a1330-2551-11f0-9371-f9b494c39630",
-    "team_id": "FA",
+    "team_id": "NE",
     "yahoo_id": "42346"
   },
   {
@@ -150463,7 +150464,7 @@
       "WR"
     ],
     "sportsdata_player_id": "a514f5d0-260d-11f0-81c1-eb0abefb169c",
-    "team_id": "FA",
+    "team_id": "BAL",
     "yahoo_id": "42417"
   },
   {
@@ -150563,7 +150564,7 @@
       "CB"
     ],
     "sportsdata_player_id": "e4851020-2620-11f0-aaa6-01badd5b0ec1",
-    "team_id": "FA",
+    "team_id": "KC",
     "yahoo_id": "42431"
   },
   {
@@ -155985,7 +155986,7 @@
       "CB"
     ],
     "sportsdata_player_id": "3e4d0190-ecc2-11f0-9e62-756442bddde1",
-    "team_id": "IND",
+    "team_id": "FA",
     "yahoo_id": "42617"
   },
   {
@@ -166656,7 +166657,7 @@
       "LB"
     ],
     "sportsdata_player_id": "c8783060-4d48-11f1-80ad-d93d3b17be72",
-    "team_id": "NYJ",
+    "team_id": "FA",
     "yahoo_id": "43422"
   },
   {
@@ -169734,6 +169735,26 @@
     "position_id": "WR",
     "positions": [
       "WR"
+    ],
+    "sportsdata_player_id": "",
+    "team_id": "FA",
+    "yahoo_id": null
+  },
+  {
+    "birthdate": "",
+    "cbs_id": null,
+    "draft_class": 2027,
+    "espn_id": null,
+    "filename": "https://www.fantasypros.com/nfl/players/lincoln-kienholz.php",
+    "first_name": "Lincoln",
+    "last_name": "Kienholz",
+    "mfl_id": null,
+    "nfl_id": null,
+    "player_id": 29447,
+    "player_name": "Lincoln Kienholz",
+    "position_id": "QB",
+    "positions": [
+      "QB"
     ],
     "sportsdata_player_id": "",
     "team_id": "FA",

@@ -627,7 +627,7 @@ id,value,team
 14833,Daniel Lasco,NO
 14841,Paul Perkins,IND
 14846,K.J. Maye,NE
-14847,Sterling Shepard,HOU
+14847,Sterling Shepard,NYJ
 14854,Ryan Malleck,PIT
 14855,Darius Powe,NYG
 14856,Roger Lewis,IND
@@ -1010,7 +1010,7 @@ id,value,team
 16303,Damion Ratley,MIN
 16305,Troy Fumagalli,MIN
 16309,Nick Bawden,HOU
-16312,Marquez Valdes-Scantling,DAL
+16312,Marquez Valdes-Scantling,LAC
 16315,Jordan Thomas,ATL
 16318,Jordan Wilkins,CLE
 16332,Dylan Cantrell,WAS
@@ -1531,7 +1531,7 @@ id,value,team
 17976,Justin Herbert,LAC
 17977,Jalen Reagor,MIA
 17978,Bryan Edwards,NO
-17979,Tyler Johnson,DAL
+17979,Tyler Johnson,NYJ
 17980,Eno Benjamin,NO
 17981,KJ Hamler,BUF
 17982,Antonio Gandy-Golden,WAS
@@ -1595,7 +1595,7 @@ id,value,team
 18040,Jacques Patrick,NYJ
 18041,James Robinson,NO
 18042,Ramiz Ahmed,WAS
-18104,Josiah Deguara,NYG
+18104,Josiah Deguara,PHI
 18128,Dalton Keene,HOU
 18158,Tyler Bass,BUF
 18169,Darnell Mooney,NYG
@@ -1917,7 +1917,7 @@ id,value,team
 19242,Kenny Yeboah,ARZ
 19250,Michael Strachan,WAS
 19252,Zach Davidson,NYG
-19253,Jack Stoll,CLE
+19253,Jack Stoll,SF
 19254,Jamie Newman,PHI
 19257,Jhamon Ausbon,PHI
 19260,B.J. Emmons,HOU
@@ -2005,7 +2005,7 @@ id,value,team
 19445,Christian Watson,GB
 19446,Keaontay Ingram,KC
 19447,Dameon Pierce,PHI
-19448,Eric Gray,NYG
+19448,Eric Gray,CLE
 19449,Sam Howell,DAL
 19450,Kyren Williams,LA
 19451,Bam Knight,ARZ
@@ -2029,7 +2029,7 @@ id,value,team
 19469,Zach Charbonnet,SEA
 19470,Jerrion Ealy,KC
 19471,Ty Chandler,NO
-19472,Tyler Goodson,ATL
+19472,Tyler Goodson,DAL
 19473,Tyler Badie,DEN
 19474,Samori Toure,PHI
 19475,Abram Smith,MIN
@@ -3025,7 +3025,7 @@ id,value,team
 22666,Hajj-Malik Williams,LV
 22673,Efton Chism III,NE
 22676,Gee Scott,NYJ
-22678,Brock Lampe,SEA
+22678,Brock Lampe,BUF
 22679,CJ Dippre,TB
 22684,Marcus Yarns,NO
 22703,Daniel Jackson,HOU
@@ -3046,7 +3046,7 @@ id,value,team
 22752,Kole Taylor,CIN
 22755,Quali Conley,CIN
 22758,Eli Wilson,CLE
-22759,Gage Larvadain,CLE
+22759,Gage Larvadain,BAL
 22765,Zach Horton,DET
 22767,Julian Fleming,GB
 22771,Dante Wright,KC
@@ -3118,7 +3118,7 @@ id,value,team
 22930,Jeremiyah Love,ARZ
 22931,Jordyn Tyson,NO
 22932,Makai Lemon,PHI
-22933,KC Concepcion,CLE
+22933,KC Concepcion Jr.,CLE
 22934,Denzel Boston,CLE
 22935,Kenyon Sadiq,NYJ
 22936,Ty Simpson,LA

@@ -827,7 +827,7 @@ id,value,team
 3048,Brandon Goodwin,NY
 3049,Norvel Pelle,POR
 3050,Chris Chiozza,BKN
-3051,Drew Eubanks,SAC
+3051,Drew Eubanks,NY
 3052,Doral Moore,MEM
 3053,Robert Johnson,MIL
 3054,Kaiser Gates,NO
@@ -957,7 +957,7 @@ id,value,team
 3178,Naz Reid,CHA
 3179,Luguentz Dort,ATL
 3180,Justin Robinson,DET
-3181,John Konchar,MIN
+3181,John Konchar,NY
 3182,Zach Norvell,CHI
 3183,Amir Coffey,PHO
 3184,Garrison Mathews,IND
@@ -1751,7 +1751,7 @@ id,value,team
 4095,Moses Wood,PHO
 4096,Max Abmas,UTH
 4097,Marcus Domask,CHI
-4098,Keion Brooks,NO
+4098,Keion Brooks Jr.,IND
 4099,Emanuel Miller,SA
 4100,Malevy Leons,GS
 4101,Cormac Ryan,MIL
@@ -1866,7 +1866,7 @@ id,value,team
 4210,Keshon Gilbert,ATL
 4211,Jonathan Pierre,WAS
 4212,John Poulakidas,DAL
-4213,Igor Milicic,PHI
+4213,Igor Milicic Jr.,NY
 4214,DJ Rodman,CHA
 4215,Fanbo Zeng,BKN
 4216,Christian Shumate,NO
@@ -1976,3 +1976,7 @@ id,value,team
 4321,Kobe Stewart,CHA
 4322,Malik Dia,NO
 4323,Trey Townsend,CHA
+4324,Cameron Hildreth,IND
+4325,Wade Taylor IV,IND
+4326,M.J. Iraldi,IND
+4327,Caleb Grill,BOS

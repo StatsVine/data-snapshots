@@ -2127,7 +2127,7 @@ id,sport,value,team
 11052,baseball,Zach Reks,TEX
 11053,baseball,Cody Thomas,ATH
 11054,baseball,Gerardo Carrillo,ARZ
-11055,baseball,Michael Grove,TB
+11055,baseball,Michael Grove,ATL
 11056,baseball,Andre Jackson,PIT
 11057,baseball,Marshall Kasowski,LAD
 11058,baseball,Landon Knack,LAD
@@ -3198,7 +3198,7 @@ id,sport,value,team
 12322,baseball,Baek-Ho Kang,FA
 12323,baseball,Travis Sykora,WAS
 12324,baseball,Jackson Ferris,LAD
-12325,baseball,Christian Cairo,PHI
+12325,baseball,Christian Cairo,NYM
 12327,baseball,Gage Workman,SD
 12329,baseball,Elmer Rodriguez,NYY
 12330,baseball,Grant Wolfram,BAL
@@ -4436,7 +4436,7 @@ id,sport,value,team
 3048,basketball,Brandon Goodwin,NY
 3049,basketball,Norvel Pelle,POR
 3050,basketball,Chris Chiozza,BKN
-3051,basketball,Drew Eubanks,SAC
+3051,basketball,Drew Eubanks,NY
 3052,basketball,Doral Moore,MEM
 3053,basketball,Robert Johnson,MIL
 3054,basketball,Kaiser Gates,NO
@@ -4566,7 +4566,7 @@ id,sport,value,team
 3178,basketball,Naz Reid,CHA
 3179,basketball,Luguentz Dort,ATL
 3180,basketball,Justin Robinson,DET
-3181,basketball,John Konchar,MIN
+3181,basketball,John Konchar,NY
 3182,basketball,Zach Norvell,CHI
 3183,basketball,Amir Coffey,PHO
 3184,basketball,Garrison Mathews,IND
@@ -5360,7 +5360,7 @@ id,sport,value,team
 4095,basketball,Moses Wood,PHO
 4096,basketball,Max Abmas,UTH
 4097,basketball,Marcus Domask,CHI
-4098,basketball,Keion Brooks,NO
+4098,basketball,Keion Brooks Jr.,IND
 4099,basketball,Emanuel Miller,SA
 4100,basketball,Malevy Leons,GS
 4101,basketball,Cormac Ryan,MIL
@@ -5475,7 +5475,7 @@ id,sport,value,team
 4210,basketball,Keshon Gilbert,ATL
 4211,basketball,Jonathan Pierre,WAS
 4212,basketball,John Poulakidas,DAL
-4213,basketball,Igor Milicic,PHI
+4213,basketball,Igor Milicic Jr.,NY
 4214,basketball,DJ Rodman,CHA
 4215,basketball,Fanbo Zeng,BKN
 4216,basketball,Christian Shumate,NO
@@ -5585,6 +5585,10 @@ id,sport,value,team
 4321,basketball,Kobe Stewart,CHA
 4322,basketball,Malik Dia,NO
 4323,basketball,Trey Townsend,CHA
+4324,basketball,Cameron Hildreth,IND
+4325,basketball,Wade Taylor IV,IND
+4326,basketball,M.J. Iraldi,IND
+4327,basketball,Caleb Grill,BOS
 615,football,Kent Shelby,LAC
 1038,football,Leon Johnson,LAC
 1533,football,Chase Cota,HOU
@@ -6213,7 +6217,7 @@ id,sport,value,team
 14833,football,Daniel Lasco,NO
 14841,football,Paul Perkins,IND
 14846,football,K.J. Maye,NE
-14847,football,Sterling Shepard,HOU
+14847,football,Sterling Shepard,NYJ
 14854,football,Ryan Malleck,PIT
 14855,football,Darius Powe,NYG
 14856,football,Roger Lewis,IND
@@ -6596,7 +6600,7 @@ id,sport,value,team
 16303,football,Damion Ratley,MIN
 16305,football,Troy Fumagalli,MIN
 16309,football,Nick Bawden,HOU
-16312,football,Marquez Valdes-Scantling,DAL
+16312,football,Marquez Valdes-Scantling,LAC
 16315,football,Jordan Thomas,ATL
 16318,football,Jordan Wilkins,CLE
 16332,football,Dylan Cantrell,WAS
@@ -7117,7 +7121,7 @@ id,sport,value,team
 17976,football,Justin Herbert,LAC
 17977,football,Jalen Reagor,MIA
 17978,football,Bryan Edwards,NO
-17979,football,Tyler Johnson,DAL
+17979,football,Tyler Johnson,NYJ
 17980,football,Eno Benjamin,NO
 17981,football,KJ Hamler,BUF
 17982,football,Antonio Gandy-Golden,WAS
@@ -7181,7 +7185,7 @@ id,sport,value,team
 18040,football,Jacques Patrick,NYJ
 18041,football,James Robinson,NO
 18042,football,Ramiz Ahmed,WAS
-18104,football,Josiah Deguara,NYG
+18104,football,Josiah Deguara,PHI
 18128,football,Dalton Keene,HOU
 18158,football,Tyler Bass,BUF
 18169,football,Darnell Mooney,NYG
@@ -7503,7 +7507,7 @@ id,sport,value,team
 19242,football,Kenny Yeboah,ARZ
 19250,football,Michael Strachan,WAS
 19252,football,Zach Davidson,NYG
-19253,football,Jack Stoll,CLE
+19253,football,Jack Stoll,SF
 19254,football,Jamie Newman,PHI
 19257,football,Jhamon Ausbon,PHI
 19260,football,B.J. Emmons,HOU
@@ -7591,7 +7595,7 @@ id,sport,value,team
 19445,football,Christian Watson,GB
 19446,football,Keaontay Ingram,KC
 19447,football,Dameon Pierce,PHI
-19448,football,Eric Gray,NYG
+19448,football,Eric Gray,CLE
 19449,football,Sam Howell,DAL
 19450,football,Kyren Williams,LA
 19451,football,Bam Knight,ARZ
@@ -7615,7 +7619,7 @@ id,sport,value,team
 19469,football,Zach Charbonnet,SEA
 19470,football,Jerrion Ealy,KC
 19471,football,Ty Chandler,NO
-19472,football,Tyler Goodson,ATL
+19472,football,Tyler Goodson,DAL
 19473,football,Tyler Badie,DEN
 19474,football,Samori Toure,PHI
 19475,football,Abram Smith,MIN
@@ -8611,7 +8615,7 @@ id,sport,value,team
 22666,football,Hajj-Malik Williams,LV
 22673,football,Efton Chism III,NE
 22676,football,Gee Scott,NYJ
-22678,football,Brock Lampe,SEA
+22678,football,Brock Lampe,BUF
 22679,football,CJ Dippre,TB
 22684,football,Marcus Yarns,NO
 22703,football,Daniel Jackson,HOU
@@ -8632,7 +8636,7 @@ id,sport,value,team
 22752,football,Kole Taylor,CIN
 22755,football,Quali Conley,CIN
 22758,football,Eli Wilson,CLE
-22759,football,Gage Larvadain,CLE
+22759,football,Gage Larvadain,BAL
 22765,football,Zach Horton,DET
 22767,football,Julian Fleming,GB
 22771,football,Dante Wright,KC
@@ -8704,7 +8708,7 @@ id,sport,value,team
 22930,football,Jeremiyah Love,ARZ
 22931,football,Jordyn Tyson,NO
 22932,football,Makai Lemon,PHI
-22933,football,KC Concepcion,CLE
+22933,football,KC Concepcion Jr.,CLE
 22934,football,Denzel Boston,CLE
 22935,football,Kenyon Sadiq,NYJ
 22936,football,Ty Simpson,LA

@@ -305,7 +305,7 @@ id,value,team
 2400,Julius Randle,BKN
 2401,Nik Stauskas,IND
 2402,Noah Vonleh,SA
-2403,Elfrid Payton,NO
+2403,Elfrid Payton,SAC
 2404,Doug McDermott,SAC
 2405,Dario Saric,DET
 2406,Zach LaVine,SAC
@@ -738,7 +738,7 @@ id,value,team
 2959,Kostas Antetokounmpo,CHI
 2960,Darius Brown,CLE
 2961,Issuf Sanon,WAS
-2962,Bruce Brown,DEN
+2962,Bruce Brown,NY
 2963,Arnoldas Kulboka,CHA
 2964,Shai Gilgeous-Alexander,OKC
 2965,Hamidou Diallo,WAS
@@ -1055,7 +1055,7 @@ id,value,team
 3281,Jontay Porter,TOR
 3282,Anthony Edwards,MIN
 3283,LaMelo Ball,MIN
-3284,James Wiseman,IND
+3284,James Wiseman,NY
 3285,Killian Hayes,SAC
 3286,Deni Avdija,POR
 3287,Obi Toppin,IND
@@ -1349,7 +1349,7 @@ id,value,team
 3633,Keon Ellis,BKN
 3634,Dalen Terry,GS
 3635,Trevor Keels,MIA
-3636,Ochai Agbaji,BKN
+3636,Ochai Agbaji,NY
 3637,Isaiah Mobley,PHI
 3638,Luke Travers,CLE
 3639,Khalifa Diop,CLE
@@ -1571,7 +1571,7 @@ id,value,team
 3908,Alex Fudge,DAL
 3909,Javonte Cooke,POR
 3910,George Conditt,POR
-3911,Duop Reath,ATL
+3911,Duop Reath,PHO
 3912,Henri Drell,CHI
 3913,Justin Powell,PHI
 3914,Pete Nance,MIL
@@ -1597,7 +1597,7 @@ id,value,team
 3934,Taevion Kinsey,GS
 3935,Chase Audiege,WAS
 3936,Tevian Jones,NO
-3937,Liam Robbins,MIL
+3937,Liam Robbins,NY
 3938,Trey Jemison III,TOR
 3939,Keshawn Justice,UTH
 3940,Au'Diese Toney,DEN
@@ -1980,3 +1980,7 @@ id,value,team
 4325,Wade Taylor IV,IND
 4326,M.J. Iraldi,IND
 4327,Caleb Grill,BOS
+4328,Deivon Smith,GS
+4329,Chance McMillian,GS
+4330,Hyunjung Lee,POR
+4331,Sean McNeil,CLE

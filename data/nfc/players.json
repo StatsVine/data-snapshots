@@ -11492,7 +11492,7 @@
   {
     "id": 10825,
     "sport": "baseball",
-    "team": "STL",
+    "team": "BAL",
     "value": "Jose Barrero"
   },
   {
@@ -23492,7 +23492,7 @@
   {
     "id": 2403,
     "sport": "basketball",
-    "team": "NO",
+    "team": "SAC",
     "value": "Elfrid Payton"
   },
   {
@@ -26090,7 +26090,7 @@
   {
     "id": 2962,
     "sport": "basketball",
-    "team": "DEN",
+    "team": "NY",
     "value": "Bruce Brown"
   },
   {
@@ -27992,7 +27992,7 @@
   {
     "id": 3284,
     "sport": "basketball",
-    "team": "IND",
+    "team": "NY",
     "value": "James Wiseman"
   },
   {
@@ -29756,7 +29756,7 @@
   {
     "id": 3636,
     "sport": "basketball",
-    "team": "BKN",
+    "team": "NY",
     "value": "Ochai Agbaji"
   },
   {
@@ -31088,7 +31088,7 @@
   {
     "id": 3911,
     "sport": "basketball",
-    "team": "ATL",
+    "team": "PHO",
     "value": "Duop Reath"
   },
   {
@@ -31244,7 +31244,7 @@
   {
     "id": 3937,
     "sport": "basketball",
-    "team": "MIL",
+    "team": "NY",
     "value": "Liam Robbins"
   },
   {
@@ -33538,6 +33538,30 @@
     "sport": "basketball",
     "team": "BOS",
     "value": "Caleb Grill"
+  },
+  {
+    "id": 4328,
+    "sport": "basketball",
+    "team": "GS",
+    "value": "Deivon Smith"
+  },
+  {
+    "id": 4329,
+    "sport": "basketball",
+    "team": "GS",
+    "value": "Chance McMillian"
+  },
+  {
+    "id": 4330,
+    "sport": "basketball",
+    "team": "POR",
+    "value": "Hyunjung Lee"
+  },
+  {
+    "id": 4331,
+    "sport": "basketball",
+    "team": "CLE",
+    "value": "Sean McNeil"
   },
   {
     "id": 615,
@@ -44456,7 +44480,7 @@
   {
     "id": 18830,
     "sport": "football",
-    "team": "SF",
+    "team": "ATL",
     "value": "Khalil Herbert"
   },
   {
@@ -45548,7 +45572,7 @@
   {
     "id": 19443,
     "sport": "football",
-    "team": "WAS",
+    "team": "MIN",
     "value": "Jerome Ford"
   },
   {
@@ -51374,7 +51398,7 @@
   {
     "id": 22535,
     "sport": "football",
-    "team": "NYJ",
+    "team": "GB",
     "value": "Quincy Skinner Jr."
   },
   {

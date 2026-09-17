@@ -33155,7 +33155,7 @@
       "CB"
     ],
     "sportsdata_player_id": "3e4c9bb7-6ff1-4bf8-bc25-cd6717ddf568",
-    "team_id": "FA",
+    "team_id": "BAL",
     "yahoo_id": "31978"
   },
   {
@@ -84802,7 +84802,7 @@
       "RB"
     ],
     "sportsdata_player_id": "02af99e0-3c84-4d4e-937a-a9f29a02323b",
-    "team_id": "FA",
+    "team_id": "ATL",
     "yahoo_id": "33605"
   },
   {
@@ -87093,7 +87093,7 @@
       "RB"
     ],
     "sportsdata_player_id": "cdc61676-6592-43f9-a4a6-d29ce52ac8f4",
-    "team_id": "FA",
+    "team_id": "MIN",
     "yahoo_id": "34112"
   },
   {
@@ -96164,7 +96164,7 @@
       "CB"
     ],
     "sportsdata_player_id": "17820ab6-c787-4c44-942e-6952c7a3ca4a",
-    "team_id": "LAC",
+    "team_id": "FA",
     "yahoo_id": "33978"
   },
   {
@@ -104530,7 +104530,7 @@
       "DE"
     ],
     "sportsdata_player_id": "a134b125-37fb-4192-9ee2-f8a6f4da48bb",
-    "team_id": "FA",
+    "team_id": "ATL",
     "yahoo_id": "34017"
   },
   {
@@ -106437,7 +106437,7 @@
       "DT"
     ],
     "sportsdata_player_id": "9282c55b-7075-4ad1-b6a6-50b45f787382",
-    "team_id": "FA",
+    "team_id": "GB",
     "yahoo_id": "34115"
   },
   {
@@ -118220,7 +118220,7 @@
       "S"
     ],
     "sportsdata_player_id": "d492db9f-35b8-45e9-9e32-acd5dd7d1f42",
-    "team_id": "FA",
+    "team_id": "ARI",
     "yahoo_id": "40239"
   },
   {
@@ -121982,7 +121982,7 @@
       "CB"
     ],
     "sportsdata_player_id": "6dcf20a0-f31f-11ed-93d5-0b07c9520235",
-    "team_id": "FA",
+    "team_id": "ARI",
     "yahoo_id": "40697"
   },
   {
@@ -135836,7 +135836,7 @@
     "yahoo_id": null
   },
   {
-    "birthdate": "",
+    "birthdate": "2000-03-23",
     "cbs_id": null,
     "draft_class": 2024,
     "espn_id": null,
@@ -146866,7 +146866,7 @@
       "CB"
     ],
     "sportsdata_player_id": "c0f34c90-230e-11f0-b03e-c5b847cf8c8d",
-    "team_id": "FA",
+    "team_id": "NYG",
     "yahoo_id": "42070"
   },
   {
@@ -148031,7 +148031,7 @@
       "WR"
     ],
     "sportsdata_player_id": "ab7254b0-246c-11f0-a479-43ecd63a7ee8",
-    "team_id": "FA",
+    "team_id": "GB",
     "yahoo_id": "42187"
   },
   {
@@ -148091,7 +148091,7 @@
       "WR"
     ],
     "sportsdata_player_id": "01503bc0-247e-11f0-b5b5-5dec6993a22b",
-    "team_id": "FA",
+    "team_id": "NYG",
     "yahoo_id": "42200"
   },
   {
@@ -148996,7 +148996,7 @@
       "LB"
     ],
     "sportsdata_player_id": "e3978d70-2510-11f0-9ef9-9de47983adfa",
-    "team_id": "FA",
+    "team_id": "WAS",
     "yahoo_id": "42256"
   },
   {
@@ -150584,7 +150584,7 @@
       "CB"
     ],
     "sportsdata_player_id": "e4b8a770-2619-11f0-9545-db5fd58c23a0",
-    "team_id": "FA",
+    "team_id": "IND",
     "yahoo_id": "42425"
   },
   {
@@ -161747,7 +161747,7 @@
       "DE"
     ],
     "sportsdata_player_id": "cef62250-41b1-11f1-985b-cb31865e3411",
-    "team_id": "FA",
+    "team_id": "KC",
     "yahoo_id": "42947"
   },
   {
@@ -162489,7 +162489,7 @@
       "DE,LB"
     ],
     "sportsdata_player_id": "497cd380-426a-11f1-8658-11038d7bedf8",
-    "team_id": "FA",
+    "team_id": "WAS",
     "yahoo_id": "43006"
   },
   {
@@ -169758,6 +169758,25 @@
     ],
     "sportsdata_player_id": "",
     "team_id": "FA",
+    "yahoo_id": null
+  },
+  {
+    "birthdate": "2000-05-12",
+    "cbs_id": null,
+    "espn_id": null,
+    "filename": "https://www.fantasypros.com/nfl/players/maceo-beard.php",
+    "first_name": "Maceo",
+    "last_name": "Beard",
+    "mfl_id": null,
+    "nfl_id": null,
+    "player_id": 29448,
+    "player_name": "Maceo Beard",
+    "position_id": "DB",
+    "positions": [
+      "DB"
+    ],
+    "sportsdata_player_id": "68767330-b25a-11f1-91a3-95b51544c7de",
+    "team_id": "MIN",
     "yahoo_id": null
   }
 ]

@@ -1769,7 +1769,7 @@ id,sport,value,team
 10641,baseball,Mike Brosseau,MLW
 10642,baseball,Chris Mazza,TB
 10644,baseball,Alex Young,NYM
-10645,baseball,Jose Urquidy,CWS
+10645,baseball,Jose Urquidy,PHI
 10646,baseball,Tyler Alexander,TEX
 10647,baseball,Robel Garcia,HOU
 10648,baseball,Pedro Payano,NYM
@@ -5227,7 +5227,7 @@ id,sport,value,team
 3956,basketball,Nate Roberts,DET
 3957,basketball,Kihei Clark,MIL
 3958,basketball,Dane Goodwin,SAC
-3959,basketball,Jake Stephens,CHA
+3959,basketball,Jake Stephens,MIL
 3960,basketball,Jarkel Joiner,ATL
 3961,basketball,Malachi Smith,TOR
 3962,basketball,Dmytro Skapintsev,BOS
@@ -5366,7 +5366,7 @@ id,sport,value,team
 4101,basketball,Cormac Ryan,MIL
 4102,basketball,Alex Reese,PHI
 4103,basketball,Armando Bacot,MEM
-4104,basketball,Yuki Kawamura,CHI
+4104,basketball,Yuki Kawamura,LAC
 4105,basketball,RayJ Dennis,ATL
 4106,basketball,James Akinjo,DEN
 4107,basketball,Boogie Ellis,SAC
@@ -7581,7 +7581,7 @@ id,sport,value,team
 19427,football,Breece Hall,NYJ
 19428,football,Isaiah Spiller,LV
 19429,football,Treylon Burks,WAS
-19430,football,Kenneth Walker,KC
+19430,football,Kenneth Walker III,KC
 19431,football,Garrett Wilson,NYJ
 19432,football,Chris Olave,NO
 19433,football,Drake London,ATL
@@ -8256,7 +8256,7 @@ id,sport,value,team
 21589,football,Brayden Narveson,TEN
 21592,football,Sam Schnee,TEN
 21596,football,Jordan Terrell,TEN
-21598,football,Bryce Oliver,CLE
+21598,football,Bryce Oliver,HOU
 21599,football,Steven Stilianos,DET
 21600,football,Austin Jones,WAS
 21601,football,Sam Hartman,WAS
@@ -8497,7 +8497,7 @@ id,sport,value,team
 22279,football,Tyler Loop,BAL
 22283,football,LaJohntay Wester,BAL
 22287,football,Jackson Hawes,BUF
-22291,football,Jimmy Horn Jr.,CAR
+22291,football,Jimmy Horn Jr.,CLE
 22292,football,JP Richardson,CHI
 22299,football,Jonathan Kim,CHI
 22300,football,Tahj Brooks,CIN
@@ -8889,7 +8889,7 @@ id,sport,value,team
 23478,football,Chase Roberts,LV
 23480,football,Jacob Clark,LV
 23482,football,Kansei Matsuzawa,LV
-23483,football,E.J. Williams Jr.,LV
+23483,football,E.J. Williams Jr.,CAR
 23484,football,Matt Lauter,MIN
 23486,football,Roman Hemby,LV
 23488,football,Mark Gronowski,HOU

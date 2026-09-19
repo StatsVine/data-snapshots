@@ -28474,7 +28474,7 @@
       "LS"
     ],
     "sportsdata_player_id": "6bbb8551-be80-4eae-a1a5-9f877f917a05",
-    "team_id": "FA",
+    "team_id": "NO",
     "yahoo_id": null
   },
   {
@@ -103485,7 +103485,7 @@
       "WR"
     ],
     "sportsdata_player_id": "7ec60efe-5dd3-43c3-b76f-f0d00589fdc3",
-    "team_id": "PHI",
+    "team_id": "FA",
     "yahoo_id": "34061"
   },
   {
@@ -121477,7 +121477,7 @@
       "CB,S"
     ],
     "sportsdata_player_id": "01831580-f0dd-11ed-b8be-811e1be6b8e1",
-    "team_id": "FA",
+    "team_id": "CHI",
     "yahoo_id": "40654"
   },
   {
@@ -147628,7 +147628,7 @@
       "CB"
     ],
     "sportsdata_player_id": "441f06f0-23cc-11f0-aeb7-39a1d644c2f5",
-    "team_id": "LAC",
+    "team_id": "NYG",
     "yahoo_id": "42141"
   },
   {
@@ -152333,26 +152333,6 @@
   },
   {
     "birthdate": "",
-    "cbs_id": "26694364",
-    "draft_class": 2026,
-    "espn_id": "4612836",
-    "filename": "https://www.fantasypros.com/nfl/players/darrell-jackson-jr.php",
-    "first_name": "Darrell",
-    "last_name": "Jackson",
-    "mfl_id": "17611",
-    "nfl_id": null,
-    "player_id": 27972,
-    "player_name": "Darrell Jackson Jr.",
-    "position_id": "DT",
-    "positions": [
-      "DT"
-    ],
-    "sportsdata_player_id": "",
-    "team_id": "NYJ",
-    "yahoo_id": "42725"
-  },
-  {
-    "birthdate": "",
     "cbs_id": null,
     "draft_class": 2026,
     "espn_id": null,
@@ -153428,26 +153408,6 @@
     "sportsdata_player_id": "a7ab12b0-7c80-11f0-9fec-073f8fc9e960",
     "team_id": "FA",
     "yahoo_id": "42604"
-  },
-  {
-    "birthdate": "",
-    "cbs_id": "29125039",
-    "draft_class": 2026,
-    "espn_id": "5093004",
-    "filename": "https://www.fantasypros.com/nfl/players/keith-abney-ii.php",
-    "first_name": "Keith",
-    "last_name": "Abney",
-    "mfl_id": "17639",
-    "nfl_id": null,
-    "player_id": 28043,
-    "player_name": "Keith Abney II",
-    "position_id": "CB",
-    "positions": [
-      "CB"
-    ],
-    "sportsdata_player_id": "",
-    "team_id": "DET",
-    "yahoo_id": "42771"
   },
   {
     "birthdate": "",
@@ -155911,7 +155871,7 @@
   },
   {
     "birthdate": "2003-10-25",
-    "cbs_id": null,
+    "cbs_id": "28876817",
     "draft_class": 2026,
     "espn_id": "5082424",
     "filename": "https://www.fantasypros.com/nfl/players/dominic-zvada.php",
@@ -156170,26 +156130,6 @@
     "sportsdata_player_id": "2206481e-b58f-4fd4-932d-81b2f9e5790a",
     "team_id": "DAL",
     "yahoo_id": "42736"
-  },
-  {
-    "birthdate": "",
-    "cbs_id": "29125916",
-    "draft_class": 2026,
-    "espn_id": "5151083",
-    "filename": "https://www.fantasypros.com/nfl/players/will-lee-iii.php",
-    "first_name": "Will",
-    "last_name": "Lee",
-    "mfl_id": "17624",
-    "nfl_id": null,
-    "player_id": 28190,
-    "player_name": "Will Lee III",
-    "position_id": "CB",
-    "positions": [
-      "CB"
-    ],
-    "sportsdata_player_id": "",
-    "team_id": "CAR",
-    "yahoo_id": "42751"
   },
   {
     "birthdate": "2004-11-05",
@@ -160570,13 +160510,13 @@
   },
   {
     "birthdate": "2003-09-09",
-    "cbs_id": null,
+    "cbs_id": "29125916",
     "draft_class": 2026,
-    "espn_id": null,
+    "espn_id": "5151083",
     "filename": "https://www.fantasypros.com/nfl/players/will-lee.php",
     "first_name": "Will",
     "last_name": "Lee",
-    "mfl_id": null,
+    "mfl_id": "17624",
     "nfl_id": null,
     "player_id": 28468,
     "player_name": "Will Lee III",
@@ -160586,17 +160526,17 @@
     ],
     "sportsdata_player_id": "66c9a85a-9c88-4ddc-883f-c9e9b239cef8",
     "team_id": "CAR",
-    "yahoo_id": null
+    "yahoo_id": "42751"
   },
   {
     "birthdate": "2005-01-11",
-    "cbs_id": null,
+    "cbs_id": "29125039",
     "draft_class": 2026,
-    "espn_id": null,
+    "espn_id": "5093004",
     "filename": "https://www.fantasypros.com/nfl/players/keith-abney.php",
     "first_name": "Keith",
     "last_name": "Abney",
-    "mfl_id": null,
+    "mfl_id": "17639",
     "nfl_id": null,
     "player_id": 28469,
     "player_name": "Keith Abney II",
@@ -160606,7 +160546,7 @@
     ],
     "sportsdata_player_id": "74fd65a1-51ac-42b0-9b8e-42d986d6f8ad",
     "team_id": "DET",
-    "yahoo_id": null
+    "yahoo_id": "42771"
   },
   {
     "birthdate": "2001-12-24",
@@ -160670,13 +160610,13 @@
   },
   {
     "birthdate": "2003-04-28",
-    "cbs_id": null,
+    "cbs_id": "26694364",
     "draft_class": 2026,
-    "espn_id": null,
+    "espn_id": "4612836",
     "filename": "https://www.fantasypros.com/nfl/players/darrell-jackson-dt.php",
     "first_name": "Darrell",
     "last_name": "Jackson",
-    "mfl_id": null,
+    "mfl_id": "17611",
     "nfl_id": null,
     "player_id": 28475,
     "player_name": "Darrell Jackson Jr.",
@@ -160686,7 +160626,7 @@
     ],
     "sportsdata_player_id": "d4858132-1e30-4681-b223-01a517079b9a",
     "team_id": "NYJ",
-    "yahoo_id": null
+    "yahoo_id": "42725"
   },
   {
     "birthdate": "2003-04-15",
@@ -162707,7 +162647,7 @@
       "WR"
     ],
     "sportsdata_player_id": "96ba6f80-427a-11f1-8713-1fbce8f11482",
-    "team_id": "CLE",
+    "team_id": "FA",
     "yahoo_id": "43066"
   },
   {
@@ -164658,7 +164598,7 @@
       "DT"
     ],
     "sportsdata_player_id": "13baec90-432e-11f1-b3d5-fd85c1e2f939",
-    "team_id": "FA",
+    "team_id": "LAR",
     "yahoo_id": "43207"
   },
   {
@@ -166901,7 +166841,7 @@
     "yahoo_id": "43426"
   },
   {
-    "birthdate": "",
+    "birthdate": "2002-04-16",
     "cbs_id": "26705127",
     "draft_class": 2026,
     "espn_id": null,
@@ -169763,6 +169703,7 @@
   {
     "birthdate": "2000-05-12",
     "cbs_id": null,
+    "draft_class": 2026,
     "espn_id": null,
     "filename": "https://www.fantasypros.com/nfl/players/maceo-beard.php",
     "first_name": "Maceo",

@@ -14468,7 +14468,7 @@
   {
     "id": 11391,
     "sport": "baseball",
-    "team": "NYY",
+    "team": "CIN",
     "value": "Oswaldo Cabrera"
   },
   {
@@ -21652,6 +21652,12 @@
     "sport": "baseball",
     "team": "SF",
     "value": "Scott Bandura"
+  },
+  {
+    "id": 12762,
+    "sport": "baseball",
+    "team": "TOR",
+    "value": "Jose Rodriguez"
   },
   {
     "id": 1015,
@@ -30536,7 +30542,7 @@
   {
     "id": 3770,
     "sport": "basketball",
-    "team": "CLE",
+    "team": "DEN",
     "value": "Cam Whitmore"
   },
   {

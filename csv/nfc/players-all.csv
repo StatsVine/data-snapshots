@@ -2410,7 +2410,7 @@ id,sport,value,team
 11387,baseball,Maikel Garcia,KC
 11388,baseball,Jonathan Bowlan,PHI
 11389,baseball,Collin Snider,SEA
-11391,baseball,Oswaldo Cabrera,NYY
+11391,baseball,Oswaldo Cabrera,CIN
 11392,baseball,Ron Marinaccio,CIN
 11393,baseball,Randy Rodriguez,SF
 11394,baseball,Jonathan Aranda,TB
@@ -3608,6 +3608,7 @@ id,sport,value,team
 12759,baseball,Jack Sinclair,WAS
 12760,baseball,Aiva Arquette,MIA
 12761,baseball,Scott Bandura,SF
+12762,baseball,Jose Rodriguez,TOR
 1015,basketball,Tyson Chandler,HOU
 1023,basketball,Joe Johnson,BOS
 1091,basketball,Mike James,BKN
@@ -5088,7 +5089,7 @@ id,sport,value,team
 3767,basketball,Brandon Miller,CHA
 3768,basketball,Scoot Henderson,POR
 3769,basketball,Amen Thompson,HOU
-3770,basketball,Cam Whitmore,CLE
+3770,basketball,Cam Whitmore,DEN
 3771,basketball,Ausar Thompson,DET
 3772,basketball,Gradey Dick,LAC
 3773,basketball,Jarace Walker,IND

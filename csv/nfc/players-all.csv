@@ -3609,6 +3609,7 @@ id,sport,value,team
 12760,baseball,Aiva Arquette,MIA
 12761,baseball,Scott Bandura,SF
 12762,baseball,Jose Rodriguez,TOR
+12763,baseball,Aaron Sabato,MIN
 1015,basketball,Tyson Chandler,HOU
 1023,basketball,Joe Johnson,BOS
 1091,basketball,Mike James,BKN
@@ -5845,7 +5846,7 @@ id,sport,value,team
 11808,football,Cordarrelle Patterson,PIT
 11813,football,Giovani Bernard,TB
 11815,football,Justin Hunter,PIT
-11816,football,Zach Ertz,WAS
+11816,football,Zach Ertz,PHI
 11817,football,Robert Woods,PIT
 11818,football,Geno Smith,NYJ
 11822,football,Gavin Escobar,MIA
@@ -6998,7 +6999,7 @@ id,sport,value,team
 17499,football,Jake Powell,NYG
 17504,football,Deonte Harty,BAL
 17507,football,Darnell Holland,NO
-17512,football,Darius Slayton,NYG
+17512,football,Darius Slayton,IND
 17528,football,Jalin Moore,NYJ
 17531,football,Trevon Wesco,LV
 17535,football,Valentine Holmes,NYJ

@@ -21660,6 +21660,12 @@
     "value": "Jose Rodriguez"
   },
   {
+    "id": 12763,
+    "sport": "baseball",
+    "team": "MIN",
+    "value": "Aaron Sabato"
+  },
+  {
     "id": 1015,
     "sport": "basketball",
     "team": "HOU",
@@ -35078,7 +35084,7 @@
   {
     "id": 11816,
     "sport": "football",
-    "team": "WAS",
+    "team": "PHI",
     "value": "Zach Ertz"
   },
   {
@@ -41996,7 +42002,7 @@
   {
     "id": 17512,
     "sport": "football",
-    "team": "NYG",
+    "team": "IND",
     "value": "Darius Slayton"
   },
   {

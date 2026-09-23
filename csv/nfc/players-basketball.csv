@@ -481,7 +481,7 @@ id,value,team
 2698,Malcolm Delaney,ATL
 2699,DeAndre' Bembry,MIL
 2700,Cheick Diallo,MIA
-2701,Buddy Hield,ATL
+2701,Buddy Hield,CHA
 2702,Demetrius Jackson,LAL
 2703,Ben Bentil,DAL
 2704,Abdel Nader,PHO
@@ -499,7 +499,7 @@ id,value,team
 2716,Stefan Jankovic,MIA
 2717,Thon Maker,HOU
 2718,Malcolm Brogdon,NY
-2719,Dorian Finney-Smith,CHA
+2719,Dorian Finney-Smith,ATL
 2720,Jameel Warney,DAL
 2721,AJ Hammons,MIA
 2722,Kyle Collinsworth,UTH
@@ -1847,7 +1847,7 @@ id,value,team
 4191,Caleb Love,PHI
 4192,Tamar Bates,UTH
 4193,Dylan Cardwell,SAC
-4194,Ryan Nembhard,ATL
+4194,Ryan Nembhard,CHA
 4195,CJ Huntley,PHO
 4196,Cameron Matthews,HOU
 4197,Curtis Jones,DEN
@@ -1895,7 +1895,7 @@ id,value,team
 4239,Payton Sandfort,OKC
 4240,Jayson Kent,POR
 4241,Andersson Garcia,UTH
-4242,Bez Mbeng,CHA
+4242,Bez Mbeng,MIA
 4243,Adama Bal,MEM
 4244,Toby Okani,MEM
 4245,Tyreke Key,TOR
@@ -1986,3 +1986,8 @@ id,value,team
 4331,Sean McNeil,CLE
 4332,Meechie Johnson,LAL
 4333,Jayden Nunn,SA
+4334,Graham Ike,GS
+4335,Solomon Washington,NO
+4336,Reese Dixon-Waters,DEN
+4337,Keonte Jones,DEN
+4338,Boopie Miller,DEN

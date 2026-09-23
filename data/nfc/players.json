@@ -24560,7 +24560,7 @@
   {
     "id": 2701,
     "sport": "basketball",
-    "team": "ATL",
+    "team": "CHA",
     "value": "Buddy Hield"
   },
   {
@@ -24668,7 +24668,7 @@
   {
     "id": 2719,
     "sport": "basketball",
-    "team": "CHA",
+    "team": "ATL",
     "value": "Dorian Finney-Smith"
   },
   {
@@ -32756,7 +32756,7 @@
   {
     "id": 4194,
     "sport": "basketball",
-    "team": "ATL",
+    "team": "CHA",
     "value": "Ryan Nembhard"
   },
   {
@@ -33044,7 +33044,7 @@
   {
     "id": 4242,
     "sport": "basketball",
-    "team": "CHA",
+    "team": "MIA",
     "value": "Bez Mbeng"
   },
   {
@@ -33586,6 +33586,36 @@
     "sport": "basketball",
     "team": "SA",
     "value": "Jayden Nunn"
+  },
+  {
+    "id": 4334,
+    "sport": "basketball",
+    "team": "GS",
+    "value": "Graham Ike"
+  },
+  {
+    "id": 4335,
+    "sport": "basketball",
+    "team": "NO",
+    "value": "Solomon Washington"
+  },
+  {
+    "id": 4336,
+    "sport": "basketball",
+    "team": "DEN",
+    "value": "Reese Dixon-Waters"
+  },
+  {
+    "id": 4337,
+    "sport": "basketball",
+    "team": "DEN",
+    "value": "Keonte Jones"
+  },
+  {
+    "id": 4338,
+    "sport": "basketball",
+    "team": "DEN",
+    "value": "Boopie Miller"
   },
   {
     "id": 615,
@@ -35468,7 +35498,7 @@
   {
     "id": 12697,
     "sport": "football",
-    "team": "BUF",
+    "team": "SF",
     "value": "Brandin Cooks"
   },
   {
@@ -42836,7 +42866,7 @@
   {
     "id": 17988,
     "sport": "football",
-    "team": "NYG",
+    "team": "PIT",
     "value": "Isaiah Hodgins"
   },
   {
@@ -44222,7 +44252,7 @@
   {
     "id": 18774,
     "sport": "football",
-    "team": "LAC",
+    "team": "MIN",
     "value": "Jaret Patterson"
   },
   {
@@ -44930,7 +44960,7 @@
   {
     "id": 19140,
     "sport": "football",
-    "team": "ARZ",
+    "team": "CAR",
     "value": "Ihmir Smith-Marsette"
   },
   {
@@ -46886,7 +46916,7 @@
   {
     "id": 20170,
     "sport": "football",
-    "team": "NYG",
+    "team": "NE",
     "value": "Tanner Conner"
   },
   {
@@ -47252,7 +47282,7 @@
   {
     "id": 20295,
     "sport": "football",
-    "team": "TEN",
+    "team": "NYJ",
     "value": "Will Levis"
   },
   {
@@ -48224,7 +48254,7 @@
   {
     "id": 20818,
     "sport": "football",
-    "team": "LV",
+    "team": "BAL",
     "value": "Shedrick Jackson"
   },
   {
@@ -50366,7 +50396,7 @@
   {
     "id": 21978,
     "sport": "football",
-    "team": "CLE",
+    "team": "JAX",
     "value": "Brenden Bates"
   },
   {
@@ -50390,7 +50420,7 @@
   {
     "id": 21996,
     "sport": "football",
-    "team": "JAX",
+    "team": "LAC",
     "value": "Hayden Rucci"
   },
   {
@@ -53426,7 +53456,7 @@
   {
     "id": 23501,
     "sport": "football",
-    "team": "NO",
+    "team": "NYJ",
     "value": "Cody Hardy"
   },
   {

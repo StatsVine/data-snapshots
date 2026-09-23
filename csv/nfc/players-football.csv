@@ -312,7 +312,7 @@ id,value,team
 12684,Eric Ebron,PIT
 12686,Mike Evans,SF
 12688,Odell Beckham Jr.,NYG
-12697,Brandin Cooks,BUF
+12697,Brandin Cooks,SF
 12707,Kelvin Benjamin,NYG
 12708,Teddy Bridgewater,DET
 12712,Derek Carr,NO
@@ -1540,7 +1540,7 @@ id,value,team
 17985,Anthony McFarland,MIA
 17986,Thaddeus Moss,CIN
 17987,Donovan Peoples-Jones,NO
-17988,Isaiah Hodgins,NYG
+17988,Isaiah Hodgins,PIT
 17989,Devin Duvernay,ARZ
 17990,Collin Johnson,LV
 17991,Michael Warren,DET
@@ -1771,7 +1771,7 @@ id,value,team
 18771,Javonte Williams,DAL
 18772,Kenny Gainwell,TB
 18773,Chuba Hubbard,CAR
-18774,Jaret Patterson,LAC
+18774,Jaret Patterson,MIN
 18775,Ja'Marr Chase,CIN
 18776,Javian Hawkins,LA
 18777,Pooka Williams,CIN
@@ -1889,7 +1889,7 @@ id,value,team
 19129,Ben Skowronek,PIT
 19131,Jake Funk,JAX
 19138,Gerrid Doaks,HOU
-19140,Ihmir Smith-Marsette,ARZ
+19140,Ihmir Smith-Marsette,CAR
 19144,Tre Nixon,NE
 19147,Kawaan Baker,GB
 19149,Gary Brightwell,CIN
@@ -2215,7 +2215,7 @@ id,value,team
 20162,Tre Turner,LV
 20163,Chase Garbers,LV
 20165,Braylon Sanders,WAS
-20170,Tanner Conner,NYG
+20170,Tanner Conner,NE
 20179,Jashaun Corbin,DAL
 20183,Keshunn Abram,NYJ
 20184,Irv Charles,SEA
@@ -2276,7 +2276,7 @@ id,value,team
 20292,Chase Brown,CIN
 20293,Marvin Mims Jr.,DEN
 20294,Anthony Richardson Sr.,IND
-20295,Will Levis,TEN
+20295,Will Levis,NYJ
 20296,Jaren Hall,SEA
 20297,Tanner McKee,PHI
 20298,Michael Penix Jr.,ATL
@@ -2438,7 +2438,7 @@ id,value,team
 20814,Tyson Bagent,CHI
 20815,Aron Cruickshank,PIT
 20817,Mac Hippenhammer,CIN
-20818,Shedrick Jackson,LV
+20818,Shedrick Jackson,BAL
 20825,Hassan Hall,ARZ
 20828,Johnny King,PHI
 20829,Zavier Scott,CHI
@@ -2795,11 +2795,11 @@ id,value,team
 21974,Vincent Blanchard,NE
 21976,Praise Olatoke,CAR
 21977,Peter LeBlanc,CHI
-21978,Brenden Bates,CLE
+21978,Brenden Bates,JAX
 21989,Jude McAtamney,NYG
 21990,John Jiles,NE
 21991,Tre Mosley,CIN
-21996,Hayden Rucci,JAX
+21996,Hayden Rucci,LAC
 21998,Jadon Janke,GB
 21999,Tanner Knue,TB
 22002,John Jackson,CHI
@@ -3305,7 +3305,7 @@ id,value,team
 23493,Tanner Arkin,NE
 23496,Kyle Dixon,NE
 23499,Laith Marjan,PIT
-23501,Cody Hardy,NO
+23501,Cody Hardy,NYJ
 23502,Mekhi Mews,NO
 23503,Kevorian Barnes,NYG
 23505,Dominic Zvada,NYG

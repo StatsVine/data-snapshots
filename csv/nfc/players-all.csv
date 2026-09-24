@@ -3327,7 +3327,7 @@ id,sport,value,team
 12461,baseball,Zach Cole,HOU
 12462,baseball,Denzer Guzman,LAA
 12463,baseball,Trey Yesavage,TOR
-12465,baseball,Philip Abner,SF
+12465,baseball,Philip Abner,NYM
 12466,baseball,Jhancarlos Lara,WAS
 12467,baseball,Austin Pope,ARZ
 12468,baseball,Dylan Ross,NYM
@@ -3610,6 +3610,7 @@ id,sport,value,team
 12761,baseball,Scott Bandura,SF
 12762,baseball,Jose Rodriguez,TOR
 12763,baseball,Aaron Sabato,MIN
+12764,baseball,Josh Hendrickson,HOU
 1015,basketball,Tyson Chandler,HOU
 1023,basketball,Joe Johnson,BOS
 1091,basketball,Mike James,BKN
@@ -4335,7 +4336,7 @@ id,sport,value,team
 2945,basketball,Aaron Jackson,HOU
 2946,basketball,Chandler Hutchison,PHO
 2947,basketball,Wendell Carter Jr.,ORL
-2948,basketball,Kevin Knox,CHI
+2948,basketball,Kevin Knox II,ORL
 2949,basketball,Mitchell Robinson,BOS
 2950,basketball,Collin Sexton,LAL
 2951,basketball,Alize Johnson,MIN
@@ -5489,7 +5490,7 @@ id,sport,value,team
 4222,basketball,Dawson Garcia,DET
 4223,basketball,Brice Williams,DET
 4224,basketball,Jahmyl Telfort,LAC
-4225,basketball,Dain Dainja,MIA
+4225,basketball,Dain Dainja,BKN
 4226,basketball,Saint Thomas,PHI
 4227,basketball,Johnell Davis,ORL
 4228,basketball,Mitch Mascari,SAC
@@ -5510,7 +5511,7 @@ id,sport,value,team
 4243,basketball,Adama Bal,MEM
 4244,basketball,Toby Okani,MEM
 4245,basketball,Tyreke Key,TOR
-4246,basketball,Hayden Gray,UTH
+4246,basketball,Hayden Gray,BOS
 4247,basketball,Caleb Wilson,CHI
 4248,basketball,Dailyn Swain,CHI
 4249,basketball,Yaxel Lendeborg,GS
@@ -5602,6 +5603,8 @@ id,sport,value,team
 4336,basketball,Reese Dixon-Waters,DEN
 4337,basketball,Keonte Jones,DEN
 4338,basketball,Boopie Miller,DEN
+4339,basketball,Justin Harmon,UTH
+4340,basketball,Ibrahima Diallo,UTH
 615,football,Kent Shelby,LAC
 1038,football,Leon Johnson,LAC
 1533,football,Chase Cota,HOU
@@ -8989,7 +8992,7 @@ id,sport,value,team
 23728,football,Brandon Hayes,PHI
 23734,football,Louis Hansen,HOU
 23735,football,Kyre Duplessis,DEN
-23737,football,Malick Meiga,CAR
+23737,football,Malick Meiga,SEA
 23740,football,Jeremiah Franklin,MIA
 23741,football,Tyler Moore,IND
 23742,football,Liam Clifford,LAC

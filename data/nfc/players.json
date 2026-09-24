@@ -19970,7 +19970,7 @@
   {
     "id": 12465,
     "sport": "baseball",
-    "team": "SF",
+    "team": "NYM",
     "value": "Philip Abner"
   },
   {
@@ -21664,6 +21664,12 @@
     "sport": "baseball",
     "team": "MIN",
     "value": "Aaron Sabato"
+  },
+  {
+    "id": 12764,
+    "sport": "baseball",
+    "team": "HOU",
+    "value": "Josh Hendrickson"
   },
   {
     "id": 1015,
@@ -26018,8 +26024,8 @@
   {
     "id": 2948,
     "sport": "basketball",
-    "team": "CHI",
-    "value": "Kevin Knox"
+    "team": "ORL",
+    "value": "Kevin Knox II"
   },
   {
     "id": 2949,
@@ -32942,7 +32948,7 @@
   {
     "id": 4225,
     "sport": "basketball",
-    "team": "MIA",
+    "team": "BKN",
     "value": "Dain Dainja"
   },
   {
@@ -33068,7 +33074,7 @@
   {
     "id": 4246,
     "sport": "basketball",
-    "team": "UTH",
+    "team": "BOS",
     "value": "Hayden Gray"
   },
   {
@@ -33616,6 +33622,18 @@
     "sport": "basketball",
     "team": "DEN",
     "value": "Boopie Miller"
+  },
+  {
+    "id": 4339,
+    "sport": "basketball",
+    "team": "UTH",
+    "value": "Justin Harmon"
+  },
+  {
+    "id": 4340,
+    "sport": "basketball",
+    "team": "UTH",
+    "value": "Ibrahima Diallo"
   },
   {
     "id": 615,
@@ -53942,7 +53960,7 @@
   {
     "id": 23737,
     "sport": "football",
-    "team": "CAR",
+    "team": "SEA",
     "value": "Malick Meiga"
   },
   {

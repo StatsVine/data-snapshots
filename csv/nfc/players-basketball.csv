@@ -724,7 +724,7 @@ id,value,team
 2945,Aaron Jackson,HOU
 2946,Chandler Hutchison,PHO
 2947,Wendell Carter Jr.,ORL
-2948,Kevin Knox,CHI
+2948,Kevin Knox II,ORL
 2949,Mitchell Robinson,BOS
 2950,Collin Sexton,LAL
 2951,Alize Johnson,MIN
@@ -1878,7 +1878,7 @@ id,value,team
 4222,Dawson Garcia,DET
 4223,Brice Williams,DET
 4224,Jahmyl Telfort,LAC
-4225,Dain Dainja,MIA
+4225,Dain Dainja,BKN
 4226,Saint Thomas,PHI
 4227,Johnell Davis,ORL
 4228,Mitch Mascari,SAC
@@ -1899,7 +1899,7 @@ id,value,team
 4243,Adama Bal,MEM
 4244,Toby Okani,MEM
 4245,Tyreke Key,TOR
-4246,Hayden Gray,UTH
+4246,Hayden Gray,BOS
 4247,Caleb Wilson,CHI
 4248,Dailyn Swain,CHI
 4249,Yaxel Lendeborg,GS
@@ -1991,3 +1991,5 @@ id,value,team
 4336,Reese Dixon-Waters,DEN
 4337,Keonte Jones,DEN
 4338,Boopie Miller,DEN
+4339,Justin Harmon,UTH
+4340,Ibrahima Diallo,UTH

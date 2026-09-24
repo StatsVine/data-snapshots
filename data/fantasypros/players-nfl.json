@@ -16372,7 +16372,7 @@
       "DT"
     ],
     "sportsdata_player_id": "014038bd-e9b7-476f-b7bd-bd78a46a9a57",
-    "team_id": "FA",
+    "team_id": "BUF",
     "yahoo_id": "29277"
   },
   {
@@ -41012,7 +41012,7 @@
       "DE,DT"
     ],
     "sportsdata_player_id": "29815a83-1d6b-4e1b-b1c6-9bf44e7166c9",
-    "team_id": "FA",
+    "team_id": "MIN",
     "yahoo_id": "32254"
   },
   {
@@ -41153,7 +41153,7 @@
       "CB"
     ],
     "sportsdata_player_id": "3f0926f7-103e-44d5-85f0-e53ec48fe452",
-    "team_id": "FA",
+    "team_id": "CLE",
     "yahoo_id": "32223"
   },
   {
@@ -43960,7 +43960,7 @@
       "LB"
     ],
     "sportsdata_player_id": "c44bdac4-0732-4f94-8bae-df47ecec5656",
-    "team_id": "FA",
+    "team_id": "DET",
     "yahoo_id": "33108"
   },
   {
@@ -48142,7 +48142,7 @@
       "CB"
     ],
     "sportsdata_player_id": "7a51270b-cbdf-451e-a9e7-0f0b23435dd0",
-    "team_id": "CLE",
+    "team_id": "FA",
     "yahoo_id": "33319"
   },
   {
@@ -86092,7 +86092,7 @@
       "DT"
     ],
     "sportsdata_player_id": "728571c3-6651-4534-ad27-d86d72dc7d16",
-    "team_id": "MIN",
+    "team_id": "SF",
     "yahoo_id": "33833"
   },
   {
@@ -109987,7 +109987,7 @@
       "LB,DE"
     ],
     "sportsdata_player_id": "08aa57d0-d20a-11ec-ab20-b37737d70cc4",
-    "team_id": "FA",
+    "team_id": "NE",
     "yahoo_id": "34332"
   },
   {
@@ -116105,7 +116105,7 @@
   {
     "birthdate": "",
     "cbs_id": null,
-    "draft_class": 2026,
+    "draft_class": 2027,
     "espn_id": null,
     "filename": "https://www.fantasypros.com/nfl/players/brandon-inniss.php",
     "first_name": "Brandon",
@@ -117088,7 +117088,7 @@
       "DE,DT"
     ],
     "sportsdata_player_id": "5ce35506-7d1f-4795-92f5-834a1f5c5fe0",
-    "team_id": "FA",
+    "team_id": "SF",
     "yahoo_id": "40140"
   },
   {
@@ -120096,7 +120096,7 @@
       "LB"
     ],
     "sportsdata_player_id": "7921bb10-eb78-11ed-bdbc-7f2763e63be6",
-    "team_id": "FA",
+    "team_id": "MIA",
     "yahoo_id": "40522"
   },
   {
@@ -124767,7 +124767,7 @@
   {
     "birthdate": "",
     "cbs_id": null,
-    "draft_class": 2026,
+    "draft_class": 2027,
     "espn_id": null,
     "filename": "https://www.fantasypros.com/nfl/players/andrew-rappleyea.php",
     "first_name": "Andrew",
@@ -132761,7 +132761,7 @@
       "LB"
     ],
     "sportsdata_player_id": "38c63ba0-0723-11ef-acb3-9348ceb755d6",
-    "team_id": "FA",
+    "team_id": "CAR",
     "yahoo_id": "41336"
   },
   {
@@ -141251,7 +141251,7 @@
       "DT"
     ],
     "sportsdata_player_id": "09ab3357-370f-4d35-abfe-4576d00e5c87",
-    "team_id": "FA",
+    "team_id": "ARI",
     "yahoo_id": "42003"
   },
   {
@@ -146603,7 +146603,7 @@
       "CB"
     ],
     "sportsdata_player_id": "0f78cd80-2301-11f0-9ada-6f0f03a59a12",
-    "team_id": "SF",
+    "team_id": "FA",
     "yahoo_id": "42056"
   },
   {
@@ -148352,7 +148352,7 @@
       "WR"
     ],
     "sportsdata_player_id": "2b89f6e0-249e-11f0-8ecb-33c8d222dbba",
-    "team_id": "FA",
+    "team_id": "IND",
     "yahoo_id": "42217"
   },
   {
@@ -154029,7 +154029,7 @@
   {
     "birthdate": "2004-01-20",
     "cbs_id": null,
-    "draft_class": 2026,
+    "draft_class": 2027,
     "espn_id": null,
     "filename": "https://www.fantasypros.com/nfl/players/brendan-sorsby.php",
     "first_name": "Brendan",
@@ -162608,7 +162608,7 @@
       "DT"
     ],
     "sportsdata_player_id": "8ddaba30-4268-11f1-ada3-a5290cf26ed3",
-    "team_id": "FA",
+    "team_id": "SEA",
     "yahoo_id": "43009"
   },
   {
@@ -164678,7 +164678,7 @@
       "S"
     ],
     "sportsdata_player_id": "afec82c0-4330-11f1-8cff-f7bce7441730",
-    "team_id": "PHI",
+    "team_id": "LAR",
     "yahoo_id": "43211"
   },
   {
@@ -167399,7 +167399,7 @@
       "WR"
     ],
     "sportsdata_player_id": "dab522e0-637a-11f1-b3ac-1141f054753e",
-    "team_id": "FA",
+    "team_id": "SEA",
     "yahoo_id": "43460"
   },
   {
@@ -169776,6 +169776,226 @@
     "position_id": "WR",
     "positions": [
       "WR"
+    ],
+    "sportsdata_player_id": "",
+    "team_id": "FA",
+    "yahoo_id": null
+  },
+  {
+    "birthdate": "",
+    "cbs_id": null,
+    "draft_class": 2028,
+    "espn_id": null,
+    "filename": "https://www.fantasypros.com/nfl/players/matt-fuller.php",
+    "first_name": "Matt",
+    "last_name": "Fuller",
+    "mfl_id": null,
+    "nfl_id": null,
+    "player_id": 29452,
+    "player_name": "Matt Fuller",
+    "position_id": "RB",
+    "positions": [
+      "RB"
+    ],
+    "sportsdata_player_id": "",
+    "team_id": "FA",
+    "yahoo_id": null
+  },
+  {
+    "birthdate": "",
+    "cbs_id": null,
+    "draft_class": 2028,
+    "espn_id": null,
+    "filename": "https://www.fantasypros.com/nfl/players/aiden-flora.php",
+    "first_name": "Aiden",
+    "last_name": "Flora",
+    "mfl_id": null,
+    "nfl_id": null,
+    "player_id": 29453,
+    "player_name": "Aiden Flora",
+    "position_id": "RB",
+    "positions": [
+      "RB"
+    ],
+    "sportsdata_player_id": "",
+    "team_id": "FA",
+    "yahoo_id": null
+  },
+  {
+    "birthdate": "",
+    "cbs_id": null,
+    "draft_class": 2028,
+    "espn_id": null,
+    "filename": "https://www.fantasypros.com/nfl/players/michael-hawkins-jr.php",
+    "first_name": "Michael",
+    "last_name": "Hawkins",
+    "mfl_id": null,
+    "nfl_id": null,
+    "player_id": 29454,
+    "player_name": "Michael Hawkins Jr.",
+    "position_id": "QB",
+    "positions": [
+      "QB"
+    ],
+    "sportsdata_player_id": "",
+    "team_id": "FA",
+    "yahoo_id": null
+  },
+  {
+    "birthdate": "",
+    "cbs_id": null,
+    "draft_class": 2028,
+    "espn_id": null,
+    "filename": "https://www.fantasypros.com/nfl/players/dilin-jones.php",
+    "first_name": "Dilin",
+    "last_name": "Jones",
+    "mfl_id": null,
+    "nfl_id": null,
+    "player_id": 29455,
+    "player_name": "Dilin Jones",
+    "position_id": "RB",
+    "positions": [
+      "RB"
+    ],
+    "sportsdata_player_id": "",
+    "team_id": "FA",
+    "yahoo_id": null
+  },
+  {
+    "birthdate": "",
+    "cbs_id": null,
+    "draft_class": 2028,
+    "espn_id": null,
+    "filename": "https://www.fantasypros.com/nfl/players/jeremy-payne.php",
+    "first_name": "Jeremy",
+    "last_name": "Payne",
+    "mfl_id": null,
+    "nfl_id": null,
+    "player_id": 29456,
+    "player_name": "Jeremy Payne",
+    "position_id": "RB",
+    "positions": [
+      "RB"
+    ],
+    "sportsdata_player_id": "",
+    "team_id": "FA",
+    "yahoo_id": null
+  },
+  {
+    "birthdate": "",
+    "cbs_id": null,
+    "draft_class": 2028,
+    "espn_id": null,
+    "filename": "https://www.fantasypros.com/nfl/players/jeremiah-mcclellan.php",
+    "first_name": "Jeremiah",
+    "last_name": "McClellan",
+    "mfl_id": null,
+    "nfl_id": null,
+    "player_id": 29457,
+    "player_name": "Jeremiah McClellan",
+    "position_id": "WR",
+    "positions": [
+      "WR"
+    ],
+    "sportsdata_player_id": "",
+    "team_id": "FA",
+    "yahoo_id": null
+  },
+  {
+    "birthdate": "",
+    "cbs_id": null,
+    "draft_class": 2029,
+    "espn_id": null,
+    "filename": "https://www.fantasypros.com/nfl/players/ryan-montgomery.php",
+    "first_name": "Ryan",
+    "last_name": "Montgomery",
+    "mfl_id": null,
+    "nfl_id": null,
+    "player_id": 29458,
+    "player_name": "Ryan Montgomery",
+    "position_id": "QB",
+    "positions": [
+      "QB"
+    ],
+    "sportsdata_player_id": "",
+    "team_id": "FA",
+    "yahoo_id": null
+  },
+  {
+    "birthdate": "",
+    "cbs_id": null,
+    "draft_class": 2029,
+    "espn_id": null,
+    "filename": "https://www.fantasypros.com/nfl/players/fame-ijeboi.php",
+    "first_name": "Fame",
+    "last_name": "Ijeboi",
+    "mfl_id": null,
+    "nfl_id": null,
+    "player_id": 29459,
+    "player_name": "Fame Ijeboi",
+    "position_id": "RB",
+    "positions": [
+      "RB"
+    ],
+    "sportsdata_player_id": "",
+    "team_id": "FA",
+    "yahoo_id": null
+  },
+  {
+    "birthdate": "",
+    "cbs_id": null,
+    "draft_class": 2028,
+    "espn_id": null,
+    "filename": "https://www.fantasypros.com/nfl/players/micah-gilbert.php",
+    "first_name": "Micah",
+    "last_name": "Gilbert",
+    "mfl_id": null,
+    "nfl_id": null,
+    "player_id": 29460,
+    "player_name": "Micah Gilbert",
+    "position_id": "WR",
+    "positions": [
+      "WR"
+    ],
+    "sportsdata_player_id": "",
+    "team_id": "FA",
+    "yahoo_id": null
+  },
+  {
+    "birthdate": "",
+    "cbs_id": null,
+    "draft_class": 2028,
+    "espn_id": null,
+    "filename": "https://www.fantasypros.com/nfl/players/daune-morris.php",
+    "first_name": "Daune",
+    "last_name": "Morris",
+    "mfl_id": null,
+    "nfl_id": null,
+    "player_id": 29461,
+    "player_name": "Daune Morris",
+    "position_id": "RB",
+    "positions": [
+      "RB"
+    ],
+    "sportsdata_player_id": "",
+    "team_id": "FA",
+    "yahoo_id": null
+  },
+  {
+    "birthdate": "",
+    "cbs_id": null,
+    "draft_class": 2029,
+    "espn_id": null,
+    "filename": "https://www.fantasypros.com/nfl/players/nolan-james-jr.php",
+    "first_name": "Nolan",
+    "last_name": "James",
+    "mfl_id": null,
+    "nfl_id": null,
+    "player_id": 29462,
+    "player_name": "Nolan James Jr.",
+    "position_id": "RB",
+    "positions": [
+      "RB"
     ],
     "sportsdata_player_id": "",
     "team_id": "FA",

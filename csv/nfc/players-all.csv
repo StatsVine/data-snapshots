@@ -1880,7 +1880,7 @@ id,sport,value,team
 10769,baseball,Garrett Cleavinger,TB
 10770,baseball,Cristopher Sanchez,PHI
 10771,baseball,Alvaro Seijas,STL
-10772,baseball,Jake Woodford,CHC
+10772,baseball,Jake Woodford,TB
 10774,baseball,Cody Ponce,TOR
 10776,baseball,Zack Short,NYM
 10777,baseball,Tyson Miller,CHC
@@ -2175,7 +2175,7 @@ id,sport,value,team
 11102,baseball,Patrick Bailey,CLE
 11103,baseball,Luis Toribio,SF
 11104,baseball,Will Wilson,SEA
-11105,baseball,Camilo Doval,PIT
+11105,baseball,Camilo Doval,SF
 11106,baseball,Clayton Beeter,WAS
 11107,baseball,Jesus Cruz,ATL
 11108,baseball,Gunnar Henderson,BAL
@@ -5462,7 +5462,7 @@ id,sport,value,team
 4194,basketball,Ryan Nembhard,CHA
 4195,basketball,CJ Huntley,PHO
 4196,basketball,Cameron Matthews,HOU
-4197,basketball,Curtis Jones,DEN
+4197,basketball,Curtis Jones,CLE
 4198,basketball,Chris Manon,LAL
 4199,basketball,Myron Gardner,MIA
 4200,basketball,Augustas Marciulionis,LAL
@@ -5485,7 +5485,7 @@ id,sport,value,team
 4217,basketball,Matthew Murrell,UTH
 4218,basketball,Steven Crowl,UTH
 4219,basketball,Chris Youngblood,POR
-4220,basketball,Zack Austin,OKC
+4220,basketball,Zack Austin,CLE
 4221,basketball,LJ Cryer,GS
 4222,basketball,Dawson Garcia,DET
 4223,basketball,Brice Williams,DET
@@ -5497,11 +5497,11 @@ id,sport,value,team
 4229,basketball,Daniel Batcho,SAC
 4230,basketball,Gabe Madsen,MIA
 4231,basketball,Alex Antetokounmpo,MIL
-4232,basketball,Kadary Richmond,WAS
+4232,basketball,Kadary Richmond,CLE
 4233,basketball,Lamont Butler,ATL
 4234,basketball,Steve Settle,MIA
 4235,basketball,Isaih Moore,CHA
-4236,basketball,Julian Reese,DEN
+4236,basketball,Julian Reese,NO
 4237,basketball,Sean Pedulla,HOU
 4238,basketball,Grant Nelson,BKN
 4239,basketball,Payton Sandfort,OKC
@@ -5605,6 +5605,7 @@ id,sport,value,team
 4338,basketball,Boopie Miller,DEN
 4339,basketball,Justin Harmon,UTH
 4340,basketball,Ibrahima Diallo,UTH
+4341,basketball,Rashaun Agee,CLE
 615,football,Kent Shelby,LAC
 1038,football,Leon Johnson,LAC
 1533,football,Chase Cota,HOU

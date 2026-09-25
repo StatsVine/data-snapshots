@@ -1850,7 +1850,7 @@ id,value,team
 4194,Ryan Nembhard,CHA
 4195,CJ Huntley,PHO
 4196,Cameron Matthews,HOU
-4197,Curtis Jones,DEN
+4197,Curtis Jones,CLE
 4198,Chris Manon,LAL
 4199,Myron Gardner,MIA
 4200,Augustas Marciulionis,LAL
@@ -1873,7 +1873,7 @@ id,value,team
 4217,Matthew Murrell,UTH
 4218,Steven Crowl,UTH
 4219,Chris Youngblood,POR
-4220,Zack Austin,OKC
+4220,Zack Austin,CLE
 4221,LJ Cryer,GS
 4222,Dawson Garcia,DET
 4223,Brice Williams,DET
@@ -1885,11 +1885,11 @@ id,value,team
 4229,Daniel Batcho,SAC
 4230,Gabe Madsen,MIA
 4231,Alex Antetokounmpo,MIL
-4232,Kadary Richmond,WAS
+4232,Kadary Richmond,CLE
 4233,Lamont Butler,ATL
 4234,Steve Settle,MIA
 4235,Isaih Moore,CHA
-4236,Julian Reese,DEN
+4236,Julian Reese,NO
 4237,Sean Pedulla,HOU
 4238,Grant Nelson,BKN
 4239,Payton Sandfort,OKC
@@ -1993,3 +1993,4 @@ id,value,team
 4338,Boopie Miller,DEN
 4339,Justin Harmon,UTH
 4340,Ibrahima Diallo,UTH
+4341,Rashaun Agee,CLE

@@ -11288,7 +11288,7 @@
   {
     "id": 10772,
     "sport": "baseball",
-    "team": "CHC",
+    "team": "TB",
     "value": "Jake Woodford"
   },
   {
@@ -13058,7 +13058,7 @@
   {
     "id": 11105,
     "sport": "baseball",
-    "team": "PIT",
+    "team": "SF",
     "value": "Camilo Doval"
   },
   {
@@ -32780,7 +32780,7 @@
   {
     "id": 4197,
     "sport": "basketball",
-    "team": "DEN",
+    "team": "CLE",
     "value": "Curtis Jones"
   },
   {
@@ -32918,7 +32918,7 @@
   {
     "id": 4220,
     "sport": "basketball",
-    "team": "OKC",
+    "team": "CLE",
     "value": "Zack Austin"
   },
   {
@@ -32990,7 +32990,7 @@
   {
     "id": 4232,
     "sport": "basketball",
-    "team": "WAS",
+    "team": "CLE",
     "value": "Kadary Richmond"
   },
   {
@@ -33014,7 +33014,7 @@
   {
     "id": 4236,
     "sport": "basketball",
-    "team": "DEN",
+    "team": "NO",
     "value": "Julian Reese"
   },
   {
@@ -33634,6 +33634,12 @@
     "sport": "basketball",
     "team": "UTH",
     "value": "Ibrahima Diallo"
+  },
+  {
+    "id": 4341,
+    "sport": "basketball",
+    "team": "CLE",
+    "value": "Rashaun Agee"
   },
   {
     "id": 615,

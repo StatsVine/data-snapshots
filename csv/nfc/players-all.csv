@@ -3611,6 +3611,7 @@ id,sport,value,team
 12762,baseball,Jose Rodriguez,TOR
 12763,baseball,Aaron Sabato,MIN
 12764,baseball,Josh Hendrickson,HOU
+12765,baseball,Alexander Cornielle,NYY
 1015,basketball,Tyson Chandler,HOU
 1023,basketball,Joe Johnson,BOS
 1091,basketball,Mike James,BKN
@@ -4825,7 +4826,7 @@ id,sport,value,team
 3497,basketball,Scottie Barnes,TOR
 3498,basketball,Dalano Banton,BOS
 3499,basketball,David Johnson,TOR
-3500,basketball,Brandon Boston,NO
+3500,basketball,Brandon Boston Jr.,CHI
 3501,basketball,Keon Johnson,BKN
 3502,basketball,Jason Preston,LAC
 3503,basketball,Jared Butler,PHO
@@ -4947,7 +4948,7 @@ id,sport,value,team
 3619,basketball,Johnny Juzang,MIN
 3620,basketball,Bryce Hamilton,LAL
 3621,basketball,Jalen Adaway,SA
-3622,basketball,Orlando Robinson,ORL
+3622,basketball,Orlando Robinson,CHI
 3623,basketball,AJ Green,MIL
 3624,basketball,Collin Gillespie,PHO
 3625,basketball,Justin Lewis,CHI
@@ -5190,7 +5191,7 @@ id,sport,value,team
 3915,basketball,Alex Morales,ORL
 3916,basketball,Scottie Lindsey,BKN
 3917,basketball,Kendric Davis,GS
-3918,basketball,Drew Peterson,CHA
+3918,basketball,Drew Peterson,CHI
 3919,basketball,Andrew Funk,CHI
 3920,basketball,Armaan Franklin,DEN
 3921,basketball,Nathan Mensah,SA
@@ -5467,7 +5468,7 @@ id,sport,value,team
 4199,basketball,Myron Gardner,MIA
 4200,basketball,Augustas Marciulionis,LAL
 4201,basketball,Arthur Kaluma,LAL
-4202,basketball,R.J. Davis,LAL
+4202,basketball,R.J. Davis,SA
 4203,basketball,Tyrese Samuel,PHO
 4204,basketball,Moussa Cisse,DAL
 4205,basketball,Matthew Cleveland,DAL
@@ -5551,7 +5552,7 @@ id,sport,value,team
 4283,basketball,Isaiah Evans,MIN
 4284,basketball,Trey Kaufman-Renn,MIN
 4285,basketball,Richie Saunders,MEM
-4286,basketball,Peter Suder,LAL
+4286,basketball,Peter Suder,CHI
 4287,basketball,AK Okereke,LAL
 4288,basketball,Bruce Thornton,HOU
 4289,basketball,Quadir Copeland,HOU
@@ -5606,6 +5607,12 @@ id,sport,value,team
 4339,basketball,Justin Harmon,UTH
 4340,basketball,Ibrahima Diallo,UTH
 4341,basketball,Rashaun Agee,CLE
+4342,basketball,Tyrone Marshall Jr.,SAC
+4343,basketball,Nimari Burnett,TOR
+4344,basketball,Ian Schieffelin,MIA
+4345,basketball,Marquel Sutton,CHI
+4346,basketball,Jaelen House,UTH
+4347,basketball,Jonas Aidoo,UTH
 615,football,Kent Shelby,LAC
 1038,football,Leon Johnson,LAC
 1533,football,Chase Cota,HOU

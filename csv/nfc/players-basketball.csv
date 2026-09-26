@@ -1213,7 +1213,7 @@ id,value,team
 3497,Scottie Barnes,TOR
 3498,Dalano Banton,BOS
 3499,David Johnson,TOR
-3500,Brandon Boston,NO
+3500,Brandon Boston Jr.,CHI
 3501,Keon Johnson,BKN
 3502,Jason Preston,LAC
 3503,Jared Butler,PHO
@@ -1335,7 +1335,7 @@ id,value,team
 3619,Johnny Juzang,MIN
 3620,Bryce Hamilton,LAL
 3621,Jalen Adaway,SA
-3622,Orlando Robinson,ORL
+3622,Orlando Robinson,CHI
 3623,AJ Green,MIL
 3624,Collin Gillespie,PHO
 3625,Justin Lewis,CHI
@@ -1578,7 +1578,7 @@ id,value,team
 3915,Alex Morales,ORL
 3916,Scottie Lindsey,BKN
 3917,Kendric Davis,GS
-3918,Drew Peterson,CHA
+3918,Drew Peterson,CHI
 3919,Andrew Funk,CHI
 3920,Armaan Franklin,DEN
 3921,Nathan Mensah,SA
@@ -1855,7 +1855,7 @@ id,value,team
 4199,Myron Gardner,MIA
 4200,Augustas Marciulionis,LAL
 4201,Arthur Kaluma,LAL
-4202,R.J. Davis,LAL
+4202,R.J. Davis,SA
 4203,Tyrese Samuel,PHO
 4204,Moussa Cisse,DAL
 4205,Matthew Cleveland,DAL
@@ -1939,7 +1939,7 @@ id,value,team
 4283,Isaiah Evans,MIN
 4284,Trey Kaufman-Renn,MIN
 4285,Richie Saunders,MEM
-4286,Peter Suder,LAL
+4286,Peter Suder,CHI
 4287,AK Okereke,LAL
 4288,Bruce Thornton,HOU
 4289,Quadir Copeland,HOU
@@ -1994,3 +1994,9 @@ id,value,team
 4339,Justin Harmon,UTH
 4340,Ibrahima Diallo,UTH
 4341,Rashaun Agee,CLE
+4342,Tyrone Marshall Jr.,SAC
+4343,Nimari Burnett,TOR
+4344,Ian Schieffelin,MIA
+4345,Marquel Sutton,CHI
+4346,Jaelen House,UTH
+4347,Jonas Aidoo,UTH

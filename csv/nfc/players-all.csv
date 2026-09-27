@@ -2888,7 +2888,7 @@ id,sport,value,team
 11956,baseball,Carson Whisenhunt,SF
 11957,baseball,Will Dion,WAS
 11958,baseball,Josh Stephan,TEX
-11959,baseball,Julian Aguiar,CIN
+11959,baseball,Julian Aguiar,CHC
 11960,baseball,Blake Hunt,SD
 11961,baseball,Keider Montero,DET
 11962,baseball,Michael Mercado,PHI
@@ -4094,7 +4094,7 @@ id,sport,value,team
 2698,basketball,Malcolm Delaney,ATL
 2699,basketball,DeAndre' Bembry,MIL
 2700,basketball,Cheick Diallo,MIA
-2701,basketball,Buddy Hield,CHA
+2701,basketball,Buddy Hield,CHI
 2702,basketball,Demetrius Jackson,LAL
 2703,basketball,Ben Bentil,DAL
 2704,basketball,Abdel Nader,PHO
@@ -4745,7 +4745,7 @@ id,sport,value,team
 3409,basketball,Marko Simonovic,CHI
 3411,basketball,Vit Krejci,POR
 3413,basketball,Yam Madar,BOS
-3414,basketball,KJ Martin,UTH
+3414,basketball,KJ Martin,MIN
 3415,basketball,Facundo Campazzo,DAL
 3416,basketball,Anthony Gill,WAS
 3417,basketball,Jae'Sean Tate,HOU
@@ -4984,7 +4984,7 @@ id,sport,value,team
 3656,basketball,Wendell Moore Jr.,DET
 3657,basketball,Vince Williams,UTH
 3658,basketball,David Roddy,DEN
-3659,basketball,Kennedy Chandler,UTH
+3659,basketball,Kennedy Chandler,PHO
 3660,basketball,Jake LaRavia,LAL
 3661,basketball,Max Christie,DAL
 3662,basketball,Jabari Smith Jr.,HOU
@@ -5134,7 +5134,7 @@ id,sport,value,team
 3809,basketball,Tristan Vukcevic,WAS
 3810,basketball,Julian Strawther,DEN
 3811,basketball,Kobe Brown,IND
-3812,basketball,Seth Lundy,LAC
+3812,basketball,Seth Lundy,DAL
 3813,basketball,Mouhamed Gueye,ATL
 3814,basketball,Ben Sheppard,IND
 3815,basketball,Adem Bona,PHI
@@ -5168,13 +5168,13 @@ id,sport,value,team
 3892,basketball,Caleb Daniels,MIA
 3893,basketball,Omari Moore,TOR
 3894,basketball,Mike Miles,DAL
-3895,basketball,Drew Timme,LAL
+3895,basketball,Drew Timme,MIN
 3896,basketball,Malcolm Cazalon,DET
 3897,basketball,Craig Porter Jr.,CLE
 3898,basketball,D'Moi Hodge,LAL
 3899,basketball,Colin Castleton,ORL
 3900,basketball,Miles Norris,BOS
-3901,basketball,Leaky Black,WAS
+3901,basketball,Leaky Black,SAC
 3902,basketball,Onuralp Bitim,CHI
 3903,basketball,Obadiah Noel,NY
 3904,basketball,Dexter Dennis,SAC
@@ -5216,7 +5216,7 @@ id,sport,value,team
 3940,basketball,Au'Diese Toney,DEN
 3941,basketball,Timmy Allen,MEM
 3942,basketball,Taze Moore,POR
-3943,basketball,Yuri Collins,GS
+3943,basketball,Yuri Collins,MEM
 3944,basketball,Ben Brown,FA
 3945,basketball,Kyle Mangas,SA
 3946,basketball,Reid Travis,IND
@@ -5230,9 +5230,9 @@ id,sport,value,team
 3955,basketball,Ryan Turell,DET
 3956,basketball,Nate Roberts,DET
 3957,basketball,Kihei Clark,MIL
-3958,basketball,Dane Goodwin,SAC
+3958,basketball,Dane Goodwin,DEN
 3959,basketball,Jake Stephens,MIL
-3960,basketball,Jarkel Joiner,ATL
+3960,basketball,Jarkel Joiner,CHA
 3961,basketball,Malachi Smith,TOR
 3962,basketball,Dmytro Skapintsev,BOS
 3963,basketball,Jaylin Galloway,MIL
@@ -5243,7 +5243,7 @@ id,sport,value,team
 3968,basketball,Jared McCain,OKC
 3969,basketball,Kyshawn George,WAS
 3970,basketball,Bub Carrington,WAS
-3972,basketball,Rob Dillingham,CHI
+3972,basketball,Rob Dillingham,CHA
 3974,basketball,Dalton Knecht,LAL
 3975,basketball,Reed Sheppard,HOU
 3976,basketball,Yves Missi,NO
@@ -5271,7 +5271,7 @@ id,sport,value,team
 3999,basketball,Ariel Hukporti,PHI
 4000,basketball,DJ Burns,CLE
 4001,basketball,Johnny Furphy,IND
-4002,basketball,Tristen Newton,HOU
+4002,basketball,Tristen Newton,SAC
 4003,basketball,Enrique Freeman,MIN
 4004,basketball,Quinten Post,MEM
 4005,basketball,Reece Beekman,ORL
@@ -5365,7 +5365,7 @@ id,sport,value,team
 4096,basketball,Max Abmas,UTH
 4097,basketball,Marcus Domask,CHI
 4098,basketball,Keion Brooks Jr.,IND
-4099,basketball,Emanuel Miller,SA
+4099,basketball,Emanuel Miller,DEN
 4100,basketball,Malevy Leons,GS
 4101,basketball,Cormac Ryan,MIL
 4102,basketball,Alex Reese,PHI
@@ -5388,7 +5388,7 @@ id,sport,value,team
 4119,basketball,Boo Buie,NY
 4120,basketball,Taran Armstrong,GS
 4121,basketball,Marcus Bagley,PHI
-4122,basketball,Phillip Wheeler,ORL
+4122,basketball,Phillip Wheeler,PHO
 4123,basketball,Noa Essengue,CHI
 4124,basketball,VJ Edgecombe,PHI
 4125,basketball,Tre Johnson,WAS
@@ -5452,7 +5452,7 @@ id,sport,value,team
 4183,basketball,Brooks Barnhizer,OKC
 4184,basketball,Maxime Raynaud,SAC
 4185,basketball,Noah Penda,ORL
-4186,basketball,Eric Dixon,CHA
+4186,basketball,Eric Dixon,MEM
 4187,basketball,Eli John Ndiaye,ATL
 4188,basketball,Chucky Hepburn,TOR
 4189,basketball,RJ Luis,BOS
@@ -5472,7 +5472,7 @@ id,sport,value,team
 4203,basketball,Tyrese Samuel,PHO
 4204,basketball,Moussa Cisse,DAL
 4205,basketball,Matthew Cleveland,DAL
-4206,basketball,Norchad Omier,LAC
+4206,basketball,Norchad Omier,MIN
 4207,basketball,Chaney Johnson,BKN
 4208,basketball,Tyler Burton,MEM
 4209,basketball,Lawson Lovering,MEM

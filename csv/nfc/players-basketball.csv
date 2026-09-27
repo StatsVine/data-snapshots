@@ -481,7 +481,7 @@ id,value,team
 2698,Malcolm Delaney,ATL
 2699,DeAndre' Bembry,MIL
 2700,Cheick Diallo,MIA
-2701,Buddy Hield,CHA
+2701,Buddy Hield,CHI
 2702,Demetrius Jackson,LAL
 2703,Ben Bentil,DAL
 2704,Abdel Nader,PHO
@@ -1132,7 +1132,7 @@ id,value,team
 3409,Marko Simonovic,CHI
 3411,Vit Krejci,POR
 3413,Yam Madar,BOS
-3414,KJ Martin,UTH
+3414,KJ Martin,MIN
 3415,Facundo Campazzo,DAL
 3416,Anthony Gill,WAS
 3417,Jae'Sean Tate,HOU
@@ -1371,7 +1371,7 @@ id,value,team
 3656,Wendell Moore Jr.,DET
 3657,Vince Williams,UTH
 3658,David Roddy,DEN
-3659,Kennedy Chandler,UTH
+3659,Kennedy Chandler,PHO
 3660,Jake LaRavia,LAL
 3661,Max Christie,DAL
 3662,Jabari Smith Jr.,HOU
@@ -1521,7 +1521,7 @@ id,value,team
 3809,Tristan Vukcevic,WAS
 3810,Julian Strawther,DEN
 3811,Kobe Brown,IND
-3812,Seth Lundy,LAC
+3812,Seth Lundy,DAL
 3813,Mouhamed Gueye,ATL
 3814,Ben Sheppard,IND
 3815,Adem Bona,PHI
@@ -1555,13 +1555,13 @@ id,value,team
 3892,Caleb Daniels,MIA
 3893,Omari Moore,TOR
 3894,Mike Miles,DAL
-3895,Drew Timme,LAL
+3895,Drew Timme,MIN
 3896,Malcolm Cazalon,DET
 3897,Craig Porter Jr.,CLE
 3898,D'Moi Hodge,LAL
 3899,Colin Castleton,ORL
 3900,Miles Norris,BOS
-3901,Leaky Black,WAS
+3901,Leaky Black,SAC
 3902,Onuralp Bitim,CHI
 3903,Obadiah Noel,NY
 3904,Dexter Dennis,SAC
@@ -1603,7 +1603,7 @@ id,value,team
 3940,Au'Diese Toney,DEN
 3941,Timmy Allen,MEM
 3942,Taze Moore,POR
-3943,Yuri Collins,GS
+3943,Yuri Collins,MEM
 3944,Ben Brown,FA
 3945,Kyle Mangas,SA
 3946,Reid Travis,IND
@@ -1617,9 +1617,9 @@ id,value,team
 3955,Ryan Turell,DET
 3956,Nate Roberts,DET
 3957,Kihei Clark,MIL
-3958,Dane Goodwin,SAC
+3958,Dane Goodwin,DEN
 3959,Jake Stephens,MIL
-3960,Jarkel Joiner,ATL
+3960,Jarkel Joiner,CHA
 3961,Malachi Smith,TOR
 3962,Dmytro Skapintsev,BOS
 3963,Jaylin Galloway,MIL
@@ -1630,7 +1630,7 @@ id,value,team
 3968,Jared McCain,OKC
 3969,Kyshawn George,WAS
 3970,Bub Carrington,WAS
-3972,Rob Dillingham,CHI
+3972,Rob Dillingham,CHA
 3974,Dalton Knecht,LAL
 3975,Reed Sheppard,HOU
 3976,Yves Missi,NO
@@ -1658,7 +1658,7 @@ id,value,team
 3999,Ariel Hukporti,PHI
 4000,DJ Burns,CLE
 4001,Johnny Furphy,IND
-4002,Tristen Newton,HOU
+4002,Tristen Newton,SAC
 4003,Enrique Freeman,MIN
 4004,Quinten Post,MEM
 4005,Reece Beekman,ORL
@@ -1752,7 +1752,7 @@ id,value,team
 4096,Max Abmas,UTH
 4097,Marcus Domask,CHI
 4098,Keion Brooks Jr.,IND
-4099,Emanuel Miller,SA
+4099,Emanuel Miller,DEN
 4100,Malevy Leons,GS
 4101,Cormac Ryan,MIL
 4102,Alex Reese,PHI
@@ -1775,7 +1775,7 @@ id,value,team
 4119,Boo Buie,NY
 4120,Taran Armstrong,GS
 4121,Marcus Bagley,PHI
-4122,Phillip Wheeler,ORL
+4122,Phillip Wheeler,PHO
 4123,Noa Essengue,CHI
 4124,VJ Edgecombe,PHI
 4125,Tre Johnson,WAS
@@ -1839,7 +1839,7 @@ id,value,team
 4183,Brooks Barnhizer,OKC
 4184,Maxime Raynaud,SAC
 4185,Noah Penda,ORL
-4186,Eric Dixon,CHA
+4186,Eric Dixon,MEM
 4187,Eli John Ndiaye,ATL
 4188,Chucky Hepburn,TOR
 4189,RJ Luis,BOS
@@ -1859,7 +1859,7 @@ id,value,team
 4203,Tyrese Samuel,PHO
 4204,Moussa Cisse,DAL
 4205,Matthew Cleveland,DAL
-4206,Norchad Omier,LAC
+4206,Norchad Omier,MIN
 4207,Chaney Johnson,BKN
 4208,Tyler Burton,MEM
 4209,Lawson Lovering,MEM

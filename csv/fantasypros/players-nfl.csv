@@ -5783,7 +5783,7 @@ player_id,player_name,first_name,last_name,position_id,positions,team_id,birthda
 25305,Gabriel Murphy,Gabriel,Murphy,LB,"[""LB"",""DE,LB""]",FA,2000-10-13,2024,5fc2d240-0584-11ef-8635-b3775ac92fb2,4428080,41212,3123716,2573313,16659,https://www.fantasypros.com/nfl/players/gabriel-murphy.php
 25308,Isheem Young,Isheem,Young,S,"[""S""]",FA,,2024,,,,,,,https://www.fantasypros.com/nfl/players/isheem-young.php
 25310,Cory Trice Jr.,Cory,Trice,CB,"[""CB""]",FA,2000-05-30,2023,668cf263-300b-4ec1-a221-e4756daf892a,4372492,40256,2968502,2570254,16361,https://www.fantasypros.com/nfl/players/cory-trice.php
-25313,Owen Pappoe,Owen,Pappoe,LB,"[""LB""]",TEN,2000-09-29,2023,e6926317-2584-496a-9f32-e422040a8a20,4567219,40200,3122142,2570227,16237,https://www.fantasypros.com/nfl/players/owen-pappoe.php
+25313,Owen Pappoe,Owen,Pappoe,LB,"[""LB""]",FA,2000-09-29,2023,e6926317-2584-496a-9f32-e422040a8a20,4567219,40200,3122142,2570227,16237,https://www.fantasypros.com/nfl/players/owen-pappoe.php
 25314,DeMarvion Overshown,DeMarvion,Overshown,LB,"[""LB""]",DAL,2000-08-13,2023,2df409f7-2d3a-4dc3-98aa-0b261594bb1f,4362088,40099,2964705,2569705,16283,https://www.fantasypros.com/nfl/players/demarvion-overshown.php
 25316,Davonte Brown,Davonte,Brown,CB,"[""CB""]",FA,,2024,,,,,,,https://www.fantasypros.com/nfl/players/davonte-brown.php
 25318,Parker White,Parker,White,K,"[""K""]",FA,1998-07-24,,5ccd21e0-91bc-11ed-aadd-77f58bac4374,,40015,2758258,2569756,,https://www.fantasypros.com/nfl/players/parker-white.php
@@ -8562,3 +8562,4 @@ player_id,player_name,first_name,last_name,position_id,positions,team_id,birthda
 29464,J'Koby Williams,J'Koby,Williams,RB,"[""RB""]",FA,,2028,,,,,,,https://www.fantasypros.com/nfl/players/jkoby-williams.php
 29465,Kamari Moulton,Kamari,Moulton,RB,"[""RB""]",FA,,2027,,,,,,,https://www.fantasypros.com/nfl/players/kamari-moulton.php
 29466,Jeffrey Overton Jr.,Jeffrey,Overton,RB,"[""RB""]",FA,,2029,,,,,,,https://www.fantasypros.com/nfl/players/jeffrey-overton-jr.php
+29467,Patrick Overmyer,Patrick,Overmyer,TE,"[""TE""]",FA,,2027,,,,,,,https://www.fantasypros.com/nfl/players/patrick-overmyer.php

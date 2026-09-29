@@ -10514,7 +10514,7 @@
       "DT"
     ],
     "sportsdata_player_id": "11bad1b0-0732-11ef-a78d-45dbecbebf62",
-    "team_id": "MIA",
+    "team_id": "FA",
     "yahoo_id": "25081"
   },
   {
@@ -18495,7 +18495,7 @@
       "LB,DE"
     ],
     "sportsdata_player_id": "99d79bb9-45aa-4c64-99aa-a92ba2c278af",
-    "team_id": "FA",
+    "team_id": "SF",
     "yahoo_id": "29380"
   },
   {
@@ -32707,7 +32707,7 @@
       "DE"
     ],
     "sportsdata_player_id": "108759bf-8c78-41c6-a409-b87c63985c21",
-    "team_id": "MIA",
+    "team_id": "FA",
     "yahoo_id": "31836"
   },
   {
@@ -41153,7 +41153,7 @@
       "CB"
     ],
     "sportsdata_player_id": "3f0926f7-103e-44d5-85f0-e53ec48fe452",
-    "team_id": "CLE",
+    "team_id": "FA",
     "yahoo_id": "32223"
   },
   {
@@ -48142,7 +48142,7 @@
       "CB"
     ],
     "sportsdata_player_id": "7a51270b-cbdf-451e-a9e7-0f0b23435dd0",
-    "team_id": "FA",
+    "team_id": "CLE",
     "yahoo_id": "33319"
   },
   {
@@ -88831,7 +88831,7 @@
       "WR"
     ],
     "sportsdata_player_id": "ba06804a-b84c-408a-8ef6-5226d8424479",
-    "team_id": "LV",
+    "team_id": "FA",
     "yahoo_id": "40279"
   },
   {
@@ -105881,7 +105881,7 @@
       "WR"
     ],
     "sportsdata_player_id": "0ac39560-e760-11ed-ad1e-4d786886cff5",
-    "team_id": "HOU",
+    "team_id": "CIN",
     "yahoo_id": "40313"
   },
   {
@@ -106437,7 +106437,7 @@
       "DT"
     ],
     "sportsdata_player_id": "9282c55b-7075-4ad1-b6a6-50b45f787382",
-    "team_id": "GB",
+    "team_id": "FA",
     "yahoo_id": "34115"
   },
   {
@@ -108955,7 +108955,7 @@
       "QB"
     ],
     "sportsdata_player_id": "70376919-8220-4128-a089-72d5b10f2346",
-    "team_id": "NYG",
+    "team_id": "FA",
     "yahoo_id": "40144"
   },
   {
@@ -116460,7 +116460,7 @@
       "WR"
     ],
     "sportsdata_player_id": "6833ad69-9f24-4780-989c-83bdb090ec5e",
-    "team_id": "FA",
+    "team_id": "LV",
     "yahoo_id": "40141"
   },
   {
@@ -119773,7 +119773,7 @@
       "LB"
     ],
     "sportsdata_player_id": "770482a0-eac3-11ed-b0fb-af4f3941e6b7",
-    "team_id": "CIN",
+    "team_id": "MIA",
     "yahoo_id": "40488"
   },
   {
@@ -122461,7 +122461,7 @@
       "CB"
     ],
     "sportsdata_player_id": "5068d7b0-f368-11ed-b622-936c98a846ff",
-    "team_id": "DET",
+    "team_id": "FA",
     "yahoo_id": "40745"
   },
   {
@@ -137296,7 +137296,7 @@
     "filename": "https://www.fantasypros.com/nfl/players/tecory-couch.php",
     "first_name": "Te'Cory",
     "last_name": "Couch",
-    "mfl_id": null,
+    "mfl_id": "17789",
     "nfl_id": "2573644",
     "player_id": 26936,
     "player_name": "Te'Cory Couch",
@@ -148708,7 +148708,7 @@
     "filename": "https://www.fantasypros.com/nfl/players/anthony-tyus-iii.php",
     "first_name": "Anthony",
     "last_name": "Tyus",
-    "mfl_id": null,
+    "mfl_id": "17791",
     "nfl_id": "2574121",
     "player_id": 27700,
     "player_name": "Anthony Tyus III",
@@ -148828,13 +148828,14 @@
     "filename": "https://www.fantasypros.com/nfl/players/mike-reid.php",
     "first_name": "Mike",
     "last_name": "Reid",
-    "mfl_id": null,
+    "mfl_id": "17798",
     "nfl_id": "2573998",
     "player_id": 27706,
     "player_name": "Mike Reid",
     "position_id": "CB",
     "positions": [
-      "CB"
+      "CB",
+      "CB,S"
     ],
     "sportsdata_player_id": "57e09df0-2513-11f0-b5b3-5d14ccc24fa4",
     "team_id": "NO",
@@ -148887,7 +148888,7 @@
     "filename": "https://www.fantasypros.com/nfl/players/keith-cooper-jr.php",
     "first_name": "Keith",
     "last_name": "Cooper",
-    "mfl_id": null,
+    "mfl_id": "17794",
     "nfl_id": "2574106",
     "player_id": 27713,
     "player_name": "Keith Cooper Jr.",
@@ -148896,7 +148897,7 @@
       "DT"
     ],
     "sportsdata_player_id": "b1927260-250e-11f0-9b43-3d8a3c00ab89",
-    "team_id": "MIA",
+    "team_id": "FA",
     "yahoo_id": "42250"
   },
   {
@@ -150108,11 +150109,11 @@
     "birthdate": "2002-08-01",
     "cbs_id": "3163185",
     "draft_class": 2025,
-    "espn_id": null,
+    "espn_id": "4775220",
     "filename": "https://www.fantasypros.com/nfl/players/sebastian-valdez.php",
     "first_name": "Sebastian",
     "last_name": "Valdez",
-    "mfl_id": null,
+    "mfl_id": "17796",
     "nfl_id": "2574549",
     "player_id": 27802,
     "player_name": "Sebastian Valdez",
@@ -151274,7 +151275,7 @@
     "birthdate": "2000-04-07",
     "cbs_id": "2967652",
     "draft_class": 2025,
-    "espn_id": null,
+    "espn_id": "4361090",
     "filename": "https://www.fantasypros.com/nfl/players/ale-kaho.php",
     "first_name": "Ale",
     "last_name": "Kaho",
@@ -154612,7 +154613,7 @@
     "birthdate": "2003-08-29",
     "cbs_id": "28874921",
     "draft_class": 2026,
-    "espn_id": null,
+    "espn_id": "5082269",
     "filename": "https://www.fantasypros.com/nfl/players/dean-connors.php",
     "first_name": "Dean",
     "last_name": "Connors",
@@ -155486,7 +155487,7 @@
       "TE"
     ],
     "sportsdata_player_id": "79536610-427d-11f1-b8f3-b5d71f60077b",
-    "team_id": "FA",
+    "team_id": "DET",
     "yahoo_id": "43082"
   },
   {
@@ -155677,7 +155678,7 @@
     "filename": "https://www.fantasypros.com/nfl/players/tanner-arkin.php",
     "first_name": "Tanner",
     "last_name": "Arkin",
-    "mfl_id": null,
+    "mfl_id": "17795",
     "nfl_id": null,
     "player_id": 28166,
     "player_name": "Tanner Arkin",
@@ -156742,7 +156743,7 @@
     "birthdate": "2003-12-08",
     "cbs_id": "28877292",
     "draft_class": 2026,
-    "espn_id": null,
+    "espn_id": "4685491",
     "filename": "https://www.fantasypros.com/nfl/players/xavier-nwankpa.php",
     "first_name": "Xavier",
     "last_name": "Nwankpa",
@@ -161815,11 +161816,11 @@
     "birthdate": "2002-01-21",
     "cbs_id": "3171874",
     "draft_class": 2026,
-    "espn_id": null,
+    "espn_id": "4431561",
     "filename": "https://www.fantasypros.com/nfl/players/bryson-eason.php",
     "first_name": "Bryson",
     "last_name": "Eason",
-    "mfl_id": null,
+    "mfl_id": "17790",
     "nfl_id": null,
     "player_id": 28554,
     "player_name": "Bryson Eason",
@@ -162079,7 +162080,7 @@
     "filename": "https://www.fantasypros.com/nfl/players/wydett-williams-jr.php",
     "first_name": "Wydett",
     "last_name": "Williams",
-    "mfl_id": null,
+    "mfl_id": "17797",
     "nfl_id": null,
     "player_id": 28569,
     "player_name": "Wydett Williams Jr.",
@@ -163071,7 +163072,7 @@
     "birthdate": "2003-02-26",
     "cbs_id": "26746131",
     "draft_class": 2026,
-    "espn_id": null,
+    "espn_id": "4890074",
     "filename": "https://www.fantasypros.com/nfl/players/erick-hunter.php",
     "first_name": "Erick",
     "last_name": "Hunter",
@@ -165962,11 +165963,11 @@
     "birthdate": "2001-12-28",
     "cbs_id": "29423982",
     "draft_class": 2026,
-    "espn_id": null,
+    "espn_id": "5225419",
     "filename": "https://www.fantasypros.com/nfl/players/kolbe-katsis.php",
     "first_name": "Kolbe",
     "last_name": "Katsis",
-    "mfl_id": null,
+    "mfl_id": "17799",
     "nfl_id": null,
     "player_id": 28833,
     "player_name": "Kolbe Katsis",

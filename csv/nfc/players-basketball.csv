@@ -393,7 +393,7 @@ id,value,team
 2531,Jerian Grant,HOU
 2532,Delon Wright,IND
 2533,Justin Anderson,IND
-2534,Bobby Portis,MIA
+2534,Bobby Portis Jr.,MIA
 2535,Rondae Hollis-Jefferson,POR
 2536,Tyus Jones,DEN
 2537,Jarell Martin,CLE
@@ -1342,7 +1342,7 @@ id,value,team
 3626,Michael Foster,WAS
 3627,Alondes Williams,WAS
 3628,Theo John,MIN
-3629,Cole Swider,TOR
+3629,Cole Swider,LAL
 3630,Dereon Seabron,DET
 3631,Jamaree Bouyea,PHO
 3632,Iverson Molinar,MIL
@@ -1383,7 +1383,7 @@ id,value,team
 3668,E.J. Liddell,BKN
 3669,Karlo Matkovic,NO
 3670,JD Davison,ORL
-3671,Blake Wesley,POR
+3671,Blake Wesley,LAC
 3672,Jeremy Sochan,POR
 3673,Malaki Branham,ORL
 3674,Christian Koloko,NO
@@ -1971,7 +1971,7 @@ id,value,team
 4316,Michael Ajayi,CHA
 4317,Kylan Boswell,CHA
 4318,Alpha Diallo,DEN
-4319,Christian Anderson Jr.,CHA
+4319,Christian Anderson,CHA
 4320,Terrell Brown Jr.,UTH
 4321,Kobe Stewart,CHA
 4322,Malik Dia,NO
@@ -2000,3 +2000,5 @@ id,value,team
 4345,Marquel Sutton,CHI
 4346,Jaelen House,UTH
 4347,Jonas Aidoo,UTH
+4348,William Kyle III,LAL
+4349,Fletcher Loyer,LAC

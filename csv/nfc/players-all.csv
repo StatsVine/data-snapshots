@@ -2860,7 +2860,7 @@ id,sport,value,team
 11927,baseball,Royber Salinas,ATL
 11928,baseball,Yuki Matsui,SD
 11929,baseball,Jace Jung,DET
-11930,baseball,Chase Hampton,WAS
+11930,baseball,Chase Hampton,STL
 11931,baseball,Nick Frasso,COL
 11932,baseball,Justice Bigbie,DET
 11933,baseball,Rhett Lowder,CIN
@@ -4006,7 +4006,7 @@ id,sport,value,team
 2531,basketball,Jerian Grant,HOU
 2532,basketball,Delon Wright,IND
 2533,basketball,Justin Anderson,IND
-2534,basketball,Bobby Portis,MIA
+2534,basketball,Bobby Portis Jr.,MIA
 2535,basketball,Rondae Hollis-Jefferson,POR
 2536,basketball,Tyus Jones,DEN
 2537,basketball,Jarell Martin,CLE
@@ -4955,7 +4955,7 @@ id,sport,value,team
 3626,basketball,Michael Foster,WAS
 3627,basketball,Alondes Williams,WAS
 3628,basketball,Theo John,MIN
-3629,basketball,Cole Swider,TOR
+3629,basketball,Cole Swider,LAL
 3630,basketball,Dereon Seabron,DET
 3631,basketball,Jamaree Bouyea,PHO
 3632,basketball,Iverson Molinar,MIL
@@ -4996,7 +4996,7 @@ id,sport,value,team
 3668,basketball,E.J. Liddell,BKN
 3669,basketball,Karlo Matkovic,NO
 3670,basketball,JD Davison,ORL
-3671,basketball,Blake Wesley,POR
+3671,basketball,Blake Wesley,LAC
 3672,basketball,Jeremy Sochan,POR
 3673,basketball,Malaki Branham,ORL
 3674,basketball,Christian Koloko,NO
@@ -5584,7 +5584,7 @@ id,sport,value,team
 4316,basketball,Michael Ajayi,CHA
 4317,basketball,Kylan Boswell,CHA
 4318,basketball,Alpha Diallo,DEN
-4319,basketball,Christian Anderson Jr.,CHA
+4319,basketball,Christian Anderson,CHA
 4320,basketball,Terrell Brown Jr.,UTH
 4321,basketball,Kobe Stewart,CHA
 4322,basketball,Malik Dia,NO
@@ -5613,6 +5613,8 @@ id,sport,value,team
 4345,basketball,Marquel Sutton,CHI
 4346,basketball,Jaelen House,UTH
 4347,basketball,Jonas Aidoo,UTH
+4348,basketball,William Kyle III,LAL
+4349,basketball,Fletcher Loyer,LAC
 615,football,Kent Shelby,LAC
 1038,football,Leon Johnson,LAC
 1533,football,Chase Cota,HOU
@@ -6476,7 +6478,7 @@ id,sport,value,team
 15841,football,Trey Edmunds,PIT
 15848,football,Tyler Ferguson,TEN
 15852,football,Akeem Judd,GB
-15858,football,Dare Ogunbowale,LV
+15858,football,Dare Ogunbowale,HOU
 15859,football,Chris Thompson,SF
 15860,football,Justin Thomas,PIT
 15866,football,Ricky Ortiz,NO
@@ -6582,7 +6584,7 @@ id,sport,value,team
 16130,football,DJ Chark,ATL
 16131,football,Darren Andrews,
 16132,football,Christian Kirk,SF
-16133,football,Dante Pettis,BUF
+16133,football,Dante Pettis,SF
 16134,football,DJ Moore,BUF
 16135,football,Deon Cain,BUF
 16136,football,Equanimeous St. Brown,SF
@@ -6856,7 +6858,7 @@ id,sport,value,team
 17021,football,Noah Fant,NO
 17022,football,Jarrett Stidham,DEN
 17023,football,Clayton Thorson,NYG
-17024,football,Brett Rypien,HOU
+17024,football,Brett Rypien,TB
 17025,football,Gardner Minshew II,ARZ
 17026,football,Ryan Finley,HOU
 17027,football,Tyree Jackson,WAS
@@ -7668,7 +7670,7 @@ id,sport,value,team
 19625,football,Daniel Bellinger,TEN
 19632,football,Cade Otton,TB
 19633,football,Chig Okonkwo,WAS
-19642,football,John FitzPatrick,GB
+19642,football,John FitzPatrick,CLE
 19654,football,Trestan Ebner,CHI
 19663,football,Michael Woods II,DEN
 19675,football,Montrell Washington,HOU
@@ -7924,7 +7926,7 @@ id,sport,value,team
 20327,football,Nathan Rourke,ATL
 20328,football,Deuce Vaughn,HOU
 20329,football,Tyjae Spears,TEN
-20330,football,Tyler Scott,LA
+20330,football,Tyler Scott,LV
 20331,football,A.T. Perry,PIT
 20332,football,Jonathan Mingo,DAL
 20333,football,Dontay Demus Jr.,FA
@@ -7990,7 +7992,7 @@ id,sport,value,team
 20649,football,B.T. Potter,TB
 20655,football,Kearis Jackson,HOU
 20658,football,Charles McClelland,TEN
-20659,football,Mitchell Tinsley,HOU
+20659,football,Mitchell Tinsley,CIN
 20661,football,Kazmeir Allen,WAS
 20664,football,Shaquan Davis,PIT
 20670,football,Sy Barnett,NO
@@ -8172,7 +8174,7 @@ id,sport,value,team
 21147,football,Brenden Rice,GB
 21148,football,Roman Wilson,PIT
 21149,football,Donovan Edwards,MIA
-21150,football,J.J. McCarthy,MIN
+21150,football,J.J. McCarthy,NYG
 21151,football,Ray Davis,BUF
 21152,football,Cade Stover,HOU
 21153,football,Jalen McMillan,TB
@@ -8478,7 +8480,7 @@ id,sport,value,team
 22101,football,Oronde Gadsden,LAC
 22102,football,Tristan Michaud,FA
 22103,football,Xavier Restrepo,TEN
-22104,football,Devin Neal,NO
+22104,football,Devin Neal,MIN
 22105,football,Ajou Ajou,IND
 22106,football,Bhayshul Tuten,JAX
 22107,football,Jalen Royals,KC

@@ -862,7 +862,7 @@ id,value,team
 15841,Trey Edmunds,PIT
 15848,Tyler Ferguson,TEN
 15852,Akeem Judd,GB
-15858,Dare Ogunbowale,LV
+15858,Dare Ogunbowale,HOU
 15859,Chris Thompson,SF
 15860,Justin Thomas,PIT
 15866,Ricky Ortiz,NO
@@ -968,7 +968,7 @@ id,value,team
 16130,DJ Chark,ATL
 16131,Darren Andrews,
 16132,Christian Kirk,SF
-16133,Dante Pettis,BUF
+16133,Dante Pettis,SF
 16134,DJ Moore,BUF
 16135,Deon Cain,BUF
 16136,Equanimeous St. Brown,SF
@@ -1242,7 +1242,7 @@ id,value,team
 17021,Noah Fant,NO
 17022,Jarrett Stidham,DEN
 17023,Clayton Thorson,NYG
-17024,Brett Rypien,HOU
+17024,Brett Rypien,TB
 17025,Gardner Minshew II,ARZ
 17026,Ryan Finley,HOU
 17027,Tyree Jackson,WAS
@@ -2054,7 +2054,7 @@ id,value,team
 19625,Daniel Bellinger,TEN
 19632,Cade Otton,TB
 19633,Chig Okonkwo,WAS
-19642,John FitzPatrick,GB
+19642,John FitzPatrick,CLE
 19654,Trestan Ebner,CHI
 19663,Michael Woods II,DEN
 19675,Montrell Washington,HOU
@@ -2310,7 +2310,7 @@ id,value,team
 20327,Nathan Rourke,ATL
 20328,Deuce Vaughn,HOU
 20329,Tyjae Spears,TEN
-20330,Tyler Scott,LA
+20330,Tyler Scott,LV
 20331,A.T. Perry,PIT
 20332,Jonathan Mingo,DAL
 20333,Dontay Demus Jr.,FA
@@ -2376,7 +2376,7 @@ id,value,team
 20649,B.T. Potter,TB
 20655,Kearis Jackson,HOU
 20658,Charles McClelland,TEN
-20659,Mitchell Tinsley,HOU
+20659,Mitchell Tinsley,CIN
 20661,Kazmeir Allen,WAS
 20664,Shaquan Davis,PIT
 20670,Sy Barnett,NO
@@ -2558,7 +2558,7 @@ id,value,team
 21147,Brenden Rice,GB
 21148,Roman Wilson,PIT
 21149,Donovan Edwards,MIA
-21150,J.J. McCarthy,MIN
+21150,J.J. McCarthy,NYG
 21151,Ray Davis,BUF
 21152,Cade Stover,HOU
 21153,Jalen McMillan,TB
@@ -2864,7 +2864,7 @@ id,value,team
 22101,Oronde Gadsden,LAC
 22102,Tristan Michaud,FA
 22103,Xavier Restrepo,TEN
-22104,Devin Neal,NO
+22104,Devin Neal,MIN
 22105,Ajou Ajou,IND
 22106,Bhayshul Tuten,JAX
 22107,Jalen Royals,KC

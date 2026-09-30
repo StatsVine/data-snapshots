@@ -17168,7 +17168,7 @@
   {
     "id": 11930,
     "sport": "baseball",
-    "team": "WAS",
+    "team": "STL",
     "value": "Chase Hampton"
   },
   {
@@ -24045,7 +24045,7 @@
     "id": 2534,
     "sport": "basketball",
     "team": "MIA",
-    "value": "Bobby Portis"
+    "value": "Bobby Portis Jr."
   },
   {
     "id": 2535,
@@ -29738,7 +29738,7 @@
   {
     "id": 3629,
     "sport": "basketball",
-    "team": "TOR",
+    "team": "LAL",
     "value": "Cole Swider"
   },
   {
@@ -29984,7 +29984,7 @@
   {
     "id": 3671,
     "sport": "basketball",
-    "team": "POR",
+    "team": "LAC",
     "value": "Blake Wesley"
   },
   {
@@ -33513,7 +33513,7 @@
     "id": 4319,
     "sport": "basketball",
     "team": "CHA",
-    "value": "Christian Anderson Jr."
+    "value": "Christian Anderson"
   },
   {
     "id": 4320,
@@ -33682,6 +33682,18 @@
     "sport": "basketball",
     "team": "UTH",
     "value": "Jonas Aidoo"
+  },
+  {
+    "id": 4348,
+    "sport": "basketball",
+    "team": "LAL",
+    "value": "William Kyle III"
+  },
+  {
+    "id": 4349,
+    "sport": "basketball",
+    "team": "LAC",
+    "value": "Fletcher Loyer"
   },
   {
     "id": 615,
@@ -38864,7 +38876,7 @@
   {
     "id": 15858,
     "sport": "football",
-    "team": "LV",
+    "team": "HOU",
     "value": "Dare Ogunbowale"
   },
   {
@@ -39500,7 +39512,7 @@
   {
     "id": 16133,
     "sport": "football",
-    "team": "BUF",
+    "team": "SF",
     "value": "Dante Pettis"
   },
   {
@@ -41144,7 +41156,7 @@
   {
     "id": 17024,
     "sport": "football",
-    "team": "HOU",
+    "team": "TB",
     "value": "Brett Rypien"
   },
   {
@@ -46016,7 +46028,7 @@
   {
     "id": 19642,
     "sport": "football",
-    "team": "GB",
+    "team": "CLE",
     "value": "John FitzPatrick"
   },
   {
@@ -47552,7 +47564,7 @@
   {
     "id": 20330,
     "sport": "football",
-    "team": "LA",
+    "team": "LV",
     "value": "Tyler Scott"
   },
   {
@@ -47948,7 +47960,7 @@
   {
     "id": 20659,
     "sport": "football",
-    "team": "HOU",
+    "team": "CIN",
     "value": "Mitchell Tinsley"
   },
   {
@@ -49040,7 +49052,7 @@
   {
     "id": 21150,
     "sport": "football",
-    "team": "MIN",
+    "team": "NYG",
     "value": "J.J. McCarthy"
   },
   {
@@ -50876,7 +50888,7 @@
   {
     "id": 22104,
     "sport": "football",
-    "team": "NO",
+    "team": "MIN",
     "value": "Devin Neal"
   },
   {

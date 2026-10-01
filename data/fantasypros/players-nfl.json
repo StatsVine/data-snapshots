@@ -17728,7 +17728,7 @@
       "DE,DT,LB"
     ],
     "sportsdata_player_id": "852b00dd-fd1c-4edb-809d-912a6472cd07",
-    "team_id": "MIN",
+    "team_id": "NYG",
     "yahoo_id": "29278"
   },
   {
@@ -24188,7 +24188,7 @@
       "DT"
     ],
     "sportsdata_player_id": "1ad3e535-2b5c-48a8-82f0-c7a933d250f0",
-    "team_id": "NYG",
+    "team_id": "FA",
     "yahoo_id": "30586"
   },
   {
@@ -54383,7 +54383,7 @@
       "DT,DE"
     ],
     "sportsdata_player_id": "e6d6138f-1081-457b-9d89-dc9cd0ab9598",
-    "team_id": "FA",
+    "team_id": "LAC",
     "yahoo_id": "33131"
   },
   {
@@ -85911,7 +85911,7 @@
       "CB"
     ],
     "sportsdata_player_id": "170d9d12-0595-4636-9b42-822ff93a6d94",
-    "team_id": "FA",
+    "team_id": "CAR",
     "yahoo_id": "33518"
   },
   {
@@ -89531,7 +89531,7 @@
       "RB"
     ],
     "sportsdata_player_id": "3b86dd7c-0b21-448d-a662-5675e87fd0da",
-    "team_id": "FA",
+    "team_id": "MIN",
     "yahoo_id": "41019"
   },
   {
@@ -97727,7 +97727,7 @@
       "DT"
     ],
     "sportsdata_player_id": "a1aa3c7c-7043-41a3-a522-a34a8ae3f085",
-    "team_id": "FA",
+    "team_id": "BUF",
     "yahoo_id": "34002"
   },
   {
@@ -105870,12 +105870,12 @@
     "draft_class": 2023,
     "espn_id": "4690070",
     "filename": "https://www.fantasypros.com/nfl/players/mitchell-tinsley.php",
-    "first_name": "Mitchell",
+    "first_name": "Mitch",
     "last_name": "Tinsley",
     "mfl_id": "16403",
     "nfl_id": "2571650",
     "player_id": 24370,
-    "player_name": "Mitchell Tinsley",
+    "player_name": "Mitch Tinsley",
     "position_id": "WR",
     "positions": [
       "WR"
@@ -108632,7 +108632,7 @@
       "CB"
     ],
     "sportsdata_player_id": "fbc596af-8abd-466f-9c01-7a38d11eb7a4",
-    "team_id": "PIT",
+    "team_id": "DAL",
     "yahoo_id": "40089"
   },
   {
@@ -108955,7 +108955,7 @@
       "QB"
     ],
     "sportsdata_player_id": "70376919-8220-4128-a089-72d5b10f2346",
-    "team_id": "FA",
+    "team_id": "NYG",
     "yahoo_id": "40144"
   },
   {
@@ -110717,7 +110717,7 @@
       "S"
     ],
     "sportsdata_player_id": "8b181df0-d30a-11ec-8b77-45b1765fd110",
-    "team_id": "SEA",
+    "team_id": "FA",
     "yahoo_id": "34475"
   },
   {
@@ -115148,11 +115148,11 @@
     "espn_id": "4426990",
     "filename": "https://www.fantasypros.com/nfl/players/jalen-morenocropper.php",
     "first_name": "Jalen",
-    "last_name": "Moreno-Cropper",
+    "last_name": "Cropper",
     "mfl_id": "16395",
     "nfl_id": "2570870",
     "player_id": 25359,
-    "player_name": "Jalen Moreno-Cropper",
+    "player_name": "Jalen Cropper",
     "position_id": "WR",
     "positions": [
       "WR"
@@ -117614,7 +117614,7 @@
       "K"
     ],
     "sportsdata_player_id": "2a1d4ce0-e6f6-11ed-abca-c7a3a205e21d",
-    "team_id": "FA",
+    "team_id": "NYJ",
     "yahoo_id": "40296"
   },
   {
@@ -119371,7 +119371,7 @@
       "LB,DE"
     ],
     "sportsdata_player_id": "c7dd5440-e906-11ed-a42e-29305ff7e69f",
-    "team_id": "FA",
+    "team_id": "MIN",
     "yahoo_id": "40446"
   },
   {
@@ -119834,7 +119834,7 @@
       "WR"
     ],
     "sportsdata_player_id": "4ee53be0-eacb-11ed-bff4-2305d99deffc",
-    "team_id": "BAL",
+    "team_id": "FA",
     "yahoo_id": "40491"
   },
   {
@@ -120394,7 +120394,7 @@
       "LB"
     ],
     "sportsdata_player_id": "74650010-eba9-11ed-aa2f-9b9591ffdf9b",
-    "team_id": "CAR",
+    "team_id": "FA",
     "yahoo_id": "40547"
   },
   {
@@ -121356,7 +121356,7 @@
       "RB"
     ],
     "sportsdata_player_id": "53cbf000-f01f-11ed-97df-a94b89ac5704",
-    "team_id": "FA",
+    "team_id": "LV",
     "yahoo_id": "40639"
   },
   {
@@ -127826,7 +127826,7 @@
       "DT"
     ],
     "sportsdata_player_id": "41778790-072d-11ef-8f9f-dd59e5c066c4",
-    "team_id": "FA",
+    "team_id": "PHI",
     "yahoo_id": "41381"
   },
   {
@@ -131711,7 +131711,7 @@
       "WR"
     ],
     "sportsdata_player_id": "e88c3c70-06fa-11ef-92ba-0de371d8ef1a",
-    "team_id": "HOU",
+    "team_id": "FA",
     "yahoo_id": "41251"
   },
   {
@@ -132096,7 +132096,7 @@
       "WR"
     ],
     "sportsdata_player_id": "4f4d6620-0708-11ef-a700-ad91eb958fd8",
-    "team_id": "FA",
+    "team_id": "DET",
     "yahoo_id": "41275"
   },
   {
@@ -132176,7 +132176,7 @@
       "CB"
     ],
     "sportsdata_player_id": "8c1e02f0-0706-11ef-83ee-df242a895580",
-    "team_id": "FA",
+    "team_id": "DAL",
     "yahoo_id": "41289"
   },
   {
@@ -132661,7 +132661,7 @@
       "LB"
     ],
     "sportsdata_player_id": "e81a9670-071c-11ef-8ced-698c301ae08b",
-    "team_id": "BAL",
+    "team_id": "FA",
     "yahoo_id": "41329"
   },
   {
@@ -132761,7 +132761,7 @@
       "LB"
     ],
     "sportsdata_player_id": "38c63ba0-0723-11ef-acb3-9348ceb755d6",
-    "team_id": "FA",
+    "team_id": "CAR",
     "yahoo_id": "41336"
   },
   {
@@ -133163,7 +133163,7 @@
       "LB"
     ],
     "sportsdata_player_id": "a132f370-0725-11ef-a24c-e3710bb6fc6a",
-    "team_id": "FA",
+    "team_id": "SEA",
     "yahoo_id": "41355"
   },
   {
@@ -134048,7 +134048,7 @@
       "WR"
     ],
     "sportsdata_player_id": "8f78ae50-07c4-11ef-a987-1fc365c9c772",
-    "team_id": "SEA",
+    "team_id": "FA",
     "yahoo_id": "41451"
   },
   {
@@ -134734,7 +134734,7 @@
     "birthdate": "2000-04-05",
     "cbs_id": "2969445",
     "draft_class": 2024,
-    "espn_id": null,
+    "espn_id": "4383391",
     "filename": "https://www.fantasypros.com/nfl/players/jayden-price.php",
     "first_name": "Jayden",
     "last_name": "Price",
@@ -147468,7 +147468,7 @@
       "WR"
     ],
     "sportsdata_player_id": "a9afb800-23ba-11f0-aa7d-833b948e6c02",
-    "team_id": "FA",
+    "team_id": "GB",
     "yahoo_id": "42130"
   },
   {
@@ -147889,7 +147889,7 @@
       "S"
     ],
     "sportsdata_player_id": "bea720e0-2446-11f0-8c23-0ba26e76f291",
-    "team_id": "NYJ",
+    "team_id": "FA",
     "yahoo_id": "42171"
   },
   {
@@ -148575,7 +148575,7 @@
       "CB,S"
     ],
     "sportsdata_player_id": "50b0d800-2500-11f0-8ae1-fb7a38cec501",
-    "team_id": "FA",
+    "team_id": "NYJ",
     "yahoo_id": "42227"
   },
   {
@@ -148897,7 +148897,7 @@
       "DT"
     ],
     "sportsdata_player_id": "b1927260-250e-11f0-9b43-3d8a3c00ab89",
-    "team_id": "FA",
+    "team_id": "MIA",
     "yahoo_id": "42250"
   },
   {
@@ -149077,7 +149077,7 @@
       "WR"
     ],
     "sportsdata_player_id": "11cb1f60-2519-11f0-8e0d-19c15eb22c2e",
-    "team_id": "FA",
+    "team_id": "CIN",
     "yahoo_id": "42278"
   },
   {
@@ -157017,7 +157017,7 @@
       "DT"
     ],
     "sportsdata_player_id": "440fdb20-4276-11f1-aab8-5736e0b32747",
-    "team_id": "FA",
+    "team_id": "HOU",
     "yahoo_id": "43050"
   },
   {
@@ -163840,7 +163840,7 @@
       "DT"
     ],
     "sportsdata_player_id": "a89b30e0-42b6-11f1-929f-b150d5e57a50",
-    "team_id": "FA",
+    "team_id": "GB",
     "yahoo_id": "43154"
   },
   {

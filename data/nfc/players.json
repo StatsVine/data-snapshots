@@ -25448,7 +25448,7 @@
   {
     "id": 2850,
     "sport": "basketball",
-    "team": "ATL",
+    "team": "NY",
     "value": "Tony Bradley"
   },
   {
@@ -29636,7 +29636,7 @@
   {
     "id": 3612,
     "sport": "basketball",
-    "team": "ORL",
+    "team": "MIA",
     "value": "Lester Quinones"
   },
   {
@@ -31796,7 +31796,7 @@
   {
     "id": 4032,
     "sport": "basketball",
-    "team": "BOS",
+    "team": "CHI",
     "value": "Jalen Bridges"
   },
   {
@@ -32768,7 +32768,7 @@
   {
     "id": 4194,
     "sport": "basketball",
-    "team": "CHA",
+    "team": "DEN",
     "value": "Ryan Nembhard"
   },
   {
@@ -33694,6 +33694,12 @@
     "sport": "basketball",
     "team": "LAC",
     "value": "Fletcher Loyer"
+  },
+  {
+    "id": 4350,
+    "sport": "basketball",
+    "team": "NY",
+    "value": "Jaden Akins"
   },
   {
     "id": 615,
@@ -47721,7 +47727,7 @@
     "id": 20358,
     "sport": "football",
     "team": "NO",
-    "value": "Jalen Moreno-Cropper"
+    "value": "Jalen Cropper"
   },
   {
     "id": 20359,
@@ -47961,7 +47967,7 @@
     "id": 20659,
     "sport": "football",
     "team": "CIN",
-    "value": "Mitchell Tinsley"
+    "value": "Mitch Tinsley"
   },
   {
     "id": 20661,
@@ -48536,7 +48542,7 @@
   {
     "id": 20947,
     "sport": "football",
-    "team": "HOU",
+    "team": "LV",
     "value": "Owen Wright"
   },
   {
@@ -48956,7 +48962,7 @@
   {
     "id": 21134,
     "sport": "football",
-    "team": "NO",
+    "team": "MIN",
     "value": "Audric Estime"
   },
   {
@@ -51380,7 +51386,7 @@
   {
     "id": 22455,
     "sport": "football",
-    "team": "IND",
+    "team": "GB",
     "value": "Coleman Owen"
   },
   {

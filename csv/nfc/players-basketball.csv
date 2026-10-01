@@ -627,7 +627,7 @@ id,value,team
 2847,Milos Teodosic,LAC
 2848,Nigel Williams-Goss,UTH
 2849,Royce O'Neale,CHA
-2850,Tony Bradley,ATL
+2850,Tony Bradley,NY
 2851,Donovan Mitchell,CLE
 2852,Bam Adebayo,MIA
 2853,Matt Williams Jr.,MIA
@@ -1325,7 +1325,7 @@ id,value,team
 3609,Braxton Key,MEM
 3610,Lindy Waters III,SA
 3611,Iffe Lundberg,PHO
-3612,Lester Quinones,ORL
+3612,Lester Quinones,MIA
 3613,Kenneth Lofton,CHI
 3614,Shareef O'Neal,LAL
 3615,Scotty Pippen Jr.,MEM
@@ -1685,7 +1685,7 @@ id,value,team
 4029,Pelle Larsson,MIA
 4030,Tyler Smith,DAL
 4031,Melvin Ajinca,DAL
-4032,Jalen Bridges,BOS
+4032,Jalen Bridges,CHI
 4033,Oso Ighodaro,PHO
 4034,Ajay Mitchell,OKC
 4035,Alex Ducas,OKC
@@ -1847,7 +1847,7 @@ id,value,team
 4191,Caleb Love,PHI
 4192,Tamar Bates,UTH
 4193,Dylan Cardwell,SAC
-4194,Ryan Nembhard,CHA
+4194,Ryan Nembhard,DEN
 4195,CJ Huntley,PHO
 4196,Cameron Matthews,HOU
 4197,Curtis Jones,CLE
@@ -2002,3 +2002,4 @@ id,value,team
 4347,Jonas Aidoo,UTH
 4348,William Kyle III,LAL
 4349,Fletcher Loyer,LAC
+4350,Jaden Akins,NY

@@ -4240,7 +4240,7 @@ id,sport,value,team
 2847,basketball,Milos Teodosic,LAC
 2848,basketball,Nigel Williams-Goss,UTH
 2849,basketball,Royce O'Neale,CHA
-2850,basketball,Tony Bradley,ATL
+2850,basketball,Tony Bradley,NY
 2851,basketball,Donovan Mitchell,CLE
 2852,basketball,Bam Adebayo,MIA
 2853,basketball,Matt Williams Jr.,MIA
@@ -4938,7 +4938,7 @@ id,sport,value,team
 3609,basketball,Braxton Key,MEM
 3610,basketball,Lindy Waters III,SA
 3611,basketball,Iffe Lundberg,PHO
-3612,basketball,Lester Quinones,ORL
+3612,basketball,Lester Quinones,MIA
 3613,basketball,Kenneth Lofton,CHI
 3614,basketball,Shareef O'Neal,LAL
 3615,basketball,Scotty Pippen Jr.,MEM
@@ -5298,7 +5298,7 @@ id,sport,value,team
 4029,basketball,Pelle Larsson,MIA
 4030,basketball,Tyler Smith,DAL
 4031,basketball,Melvin Ajinca,DAL
-4032,basketball,Jalen Bridges,BOS
+4032,basketball,Jalen Bridges,CHI
 4033,basketball,Oso Ighodaro,PHO
 4034,basketball,Ajay Mitchell,OKC
 4035,basketball,Alex Ducas,OKC
@@ -5460,7 +5460,7 @@ id,sport,value,team
 4191,basketball,Caleb Love,PHI
 4192,basketball,Tamar Bates,UTH
 4193,basketball,Dylan Cardwell,SAC
-4194,basketball,Ryan Nembhard,CHA
+4194,basketball,Ryan Nembhard,DEN
 4195,basketball,CJ Huntley,PHO
 4196,basketball,Cameron Matthews,HOU
 4197,basketball,Curtis Jones,CLE
@@ -5615,6 +5615,7 @@ id,sport,value,team
 4347,basketball,Jonas Aidoo,UTH
 4348,basketball,William Kyle III,LAL
 4349,basketball,Fletcher Loyer,LAC
+4350,basketball,Jaden Akins,NY
 615,football,Kent Shelby,LAC
 1038,football,Leon Johnson,LAC
 1533,football,Chase Cota,HOU
@@ -7952,7 +7953,7 @@ id,sport,value,team
 20355,football,Grant DuBose,BUF
 20356,football,C.J. Johnson,SEA
 20357,football,Tre Tucker,LV
-20358,football,Jalen Moreno-Cropper,NO
+20358,football,Jalen Cropper,NO
 20359,football,Jason Brownlee,KC
 20425,football,Brenton Strange,JAX
 20453,football,Cameron Latu,NE
@@ -7992,7 +7993,7 @@ id,sport,value,team
 20649,football,B.T. Potter,TB
 20655,football,Kearis Jackson,HOU
 20658,football,Charles McClelland,TEN
-20659,football,Mitchell Tinsley,CIN
+20659,football,Mitch Tinsley,CIN
 20661,football,Kazmeir Allen,WAS
 20664,football,Shaquan Davis,PIT
 20670,football,Sy Barnett,NO
@@ -8088,7 +8089,7 @@ id,sport,value,team
 20941,football,James Blackman,MIA
 20944,football,Travis Vokolek,ARZ
 20945,football,Dontay Demus,BAL
-20947,football,Owen Wright,HOU
+20947,football,Owen Wright,LV
 20948,football,Brian Walker,BAL
 20950,football,Sean Ryan,BAL
 20951,football,Nolan Henderson,BAL
@@ -8158,7 +8159,7 @@ id,sport,value,team
 21131,football,Brian Thomas Jr.,JAX
 21132,football,Braelon Allen,NYJ
 21133,football,Jonathon Brooks,CAR
-21134,football,Audric Estime,NO
+21134,football,Audric Estime,MIN
 21135,football,Trey Benson,ARZ
 21136,football,Bucky Irving,TB
 21137,football,Xavier Legette,CAR
@@ -8562,7 +8563,7 @@ id,sport,value,team
 22442,football,Ryan Coe,TB
 22449,football,Luke Grimm,LAC
 22454,football,Landon Parker,IND
-22455,football,Coleman Owen,IND
+22455,football,Coleman Owen,GB
 22457,football,Maddux Trujillo,BUF
 22460,football,Tyler Kahmann,IND
 22461,football,Ulysses Bentley IV,IND

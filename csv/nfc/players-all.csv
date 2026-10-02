@@ -4826,7 +4826,7 @@ id,sport,value,team
 3497,basketball,Scottie Barnes,TOR
 3498,basketball,Dalano Banton,BOS
 3499,basketball,David Johnson,TOR
-3500,basketball,Brandon Boston Jr.,CHI
+3500,basketball,Brandon Boston,CHI
 3501,basketball,Keon Johnson,BKN
 3502,basketball,Jason Preston,LAC
 3503,basketball,Jared Butler,PHO
@@ -4961,7 +4961,7 @@ id,sport,value,team
 3632,basketball,Iverson Molinar,MIL
 3633,basketball,Keon Ellis,BKN
 3634,basketball,Dalen Terry,GS
-3635,basketball,Trevor Keels,MIA
+3635,basketball,Trevor Keels,WAS
 3636,basketball,Ochai Agbaji,NY
 3637,basketball,Isaiah Mobley,PHI
 3638,basketball,Luke Travers,CLE
@@ -5376,7 +5376,7 @@ id,sport,value,team
 4107,basketball,Boogie Ellis,SAC
 4108,basketball,Tolu Smith,DET
 4109,basketball,Jamison Battle,TOR
-4110,basketball,Isaiah Stevens,SAC
+4110,basketball,Isaiah Stevens,CHI
 4111,basketball,Aaron Estrada,DET
 4112,basketball,Miller Kopp,CLE
 4113,basketball,Erik Stevenson,WAS
@@ -5516,7 +5516,7 @@ id,sport,value,team
 4247,basketball,Caleb Wilson,CHI
 4248,basketball,Dailyn Swain,CHI
 4249,basketball,Yaxel Lendeborg,GS
-4250,basketball,Labaron Philon Jr.,PHI
+4250,basketball,Labaron Philon,PHI
 4251,basketball,AJ Dybantsa,WAS
 4252,basketball,Ebuka Okorie,DET
 4253,basketball,Hannes Steinbach,CHA
@@ -5613,9 +5613,11 @@ id,sport,value,team
 4345,basketball,Marquel Sutton,CHI
 4346,basketball,Jaelen House,UTH
 4347,basketball,Jonas Aidoo,UTH
-4348,basketball,William Kyle III,LAL
+4348,basketball,William Kyle,LAL
 4349,basketball,Fletcher Loyer,LAC
 4350,basketball,Jaden Akins,NY
+4351,basketball,J'Vonne Hadley,MIA
+4352,basketball,Nate Bittle,TOR
 615,football,Kent Shelby,LAC
 1038,football,Leon Johnson,LAC
 1533,football,Chase Cota,HOU
@@ -8566,7 +8568,7 @@ id,sport,value,team
 22455,football,Coleman Owen,GB
 22457,football,Maddux Trujillo,BUF
 22460,football,Tyler Kahmann,IND
-22461,football,Ulysses Bentley IV,IND
+22461,football,Ulysses Bentley IV,NO
 22462,football,Blayne Taylor,IND
 22466,football,Jake Briningstool,KC
 22469,football,Mac Dalena,BUF

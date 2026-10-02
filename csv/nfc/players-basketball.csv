@@ -1213,7 +1213,7 @@ id,value,team
 3497,Scottie Barnes,TOR
 3498,Dalano Banton,BOS
 3499,David Johnson,TOR
-3500,Brandon Boston Jr.,CHI
+3500,Brandon Boston,CHI
 3501,Keon Johnson,BKN
 3502,Jason Preston,LAC
 3503,Jared Butler,PHO
@@ -1348,7 +1348,7 @@ id,value,team
 3632,Iverson Molinar,MIL
 3633,Keon Ellis,BKN
 3634,Dalen Terry,GS
-3635,Trevor Keels,MIA
+3635,Trevor Keels,WAS
 3636,Ochai Agbaji,NY
 3637,Isaiah Mobley,PHI
 3638,Luke Travers,CLE
@@ -1763,7 +1763,7 @@ id,value,team
 4107,Boogie Ellis,SAC
 4108,Tolu Smith,DET
 4109,Jamison Battle,TOR
-4110,Isaiah Stevens,SAC
+4110,Isaiah Stevens,CHI
 4111,Aaron Estrada,DET
 4112,Miller Kopp,CLE
 4113,Erik Stevenson,WAS
@@ -1903,7 +1903,7 @@ id,value,team
 4247,Caleb Wilson,CHI
 4248,Dailyn Swain,CHI
 4249,Yaxel Lendeborg,GS
-4250,Labaron Philon Jr.,PHI
+4250,Labaron Philon,PHI
 4251,AJ Dybantsa,WAS
 4252,Ebuka Okorie,DET
 4253,Hannes Steinbach,CHA
@@ -2000,6 +2000,8 @@ id,value,team
 4345,Marquel Sutton,CHI
 4346,Jaelen House,UTH
 4347,Jonas Aidoo,UTH
-4348,William Kyle III,LAL
+4348,William Kyle,LAL
 4349,Fletcher Loyer,LAC
 4350,Jaden Akins,NY
+4351,J'Vonne Hadley,MIA
+4352,Nate Bittle,TOR

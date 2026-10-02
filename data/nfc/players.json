@@ -28965,7 +28965,7 @@
     "id": 3500,
     "sport": "basketball",
     "team": "CHI",
-    "value": "Brandon Boston Jr."
+    "value": "Brandon Boston"
   },
   {
     "id": 3501,
@@ -29774,7 +29774,7 @@
   {
     "id": 3635,
     "sport": "basketball",
-    "team": "MIA",
+    "team": "WAS",
     "value": "Trevor Keels"
   },
   {
@@ -32264,7 +32264,7 @@
   {
     "id": 4110,
     "sport": "basketball",
-    "team": "SAC",
+    "team": "CHI",
     "value": "Isaiah Stevens"
   },
   {
@@ -33105,7 +33105,7 @@
     "id": 4250,
     "sport": "basketball",
     "team": "PHI",
-    "value": "Labaron Philon Jr."
+    "value": "Labaron Philon"
   },
   {
     "id": 4251,
@@ -33687,7 +33687,7 @@
     "id": 4348,
     "sport": "basketball",
     "team": "LAL",
-    "value": "William Kyle III"
+    "value": "William Kyle"
   },
   {
     "id": 4349,
@@ -33700,6 +33700,18 @@
     "sport": "basketball",
     "team": "NY",
     "value": "Jaden Akins"
+  },
+  {
+    "id": 4351,
+    "sport": "basketball",
+    "team": "MIA",
+    "value": "J'Vonne Hadley"
+  },
+  {
+    "id": 4352,
+    "sport": "basketball",
+    "team": "TOR",
+    "value": "Nate Bittle"
   },
   {
     "id": 615,
@@ -51404,7 +51416,7 @@
   {
     "id": 22461,
     "sport": "football",
-    "team": "IND",
+    "team": "NO",
     "value": "Ulysses Bentley IV"
   },
   {

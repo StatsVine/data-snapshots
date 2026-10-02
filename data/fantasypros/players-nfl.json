@@ -24188,7 +24188,7 @@
       "DT"
     ],
     "sportsdata_player_id": "1ad3e535-2b5c-48a8-82f0-c7a933d250f0",
-    "team_id": "FA",
+    "team_id": "NYG",
     "yahoo_id": "30586"
   },
   {
@@ -32429,7 +32429,7 @@
       "WR"
     ],
     "sportsdata_player_id": "6f124753-5c6c-454b-97c7-0f9b4d14e7c2",
-    "team_id": "SF",
+    "team_id": "FA",
     "yahoo_id": "31769"
   },
   {
@@ -32449,7 +32449,7 @@
       "WR"
     ],
     "sportsdata_player_id": "82a7e1ff-019a-4f4b-aeb6-c41420e44891",
-    "team_id": "FA",
+    "team_id": "SF",
     "yahoo_id": "31777"
   },
   {
@@ -90630,7 +90630,7 @@
       "RB"
     ],
     "sportsdata_player_id": "f71d0370-23b2-11f0-b632-8947e146a0ae",
-    "team_id": "FA",
+    "team_id": "NO",
     "yahoo_id": "42126"
   },
   {
@@ -97363,7 +97363,7 @@
       "LB,DE"
     ],
     "sportsdata_player_id": "6f19e499-48e5-495d-b889-523fbba45608",
-    "team_id": "FA",
+    "team_id": "NO",
     "yahoo_id": "34000"
   },
   {
@@ -99089,12 +99089,12 @@
     "draft_class": 2023,
     "espn_id": "4361421",
     "filename": "https://www.fantasypros.com/nfl/players/pj-mustipher.php",
-    "first_name": "P.J.",
+    "first_name": "PJ",
     "last_name": "Mustipher",
     "mfl_id": "16553",
     "nfl_id": "2570939",
     "player_id": 23835,
-    "player_name": "P.J. Mustipher",
+    "player_name": "PJ Mustipher",
     "position_id": "DT",
     "positions": [
       "DT"
@@ -117635,7 +117635,7 @@
       "DE,LB"
     ],
     "sportsdata_player_id": "56688bd0-e777-11ed-ba5f-bf6902a39571",
-    "team_id": "FA",
+    "team_id": "PHI",
     "yahoo_id": "40340"
   },
   {
@@ -118748,7 +118748,7 @@
       "S"
     ],
     "sportsdata_player_id": "99d4bd70-e84f-11ed-bf28-3f40de530c54",
-    "team_id": "FA",
+    "team_id": "LAR",
     "yahoo_id": "40389"
   },
   {
@@ -122461,7 +122461,7 @@
       "CB"
     ],
     "sportsdata_player_id": "5068d7b0-f368-11ed-b622-936c98a846ff",
-    "team_id": "FA",
+    "team_id": "MIN",
     "yahoo_id": "40745"
   },
   {
@@ -125985,7 +125985,7 @@
       "LB"
     ],
     "sportsdata_player_id": "67ffa300-250b-11f0-98d3-01166c061cfb",
-    "team_id": "BAL",
+    "team_id": "FA",
     "yahoo_id": "42239"
   },
   {
@@ -132661,7 +132661,7 @@
       "LB"
     ],
     "sportsdata_player_id": "e81a9670-071c-11ef-8ced-698c301ae08b",
-    "team_id": "FA",
+    "team_id": "BAL",
     "yahoo_id": "41329"
   },
   {
@@ -135133,7 +135133,7 @@
   },
   {
     "birthdate": "2001-09-11",
-    "cbs_id": null,
+    "cbs_id": "3133475",
     "draft_class": 2024,
     "espn_id": null,
     "filename": "https://www.fantasypros.com/nfl/players/eli-neal.php",
@@ -162430,7 +162430,7 @@
       "DE,LB"
     ],
     "sportsdata_player_id": "497cd380-426a-11f1-8658-11038d7bedf8",
-    "team_id": "WAS",
+    "team_id": "FA",
     "yahoo_id": "43006"
   },
   {

@@ -349,7 +349,7 @@ _key,active,full_name,team,position,status,espn_id,fantasy_data_id,gsis_id,kalsh
 11055,true,Jake Witt,,OL,Active,,,,,B0AF0BBD6725,17208,,ac70be8c-195f-4b5b-bb9e-59c9be4d0a54,,1446407,
 11056,true,Jared Wayne,HOU,WR,Active,,,,9070bb9d-8100-445f-a0e7-fdd389335e94,3D6ABF9FFB1A,16847,,28c09980-e6ea-11ed-8605-b736dbb934f2,,1176733,
 11057,false,Duplicate Player,,,,,,,,,,,,,,
-11058,true,Blake Grupe,,K,Active,,24506,,3d838b87-071c-4576-b201-f09c3f57b5b9,DA84DD2C01DC,17595,,2a1d4ce0-e6f6-11ed-abca-c7a3a205e21d,,1073055,
+11058,true,Blake Grupe,NYJ,K,Active,,24506,,3d838b87-071c-4576-b201-f09c3f57b5b9,DA84DD2C01DC,17595,,2a1d4ce0-e6f6-11ed-abca-c7a3a205e21d,,1073055,
 11059,true,Aubrey Miller,,LB,Active,,,,,,17117,,54e62870-e6f1-11ed-abca-c7a3a205e21d,,1057666,
 1106,false,Vick Ballard,,RB,Inactive,14898,13991,,,,8072,7615,3a4f8a1f-8425-4109-9ba3-9899f79f2532,543055,,25880
 11060,true,Robert Burns,,RB,Active,,,,,A34EC6F4B2BD,17501,,7c779800-e6f2-11ed-abca-c7a3a205e21d,,976305,
@@ -404,7 +404,7 @@ _key,active,full_name,team,position,status,espn_id,fantasy_data_id,gsis_id,kalsh
 11105,true,Shaquan Davis,,WR,Active,,,,,25A3DFABD592,17129,,034647b0-e779-11ed-aab6-6fb0dd124e97,,1184077,
 11106,true,Nick Anderson,,LB,Active,,,,,,16982,,24f85660-e778-11ed-9f92-7dc1cb7cd678,,1165241,
 11107,true,Lou Hedley,,P,Active,,,,,5E8FC284B046,,,2edd36c0-e776-11ed-b705-09be74b8ac47,,1185906,
-11108,true,Anfernee Orji,,LB,Active,,24429,,f311c024-29ea-42a4-a2f5-cc433fed1bfd,94B8756F16FD,17168,,56688bd0-e777-11ed-ba5f-bf6902a39571,,1175203,
+11108,true,Anfernee Orji,PHI,LB,Active,,24429,,f311c024-29ea-42a4-a2f5-cc433fed1bfd,94B8756F16FD,17168,,56688bd0-e777-11ed-ba5f-bf6902a39571,,1175203,
 11109,true,Mark Evans,,OL,Active,,,,,35D02D6B4C55,,,63de8230-e775-11ed-bd6a-139cc0e9c4a5,,1134580,
 1111,false,Andrew Luck,,QB,Injured Reserve,14874,14008,00-0029668,,,7237,6439,e3181493-6a2a-4e95-aa6f-3fc1ddeb7512,461175,,25711
 11110,false,Duplicate Player,,,,,,,,,,,,,,
@@ -451,7 +451,7 @@ _key,active,full_name,team,position,status,espn_id,fantasy_data_id,gsis_id,kalsh
 11149,true,Sean Maginn,,C,Active,,,,,,,,55c43e00-e852-11ed-8aba-253a2852a082,,977400,
 1115,false,Antwon Blake,,CB,Inactive,15350,14020,00-0029050,,,8440,,b2e66f2f-5b53-4e72-bbd6-83c948f3b7de,467447,,26082
 11150,true,Quindell Johnson,,DB,Active,,24470,,59fb4cf8-b3bb-47c5-950c-bf9171b0c211,7D6B9FF8D4EA,17344,,73a48430-e851-11ed-ae67-87c213631bb9,,1130709,
-11151,true,Tanner Ingle,,DB,Active,,24740,,a5b0edeb-122a-4895-81b3-db240457d073,6B8F50DD9071,17474,,99d4bd70-e84f-11ed-bf28-3f40de530c54,,1122501,
+11151,true,Tanner Ingle,LAR,DB,Active,,24740,,a5b0edeb-122a-4895-81b3-db240457d073,6B8F50DD9071,17474,,99d4bd70-e84f-11ed-bf28-3f40de530c54,,1122501,
 11152,true,Mike McAllister,,C,Active,,,,60b18b4a-dde2-40e4-9060-966e04ecb537,6BCBCDD48FFE,17470,,a61d3e10-e852-11ed-b974-d78a6945aca2,,1114475,
 11153,true,Jordan Jones,,CB,Active,,,,,,17441,,c5e7ef20-e851-11ed-9c74-63f40e6f4772,,1169376,
 11154,true,Matthew Jester,,LB,Active,,,,,,17468,,f9f38ff0-e850-11ed-a3c9-95619af20d66,,1124854,
@@ -565,7 +565,7 @@ _key,active,full_name,team,position,status,espn_id,fantasy_data_id,gsis_id,kalsh
 11254,true,Micah Baskerville,,LB,Active,,,,,CB8B006DAC50,17306,,55163070-ead3-11ed-999e-03b49558b5db,,1109356,
 11255,true,Nick Amoah,,OL,Active,,,,,,,,55510c00-ead2-11ed-999e-03b49558b5db,,1052592,
 11256,true,Tyson Bagent,CHI,QB,Active,,24168,,f522f56f-e584-42b3-9d5a-457e95bbc287,D0AC4E7EAE45,16946,,9bdeb910-ead2-11ed-999e-03b49558b5db,,1444140,
-11257,true,Shedrick Jackson,BAL,WR,Active,,24749,,3b21edfd-20e4-4dd2-af88-e808f04b893b,6AE1F092DE77,17334,,4ee53be0-eacb-11ed-bff4-2305d99deffc,,1114364,
+11257,true,Shedrick Jackson,,WR,Active,,24749,,3b21edfd-20e4-4dd2-af88-e808f04b893b,6AE1F092DE77,17334,,4ee53be0-eacb-11ed-bff4-2305d99deffc,,1114364,
 11258,true,Jalen Harris,,DL,Active,,,,,02CC20A2BD34,17314,,04aed120-ead6-11ed-86b8-630d0ad2d5af,,1068753,
 11259,true,Gabriel Houy,,OL,Active,,,,,,17499,,0c6d20a0-ead7-11ed-86b8-630d0ad2d5af,,,
 1126,false,Brock Osweiler,,QB,Injured Reserve,14879,14053,00-0029682,,,8033,7450,0847010c-9a77-4f0b-9d63-c8b4b224d263,496553,,25767
@@ -619,7 +619,7 @@ _key,active,full_name,team,position,status,espn_id,fantasy_data_id,gsis_id,kalsh
 11302,true,Maalik Hall,,LB,Inactive,,,,,6BF9ECB69124,17535,,0bf78820-ebab-11ed-8ac0-27ad7289f3f9,,1446764,
 11303,true,Caleb Johnson,,LB,Active,,,,,7132CCDE587F,17536,,179de740-ebac-11ed-93d2-d3fce4d12388,,1163274,
 11304,true,E.J. Jenkins,PHI,TE,Active,,24800,,ce00f490-4510-4dc2-996e-0c82427086d9,61C525B66BFD,17218,,626a1dd0-ebab-11ed-bb4c-e536974648f2,,1051781,
-11305,true,Claudin Cherelus,CAR,LB,Inactive,,24799,,9d137406-1485-4abb-867e-5e3bfc6efb6f,4D14D6C4CF7C,17534,,74650010-eba9-11ed-aa2f-9b9591ffdf9b,,1072205,
+11305,true,Claudin Cherelus,,LB,Inactive,,24799,,9d137406-1485-4abb-867e-5e3bfc6efb6f,4D14D6C4CF7C,17534,,74650010-eba9-11ed-aa2f-9b9591ffdf9b,,1072205,
 11306,true,Xavier Gipson,PHI,WR,Active,,24472,,7b5ca2d8-944e-4900-979e-ed2be79b32a3,7043E0F821A0,17045,,840a7940-ebaa-11ed-a11b-41cbcb1c4445,,1177970,
 11307,true,Brent Laing,,OL,Active,,,,,5338DFB916E3,,,8fdfe230-ebac-11ed-8dc0-27ff5408c6ee,,1446765,
 11308,true,Deslin Alexandre,,DE,Active,,24556,,a790bcbd-93ae-4839-b6a2-14dbe9af6508,4C130CAE1212,16732,,aae1ef00-eba8-11ed-906c-29c5e0123ad9,,976936,
@@ -764,7 +764,7 @@ _key,active,full_name,team,position,status,espn_id,fantasy_data_id,gsis_id,kalsh
 11433,true,Nate Adkins,DEN,TE,Active,,24686,,f699567e-ea12-4a7e-bddc-8a1615068aed,F47100A28FFE,16992,,bcd0ae60-f31c-11ed-819c-fd03d0cc2698,,1132517,
 11434,true,Seth Benson,,LB,Active,,,,,,17589,,01d0dda0-f31d-11ed-8ca1-69564f80a5e2,,1109673,
 11435,true,Emanuel Wilson,SEA,RB,Active,,24309,,be77dd14-08f9-4f34-b28b-f65699213670,E139F37E808F,17593,,05266280-f323-11ed-bd27-0bcbcaae8d67,,1447759,
-11436,true,P.J. Mustipher,NYG,NT,Active,,24426,,038f3e10-2cef-48f3-8ce9-8713c23a1031,56C1C3F076E9,17175,,1c14b470-f322-11ed-9e8e-45557c8b4e84,,1116664,
+11436,true,PJ Mustipher,NYG,NT,Active,,24426,,038f3e10-2cef-48f3-8ce9-8713c23a1031,56C1C3F076E9,17175,,1c14b470-f322-11ed-9e8e-45557c8b4e84,,1116664,
 11437,true,Marcus Haynes,,LB,Active,,,,bacd9b70-9f1f-4be7-8cc3-baa611e6e245,8A6D3E862E8F,17591,,2083b940-f320-11ed-b5a0-e18bd17a02bc,,978096,
 11438,true,Dallas Daniels,,WR,Active,,,,,,17066,,317bd180-f31e-11ed-b2c7-7543a2b9a221,,1224152,
 11439,true,Jaleel McLaughlin,CLE,RB,Active,,24311,,7399a4f4-cbba-4071-b15e-983ba5a1df51,C92FD917D2BE,17319,,60b4ded0-f321-11ed-ab27-e38fa04fd6c0,,1271738,
@@ -814,7 +814,7 @@ _key,active,full_name,team,position,status,espn_id,fantasy_data_id,gsis_id,kalsh
 11479,true,Eric Garror,,CB,Active,,,,,A330A4DBD33A,17624,,bd247b70-f363-11ed-a5b1-b5a9126d7fdb,,1119198,
 1148,true,Kyle Wilber,,LB,Active,15038,14167,00-0029647,,,8224,,cdbaf089-9c7e-418f-829e-d903c28b2628,397413,397413,25823
 11480,true,Taron Vincent,,DT,Active,,,,,,17282,,262e3cf0-f36e-11ed-ad58-359fc76adb62,,1122600,
-11481,true,Natrone Brooks,,CB,Active,,24871,,938473f0-424a-4f9b-b30a-b002d1f43bc4,34440DEA4473,17623,,5068d7b0-f368-11ed-b622-936c98a846ff,,1231080,
+11481,true,Natrone Brooks,MIN,CB,Active,,24871,,938473f0-424a-4f9b-b30a-b002d1f43bc4,34440DEA4473,17623,,5068d7b0-f368-11ed-b622-936c98a846ff,,1231080,
 11482,true,Clifford Chattman,,DB,Active,,,,,,17619,,ddf0fd60-f368-11ed-9395-c50a0943174c,,922115,
 11483,true,Ellis Merriweather,,RB,Active,,,,286c1a41-5f24-4c9d-b701-a0beb9ea965d,2A2557879E56,16987,,76fbc960-f371-11ed-897f-a16099977b1f,,1214921,
 11484,true,Adrian Frye,,DB,Active,,,,,,17634,,f8482dc0-f370-11ed-aceb-b32a195636b6,,1056578,
@@ -1559,7 +1559,7 @@ _key,active,full_name,team,position,status,espn_id,fantasy_data_id,gsis_id,kalsh
 12149,true,Gavin Hardison,,QB,Active,,,,,0DE56F6563CF,18070,,ef2d54b0-07c2-11ef-a8e8-4715849dc7ba,,1182096,
 1215,true,Jarius Wright,,WR,Active,14918,14465,00-0029572,,,8105,7574,6a11f09e-268c-4e5a-9b0f-cc0f4bc353c3,465652,,25828
 12150,true,Jarveon Howard,,RB,Inactive,,,,62801a6a-6f3f-4658-ba3c-f1a0323b42b7,5D507A24D5A1,18209,,032b79a0-07c4-11ef-88b7-f37a58630b1a,,1125087,
-12151,true,Julian Hicks,SEA,WR,Active,,25652,,b1ef95ad-a265-4920-a4b9-ee5240c13fd5,D5BE80C39BEA,18229,,8f78ae50-07c4-11ef-a987-1fc365c9c772,,1058726,
+12151,true,Julian Hicks,,WR,Active,,25652,,b1ef95ad-a265-4920-a4b9-ee5240c13fd5,D5BE80C39BEA,18229,,8f78ae50-07c4-11ef-a987-1fc365c9c772,,1058726,
 12152,true,Trente Jones,,OT,Injured Reserve,,,,,93979D7A5F57,,,95638840-07c3-11ef-8815-21fd7c9a9b16,,1181670,
 12153,true,Donovan Jennings,GB,OL,Active,,25383,,962d0008-b69f-42f5-b395-18673ca8e12f,AEA7AE4A8F04,18049,,9bc78270-07c5-11ef-8be9-35641d847530,,1124161,
 12154,true,Messiah Swinson,,TE,Active,,25567,,f863b953-07ad-43f9-b9a4-5e71296fa01e,384E75DCEF27,18211,,ffa96250-07c4-11ef-99fd-53de25c52bd6,,1124355,
@@ -2060,7 +2060,7 @@ _key,active,full_name,team,position,status,espn_id,fantasy_data_id,gsis_id,kalsh
 1260,false,Josh Bush,,SS,Inactive,15113,14647,,,,8301,,2aff4c73-8b5b-4b71-8959-c73b8013dffc,,,25897
 12600,true,Aireontae Ersery,HOU,OL,Active,,26005,,2facd24a-b0a8-45a4-91a5-24f9ca0091f6,8E51AAA5CFA48BBD,18751,,5b31adf0-275a-4a0c-a19b-0b289d4bf299,,,
 12601,true,Azareye'h Thomas,NYJ,DB,Active,,26022,,fab19f77-b0f3-4d2d-8ffc-a63cabd7b791,1169DF35A6A53BD3,18585,,6aa62324-5bbb-4059-bd22-65ad7a8cdb74,,,
-12602,true,Mykel Williams,SF,DL,Active,,25996,,6ab0ff51-a9df-494f-833d-8f6d8bd6649c,8E27972C8FB706B4,18584,,b53b3aa5-5ef4-4d54-a4f1-8be678e980d2,,,
+12602,true,Mykel Williams,SF,DL,Inactive,,25996,,6ab0ff51-a9df-494f-833d-8f6d8bd6649c,8E27972C8FB706B4,18584,,b53b3aa5-5ef4-4d54-a4f1-8be678e980d2,,,
 12603,true,Cobee Bryant,,DB,Active,,26134,,bf99ef7f-1f35-4995-ae75-0b0c64828a56,251416D41E5C0609,18598,,c8584970-2478-11f0-b52e-75a660006007,,,
 12604,true,Andrew Mukuba,PHI,DB,Active,,26064,,45d8377c-5381-41f7-9e0e-5014187f2716,7A2A8D85518AB689,18626,,0cb34ce3-42de-42d3-88a4-d242e43b2e34,,,
 12605,true,Jacob Parrish,TB,DB,Active,,26035,,8235986d-6c20-49a0-833f-d087fc027998,464F254D90E25851,18591,,5c292ee4-9ffa-4ee3-afe6-d7ce5001b003,,,
@@ -2308,7 +2308,7 @@ _key,active,full_name,team,position,status,espn_id,fantasy_data_id,gsis_id,kalsh
 12823,true,Joe Evans,,DT,Active,,,,51889763-9c2e-4782-a38c-2eb406ed127c,21153EFE4E8C369C,19081,,348d74a0-23af-11f0-80f9-77c293eb8b40,,,
 12824,true,Maddux Trujillo,,K,Active,,26500,,288df749-f84f-495c-ba38-fff2a9fdee3a,4FA1F4298360FDCC,18882,,bedb8120-23b3-11f0-8ddb-c1d5ce2f7de3,,,
 12825,true,Ryan Heicher,,P,Active,,,,,2C6A4D3ED7873770,,,d2817e80-23b5-11f0-864a-6f45e0de867e,,,
-12826,true,Ulysses Bentley,,RB,Active,,25967,,2c36411f-539d-4dea-866b-d5a4fabf1037,1E2F457E03D0A80B,18640,,f71d0370-23b2-11f0-b632-8947e146a0ae,,,
+12826,true,Ulysses Bentley,NO,RB,Active,,25967,,2c36411f-539d-4dea-866b-d5a4fabf1037,1E2F457E03D0A80B,18640,,f71d0370-23b2-11f0-b632-8947e146a0ae,,,
 12827,true,Myles Purchase,,DB,Active,,26389,,8b06a8ce-27ae-487e-bef5-e47e9c35ec3e,1DCF5CD19457DE4F,18849,,c5766270-23b8-11f0-b346-0de67f8c5704,,,
 12828,true,Desmond Little,,DE,Active,,,,a998abea-3676-42a6-b420-48f0f84653b1,978490FA4F0E3477,19080,,16e4c2c0-23bc-11f0-847c-21390597108d,,,
 12829,true,Coleman Owen,GB,WR,Active,,25893,,b0e9f5f6-771b-4974-8550-5c72c164894d,7E789FE640466F97,18877,,a9afb800-23ba-11f0-aa7d-833b948e6c02,,,
@@ -2359,7 +2359,7 @@ _key,active,full_name,team,position,status,espn_id,fantasy_data_id,gsis_id,kalsh
 1287,true,Kai Forbath,,K,Inactive,14816,14740,00-0028787,,,7544,7362,5514afb6-bd43-49a8-9bf7-b8baaaecdabe,331927,,25648
 12870,true,Tedi Kushi,,OT,Active,,,,e44e0fb8-56e5-43d4-b4db-37adae640090,DF1E13BAA9247957,,,3464e1f0-2447-11f0-b952-c9440e0bb113,,,
 12871,true,Eugene Asante,ARI,LB,Active,,26142,,383c05fa-a3a6-4c69-a92e-455c369fc5a6,B8F41CF6D50070DB,17889,,a4084a10-2447-11f0-8696-e5dff0296473,,,
-12872,true,John Saunders,NYJ,DB,Active,,26485,,f9e8f939-899a-4117-a031-c04b182b1b84,E0BE017FC2EC74BE,19161,,bea720e0-2446-11f0-8c23-0ba26e76f291,,,
+12872,true,John Saunders,,DB,Active,,26485,,f9e8f939-899a-4117-a031-c04b182b1b84,E0BE017FC2EC74BE,19161,,bea720e0-2446-11f0-8c23-0ba26e76f291,,,
 12873,true,Alex Huntley,,DT,Active,,26545,,e899f356-0acb-4b4f-9f1c-749448604ecf,4436CB87FF674939,19163,,d5980380-2448-11f0-a59d-bd350912bf48,,,
 12874,true,Lance Dixon,,LB,Active,,,,d77dc1a3-8818-461d-b75e-82e9a52c0f4d,5AFED34298A4C3F2,18959,,4d4fe2b0-2450-11f0-9549-f3c45db86236,,,
 12875,true,BJ Mayes,,CB,Active,,,,c04cc7b8-cb38-47f5-98ed-85a5f7c9702d,7CD19EB8B8A276B3,18961,,801201a0-2451-11f0-9f65-ef3f4ca7be78,,,
@@ -2416,7 +2416,7 @@ _key,active,full_name,team,position,status,espn_id,fantasy_data_id,gsis_id,kalsh
 12920,true,Dean Clark,,DB,Active,,26285,,6b64e598-2ae7-45f8-98de-f249e81698c9,DC243D1E423189DA,19074,,b3161f70-24fe-11f0-95dd-439d3ee090de,,,
 12921,true,Leander Wiegand,,OL,Active,,26575,,4f4ea17f-46fc-4664-aade-5e60a464690c,,,,33de9480-2503-11f0-8a51-f162e3f98ebd,,,
 12922,true,Ja'Markis Weston,,DE,Inactive,,26350,,ccc469fc-1953-4e50-b8f3-5f0bba31b314,0446B7B511A220ED,19071,,4c20ddb0-2502-11f0-b516-a98458eeb2a7,,,
-12923,true,Jordan Clark,,DB,Active,,26301,,83a40da7-8a2e-4b49-85c9-67acc8283c54,056A406416EFBEB0,19075,,50b0d800-2500-11f0-8ae1-fb7a38cec501,,,
+12923,true,Jordan Clark,NYJ,DB,Active,,26301,,83a40da7-8a2e-4b49-85c9-67acc8283c54,056A406416EFBEB0,19075,,50b0d800-2500-11f0-8ae1-fb7a38cec501,,,
 12924,true,Fatorma Mulbah,,DL,Active,,26432,,509c3774-a927-400b-94e0-94fdaadd816a,AF4AD18C01CEF475,19070,,d3b72bf0-2500-11f0-9ac6-018f8b86e35f,,,
 12925,true,Jamaal Pritchett,NYJ,WR,Active,,25913,,f4c013fe-546b-4b25-87cc-516ddf1407db,1D0B1AB600B3F05D,18857,,d9981370-2502-11f0-8ac8-c31e8098aeb4,,,
 12926,true,Oscar Chapman,,P,Active,,,,f59f9982-9ebb-4cb6-a6e3-f73c96525028,50CBC0EC28D27C77,,,6169f830-250e-11f0-836d-91c7e309d1c4,,,
@@ -8567,7 +8567,7 @@ _key,active,full_name,team,position,status,espn_id,fantasy_data_id,gsis_id,kalsh
 5779,false,Blake Jackson,,WR,Inactive,2975813,20682,00-0034864,,,13407,,0b4213fc-6c2a-477d-b4c0-0983e16aa3fb,692014,,31775
 578,true,Sam Young,,OT,Injured Reserve,13496,11289,00-0027778,,,6756,,f28f45f8-a617-4caa-8332-ccfff0dddc07,,,24155
 5780,true,Adam Reth,,DE,Active,3049025,20683,00-0034865,,,13376,,6904f89f-c6f3-42fe-add6-54ba80ee04dc,,,31776
-5781,true,Malik Turner,,WR,Active,3115928,20684,00-0034867,7025d236-2255-446e-9d9e-07ff54bb4680,D7CA2E5339B7,13378,13906,82a7e1ff-019a-4f4b-aeb6-c41420e44891,830686,830686,31777
+5781,true,Malik Turner,SF,WR,Active,3115928,20684,00-0034867,7025d236-2255-446e-9d9e-07ff54bb4680,D7CA2E5339B7,13378,13906,82a7e1ff-019a-4f4b-aeb6-c41420e44891,830686,830686,31777
 5782,true,Erick Wren,,G,Active,3892890,20267,00-0034868,,,13377,,593e7567-a8a2-4032-876c-12ef72720dc6,,,31778
 5783,true,Christian Boutte,,CB,Active,3127082,20685,00-0034871,,,13380,,48c9c22c-6903-455d-bcaa-9562b440b690,,,
 5784,true,Jonathan Celestin,,LB,Active,3116052,20687,00-0034872,,,13381,13909,d15e6d19-924c-4c1f-9d1a-e15b378c2875,,821165,31780
@@ -10492,7 +10492,7 @@ _key,active,full_name,team,position,status,espn_id,fantasy_data_id,gsis_id,kalsh
 754,true,Al Woods,,DT,Active,13493,12450,00-0027723,,72C1315F9DD3,6714,5903,7011a0e7-f402-4bc0-bba3-b31d3613e47f,323244,323244,24098
 7540,true,Amari Rodgers,,WR,Active,,,,,82A86C030BFA,15441,,e47ca6ed-c988-4cad-b4a4-181c67463748,,978580,
 7541,true,Cornell Powell,,WR,Active,,22568,,d84f5389-2858-44f9-817a-c1edd7cfdad9,A71E26CB3641,15446,,bc25629f-1501-4f58-ae46-c6cf502a4b13,,913546,
-7543,true,Travis Etienne,NO,RB,Active,,21696,,5ea0ff38-8c01-440f-8f00-082127423c94,B26588814F61,15385,,970693f0-0af4-4627-ac0c-bf519f7433ee,,978577,
+7543,true,Travis Etienne,NO,RB,Inactive,,21696,,5ea0ff38-8c01-440f-8f00-082127423c94,B26588814F61,15385,,970693f0-0af4-4627-ac0c-bf519f7433ee,,978577,
 7544,false,Player Invalid,,RB,Inactive,,,,,,,,,,,
 7545,true,Marlon Williams,,WR,Inactive,,,,,,15279,,0c117c69-d409-4dfd-8e02-e55988301b2b,,,
 7546,true,Tre Nixon,,WR,Active,,,,,0424D310D791,15525,,c552a87b-4612-49f2-a6a4-55a5e26787c7,,945641,
@@ -10623,7 +10623,7 @@ _key,active,full_name,team,position,status,espn_id,fantasy_data_id,gsis_id,kalsh
 7663,true,Teven Jenkins,CLE,OL,Active,,22860,,084a33dd-1498-4a74-9b88-8150c3297ca3,7E6F699B2367,15551,,2f995e2b-1e30-4cff-809d-68c0366dda3a,,923111,
 7664,true,Christian Barmore,NE,DT,Active,,22709,,4b1cc67f-3181-47ca-86be-ab8f22630e3e,4A43FFAE34A1,15395,,39017237-0575-4984-b784-954a79c2bba2,,1125730,
 7665,true,Landon Dickerson,PHI,OL,Inactive,,22769,,bbbd5032-705b-425a-983a-ab1b92e886ea,4CACC0ED2EBD,15426,,6a904c64-5425-4f6d-b35a-1b72eaa256c6,,936967,
-7666,true,Jevon Holland,NYG,DB,Active,,22841,,a951b3fc-2dbe-48f2-ae22-497da9b9372f,15272DC58030,15196,,30915dd4-f19f-48cd-8425-f2cf29246b66,,1129741,
+7666,true,Jevón Holland,NYG,DB,Active,,22841,,a951b3fc-2dbe-48f2-ae22-497da9b9372f,15272DC58030,15196,,30915dd4-f19f-48cd-8425-f2cf29246b66,,1129741,
 7667,true,Tyson Campbell,CLE,CB,Active,,22731,,3370409a-09e2-4368-8fc5-c6540fabaa44,AEB532B9AE50,15359,,a887ad59-0e4b-4a9a-a7e4-cfd9f42fe7fb,,1131009,
 7668,true,Aaron Robinson,,CB,Active,,,,,9BD1E687AF97,15445,,e63d2781-66d7-4e29-ae56-292fb282a5ed,,944427,
 7669,true,Paulson Adebo,NYG,CB,Inactive,,22704,,d892cff0-d1c2-49a2-9cc4-ba0da3e6154e,F893942E58D0,15399,,054cf859-2cf7-4621-a98e-b440e66508a5,,1060297,
@@ -11136,7 +11136,7 @@ _key,active,full_name,team,position,status,espn_id,fantasy_data_id,gsis_id,kalsh
 8124,false,Player Invalid,,TE,Inactive,,,,,,,,,,,
 8125,true,Calvin Austin,NYG,WR,Inactive,,22566,,54984deb-1e9a-45c9-a5f9-5ab81eb01ad5,2824794A7C09,15874,,a95271f7-6dae-4b43-94fd-3ff04b15d4c4,,1062765,
 8126,true,Wan'Dale Robinson,TEN,WR,Active,,23170,,f96c8e87-8e82-4486-aca3-d4b0bc6a8249,3333C2094C6B,15838,,582dfe0e-98f3-48a5-8a2d-a52baa926b05,,1164875,
-8127,true,Charlie Kolar,LAC,TE,Inactive,,23135,,fbbbc119-ceff-43c1-8125-f4ccab43968b,6287FB729761,15924,,3c048ac9-2c0f-4bf0-9ddc-ce99c9387ac8,,1058648,
+8127,true,Charlie Kolar,LAC,TE,Active,,23135,,fbbbc119-ceff-43c1-8125-f4ccab43968b,6287FB729761,15924,,3c048ac9-2c0f-4bf0-9ddc-ce99c9387ac8,,1058648,
 8128,false,Player Invalid,,TE,Inactive,,,,,,,,,,,
 8129,true,Dameon Pierce,PHI,RB,Active,,23223,,6131d76d-56b1-43f3-b3dd-2a4d6fb18108,277082F42068,15875,,5d4ef6da-a6b5-4d9c-adc0-28dfdbe9315e,,1108998,
 813,true,Nate Solder,,T,Active,13964,12778,00-0027955,,,7434,6517,b077b3b2-2fed-4c9f-9b8f-c4ff50a4f911,,332613,24804
@@ -11313,7 +11313,7 @@ _key,active,full_name,team,position,status,espn_id,fantasy_data_id,gsis_id,kalsh
 8284,true,Vincent Gray,,DB,Active,,,,,EF2536F5B6C0,16151,,30b92fd0-cc9c-11ec-952e-a10f2c98fc4d,,1130226,
 8285,true,Josh Ross,,LB,Active,,23784,,753f08bb-b986-4707-a187-3c8da0ae9fc9,B7BD8F693FCE,16189,,82546a90-c980-11ec-a1a0-57a82b503f37,,1074724,
 8286,true,Dax Hill,CIN,DB,Active,,23346,,1ff7e108-b061-4e8d-a7f9-c1c779907fd5,89890550F3E6,15941,,46b69ef9-920c-4645-abf7-139738e3fd9c,,1181645,
-8287,true,David Ojabo,,DL,Active,,23369,,b9679b91-6a66-4fa5-a009-31e58bb78265,E69BF15F78DF,15927,,6f19e499-48e5-495d-b889-523fbba45608,,1164532,
+8287,true,David Ojabo,NO,DL,Active,,23369,,b9679b91-6a66-4fa5-a009-31e58bb78265,E69BF15F78DF,15927,,6f19e499-48e5-495d-b889-523fbba45608,,1164532,
 8288,true,Christopher Hinton,,DL,Active,,,,5aad63ae-52a5-43ea-95d6-dce95792d768,4A1C08BD7EA0,,,fd3f7640-d264-11ec-b16e-cf7159baf83d,,1181648,
 8289,true,Aidan Hutchinson,DET,DL,Active,,23257,,021a686f-dde0-40e1-9543-fc36f6b45be5,219A15473CB6,15832,,f2083e8e-df1e-4365-a5d1-235887841f42,,1130232,
 829,true,Andy Dalton,PHI,QB,Active,14012,12841,00-0027973,8398e987-28ec-492a-aa5b-20d59ed5d78a,0A6134E0E378,7355,6493,d2a0e5af-3850-4f16-8e40-a0b1d15c2ce1,322858,322858,24822
@@ -11863,7 +11863,7 @@ _key,active,full_name,team,position,status,espn_id,fantasy_data_id,gsis_id,kalsh
 8792,false,Ben Petrula,,T,Inactive,,,,,,,,3595c690-d308-11ec-8b77-45b1765fd110,,1060555,
 8793,true,Glen Logan,,DT,Active,,,,,,16231,,647f1820-d309-11ec-8b77-45b1765fd110,,910948,
 8794,true,Roderick Perry,,DT,Active,,,,,,16531,,8632df10-d309-11ec-8b77-45b1765fd110,,951988,
-8795,true,D'Anthony Bell,SEA,DB,Active,,23910,,df1f9208-51b1-4269-9bb7-70b461e50490,85115B9360D0,16523,,8b181df0-d30a-11ec-8b77-45b1765fd110,,1336324,
+8795,true,D'Anthony Bell,,DB,Active,,23910,,df1f9208-51b1-4269-9bb7-70b461e50490,85115B9360D0,16523,,8b181df0-d30a-11ec-8b77-45b1765fd110,,1336324,
 8796,true,Silas Kelly,,LB,Active,,,,,,16529,,b22be3f0-d309-11ec-8b77-45b1765fd110,,951347,
 8797,true,Junior Faulk,,CB,Active,,,,,,,,dc8a99c0-d309-11ec-8b77-45b1765fd110,,1343285,
 8798,true,Felix Harper,,QB,Active,,,,,,16585,,ec184200-d306-11ec-8b77-45b1765fd110,,946508,
@@ -12160,7 +12160,7 @@ _key,active,full_name,team,position,status,espn_id,fantasy_data_id,gsis_id,kalsh
 973,true,Anthony Sherman,,RB,Injured Reserve,14135,13418,00-0028074,,,7560,,e033ce15-9fc5-430b-90e2-90dfe52b21c1,400947,,24923
 974,false,Ryan Williams,,RB,Inactive,14051,13425,,,,,,68b5fdb2-e0e1-48aa-96a3-18a85c393a09,463734,,24825
 975,false,McLeod Bethel-Thompson,,QB,Inactive,14594,13429,,,,8051,,08747f6d-ce8f-4510-bf10-98451dab51e1,333425,,25483
-9753,true,Zach Charbonnet,SEA,RB,Active,,23173,,e4f3e4c7-94a3-487f-8ce1-284bb78b1ec4,DD41FF156D28,16897,,7d7f1628-85a7-4633-9ffe-d82fc2761b00,,1164530,
+9753,true,Zach Charbonnet,SEA,RB,Inactive,,23173,,e4f3e4c7-94a3-487f-8ce1-284bb78b1ec4,DD41FF156D28,16897,,7d7f1628-85a7-4633-9ffe-d82fc2761b00,,1164530,
 9754,true,Quentin Johnston,LAC,WR,Active,,24226,,3c0a5c8a-333b-4fc8-9bea-c53de6508478,4756EE52951F,16899,,e648bc98-bc81-44d0-8d4b-b9223c497ff4,,1213865,
 9755,false,Player Invalid,,RB,Inactive,,,,,,16650,,,,,
 9756,true,Jordan Addison,MIN,WR,Active,,23162,,750af3d1-1e56-46bc-9f0b-59a3f93052ec,645BE77276B1,16895,,63fdd64e-1a23-4b77-9536-b1609f3a708c,,1214250,

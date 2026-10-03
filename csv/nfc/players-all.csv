@@ -2151,7 +2151,7 @@ id,sport,value,team
 11077,baseball,Joseph Odom,TB
 11078,baseball,Willie MacIver,SEA
 11079,baseball,Aaron Schunk,COL
-11080,baseball,Michael Toglia,CIN
+11080,baseball,Michael Toglia,SEA
 11081,baseball,Tommy Doyle,COL
 11082,baseball,Karl Kauffmann,COL
 11084,baseball,Ben Bracewell,ATH
@@ -3612,6 +3612,28 @@ id,sport,value,team
 12763,baseball,Aaron Sabato,MIN
 12764,baseball,Josh Hendrickson,HOU
 12765,baseball,Alexander Cornielle,NYY
+12766,baseball,Franklin Arias,BOS
+12767,baseball,Rainiel Rodriguez,STL
+12768,baseball,Teruaki Sato,FA
+12769,baseball,Anthony Eyanson,BAL
+12770,baseball,Christian Zazueta,LAD
+12771,baseball,Arjun Nimmala,LAA
+12772,baseball,Cam Cannarella,MIA
+12773,baseball,Caden Bodine,TB
+12774,baseball,Hiromi Itoh,FA
+12775,baseball,Zyhir Hope,DET
+12776,baseball,Owen Ayers,CHC
+12777,baseball,Jefferson Rojas,NYM
+12778,baseball,James Tibbs III,LAD
+12779,baseball,Brayden Taylor,MIA
+12780,baseball,David Hagaman,ARZ
+12781,baseball,Tanner Franklin,STL
+12782,baseball,Tyson Hardin,MLW
+12783,baseball,Theo Gillen,TB
+12784,baseball,Jesus Baez,STL
+12785,baseball,Roch Cholowsky,CWS
+12786,baseball,Murf Gray,PIT
+12787,baseball,Roc Riggio,COL
 1015,basketball,Tyson Chandler,HOU
 1023,basketball,Joe Johnson,BOS
 1091,basketball,Mike James,BKN
@@ -4580,7 +4602,7 @@ id,sport,value,team
 3188,basketball,Stanton Kidd,UTH
 3189,basketball,Christ Koumadje,PHI
 3190,basketball,Luke Maye,MIL
-3191,basketball,Tacko Fall,CLE
+3191,basketball,Tacko Fall,PHI
 3192,basketball,Javonte Green,DET
 3193,basketball,Max Strus,LAC
 3194,basketball,Isaiah Pineiro,SAC
@@ -5329,7 +5351,7 @@ id,sport,value,team
 4060,basketball,Tyrece Radford,SA
 4061,basketball,DJ Horne,SA
 4062,basketball,Riley Minix,CLE
-4063,basketball,Jameer Nelson,SA
+4063,basketball,Jameer Nelson Jr.,PHI
 4064,basketball,Tyson Ward,SA
 4065,basketball,Darin Green,SA
 4066,basketball,Jamuni McNeace,IND
@@ -5618,6 +5640,8 @@ id,sport,value,team
 4350,basketball,Jaden Akins,NY
 4351,basketball,J'Vonne Hadley,MIA
 4352,basketball,Nate Bittle,TOR
+4353,basketball,Duke Miles,PHI
+4354,basketball,Ezra Ausar,MIA
 615,football,Kent Shelby,LAC
 1038,football,Leon Johnson,LAC
 1533,football,Chase Cota,HOU

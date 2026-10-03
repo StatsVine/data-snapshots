@@ -12914,7 +12914,7 @@
   {
     "id": 11080,
     "sport": "baseball",
-    "team": "CIN",
+    "team": "SEA",
     "value": "Michael Toglia"
   },
   {
@@ -21678,6 +21678,138 @@
     "value": "Alexander Cornielle"
   },
   {
+    "id": 12766,
+    "sport": "baseball",
+    "team": "BOS",
+    "value": "Franklin Arias"
+  },
+  {
+    "id": 12767,
+    "sport": "baseball",
+    "team": "STL",
+    "value": "Rainiel Rodriguez"
+  },
+  {
+    "id": 12768,
+    "sport": "baseball",
+    "team": "FA",
+    "value": "Teruaki Sato"
+  },
+  {
+    "id": 12769,
+    "sport": "baseball",
+    "team": "BAL",
+    "value": "Anthony Eyanson"
+  },
+  {
+    "id": 12770,
+    "sport": "baseball",
+    "team": "LAD",
+    "value": "Christian Zazueta"
+  },
+  {
+    "id": 12771,
+    "sport": "baseball",
+    "team": "LAA",
+    "value": "Arjun Nimmala"
+  },
+  {
+    "id": 12772,
+    "sport": "baseball",
+    "team": "MIA",
+    "value": "Cam Cannarella"
+  },
+  {
+    "id": 12773,
+    "sport": "baseball",
+    "team": "TB",
+    "value": "Caden Bodine"
+  },
+  {
+    "id": 12774,
+    "sport": "baseball",
+    "team": "FA",
+    "value": "Hiromi Itoh"
+  },
+  {
+    "id": 12775,
+    "sport": "baseball",
+    "team": "DET",
+    "value": "Zyhir Hope"
+  },
+  {
+    "id": 12776,
+    "sport": "baseball",
+    "team": "CHC",
+    "value": "Owen Ayers"
+  },
+  {
+    "id": 12777,
+    "sport": "baseball",
+    "team": "NYM",
+    "value": "Jefferson Rojas"
+  },
+  {
+    "id": 12778,
+    "sport": "baseball",
+    "team": "LAD",
+    "value": "James Tibbs III"
+  },
+  {
+    "id": 12779,
+    "sport": "baseball",
+    "team": "MIA",
+    "value": "Brayden Taylor"
+  },
+  {
+    "id": 12780,
+    "sport": "baseball",
+    "team": "ARZ",
+    "value": "David Hagaman"
+  },
+  {
+    "id": 12781,
+    "sport": "baseball",
+    "team": "STL",
+    "value": "Tanner Franklin"
+  },
+  {
+    "id": 12782,
+    "sport": "baseball",
+    "team": "MLW",
+    "value": "Tyson Hardin"
+  },
+  {
+    "id": 12783,
+    "sport": "baseball",
+    "team": "TB",
+    "value": "Theo Gillen"
+  },
+  {
+    "id": 12784,
+    "sport": "baseball",
+    "team": "STL",
+    "value": "Jesus Baez"
+  },
+  {
+    "id": 12785,
+    "sport": "baseball",
+    "team": "CWS",
+    "value": "Roch Cholowsky"
+  },
+  {
+    "id": 12786,
+    "sport": "baseball",
+    "team": "PIT",
+    "value": "Murf Gray"
+  },
+  {
+    "id": 12787,
+    "sport": "baseball",
+    "team": "COL",
+    "value": "Roc Riggio"
+  },
+  {
     "id": 1015,
     "sport": "basketball",
     "team": "HOU",
@@ -27488,7 +27620,7 @@
   {
     "id": 3191,
     "sport": "basketball",
-    "team": "CLE",
+    "team": "PHI",
     "value": "Tacko Fall"
   },
   {
@@ -31982,8 +32114,8 @@
   {
     "id": 4063,
     "sport": "basketball",
-    "team": "SA",
-    "value": "Jameer Nelson"
+    "team": "PHI",
+    "value": "Jameer Nelson Jr."
   },
   {
     "id": 4064,
@@ -33712,6 +33844,18 @@
     "sport": "basketball",
     "team": "TOR",
     "value": "Nate Bittle"
+  },
+  {
+    "id": 4353,
+    "sport": "basketball",
+    "team": "PHI",
+    "value": "Duke Miles"
+  },
+  {
+    "id": 4354,
+    "sport": "basketball",
+    "team": "MIA",
+    "value": "Ezra Ausar"
   },
   {
     "id": 615,

@@ -36904,7 +36904,7 @@
       "WR"
     ],
     "sportsdata_player_id": "b7f930af-ddd2-4a48-9617-96bda81b0334",
-    "team_id": "DEN",
+    "team_id": "FA",
     "yahoo_id": "32494"
   },
   {
@@ -118847,7 +118847,7 @@
       "WR"
     ],
     "sportsdata_player_id": "98b88de0-e8e5-11ed-ad77-290d92d9e505",
-    "team_id": "LAR",
+    "team_id": "FA",
     "yahoo_id": "40399"
   },
   {
@@ -126235,13 +126235,13 @@
   },
   {
     "birthdate": "1991-10-01",
-    "cbs_id": "3169495",
-    "espn_id": "4431492",
+    "cbs_id": null,
+    "espn_id": null,
     "filename": "https://www.fantasypros.com/nfl/players/roman-wilson.php",
     "first_name": "Roman",
     "last_name": "Wilson",
-    "mfl_id": "16629",
-    "nfl_id": "2572459",
+    "mfl_id": null,
+    "nfl_id": null,
     "player_id": 26160,
     "player_name": "Roman Wilson",
     "position_id": "WR",
@@ -126250,7 +126250,7 @@
     ],
     "sportsdata_player_id": "105f2ee1-c162-4d1b-88d0-0987cb894264",
     "team_id": "FA",
-    "yahoo_id": "40952"
+    "yahoo_id": null
   },
   {
     "birthdate": "2000-12-19",
@@ -167006,7 +167006,7 @@
   },
   {
     "birthdate": "2001-06-19",
-    "cbs_id": null,
+    "cbs_id": "3169495",
     "draft_class": 2024,
     "espn_id": "4431492",
     "filename": "https://www.fantasypros.com/nfl/players/roman-wilson-wr.php",

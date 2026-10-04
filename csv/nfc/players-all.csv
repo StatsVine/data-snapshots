@@ -4402,7 +4402,7 @@ id,sport,value,team
 2988,basketball,Shake Milton,LAL
 2989,basketball,Jalen Brunson,NY
 2990,basketball,Trae Young,WAS
-2991,basketball,Zhaire Smith,CLE
+2991,basketball,Zhaire Smith,OKC
 2992,basketball,Elie Okobo,BKN
 2993,basketball,Deandre Ayton,WAS
 2994,basketball,George King,DAL
@@ -5173,7 +5173,7 @@ id,sport,value,team
 3864,basketball,Jaylen Clark,MIN
 3866,basketball,Tarik Biberovic,DAL
 3870,basketball,Jordan Walsh,BOS
-3874,basketball,Chris Livingston,CLE
+3874,basketball,Chris Livingston,WAS
 3876,basketball,Keyontae Johnson,CHA
 3879,basketball,Jalen Slawson,IND
 3880,basketball,Hunter Tyson,BKN
@@ -5260,7 +5260,7 @@ id,sport,value,team
 3963,basketball,Jaylin Galloway,MIL
 3964,basketball,Justin Champagnie,WAS
 3965,basketball,Maozinha Pereira,MEM
-3966,basketball,Malik Williams,ATL
+3966,basketball,Malik Williams,SA
 3967,basketball,Jaylon Tyson,CLE
 3968,basketball,Jared McCain,OKC
 3969,basketball,Kyshawn George,WAS
@@ -5296,7 +5296,7 @@ id,sport,value,team
 4002,basketball,Tristen Newton,SAC
 4003,basketball,Enrique Freeman,MIN
 4004,basketball,Quinten Post,MEM
-4005,basketball,Reece Beekman,ORL
+4005,basketball,Reece Beekman,WAS
 4006,basketball,Justin Edwards,PHI
 4008,basketball,Daniss Jenkins,DET
 4010,basketball,KJ Simpson,DEN
@@ -5306,7 +5306,7 @@ id,sport,value,team
 4014,basketball,Armel Traore,LAL
 4015,basketball,Bronny James,LAL
 4016,basketball,N'Faly Dante,NY
-4018,basketball,Antonio Reeves,CHA
+4018,basketball,Antonio Reeves,MIN
 4019,basketball,Anton Watson,LAL
 4020,basketball,Juan Nunez,SA
 4021,basketball,Harrison Ingram,UTH
@@ -5378,7 +5378,7 @@ id,sport,value,team
 4087,basketball,Gabe Osabuohien,CLE
 4088,basketball,Galen Robinson,NO
 4089,basketball,Jaylin Williams,DEN
-4090,basketball,Gabe McGlothan,IND
+4090,basketball,Gabe McGlothan,BOS
 4091,basketball,Jahmir Young,MIA
 4092,basketball,Jaedon LeDee,MIN
 4093,basketball,Kylor Kelley,NO
@@ -5468,7 +5468,7 @@ id,sport,value,team
 4177,basketball,John Tonje,POR
 4178,basketball,Bogoljub Markovic,MIL
 4179,basketball,Mark Sears,MIL
-4180,basketball,Miles Kelly,DAL
+4180,basketball,Miles Kelly,GS
 4181,basketball,Koby Brea,PHO
 4182,basketball,Rasheer Fleming,PHO
 4183,basketball,Brooks Barnhizer,OKC
@@ -5522,7 +5522,7 @@ id,sport,value,team
 4231,basketball,Alex Antetokounmpo,MIL
 4232,basketball,Kadary Richmond,CLE
 4233,basketball,Lamont Butler,ATL
-4234,basketball,Steve Settle,MIA
+4234,basketball,Steve Settle III,WAS
 4235,basketball,Isaih Moore,CHA
 4236,basketball,Julian Reese,NO
 4237,basketball,Sean Pedulla,HOU
@@ -5642,6 +5642,19 @@ id,sport,value,team
 4352,basketball,Nate Bittle,TOR
 4353,basketball,Duke Miles,PHI
 4354,basketball,Ezra Ausar,MIA
+4355,basketball,Coleman Hawkins,DEN
+4356,basketball,Robert McCray,OKC
+4357,basketball,Andrew Holifield,OKC
+4358,basketball,Christoph Tilly,OKC
+4359,basketball,Rienk Mast,IND
+4360,basketball,Keba Keita,IND
+4361,basketball,John Ukomadu,DET
+4362,basketball,Wyatt Fricks,CHA
+4363,basketball,Ben Humrichous,BKN
+4364,basketball,Isaac McKneely,ATL
+4365,basketball,Milos Uzan,BOS
+4366,basketball,Tucker DeVries,BOS
+4367,basketball,Jon Elmore,SA
 615,football,Kent Shelby,LAC
 1038,football,Leon Johnson,LAC
 1533,football,Chase Cota,HOU

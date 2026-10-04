@@ -26420,7 +26420,7 @@
   {
     "id": 2991,
     "sport": "basketball",
-    "team": "CLE",
+    "team": "OKC",
     "value": "Zhaire Smith"
   },
   {
@@ -31046,7 +31046,7 @@
   {
     "id": 3874,
     "sport": "basketball",
-    "team": "CLE",
+    "team": "WAS",
     "value": "Chris Livingston"
   },
   {
@@ -31568,7 +31568,7 @@
   {
     "id": 3966,
     "sport": "basketball",
-    "team": "ATL",
+    "team": "SA",
     "value": "Malik Williams"
   },
   {
@@ -31784,7 +31784,7 @@
   {
     "id": 4005,
     "sport": "basketball",
-    "team": "ORL",
+    "team": "WAS",
     "value": "Reece Beekman"
   },
   {
@@ -31844,7 +31844,7 @@
   {
     "id": 4018,
     "sport": "basketball",
-    "team": "CHA",
+    "team": "MIN",
     "value": "Antonio Reeves"
   },
   {
@@ -32276,7 +32276,7 @@
   {
     "id": 4090,
     "sport": "basketball",
-    "team": "IND",
+    "team": "BOS",
     "value": "Gabe McGlothan"
   },
   {
@@ -32816,7 +32816,7 @@
   {
     "id": 4180,
     "sport": "basketball",
-    "team": "DAL",
+    "team": "GS",
     "value": "Miles Kelly"
   },
   {
@@ -33140,8 +33140,8 @@
   {
     "id": 4234,
     "sport": "basketball",
-    "team": "MIA",
-    "value": "Steve Settle"
+    "team": "WAS",
+    "value": "Steve Settle III"
   },
   {
     "id": 4235,
@@ -33856,6 +33856,84 @@
     "sport": "basketball",
     "team": "MIA",
     "value": "Ezra Ausar"
+  },
+  {
+    "id": 4355,
+    "sport": "basketball",
+    "team": "DEN",
+    "value": "Coleman Hawkins"
+  },
+  {
+    "id": 4356,
+    "sport": "basketball",
+    "team": "OKC",
+    "value": "Robert McCray"
+  },
+  {
+    "id": 4357,
+    "sport": "basketball",
+    "team": "OKC",
+    "value": "Andrew Holifield"
+  },
+  {
+    "id": 4358,
+    "sport": "basketball",
+    "team": "OKC",
+    "value": "Christoph Tilly"
+  },
+  {
+    "id": 4359,
+    "sport": "basketball",
+    "team": "IND",
+    "value": "Rienk Mast"
+  },
+  {
+    "id": 4360,
+    "sport": "basketball",
+    "team": "IND",
+    "value": "Keba Keita"
+  },
+  {
+    "id": 4361,
+    "sport": "basketball",
+    "team": "DET",
+    "value": "John Ukomadu"
+  },
+  {
+    "id": 4362,
+    "sport": "basketball",
+    "team": "CHA",
+    "value": "Wyatt Fricks"
+  },
+  {
+    "id": 4363,
+    "sport": "basketball",
+    "team": "BKN",
+    "value": "Ben Humrichous"
+  },
+  {
+    "id": 4364,
+    "sport": "basketball",
+    "team": "ATL",
+    "value": "Isaac McKneely"
+  },
+  {
+    "id": 4365,
+    "sport": "basketball",
+    "team": "BOS",
+    "value": "Milos Uzan"
+  },
+  {
+    "id": 4366,
+    "sport": "basketball",
+    "team": "BOS",
+    "value": "Tucker DeVries"
+  },
+  {
+    "id": 4367,
+    "sport": "basketball",
+    "team": "SA",
+    "value": "Jon Elmore"
   },
   {
     "id": 615,

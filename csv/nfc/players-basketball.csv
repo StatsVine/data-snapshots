@@ -767,7 +767,7 @@ id,value,team
 2988,Shake Milton,LAL
 2989,Jalen Brunson,NY
 2990,Trae Young,WAS
-2991,Zhaire Smith,CLE
+2991,Zhaire Smith,OKC
 2992,Elie Okobo,BKN
 2993,Deandre Ayton,WAS
 2994,George King,DAL
@@ -1538,7 +1538,7 @@ id,value,team
 3864,Jaylen Clark,MIN
 3866,Tarik Biberovic,DAL
 3870,Jordan Walsh,BOS
-3874,Chris Livingston,CLE
+3874,Chris Livingston,WAS
 3876,Keyontae Johnson,CHA
 3879,Jalen Slawson,IND
 3880,Hunter Tyson,BKN
@@ -1625,7 +1625,7 @@ id,value,team
 3963,Jaylin Galloway,MIL
 3964,Justin Champagnie,WAS
 3965,Maozinha Pereira,MEM
-3966,Malik Williams,ATL
+3966,Malik Williams,SA
 3967,Jaylon Tyson,CLE
 3968,Jared McCain,OKC
 3969,Kyshawn George,WAS
@@ -1661,7 +1661,7 @@ id,value,team
 4002,Tristen Newton,SAC
 4003,Enrique Freeman,MIN
 4004,Quinten Post,MEM
-4005,Reece Beekman,ORL
+4005,Reece Beekman,WAS
 4006,Justin Edwards,PHI
 4008,Daniss Jenkins,DET
 4010,KJ Simpson,DEN
@@ -1671,7 +1671,7 @@ id,value,team
 4014,Armel Traore,LAL
 4015,Bronny James,LAL
 4016,N'Faly Dante,NY
-4018,Antonio Reeves,CHA
+4018,Antonio Reeves,MIN
 4019,Anton Watson,LAL
 4020,Juan Nunez,SA
 4021,Harrison Ingram,UTH
@@ -1743,7 +1743,7 @@ id,value,team
 4087,Gabe Osabuohien,CLE
 4088,Galen Robinson,NO
 4089,Jaylin Williams,DEN
-4090,Gabe McGlothan,IND
+4090,Gabe McGlothan,BOS
 4091,Jahmir Young,MIA
 4092,Jaedon LeDee,MIN
 4093,Kylor Kelley,NO
@@ -1833,7 +1833,7 @@ id,value,team
 4177,John Tonje,POR
 4178,Bogoljub Markovic,MIL
 4179,Mark Sears,MIL
-4180,Miles Kelly,DAL
+4180,Miles Kelly,GS
 4181,Koby Brea,PHO
 4182,Rasheer Fleming,PHO
 4183,Brooks Barnhizer,OKC
@@ -1887,7 +1887,7 @@ id,value,team
 4231,Alex Antetokounmpo,MIL
 4232,Kadary Richmond,CLE
 4233,Lamont Butler,ATL
-4234,Steve Settle,MIA
+4234,Steve Settle III,WAS
 4235,Isaih Moore,CHA
 4236,Julian Reese,NO
 4237,Sean Pedulla,HOU
@@ -2007,3 +2007,16 @@ id,value,team
 4352,Nate Bittle,TOR
 4353,Duke Miles,PHI
 4354,Ezra Ausar,MIA
+4355,Coleman Hawkins,DEN
+4356,Robert McCray,OKC
+4357,Andrew Holifield,OKC
+4358,Christoph Tilly,OKC
+4359,Rienk Mast,IND
+4360,Keba Keita,IND
+4361,John Ukomadu,DET
+4362,Wyatt Fricks,CHA
+4363,Ben Humrichous,BKN
+4364,Isaac McKneely,ATL
+4365,Milos Uzan,BOS
+4366,Tucker DeVries,BOS
+4367,Jon Elmore,SA

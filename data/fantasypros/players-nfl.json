@@ -36904,7 +36904,7 @@
       "WR"
     ],
     "sportsdata_player_id": "b7f930af-ddd2-4a48-9617-96bda81b0334",
-    "team_id": "FA",
+    "team_id": "DEN",
     "yahoo_id": "32494"
   },
   {
@@ -117088,7 +117088,7 @@
       "DE,DT"
     ],
     "sportsdata_player_id": "5ce35506-7d1f-4795-92f5-834a1f5c5fe0",
-    "team_id": "SF",
+    "team_id": "FA",
     "yahoo_id": "40140"
   },
   {
@@ -156947,7 +156947,7 @@
     "filename": "https://www.fantasypros.com/nfl/players/jack-pyburn.php",
     "first_name": "Jack",
     "last_name": "Pyburn",
-    "mfl_id": null,
+    "mfl_id": "17801",
     "nfl_id": null,
     "player_id": 28254,
     "player_name": "Jack Pyburn",

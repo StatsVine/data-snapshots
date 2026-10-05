@@ -220,7 +220,7 @@ _key,active,full_name,team,position,status,espn_id,fantasy_data_id,gsis_id,kalsh
 1094,false,Mike Martin,,DT,Inactive,14988,13946,,,,8161,,72953052-ee38-4833-b927-9dc0b2d2966b,,,25792
 10940,true,Nick Herbig,PIT,LB,Active,,24201,,170920ed-3e18-4353-8981-70d5a42c333b,16F850C04C9E,16702,,59b7b521-a0be-4ee5-8809-362601c2c80e,,1215103,
 10941,true,Tyler Lacy,DET,DE,Active,,24274,,b385df99-33ea-4736-a12a-2e2550f2a3ab,2A095006C470,16968,,e21d11de-78f9-47a9-b69a-ae18207ab2c7,,1125659,
-10942,true,Viliami Fehoko,SF,DL,Active,,24370,,009477da-9eca-4bf9-a72c-ddc5a8fde436,E4AA45E70433,17153,,5ce35506-7d1f-4795-92f5-834a1f5c5fe0,,1126521,
+10942,true,Viliami Fehoko,,DL,Active,,24370,,009477da-9eca-4bf9-a72c-ddc5a8fde436,E4AA45E70433,17153,,5ce35506-7d1f-4795-92f5-834a1f5c5fe0,,1126521,
 10943,true,Isaiah McGuire,CLE,DL,Active,,24252,,ab3348dd-e8de-4c55-8f55-3dc42aea0bcf,2FA88B2E523B,17116,,977590e8-97a0-4b2e-9f6c-c8d047d12f19,,1171835,
 10944,true,Tavius Robinson,BAL,DE,Active,,24275,,a3b9a8b9-0e91-408f-9ee7-2ad3107fe242,B7696463877F,17119,,2d4593e4-b908-4b29-a88a-835d2566781f,,1229070,
 10945,true,Cameron Young,,DT,Active,,,,d9263185-bae2-4de0-8cb0-79662f69d180,F68C27D72A25,17124,,c246a2cf-3db0-4c5a-b016-32a3f6e8cbaf,,1124630,

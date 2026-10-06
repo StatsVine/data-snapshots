@@ -21228,7 +21228,7 @@
       "RB"
     ],
     "sportsdata_player_id": "7797f36e-87e8-4282-b6d2-bdb1774fc3b3",
-    "team_id": "FA",
+    "team_id": "SEA",
     "yahoo_id": "30161"
   },
   {
@@ -26431,7 +26431,7 @@
       "DE"
     ],
     "sportsdata_player_id": "9c2c9c29-516a-4e0f-8dcd-319291823370",
-    "team_id": "CHI",
+    "team_id": "FA",
     "yahoo_id": "30984"
   },
   {
@@ -91940,7 +91940,7 @@
     "filename": "https://www.fantasypros.com/nfl/players/mark-redman.php",
     "first_name": "Mark",
     "last_name": "Redman",
-    "mfl_id": null,
+    "mfl_id": "17802",
     "nfl_id": "2574277",
     "player_id": 23182,
     "player_name": "Mark Redman",
@@ -98467,7 +98467,7 @@
     "filename": "https://www.fantasypros.com/nfl/players/trace-ford.php",
     "first_name": "Trace",
     "last_name": "Ford",
-    "mfl_id": null,
+    "mfl_id": "17805",
     "nfl_id": "2574422",
     "player_id": 23787,
     "player_name": "Trace Ford",
@@ -117554,7 +117554,7 @@
       "LB,S"
     ],
     "sportsdata_player_id": "5c55344a-6192-4def-9860-ffd5a571fe68",
-    "team_id": "FA",
+    "team_id": "PIT",
     "yahoo_id": "40105"
   },
   {
@@ -129373,7 +129373,7 @@
       "WR"
     ],
     "sportsdata_player_id": "b8f13e80-0582-11ef-b5de-0dfe790b3555",
-    "team_id": "MIN",
+    "team_id": "FA",
     "yahoo_id": "41205"
   },
   {
@@ -148211,7 +148211,7 @@
       "DB"
     ],
     "sportsdata_player_id": "0b435250-248f-11f0-8214-55b85fca5661",
-    "team_id": "PIT",
+    "team_id": "FA",
     "yahoo_id": null
   },
   {
@@ -151336,7 +151336,7 @@
     "birthdate": "2003-03-21",
     "cbs_id": "26717711",
     "draft_class": 2025,
-    "espn_id": null,
+    "espn_id": "4876995",
     "filename": "https://www.fantasypros.com/nfl/players/jaseem-reed.php",
     "first_name": "Ja'seem",
     "last_name": "Reed",
@@ -159384,7 +159384,7 @@
       "RB"
     ],
     "sportsdata_player_id": "75063230-4260-11f1-a80d-bff068733e76",
-    "team_id": "WAS",
+    "team_id": "SEA",
     "yahoo_id": "42986"
   },
   {
@@ -162441,7 +162441,7 @@
     "filename": "https://www.fantasypros.com/nfl/players/kani-walker.php",
     "first_name": "Kani",
     "last_name": "Walker",
-    "mfl_id": null,
+    "mfl_id": "17804",
     "nfl_id": null,
     "player_id": 28591,
     "player_name": "Kani Walker",
@@ -164670,7 +164670,7 @@
     "filename": "https://www.fantasypros.com/nfl/players/maximus-pulley.php",
     "first_name": "Maximus",
     "last_name": "Pulley",
-    "mfl_id": null,
+    "mfl_id": "17803",
     "nfl_id": null,
     "player_id": 28731,
     "player_name": "Maximus Pulley",
@@ -165526,7 +165526,7 @@
     "filename": "https://www.fantasypros.com/nfl/players/rodney-mcgraw.php",
     "first_name": "Rodney",
     "last_name": "McGraw",
-    "mfl_id": null,
+    "mfl_id": "17808",
     "nfl_id": null,
     "player_id": 28800,
     "player_name": "Rodney McGraw",
@@ -166590,7 +166590,7 @@
     "filename": "https://www.fantasypros.com/nfl/players/jaden-keller.php",
     "first_name": "Jaden",
     "last_name": "Keller",
-    "mfl_id": null,
+    "mfl_id": "17807",
     "nfl_id": null,
     "player_id": 28874,
     "player_name": "Jaden Keller",
@@ -167221,7 +167221,7 @@
       "CB"
     ],
     "sportsdata_player_id": "212e3b30-5390-11f1-befa-7f91af7f322e",
-    "team_id": "GB",
+    "team_id": "FA",
     "yahoo_id": "43447"
   },
   {

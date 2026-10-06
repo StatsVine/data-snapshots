@@ -3634,6 +3634,10 @@ id,sport,value,team
 12785,baseball,Roch Cholowsky,CWS
 12786,baseball,Murf Gray,PIT
 12787,baseball,Roc Riggio,COL
+12788,baseball,Ryan Sloan,FA
+12789,baseball,Max Williams,FA
+12790,baseball,Kaima Taira,FA
+12791,baseball,Jackson Flora,FA
 1015,basketball,Tyson Chandler,HOU
 1023,basketball,Joe Johnson,BOS
 1091,basketball,Mike James,BKN
@@ -5123,7 +5127,7 @@ id,sport,value,team
 3776,basketball,Taylor Hendricks,MEM
 3777,basketball,Keyonte George,UTH
 3778,basketball,Nick Smith Jr.,LAL
-3779,basketball,Jordan Hawkins,MEM
+3779,basketball,Jordan Hawkins,CHI
 3780,basketball,Cason Wallace,OKC
 3781,basketball,Jalen Hood-Schifino,PHI
 3782,basketball,Jett Howard,DAL
@@ -5405,7 +5409,7 @@ id,sport,value,team
 4114,basketball,Elijah Harkless,DET
 4115,basketball,Warren Washington,MIA
 4116,basketball,Trhae Mitchell,NO
-4117,basketball,Taylor Funk,WAS
+4117,basketball,Taylor Funk,UTH
 4118,basketball,Josh Oduro,NO
 4119,basketball,Boo Buie,NY
 4120,basketball,Taran Armstrong,GS
@@ -5643,7 +5647,7 @@ id,sport,value,team
 4353,basketball,Duke Miles,PHI
 4354,basketball,Ezra Ausar,MIA
 4355,basketball,Coleman Hawkins,DEN
-4356,basketball,Robert McCray,OKC
+4356,basketball,Robert McCray V,OKC
 4357,basketball,Andrew Holifield,OKC
 4358,basketball,Christoph Tilly,OKC
 4359,basketball,Rienk Mast,IND
@@ -5655,6 +5659,8 @@ id,sport,value,team
 4365,basketball,Milos Uzan,BOS
 4366,basketball,Tucker DeVries,BOS
 4367,basketball,Jon Elmore,SA
+4368,basketball,Cameron Corhen,ATL
+4369,basketball,Kobe Johnson,ATL
 615,football,Kent Shelby,LAC
 1038,football,Leon Johnson,LAC
 1533,football,Chase Cota,HOU
@@ -6363,7 +6369,7 @@ id,sport,value,team
 15256,football,Zay Jones,HOU
 15257,football,Curtis Samuel,BUF
 15260,football,Adam Shaheen,MIA
-15261,football,Joe Mixon,HOU
+15261,football,Joe Mixon,SEA
 15263,football,DeShone Kizer,TEN
 15267,football,Carlos Henderson,WAS
 15269,football,Brendan Langley,SEA
@@ -8794,7 +8800,7 @@ id,sport,value,team
 22950,football,CJ Daniels,LA
 22951,football,Zachariah Branch,ATL
 22952,football,Malachi Fields,NYG
-22953,football,Robert Henry Jr.,WAS
+22953,football,Robert Henry Jr.,SEA
 22954,football,Chris Brazzell II,CAR
 22955,football,Mike Washington Jr.,LV
 22956,football,Antonio Williams,WAS

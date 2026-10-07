@@ -3635,9 +3635,15 @@ id,sport,value,team
 12786,baseball,Murf Gray,PIT
 12787,baseball,Roc Riggio,COL
 12788,baseball,Ryan Sloan,FA
-12789,baseball,Max Williams,FA
+12789,baseball,Max Williams,MIA
 12790,baseball,Kaima Taira,FA
-12791,baseball,Jackson Flora,FA
+12791,baseball,Jackson Flora,SF
+12792,baseball,Vahn Lackey,MIN
+12793,baseball,Leonardo Pineda,TB
+12794,baseball,Braylon Doughty,CLE
+12795,baseball,Daniel Eagen,STL
+12796,baseball,Demetrio Crisantes,ARZ
+12797,baseball,Patrick Clohisy,ATL
 1015,basketball,Tyson Chandler,HOU
 1023,basketball,Joe Johnson,BOS
 1091,basketball,Mike James,BKN
@@ -5183,7 +5189,7 @@ id,sport,value,team
 3880,basketball,Hunter Tyson,BKN
 3881,basketball,Jalen Pickett,LAC
 3882,basketball,Adama Sanogo,CHI
-3883,basketball,Jaylen Martin,WAS
+3883,basketball,Jaylen Martin,POR
 3884,basketball,Jacob Toppin,ATL
 3885,basketball,Oscar Tshiebwe,HOU
 3886,basketball,Ricky Council,BKN
@@ -5454,7 +5460,7 @@ id,sport,value,team
 4159,basketball,Alex Toohey,GS
 4160,basketball,Will Richard,GS
 4161,basketball,Hunter Sallis,PHI
-4162,basketball,Johni Broome,LAC
+4162,basketball,Johni Broome,MIL
 4163,basketball,Jamir Watkins,WAS
 4164,basketball,Chaz Lanier,DET
 4165,basketball,Ryan Kalkbrenner,CHA
@@ -5661,6 +5667,7 @@ id,sport,value,team
 4367,basketball,Jon Elmore,SA
 4368,basketball,Cameron Corhen,ATL
 4369,basketball,Kobe Johnson,ATL
+4370,basketball,Anthony Pritchard,OKC
 615,football,Kent Shelby,LAC
 1038,football,Leon Johnson,LAC
 1533,football,Chase Cota,HOU
@@ -7236,7 +7243,7 @@ id,sport,value,team
 18019,football,Joshua Kelley,TEN
 18020,football,Harrison Bryant,SEA
 18021,football,Jacob Breeland,BAL
-18022,football,James Proche,TEN
+18022,football,James Proche II,CLE
 18023,football,Raymond Calais,LA
 18024,football,Tavien Feaster,ARZ
 18025,football,Devin Asiasi,TEN
@@ -7274,7 +7281,7 @@ id,sport,value,team
 18240,football,Justin Rohrwasser,NE
 18241,football,Tommy Stevens,NYG
 18252,football,James Morgan,ARZ
-18257,football,Quez Watkins,PHI
+18257,football,Quez Watkins,IND
 18265,football,Freddie Swain,CHI
 18268,football,Stephen Sullivan,CAR
 18271,football,Charlie Woerner,ATL
@@ -8854,7 +8861,7 @@ id,sport,value,team
 23180,football,Seydou Traore,MIA
 23184,football,Max Bredeson,MIN
 23185,football,Behren Morton,NE
-23189,football,Jam Miller,NE
+23189,football,Jam Miller,ATL
 23192,football,Barion Brown,NO
 23203,football,Cole Payton,PHI
 23207,football,Riley Nowakowski,PIT
@@ -8977,7 +8984,7 @@ id,sport,value,team
 23511,football,Will Ferrin,NYJ
 23512,football,Chase Curtis,NYJ
 23521,football,Cortez Braham Jr.,BAL
-23523,football,Dontae McMillan,BAL
+23523,football,Dontae McMillan,SEA
 23524,football,Ethan Sanchez,SF
 23526,football,Octavian Smith Jr.,BAL
 23528,football,Desmond Reid,BUF

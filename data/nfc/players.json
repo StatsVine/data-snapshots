@@ -21818,7 +21818,7 @@
   {
     "id": 12789,
     "sport": "baseball",
-    "team": "FA",
+    "team": "MIA",
     "value": "Max Williams"
   },
   {
@@ -21830,8 +21830,44 @@
   {
     "id": 12791,
     "sport": "baseball",
-    "team": "FA",
+    "team": "SF",
     "value": "Jackson Flora"
+  },
+  {
+    "id": 12792,
+    "sport": "baseball",
+    "team": "MIN",
+    "value": "Vahn Lackey"
+  },
+  {
+    "id": 12793,
+    "sport": "baseball",
+    "team": "TB",
+    "value": "Leonardo Pineda"
+  },
+  {
+    "id": 12794,
+    "sport": "baseball",
+    "team": "CLE",
+    "value": "Braylon Doughty"
+  },
+  {
+    "id": 12795,
+    "sport": "baseball",
+    "team": "STL",
+    "value": "Daniel Eagen"
+  },
+  {
+    "id": 12796,
+    "sport": "baseball",
+    "team": "ARZ",
+    "value": "Demetrio Crisantes"
+  },
+  {
+    "id": 12797,
+    "sport": "baseball",
+    "team": "ATL",
+    "value": "Patrick Clohisy"
   },
   {
     "id": 1015,
@@ -31106,7 +31142,7 @@
   {
     "id": 3883,
     "sport": "basketball",
-    "team": "WAS",
+    "team": "POR",
     "value": "Jaylen Martin"
   },
   {
@@ -32732,7 +32768,7 @@
   {
     "id": 4162,
     "sport": "basketball",
-    "team": "LAC",
+    "team": "MIL",
     "value": "Johni Broome"
   },
   {
@@ -33970,6 +34006,12 @@
     "sport": "basketball",
     "team": "ATL",
     "value": "Kobe Johnson"
+  },
+  {
+    "id": 4370,
+    "sport": "basketball",
+    "team": "OKC",
+    "value": "Anthony Pritchard"
   },
   {
     "id": 615,
@@ -43424,8 +43466,8 @@
   {
     "id": 18022,
     "sport": "football",
-    "team": "TEN",
-    "value": "James Proche"
+    "team": "CLE",
+    "value": "James Proche II"
   },
   {
     "id": 18023,
@@ -43652,7 +43694,7 @@
   {
     "id": 18257,
     "sport": "football",
-    "team": "PHI",
+    "team": "IND",
     "value": "Quez Watkins"
   },
   {
@@ -53132,7 +53174,7 @@
   {
     "id": 23189,
     "sport": "football",
-    "team": "NE",
+    "team": "ATL",
     "value": "Jam Miller"
   },
   {
@@ -53870,7 +53912,7 @@
   {
     "id": 23523,
     "sport": "football",
-    "team": "BAL",
+    "team": "SEA",
     "value": "Dontae McMillan"
   },
   {

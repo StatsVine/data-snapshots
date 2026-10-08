@@ -55602,7 +55602,7 @@
       "RB"
     ],
     "sportsdata_player_id": "82996e3b-b72d-41ca-8eb1-91e462ceff85",
-    "team_id": "FA",
+    "team_id": "CLE",
     "yahoo_id": "33706"
   },
   {
@@ -98051,7 +98051,7 @@
       "WR"
     ],
     "sportsdata_player_id": "7934c2db-a5f1-404c-a313-74a8aacd5946",
-    "team_id": "FA",
+    "team_id": "PHI",
     "yahoo_id": "34081"
   },
   {
@@ -114227,12 +114227,12 @@
     "draft_class": 2023,
     "espn_id": "4360308",
     "filename": "https://www.fantasypros.com/nfl/players/kj-henry.php",
-    "first_name": "K.J.",
+    "first_name": "KJ",
     "last_name": "Henry",
     "mfl_id": "16306",
     "nfl_id": "2570374",
     "player_id": 25300,
-    "player_name": "K.J. Henry",
+    "player_name": "KJ Henry",
     "position_id": "LB",
     "positions": [
       "LB",
@@ -117250,7 +117250,7 @@
       "CB"
     ],
     "sportsdata_player_id": "17093231-3e82-42fb-bec7-75160d097538",
-    "team_id": "FA",
+    "team_id": "JAC",
     "yahoo_id": "40208"
   },
   {
@@ -117977,7 +117977,7 @@
       "S"
     ],
     "sportsdata_player_id": "08ca7920-e78f-11ed-81d0-c919bd0add9b",
-    "team_id": "FA",
+    "team_id": "SEA",
     "yahoo_id": "40356"
   },
   {
@@ -118847,7 +118847,7 @@
       "WR"
     ],
     "sportsdata_player_id": "98b88de0-e8e5-11ed-ad77-290d92d9e505",
-    "team_id": "FA",
+    "team_id": "SF",
     "yahoo_id": "40399"
   },
   {
@@ -131711,7 +131711,7 @@
       "WR"
     ],
     "sportsdata_player_id": "e88c3c70-06fa-11ef-92ba-0de371d8ef1a",
-    "team_id": "FA",
+    "team_id": "HOU",
     "yahoo_id": "41251"
   },
   {
@@ -148211,7 +148211,7 @@
       "DB"
     ],
     "sportsdata_player_id": "0b435250-248f-11f0-8214-55b85fca5661",
-    "team_id": "FA",
+    "team_id": "PIT",
     "yahoo_id": null
   },
   {
@@ -151750,7 +151750,7 @@
       "RB"
     ],
     "sportsdata_player_id": "9ecda000-2ffe-11f0-9156-0d63b2ee880c",
-    "team_id": "FA",
+    "team_id": "BAL",
     "yahoo_id": "42531"
   },
   {
@@ -153544,7 +153544,7 @@
     "position_id": "LB",
     "positions": [
       "LB",
-      "DL,LB"
+      "DE,LB"
     ],
     "sportsdata_player_id": "8095554c-7eae-4e7c-9213-01f24ceb0185",
     "team_id": "NYG",
@@ -154366,7 +154366,7 @@
       "QB"
     ],
     "sportsdata_player_id": "4dde2140-42ab-11f1-910d-8569d31b1363",
-    "team_id": "FA",
+    "team_id": "HOU",
     "yahoo_id": "43146"
   },
   {
@@ -159371,7 +159371,7 @@
     "birthdate": "2001-12-31",
     "cbs_id": "29123025",
     "draft_class": 2026,
-    "espn_id": null,
+    "espn_id": "5151317",
     "filename": "https://www.fantasypros.com/nfl/players/robert-henry-jr.php",
     "first_name": "Robert",
     "last_name": "Henry",
@@ -163442,7 +163442,7 @@
       "DE,DT"
     ],
     "sportsdata_player_id": "e21f4620-4285-11f1-a668-95a7cb66ad0f",
-    "team_id": "WAS",
+    "team_id": "FA",
     "yahoo_id": "43100"
   },
   {
@@ -165776,7 +165776,7 @@
       "WR"
     ],
     "sportsdata_player_id": "f8030130-4b1c-11f1-be6b-7b75def7b553",
-    "team_id": "FA",
+    "team_id": "WAS",
     "yahoo_id": "43363"
   },
   {

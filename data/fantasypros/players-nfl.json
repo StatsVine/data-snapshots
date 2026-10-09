@@ -25710,7 +25710,7 @@
       "WR"
     ],
     "sportsdata_player_id": "20d16690-560b-4a01-af20-8870ef07ea70",
-    "team_id": "SF",
+    "team_id": "FA",
     "yahoo_id": "31014"
   },
   {
@@ -105741,7 +105741,7 @@
       "RB"
     ],
     "sportsdata_player_id": "7980dd2b-0ce0-4936-aaff-536c09608429",
-    "team_id": "WAS",
+    "team_id": "FA",
     "yahoo_id": "42809"
   },
   {
@@ -118343,7 +118343,7 @@
       "LB,DE"
     ],
     "sportsdata_player_id": "7b582d77-4357-48db-973c-3b92e57272cb",
-    "team_id": "FA",
+    "team_id": "NE",
     "yahoo_id": "40215"
   },
   {
@@ -119168,7 +119168,7 @@
       "RB"
     ],
     "sportsdata_player_id": "44b4cbf0-e8fe-11ed-bc6e-a5c4d3ccbdd1",
-    "team_id": "DAL",
+    "team_id": "FA",
     "yahoo_id": "40430"
   },
   {
@@ -130803,7 +130803,7 @@
       "DE,LB"
     ],
     "sportsdata_player_id": "eaa99000-04fe-11ef-8bc5-45a7fe95a203",
-    "team_id": "FA",
+    "team_id": "MIA",
     "yahoo_id": "41160"
   },
   {
@@ -148717,7 +148717,7 @@
       "RB"
     ],
     "sportsdata_player_id": "ddfc3ea0-2507-11f0-be8f-f5c6930b3c52",
-    "team_id": "FA",
+    "team_id": "CAR",
     "yahoo_id": "42235"
   },
   {
@@ -148897,7 +148897,7 @@
       "DT"
     ],
     "sportsdata_player_id": "b1927260-250e-11f0-9b43-3d8a3c00ab89",
-    "team_id": "MIA",
+    "team_id": "FA",
     "yahoo_id": "42250"
   },
   {
@@ -162985,7 +162985,7 @@
       "LB"
     ],
     "sportsdata_player_id": "e901eb60-4275-11f1-a5fe-9bb6c352afdb",
-    "team_id": "FA",
+    "team_id": "GB",
     "yahoo_id": "43049"
   },
   {
@@ -163442,7 +163442,7 @@
       "DE,DT"
     ],
     "sportsdata_player_id": "e21f4620-4285-11f1-a668-95a7cb66ad0f",
-    "team_id": "FA",
+    "team_id": "DET",
     "yahoo_id": "43100"
   },
   {
@@ -164452,7 +164452,7 @@
     "filename": "https://www.fantasypros.com/nfl/players/dontae-mcmillan.php",
     "first_name": "Dontae",
     "last_name": "McMillan",
-    "mfl_id": null,
+    "mfl_id": "17809",
     "nfl_id": null,
     "player_id": 28717,
     "player_name": "Dontae McMillan",

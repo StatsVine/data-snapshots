@@ -33668,7 +33668,7 @@
   {
     "id": 4314,
     "sport": "basketball",
-    "team": "HOU",
+    "team": "LAL",
     "value": "Rafael Castro"
   },
   {
@@ -34018,6 +34018,12 @@
     "sport": "basketball",
     "team": "UTH",
     "value": "Mohamed Wague"
+  },
+  {
+    "id": 4373,
+    "sport": "basketball",
+    "team": "TOR",
+    "value": "Tyson Degenhart"
   },
   {
     "id": 615,
@@ -52778,7 +52784,7 @@
   {
     "id": 22940,
     "sport": "football",
-    "team": "WAS",
+    "team": "MIA",
     "value": "Kaytron Allen"
   },
   {

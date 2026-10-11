@@ -18495,7 +18495,7 @@
       "LB,DE"
     ],
     "sportsdata_player_id": "99d79bb9-45aa-4c64-99aa-a92ba2c278af",
-    "team_id": "SF",
+    "team_id": "FA",
     "yahoo_id": "29380"
   },
   {
@@ -29607,7 +29607,7 @@
       "DE,LB"
     ],
     "sportsdata_player_id": "eacc232b-701d-4a67-9ce5-61b9b931fd42",
-    "team_id": "FA",
+    "team_id": "SF",
     "yahoo_id": "31130"
   },
   {
@@ -30469,7 +30469,7 @@
     "mfl_id": "13920",
     "nfl_id": "2561417",
     "player_id": 17763,
-    "player_name": "Charvarius Ward",
+    "player_name": "Charvarius Ward Sr.",
     "position_id": "CB",
     "positions": [
       "CB"
@@ -84710,12 +84710,12 @@
     "draft_class": 2021,
     "espn_id": "4035861",
     "filename": "https://www.fantasypros.com/nfl/players/camryn-bynum.php",
-    "first_name": "Cam",
+    "first_name": "Camryn",
     "last_name": "Bynum",
     "mfl_id": "15418",
     "nfl_id": "2566295",
     "player_id": 22757,
-    "player_name": "Cam Bynum",
+    "player_name": "Camryn Bynum",
     "position_id": "S",
     "positions": [
       "S"
@@ -89431,7 +89431,7 @@
       "WR"
     ],
     "sportsdata_player_id": "3173c5c0-cbb6-11ec-88c8-199e5defa0d2",
-    "team_id": "NO",
+    "team_id": "FA",
     "yahoo_id": "34242"
   },
   {
@@ -111435,12 +111435,12 @@
     "draft_class": 2022,
     "espn_id": "3929636",
     "filename": "https://www.fantasypros.com/nfl/players/irvin-charles.php",
-    "first_name": "Irv",
+    "first_name": "Irvin",
     "last_name": "Charles",
     "mfl_id": "15984",
     "nfl_id": "2568021",
     "player_id": 24904,
-    "player_name": "Irv Charles",
+    "player_name": "Irvin Charles",
     "position_id": "WR",
     "positions": [
       "WR"
@@ -117250,7 +117250,7 @@
       "CB"
     ],
     "sportsdata_player_id": "17093231-3e82-42fb-bec7-75160d097538",
-    "team_id": "JAC",
+    "team_id": "FA",
     "yahoo_id": "40208"
   },
   {
@@ -129895,7 +129895,7 @@
       "CB"
     ],
     "sportsdata_player_id": "9c6fe5a6-5553-4803-bc7a-93d095029a7d",
-    "team_id": "NO",
+    "team_id": "FA",
     "yahoo_id": "40979"
   },
   {
@@ -131711,7 +131711,7 @@
       "WR"
     ],
     "sportsdata_player_id": "e88c3c70-06fa-11ef-92ba-0de371d8ef1a",
-    "team_id": "HOU",
+    "team_id": "FA",
     "yahoo_id": "41251"
   },
   {
@@ -140482,7 +140482,7 @@
       "QB"
     ],
     "sportsdata_player_id": "4916c770-2501-11f0-aed8-c154e65d4269",
-    "team_id": "MIA",
+    "team_id": "FA",
     "yahoo_id": "42229"
   },
   {
@@ -141472,7 +141472,7 @@
       "LB"
     ],
     "sportsdata_player_id": "870b148e-5abc-4dcf-a70c-db0df4b4dd75",
-    "team_id": "JAC",
+    "team_id": "FA",
     "yahoo_id": "41901"
   },
   {
@@ -145121,7 +145121,7 @@
       "WR"
     ],
     "sportsdata_player_id": "d9981370-2502-11f0-8ac8-c31e8098aeb4",
-    "team_id": "NYJ",
+    "team_id": "FA",
     "yahoo_id": "42233"
   },
   {
@@ -154366,7 +154366,7 @@
       "QB"
     ],
     "sportsdata_player_id": "4dde2140-42ab-11f1-910d-8569d31b1363",
-    "team_id": "HOU",
+    "team_id": "FA",
     "yahoo_id": "43146"
   },
   {

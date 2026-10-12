@@ -29383,7 +29383,7 @@
       "WR"
     ],
     "sportsdata_player_id": "bdb77276-7191-4454-85c2-e1693a33d709",
-    "team_id": "FA",
+    "team_id": "KC",
     "yahoo_id": "31114"
   },
   {
@@ -89710,7 +89710,7 @@
       "WR"
     ],
     "sportsdata_player_id": "e8da21a8-796d-48a2-b644-57d08983ae01",
-    "team_id": "ARI",
+    "team_id": "HOU",
     "yahoo_id": "40893"
   },
   {
@@ -131711,7 +131711,7 @@
       "WR"
     ],
     "sportsdata_player_id": "e88c3c70-06fa-11ef-92ba-0de371d8ef1a",
-    "team_id": "FA",
+    "team_id": "HOU",
     "yahoo_id": "41251"
   },
   {
@@ -149828,11 +149828,11 @@
     "birthdate": "2001-12-19",
     "cbs_id": "3168403",
     "draft_class": 2025,
-    "espn_id": null,
+    "espn_id": "4688366",
     "filename": "https://www.fantasypros.com/nfl/players/elliott-davison.php",
     "first_name": "Elliott",
     "last_name": "Davison",
-    "mfl_id": null,
+    "mfl_id": "17812",
     "nfl_id": "2574396",
     "player_id": 27784,
     "player_name": "Elliott Davison",
@@ -153784,7 +153784,7 @@
     "positions": [
       "WR"
     ],
-    "sportsdata_player_id": "",
+    "sportsdata_player_id": "0b7b96b1-7733-4ceb-ac59-5ff7029df86c",
     "team_id": "MIA",
     "yahoo_id": "42768"
   },
@@ -154366,7 +154366,7 @@
       "QB"
     ],
     "sportsdata_player_id": "4dde2140-42ab-11f1-910d-8569d31b1363",
-    "team_id": "FA",
+    "team_id": "HOU",
     "yahoo_id": "43146"
   },
   {
@@ -165623,7 +165623,7 @@
     "birthdate": "2003-03-20",
     "cbs_id": "26746107",
     "draft_class": 2026,
-    "espn_id": null,
+    "espn_id": "4890885",
     "filename": "https://www.fantasypros.com/nfl/players/ayden-garnes.php",
     "first_name": "Ayden",
     "last_name": "Garnes",
@@ -166586,7 +166586,7 @@
     "birthdate": "2003-04-17",
     "cbs_id": "26701961",
     "draft_class": 2026,
-    "espn_id": null,
+    "espn_id": "4700756",
     "filename": "https://www.fantasypros.com/nfl/players/jaden-keller.php",
     "first_name": "Jaden",
     "last_name": "Keller",
@@ -168887,11 +168887,11 @@
     "birthdate": "2001-11-10",
     "cbs_id": "3163798",
     "draft_class": 2025,
-    "espn_id": null,
+    "espn_id": "4565769",
     "filename": "https://www.fantasypros.com/nfl/players/sean-fresch.php",
     "first_name": "Sean",
     "last_name": "Fresch",
-    "mfl_id": null,
+    "mfl_id": "17813",
     "nfl_id": null,
     "player_id": 29406,
     "player_name": "Sean Fresch Jr.",

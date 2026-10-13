@@ -18394,7 +18394,7 @@
       "LB"
     ],
     "sportsdata_player_id": "f6d7cf0f-72d2-473f-a44b-4a253587ca0f",
-    "team_id": "FA",
+    "team_id": "PIT",
     "yahoo_id": "29448"
   },
   {
@@ -22675,7 +22675,7 @@
       "DE,DT"
     ],
     "sportsdata_player_id": "887dc7b2-fb32-4126-be14-509b40424d34",
-    "team_id": "FA",
+    "team_id": "NYG",
     "yahoo_id": "30181"
   },
   {
@@ -24165,7 +24165,8 @@
     "player_name": "Kenny Moore II",
     "position_id": "CB",
     "positions": [
-      "CB"
+      "CB",
+      "CB,S"
     ],
     "sportsdata_player_id": "cbfb7144-357e-4feb-82d7-a6104fdbf908",
     "team_id": "PHI",
@@ -37406,7 +37407,7 @@
       "WR"
     ],
     "sportsdata_player_id": "93c17735-5275-45cf-b3ef-620351c62313",
-    "team_id": "NYJ",
+    "team_id": "FA",
     "yahoo_id": "32831"
   },
   {
@@ -39333,7 +39334,7 @@
       "LB"
     ],
     "sportsdata_player_id": "04d09b84-6c99-4d99-a1f0-c30d3360ab52",
-    "team_id": "LV",
+    "team_id": "JAC",
     "yahoo_id": "32666"
   },
   {
@@ -43387,7 +43388,8 @@
     "player_name": "James Lynch",
     "position_id": "DT",
     "positions": [
-      "DT"
+      "DT",
+      "DE,DT"
     ],
     "sportsdata_player_id": "ce8b21f7-6f93-40e6-8068-0432e10d855f",
     "team_id": "CHI",
@@ -47497,7 +47499,7 @@
       "DE,LB"
     ],
     "sportsdata_player_id": "9e9d2934-a273-4e39-a413-d991d083297b",
-    "team_id": "BUF",
+    "team_id": "FA",
     "yahoo_id": "32847"
   },
   {
@@ -48688,7 +48690,7 @@
       "LB,DE"
     ],
     "sportsdata_player_id": "112b95ea-d080-4aa7-bedc-5755c6c6b80c",
-    "team_id": "CAR",
+    "team_id": "FA",
     "yahoo_id": "33272"
   },
   {
@@ -85911,7 +85913,7 @@
       "CB"
     ],
     "sportsdata_player_id": "170d9d12-0595-4636-9b42-822ff93a6d94",
-    "team_id": "FA",
+    "team_id": "CAR",
     "yahoo_id": "33518"
   },
   {
@@ -89531,7 +89533,7 @@
       "RB"
     ],
     "sportsdata_player_id": "3b86dd7c-0b21-448d-a662-5675e87fd0da",
-    "team_id": "MIN",
+    "team_id": "CLE",
     "yahoo_id": "41019"
   },
   {
@@ -97322,7 +97324,7 @@
       "RB"
     ],
     "sportsdata_player_id": "4ef874c1-50c3-4120-9199-0d5a4ae7c6dd",
-    "team_id": "FA",
+    "team_id": "WAS",
     "yahoo_id": "41972"
   },
   {
@@ -105241,7 +105243,7 @@
       "RB"
     ],
     "sportsdata_player_id": "e71d4c32-3233-467f-ab01-71de34e5d9b4",
-    "team_id": "MIA",
+    "team_id": "FA",
     "yahoo_id": "41919"
   },
   {
@@ -106334,7 +106336,7 @@
     "position_id": "DT",
     "positions": [
       "DT",
-      "DE"
+      "DE,DT"
     ],
     "sportsdata_player_id": "5c1f81ec-ddb5-4a75-9451-a2933ed5055d",
     "team_id": "IND",
@@ -117168,7 +117170,7 @@
       "WR"
     ],
     "sportsdata_player_id": "28c09980-e6ea-11ed-8605-b736dbb934f2",
-    "team_id": "HOU",
+    "team_id": "FA",
     "yahoo_id": "40288"
   },
   {
@@ -126269,7 +126271,7 @@
       "WR"
     ],
     "sportsdata_player_id": "1472d4aa-ffbf-4683-aa91-86bc4795b34e",
-    "team_id": "FA",
+    "team_id": "LV",
     "yahoo_id": "41016"
   },
   {
@@ -134089,7 +134091,7 @@
       "DE"
     ],
     "sportsdata_player_id": "b457e110-07c3-11ef-ab6b-fdfec21b4cc0",
-    "team_id": "CAR",
+    "team_id": "FA",
     "yahoo_id": "41448"
   },
   {
@@ -140482,7 +140484,7 @@
       "QB"
     ],
     "sportsdata_player_id": "4916c770-2501-11f0-aed8-c154e65d4269",
-    "team_id": "FA",
+    "team_id": "MIA",
     "yahoo_id": "42229"
   },
   {
@@ -140945,7 +140947,8 @@
     "player_name": "Jonas Sanker",
     "position_id": "S",
     "positions": [
-      "S"
+      "S",
+      "CB,S"
     ],
     "sportsdata_player_id": "910ab530-d255-47be-b041-135ee92b1abf",
     "team_id": "NO",
@@ -141472,7 +141475,7 @@
       "LB"
     ],
     "sportsdata_player_id": "870b148e-5abc-4dcf-a70c-db0df4b4dd75",
-    "team_id": "FA",
+    "team_id": "CIN",
     "yahoo_id": "41901"
   },
   {
@@ -145121,7 +145124,7 @@
       "WR"
     ],
     "sportsdata_player_id": "d9981370-2502-11f0-8ac8-c31e8098aeb4",
-    "team_id": "FA",
+    "team_id": "NYJ",
     "yahoo_id": "42233"
   },
   {
@@ -148897,7 +148900,7 @@
       "DT"
     ],
     "sportsdata_player_id": "b1927260-250e-11f0-9b43-3d8a3c00ab89",
-    "team_id": "FA",
+    "team_id": "CAR",
     "yahoo_id": "42250"
   },
   {
@@ -160543,7 +160546,8 @@
     "player_name": "Keith Abney II",
     "position_id": "CB",
     "positions": [
-      "CB"
+      "CB",
+      "CB,S"
     ],
     "sportsdata_player_id": "74fd65a1-51ac-42b0-9b8e-42d986d6f8ad",
     "team_id": "DET",
@@ -163912,7 +163916,7 @@
     "filename": "https://www.fantasypros.com/nfl/players/malik-mcclain.php",
     "first_name": "Malik",
     "last_name": "McClain",
-    "mfl_id": null,
+    "mfl_id": "17811",
     "nfl_id": null,
     "player_id": 28686,
     "player_name": "Malik McClain",

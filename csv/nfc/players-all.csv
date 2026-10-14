@@ -5379,7 +5379,7 @@ id,sport,value,team
 4079,basketball,Jesse Edwards,MIN
 4080,basketball,Jack McVeigh,HOU
 4081,basketball,Spencer Jones,DEN
-4082,basketball,Jamarion Sharp,LAC
+4082,basketball,Jamarion Sharp,TOR
 4083,basketball,Trentyn Flowers,CHI
 4084,basketball,Yongxi Cui,BKN
 4085,basketball,Tristan Enaruna,CLE
@@ -5673,6 +5673,11 @@ id,sport,value,team
 4374,basketball,Jaxson Robinson,CLE
 4375,basketball,Noam Yaacov,CLE
 4376,basketball,Jalon Moore,NO
+4377,basketball,Zach Cleveland,MEM
+4378,basketball,Jorge Diaz Graham,DAL
+4379,basketball,Viktor Lakhin,SAC
+4380,basketball,Aaron Nkrumah,SAC
+4381,basketball,Damari Monsanto,SAC
 615,football,Kent Shelby,LAC
 1038,football,Leon Johnson,LAC
 1533,football,Chase Cota,HOU
@@ -7063,7 +7068,7 @@ id,sport,value,team
 17442,football,Chandler Cox,MIA
 17445,football,Davion Davis,WAS
 17447,football,Brandon Dillon,WAS
-17450,football,Jake Browning,TB
+17450,football,Jake Browning,LAC
 17452,football,Alexander Hollins,CLE
 17456,football,Bisi Johnson,MIN
 17461,football,Khari Blasingame,PHI
@@ -8028,7 +8033,7 @@ id,sport,value,team
 20527,football,Sean Clifford,CIN
 20529,football,Anders Carlson,NYJ
 20530,football,Lew Nichols,PIT
-20535,football,Jared Wayne,HOU
+20535,football,Jared Wayne,MIA
 20557,football,Davis Allen,LA
 20566,football,Scott Matlock,LAC
 20567,football,Max Duggan,LAC
@@ -8039,7 +8044,7 @@ id,sport,value,team
 20620,football,Robert Burns,ATL
 20623,football,Adrian Martinez,SF
 20628,football,Malik Cunningham,DET
-20629,football,Blake Grupe,NYJ
+20629,football,Blake Grupe,LA
 20630,football,Thayer Thomas,DEN
 20634,football,Jack Podlesny,GB
 20637,football,Malik Knowles,SF
@@ -8216,7 +8221,7 @@ id,sport,value,team
 21131,football,Brian Thomas Jr.,JAX
 21132,football,Braelon Allen,NYJ
 21133,football,Jonathon Brooks,CAR
-21134,football,Audric Estime,MIN
+21134,football,Audric Estime,CLE
 21135,football,Trey Benson,ARZ
 21136,football,Bucky Irving,TB
 21137,football,Xavier Legette,CAR
@@ -8291,7 +8296,7 @@ id,sport,value,team
 21413,football,Spencer Rattler,NO
 21414,football,Bub Means,CLE
 21419,football,Jordan Travis,NYJ
-21434,football,Devin Culp,TB
+21434,football,Devin Culp,CLE
 21442,football,Luke Benson,LAC
 21443,football,Zach Heins,LAC
 21444,football,Casey Bauman,LAC
@@ -8538,7 +8543,7 @@ id,sport,value,team
 22101,football,Oronde Gadsden,LAC
 22102,football,Tristan Michaud,FA
 22103,football,Xavier Restrepo,TEN
-22104,football,Devin Neal,MIN
+22104,football,Devin Neal,WAS
 22105,football,Ajou Ajou,IND
 22106,football,Bhayshul Tuten,JAX
 22107,football,Jalen Royals,KC

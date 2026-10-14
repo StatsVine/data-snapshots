@@ -32282,7 +32282,7 @@
   {
     "id": 4082,
     "sport": "basketball",
-    "team": "LAC",
+    "team": "TOR",
     "value": "Jamarion Sharp"
   },
   {
@@ -34042,6 +34042,36 @@
     "sport": "basketball",
     "team": "NO",
     "value": "Jalon Moore"
+  },
+  {
+    "id": 4377,
+    "sport": "basketball",
+    "team": "MEM",
+    "value": "Zach Cleveland"
+  },
+  {
+    "id": 4378,
+    "sport": "basketball",
+    "team": "DAL",
+    "value": "Jorge Diaz Graham"
+  },
+  {
+    "id": 4379,
+    "sport": "basketball",
+    "team": "SAC",
+    "value": "Viktor Lakhin"
+  },
+  {
+    "id": 4380,
+    "sport": "basketball",
+    "team": "SAC",
+    "value": "Aaron Nkrumah"
+  },
+  {
+    "id": 4381,
+    "sport": "basketball",
+    "team": "SAC",
+    "value": "Damari Monsanto"
   },
   {
     "id": 615,
@@ -42386,7 +42416,7 @@
   {
     "id": 17450,
     "sport": "football",
-    "team": "TB",
+    "team": "LAC",
     "value": "Jake Browning"
   },
   {
@@ -48176,7 +48206,7 @@
   {
     "id": 20535,
     "sport": "football",
-    "team": "HOU",
+    "team": "MIA",
     "value": "Jared Wayne"
   },
   {
@@ -48242,7 +48272,7 @@
   {
     "id": 20629,
     "sport": "football",
-    "team": "NYJ",
+    "team": "LA",
     "value": "Blake Grupe"
   },
   {
@@ -49304,7 +49334,7 @@
   {
     "id": 21134,
     "sport": "football",
-    "team": "MIN",
+    "team": "CLE",
     "value": "Audric Estime"
   },
   {
@@ -49754,7 +49784,7 @@
   {
     "id": 21434,
     "sport": "football",
-    "team": "TB",
+    "team": "CLE",
     "value": "Devin Culp"
   },
   {
@@ -51236,7 +51266,7 @@
   {
     "id": 22104,
     "sport": "football",
-    "team": "MIN",
+    "team": "WAS",
     "value": "Devin Neal"
   },
   {

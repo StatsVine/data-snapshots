@@ -21864,6 +21864,30 @@
     "value": "Patrick Clohisy"
   },
   {
+    "id": 12798,
+    "sport": "baseball",
+    "team": "FA",
+    "value": "Raidel Martinez"
+  },
+  {
+    "id": 12799,
+    "sport": "baseball",
+    "team": "BAL",
+    "value": "Joseph Dzierwa"
+  },
+  {
+    "id": 12800,
+    "sport": "baseball",
+    "team": "HOU",
+    "value": "Jason Schiavone"
+  },
+  {
+    "id": 12801,
+    "sport": "baseball",
+    "team": "NYY",
+    "value": "Henry Lalane"
+  },
+  {
     "id": 1015,
     "sport": "basketball",
     "team": "HOU",
@@ -46082,7 +46106,7 @@
   {
     "id": 19443,
     "sport": "football",
-    "team": "MIN",
+    "team": "ARZ",
     "value": "Jerome Ford"
   },
   {
@@ -48710,7 +48734,7 @@
   {
     "id": 20818,
     "sport": "football",
-    "team": "BAL",
+    "team": "ARZ",
     "value": "Shedrick Jackson"
   },
   {
@@ -51386,7 +51410,7 @@
   {
     "id": 22124,
     "sport": "football",
-    "team": "MIA",
+    "team": "NO",
     "value": "Jarquez Hunter"
   },
   {

@@ -3643,6 +3643,10 @@ id,sport,value,team
 12795,baseball,Daniel Eagen,STL
 12796,baseball,Demetrio Crisantes,ARZ
 12797,baseball,Patrick Clohisy,ATL
+12798,baseball,Raidel Martinez,FA
+12799,baseball,Joseph Dzierwa,BAL
+12800,baseball,Jason Schiavone,HOU
+12801,baseball,Henry Lalane,NYY
 1015,basketball,Tyson Chandler,HOU
 1023,basketball,Joe Johnson,BOS
 1091,basketball,Mike James,BKN
@@ -7679,7 +7683,7 @@ id,sport,value,team
 19440,football,David Bell,CLE
 19441,football,Tyler Allgeier,ARZ
 19442,football,Kenny Pickett,CAR
-19443,football,Jerome Ford,MIN
+19443,football,Jerome Ford,ARZ
 19444,football,Matt Corral,MIN
 19445,football,Christian Watson,GB
 19446,football,Keaontay Ingram,KC
@@ -8117,7 +8121,7 @@ id,sport,value,team
 20814,football,Tyson Bagent,CHI
 20815,football,Aron Cruickshank,PIT
 20817,football,Mac Hippenhammer,CIN
-20818,football,Shedrick Jackson,BAL
+20818,football,Shedrick Jackson,ARZ
 20825,football,Hassan Hall,ARZ
 20828,football,Johnny King,PHI
 20829,football,Zavier Scott,CHI
@@ -8563,7 +8567,7 @@ id,sport,value,team
 22121,football,Elijah Arroyo,SEA
 22122,football,Ja'Corey Brooks,WAS
 22123,football,Gunnar Helm,TEN
-22124,football,Jarquez Hunter,MIA
+22124,football,Jarquez Hunter,NO
 22126,football,Dont'e Thornton Jr.,LV
 22127,football,Luke Lachey,GB
 22128,football,Kyle Williams,NE

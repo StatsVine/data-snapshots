@@ -3647,6 +3647,10 @@ id,sport,value,team
 12799,baseball,Joseph Dzierwa,BAL
 12800,baseball,Jason Schiavone,HOU
 12801,baseball,Henry Lalane,NYY
+12802,baseball,Luke Adams,MLW
+12803,baseball,Cam Caminiti,ATL
+12804,baseball,Bryan Rincon,PHI
+12805,baseball,Nolan Perry,TOR
 1015,basketball,Tyson Chandler,HOU
 1023,basketball,Joe Johnson,BOS
 1091,basketball,Mike James,BKN
@@ -6183,7 +6187,7 @@ id,sport,value,team
 14062,football,John Crockett,BAL
 14070,football,Larry Pinkard,CLE
 14081,football,Wes Saxton,WAS
-14087,football,DeAndre Carter,CLE
+14087,football,DeAndre Carter,DET
 14093,football,Terrence Magee,ATL
 14104,football,Gabe Holmes,TEN
 14114,football,Jake Kumerow,BUF
@@ -8354,7 +8358,7 @@ id,sport,value,team
 21609,football,Harrison Mevis,LA
 21612,football,Devin Carter,CAR
 21615,football,OJ Hiliare,ATL
-21618,football,Ian Wheeler,BUF
+21618,football,Ian Wheeler,PHI
 21621,football,TD Ayo-Durojaiye,KC
 21632,football,D.J. Williams,TB
 21634,football,Kameron Johnson,TB

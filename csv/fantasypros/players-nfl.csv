@@ -1923,7 +1923,7 @@ player_id,player_name,first_name,last_name,position_id,positions,team_id,birthda
 18703,Quinton Bell,Quinton,Bell,WR,"[""WR"",""LB,DE""]",NYJ,1996-05-09,2019,c8d98dc8-ca11-40bc-bd72-7e2f4bd2ba3b,3933407,32062,3116653,2562908,14310,https://www.fantasypros.com/nfl/players/quinton-bell.php
 18704,Donovan Wilson,Donovan,Wilson,S,"[""S""]",FA,1995-02-21,2019,2e9ef3ac-eca5-4eb9-a41d-f404dfaae460,3122135,32045,2139883,2562604,14283,https://www.fantasypros.com/nfl/players/donovan--wilson.php
 18705,Tony Pollard,Tony,Pollard,RB,"[""RB""]",TEN,1997-04-30,2019,33b0227d-4c21-4e71-b4cd-be35f7db9123,3916148,31960,2184011,2562699,14085,https://www.fantasypros.com/nfl/players/tony-pollard.php
-18706,Darius Slayton,Darius,Slayton,WR,"[""WR""]",IND,1997-01-12,2019,82ed30a5-54a8-4ed0-b040-99c3a78fb055,3916945,32003,2183982,2562736,14122,https://www.fantasypros.com/nfl/players/darius-slayton.php
+18706,Darius Slayton,Darius,Slayton,WR,"[""WR""]",FA,1997-01-12,2019,82ed30a5-54a8-4ed0-b040-99c3a78fb055,3916945,32003,2183982,2562736,14122,https://www.fantasypros.com/nfl/players/darius-slayton.php
 18708,Jimmy Moreland,Jimmy,Moreland,CB,"[""CB""]",FA,1995-08-26,2019,4bbe8ab7-3ae2-42a6-a471-fd2b344843a2,3120508,32059,2137635,2562858,14293,https://www.fantasypros.com/nfl/players/jimmy-moreland.php
 18709,Cole Holcomb,Cole,Holcomb,LB,"[""LB""]",PIT,1996-07-30,2019,c727b9d9-9776-415d-953c-9ae046e10a05,3116689,32005,3116561,2562872,14260,https://www.fantasypros.com/nfl/players/cole-holcomb.php
 18710,Duke Shelley,Duke,Shelley,CB,"[""CB""]",FA,1996-10-08,2019,a7450b47-b784-490b-8edd-b5502f16366f,3916126,32037,3116651,2562957,14278,https://www.fantasypros.com/nfl/players/duke-shelley.php
@@ -6222,7 +6222,7 @@ player_id,player_name,first_name,last_name,position_id,positions,team_id,birthda
 25964,Matthew Trickett,Matthew,Trickett,K,"[""K""]",FA,1999-09-23,,a5ab0670-0c50-11ee-8b11-71577db53722,,40817,2961405,2571749,,https://www.fantasypros.com/nfl/players/matthew-trickett.php
 25965,Nico Iamaleava,Nico,Iamaleava,QB,"[""QB""]",FA,2004-09-02,2027,,,,,,,https://www.fantasypros.com/nfl/players/nico-iamaleava.php
 25966,Jackson Arnold,Jackson,Arnold,QB,"[""QB""]",FA,,2028,,,,,,,https://www.fantasypros.com/nfl/players/jackson-arnold.php
-25967,Joe Milton III,Joe,Milton,QB,"[""QB""]",DAL,2000-03-06,2024,74043480-24ef-4c26-99d4-18f43d5b41d3,4360698,41060,2962193,2572297,16585,https://www.fantasypros.com/nfl/players/joe-milton.php
+25967,Joe Milton III,Joe,Milton,QB,"[""QB""]",PHI,2000-03-06,2024,74043480-24ef-4c26-99d4-18f43d5b41d3,4360698,41060,2962193,2572297,16585,https://www.fantasypros.com/nfl/players/joe-milton.php
 25968,Shedeur Sanders,Shedeur,Sanders,QB,"[""QB""]",CLE,2002-02-07,2025,270e09bc-8bf8-44b0-87ed-1fd014de4ab7,4432762,41930,26710004,2574063,17031,https://www.fantasypros.com/nfl/players/shedeur-sanders.php
 25969,Aidan Chiles,Aidan,Chiles,QB,"[""QB""]",FA,,2027,,,,,,,https://www.fantasypros.com/nfl/players/aidan-chiles.php
 25970,Jaden Rashada,Jaden,Rashada,QB,"[""QB""]",FA,,2026,,,,,,,https://www.fantasypros.com/nfl/players/jaden-rashada.php
@@ -6798,7 +6798,7 @@ player_id,player_name,first_name,last_name,position_id,positions,team_id,birthda
 26767,Justin Blazek,Justin,Blazek,DT,"[""DT"",""DE""]",FA,2001-02-27,2024,80d5d940-07dd-11ef-94b8-4d3108411d1d,,41513,,2572980,,https://www.fantasypros.com/nfl/players/justin-blazek.php
 26769,Wayne Ruby,Wayne,Ruby,WR,"[""WR""]",FA,2000-06-18,,8890d190-07d7-11ef-9d7c-bdefe4427560,,,,2573707,,https://www.fantasypros.com/nfl/players/wayne-ruby.php
 26772,Brevin Easton,Brevin,Easton,WR,"[""WR""]",FA,2001-01-01,2024,ab3d68b0-07dd-11ef-86db-2329a5757e98,,41511,28887494,2573692,,https://www.fantasypros.com/nfl/players/brevin-easton.php
-26773,Jayden Price,Jayden,Price,CB,"[""CB""]",FA,2000-04-05,2024,c2a7bab0-07d7-11ef-a87e-69d93f2e268b,4383391,41504,2969445,2572884,17780,https://www.fantasypros.com/nfl/players/jayden-price.php
+26773,Jayden Price,Jayden,Price,CB,"[""CB""]",NO,2000-04-05,2024,c2a7bab0-07d7-11ef-a87e-69d93f2e268b,4383391,41504,2969445,2572884,17780,https://www.fantasypros.com/nfl/players/jayden-price.php
 26774,Mario Kendricks,Mario,Kendricks,DT,"[""DT""]",FA,2000-10-18,2024,ca43ca40-07da-11ef-91f6-1b6e7636c8a2,,41496,3126582,2573849,,https://www.fantasypros.com/nfl/players/mario-kendricks.php
 26775,Bryce Houston,Bryce,Houston,LB,"[""LB""]",FA,,2024,ccad1e90-07d9-11ef-9b80-07b06b524aef,,,,,,https://www.fantasypros.com/nfl/players/bryce-houston.php
 26776,Chris Roland-Wallace,Chris,Roland-Wallace,CB,"[""CB"",""CB,S""]",KC,2001-11-23,2024,cfd2da80-07d7-11ef-9eb8-d3c1d804b4f8,4428383,41498,3123411,2572844,16907,https://www.fantasypros.com/nfl/players/christian-roland-wallace.php

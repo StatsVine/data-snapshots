@@ -3651,6 +3651,7 @@ id,sport,value,team
 12803,baseball,Cam Caminiti,ATL
 12804,baseball,Bryan Rincon,PHI
 12805,baseball,Nolan Perry,TOR
+12806,baseball,Caden Hunter,BAL
 1015,basketball,Tyson Chandler,HOU
 1023,basketball,Joe Johnson,BOS
 1091,basketball,Mike James,BKN
@@ -5686,6 +5687,12 @@ id,sport,value,team
 4379,basketball,Viktor Lakhin,SAC
 4380,basketball,Aaron Nkrumah,SAC
 4381,basketball,Damari Monsanto,SAC
+4382,basketball,Bryce Harris,HOU
+4383,basketball,Taye Fields,PHI
+4384,basketball,Cris Carroll,PHI
+4385,basketball,Latrell Wrightsell Jr.,CHA
+4386,basketball,Aniwaniwa Tait-Jones,LAL
+4387,basketball,Jalen Celestine,TOR
 615,football,Kent Shelby,LAC
 1038,football,Leon Johnson,LAC
 1533,football,Chase Cota,HOU
@@ -8300,7 +8307,7 @@ id,sport,value,team
 21389,football,Jordan Whittington,LA
 21398,football,Tahj Washington,PHI
 21404,football,Will Reichard,MIN
-21408,football,Joe Milton III,DAL
+21408,football,Joe Milton III,PHI
 21413,football,Spencer Rattler,NO
 21414,football,Bub Means,CLE
 21419,football,Jordan Travis,NYJ

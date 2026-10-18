@@ -23019,7 +23019,7 @@
       "S"
     ],
     "sportsdata_player_id": "cd09c042-0bfc-4866-8d3f-a14ef4c3d7fc",
-    "team_id": "CHI",
+    "team_id": "FA",
     "yahoo_id": "30304"
   },
   {
@@ -28555,7 +28555,7 @@
       "WR"
     ],
     "sportsdata_player_id": "e7f0a505-8060-403e-a3b3-9d4e88dda1dc",
-    "team_id": "LAC",
+    "team_id": "FA",
     "yahoo_id": "31144"
   },
   {
@@ -98580,7 +98580,7 @@
       "RB"
     ],
     "sportsdata_player_id": "f3a50b5d-0197-4ae8-b5a5-bb54484b8941",
-    "team_id": "NE",
+    "team_id": "FA",
     "yahoo_id": "34087"
   },
   {
@@ -109260,7 +109260,7 @@
       "S"
     ],
     "sportsdata_player_id": "406b6c6f-0172-482e-9ade-f38f5abb95f0",
-    "team_id": "FA",
+    "team_id": "ATL",
     "yahoo_id": "40176"
   },
   {
@@ -117273,7 +117273,7 @@
       "S,CB"
     ],
     "sportsdata_player_id": "308b4b49-5159-48c1-8da6-5d559a3efedd",
-    "team_id": "TEN",
+    "team_id": "FA",
     "yahoo_id": "40210"
   },
   {
@@ -133156,7 +133156,7 @@
     "filename": "https://www.fantasypros.com/nfl/players/jimmy-ciarlo.php",
     "first_name": "Jimmy",
     "last_name": "Ciarlo",
-    "mfl_id": null,
+    "mfl_id": "17815",
     "nfl_id": "2572684",
     "player_id": 26672,
     "player_name": "Jimmy Ciarlo",
@@ -156698,7 +156698,7 @@
       "CB"
     ],
     "sportsdata_player_id": "f821aa10-4287-11f1-a2f4-3700b34f1000",
-    "team_id": "HOU",
+    "team_id": "FA",
     "yahoo_id": "43101"
   },
   {
@@ -156799,7 +156799,7 @@
       "LB"
     ],
     "sportsdata_player_id": "66e1bdf2-d656-45dd-9107-fbbf80d89b93",
-    "team_id": "HOU",
+    "team_id": "FA",
     "yahoo_id": "42865"
   },
   {

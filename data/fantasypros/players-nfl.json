@@ -2104,7 +2104,7 @@
       "QB"
     ],
     "sportsdata_player_id": "d2a0e5af-3850-4f16-8e40-a0b1d15c2ce1",
-    "team_id": "FA",
+    "team_id": "ATL",
     "yahoo_id": "24822"
   },
   {
@@ -21850,7 +21850,7 @@
       "QB"
     ],
     "sportsdata_player_id": "4595c8ea-9d85-4504-8a34-2c8a02349105",
-    "team_id": "ATL",
+    "team_id": "FA",
     "yahoo_id": "30788"
   },
   {
@@ -107498,7 +107498,7 @@
     "birthdate": "1998-04-08",
     "cbs_id": "2221997",
     "draft_class": 2022,
-    "espn_id": null,
+    "espn_id": "4879561",
     "filename": "https://www.fantasypros.com/nfl/players/skyler-thomas.php",
     "first_name": "Skyler",
     "last_name": "Thomas",
@@ -128902,7 +128902,7 @@
     "birthdate": "2000-10-31",
     "cbs_id": "28926946",
     "draft_class": 2025,
-    "espn_id": null,
+    "espn_id": "5093923",
     "filename": "https://www.fantasypros.com/nfl/players/andrew-armstrong.php",
     "first_name": "Andrew",
     "last_name": "Armstrong",
@@ -132487,7 +132487,7 @@
     "birthdate": "2000-06-14",
     "cbs_id": "2962602",
     "draft_class": 2024,
-    "espn_id": null,
+    "espn_id": "4372463",
     "filename": "https://www.fantasypros.com/nfl/players/jamree-kromah.php",
     "first_name": "Jamree",
     "last_name": "Kromah",
@@ -132497,7 +132497,8 @@
     "player_name": "Jamree Kromah",
     "position_id": "DT",
     "positions": [
-      "DT"
+      "DT",
+      "DE,DT"
     ],
     "sportsdata_player_id": "4223ab40-071b-11ef-8947-5105bc3b519d",
     "team_id": "CHI",
@@ -133935,7 +133936,7 @@
     "birthdate": "2002-07-06",
     "cbs_id": "3123122",
     "draft_class": 2024,
-    "espn_id": null,
+    "espn_id": "4574142",
     "filename": "https://www.fantasypros.com/nfl/players/nate-lynn.php",
     "first_name": "Nate",
     "last_name": "Lynn",
@@ -133946,7 +133947,7 @@
     "position_id": "DT",
     "positions": [
       "DT",
-      "DE,LB"
+      "DE,DT,LB"
     ],
     "sportsdata_player_id": "3070c6e0-07bf-11ef-8bb9-7f20e273da10",
     "team_id": "NYJ",
@@ -134937,7 +134938,7 @@
     "birthdate": "2000-05-16",
     "cbs_id": "2962851",
     "draft_class": 2024,
-    "espn_id": null,
+    "espn_id": "4366910",
     "filename": "https://www.fantasypros.com/nfl/players/shawn-bowman.php",
     "first_name": "Shawn",
     "last_name": "Bowman",
@@ -145552,7 +145553,7 @@
     "birthdate": "2001-09-17",
     "cbs_id": "3128661",
     "draft_class": 2025,
-    "espn_id": null,
+    "espn_id": "4574105",
     "filename": "https://www.fantasypros.com/nfl/players/isas-waxter.php",
     "first_name": "Isas",
     "last_name": "Waxter",

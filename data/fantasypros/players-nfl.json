@@ -22090,7 +22090,7 @@
       "CB"
     ],
     "sportsdata_player_id": "13de701c-c77c-4eb5-b54c-8881ca5e0871",
-    "team_id": "FA",
+    "team_id": "BUF",
     "yahoo_id": "30140"
   },
   {
@@ -41494,7 +41494,7 @@
       "TE"
     ],
     "sportsdata_player_id": "002adaa8-5dc2-4b4b-95bc-53a38dce3849",
-    "team_id": "LV",
+    "team_id": "FA",
     "yahoo_id": "32442"
   },
   {
@@ -45925,7 +45925,7 @@
       "TE"
     ],
     "sportsdata_player_id": "7874d188-0fcd-4af9-9289-27c27e2bbd16",
-    "team_id": "FA",
+    "team_id": "SEA",
     "yahoo_id": "32764"
   },
   {
@@ -101707,7 +101707,7 @@
       "K"
     ],
     "sportsdata_player_id": "e7a7eaea-0f77-42ab-b6a2-12ebcf51227c",
-    "team_id": "FA",
+    "team_id": "BAL",
     "yahoo_id": "40129"
   },
   {
@@ -113548,7 +113548,7 @@
       "DT"
     ],
     "sportsdata_player_id": "8f71baa6-45f2-4b27-8d26-508290a50604",
-    "team_id": "FA",
+    "team_id": "GB",
     "yahoo_id": "40044"
   },
   {
@@ -118889,7 +118889,7 @@
       "CB"
     ],
     "sportsdata_player_id": "0cebc0e0-e8f2-11ed-9f33-c9e34717cc92",
-    "team_id": "NE",
+    "team_id": "FA",
     "yahoo_id": "40404"
   },
   {
@@ -121701,7 +121701,7 @@
       "WR"
     ],
     "sportsdata_player_id": "edb7de00-f1b8-11ed-9bf1-7fd77a26dc1f",
-    "team_id": "FA",
+    "team_id": "NE",
     "yahoo_id": "40676"
   },
   {
@@ -149001,7 +149001,7 @@
       "LB"
     ],
     "sportsdata_player_id": "e3978d70-2510-11f0-9ef9-9de47983adfa",
-    "team_id": "WAS",
+    "team_id": "FA",
     "yahoo_id": "42256"
   },
   {
@@ -162687,12 +162687,12 @@
     "nfl_id": null,
     "player_id": 28606,
     "player_name": "KC Eziomume",
-    "position_id": "DB",
+    "position_id": "CB",
     "positions": [
-      "DB"
+      "CB"
     ],
     "sportsdata_player_id": "9ad06690-4272-11f1-add8-17ea7670a463",
-    "team_id": "FA",
+    "team_id": "CHI",
     "yahoo_id": null
   },
   {
@@ -164466,7 +164466,7 @@
       "RB"
     ],
     "sportsdata_player_id": "e908cf50-431c-11f1-a29d-11fb11746e9d",
-    "team_id": "SEA",
+    "team_id": "FA",
     "yahoo_id": "43182"
   },
   {
@@ -165440,7 +165440,7 @@
       "RB"
     ],
     "sportsdata_player_id": "6fa66440-4af3-11f1-903f-ff784d664cf3",
-    "team_id": "FA",
+    "team_id": "SEA",
     "yahoo_id": "43331"
   },
   {
@@ -167405,7 +167405,7 @@
       "WR"
     ],
     "sportsdata_player_id": "dab522e0-637a-11f1-b3ac-1141f054753e",
-    "team_id": "SEA",
+    "team_id": "FA",
     "yahoo_id": "43460"
   },
   {

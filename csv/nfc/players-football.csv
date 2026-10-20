@@ -154,7 +154,7 @@ id,value,team
 9966,Julio Jones,PHI
 9970,Blaine Gabbert,KC
 9987,Mark Ingram,NO
-9994,Andy Dalton,PHI
+9994,Andy Dalton,ATL
 10000,Colin Kaepernick,SF
 10006,Kyle Rudolph,TB
 10009,Lance Kendricks,LAC
@@ -1595,7 +1595,7 @@ id,value,team
 18040,Jacques Patrick,NYJ
 18041,James Robinson,NO
 18042,Ramiz Ahmed,WAS
-18104,Josiah Deguara,PHI
+18104,Josiah Deguara,SEA
 18128,Dalton Keene,HOU
 18158,Tyler Bass,BUF
 18169,Darnell Mooney,NYG
@@ -2025,7 +2025,7 @@ id,value,team
 19465,Skyy Moore,GB
 19466,Kennedy Brooks,PHI
 19467,James Cook III,BUF
-19468,Brian Robinson,ATL
+19468,Brian Robinson Jr.,ATL
 19469,Zach Charbonnet,SEA
 19470,Jerrion Ealy,KC
 19471,Ty Chandler,NO
@@ -2483,7 +2483,7 @@ id,value,team
 20986,Tanner Taula,TB
 20987,Taye Barber,TB
 20992,Kade Warner,TB
-20996,Ryan Miller,MIA
+20996,Ryan Miller,NE
 20997,Isaiah Bowser,BUF
 21001,Emanuel Wilson,SEA
 21004,Dallas Daniels,DEN
@@ -2613,7 +2613,7 @@ id,value,team
 21389,Jordan Whittington,LA
 21398,Tahj Washington,PHI
 21404,Will Reichard,MIN
-21408,Joe Milton III,PHI
+21408,Joe Milton,PHI
 21413,Spencer Rattler,NO
 21414,Bub Means,CLE
 21419,Jordan Travis,NYJ
@@ -3344,7 +3344,7 @@ id,value,team
 23608,Sahmir Hagans,IND
 23609,Jordon Vaughn,IND
 23610,E.J. Horton,IND
-23612,Jackson Acker,BUF
+23612,Jackson Acker,SEA
 23614,Gabriel Benyard,CAR
 23616,Omari Kelly,CHI
 23618,Squirrel White,CHI

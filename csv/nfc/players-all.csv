@@ -5208,7 +5208,7 @@ id,sport,value,team
 3892,basketball,Caleb Daniels,MIA
 3893,basketball,Omari Moore,TOR
 3894,basketball,Mike Miles,DAL
-3895,basketball,Drew Timme,MIN
+3895,basketball,Drew Timme,PHO
 3896,basketball,Malcolm Cazalon,DET
 3897,basketball,Craig Porter Jr.,CLE
 3898,basketball,D'Moi Hodge,LAL
@@ -5848,7 +5848,7 @@ id,sport,value,team
 9966,football,Julio Jones,PHI
 9970,football,Blaine Gabbert,KC
 9987,football,Mark Ingram,NO
-9994,football,Andy Dalton,PHI
+9994,football,Andy Dalton,ATL
 10000,football,Colin Kaepernick,SF
 10006,football,Kyle Rudolph,TB
 10009,football,Lance Kendricks,LAC
@@ -7289,7 +7289,7 @@ id,sport,value,team
 18040,football,Jacques Patrick,NYJ
 18041,football,James Robinson,NO
 18042,football,Ramiz Ahmed,WAS
-18104,football,Josiah Deguara,PHI
+18104,football,Josiah Deguara,SEA
 18128,football,Dalton Keene,HOU
 18158,football,Tyler Bass,BUF
 18169,football,Darnell Mooney,NYG
@@ -7719,7 +7719,7 @@ id,sport,value,team
 19465,football,Skyy Moore,GB
 19466,football,Kennedy Brooks,PHI
 19467,football,James Cook III,BUF
-19468,football,Brian Robinson,ATL
+19468,football,Brian Robinson Jr.,ATL
 19469,football,Zach Charbonnet,SEA
 19470,football,Jerrion Ealy,KC
 19471,football,Ty Chandler,NO
@@ -8177,7 +8177,7 @@ id,sport,value,team
 20986,football,Tanner Taula,TB
 20987,football,Taye Barber,TB
 20992,football,Kade Warner,TB
-20996,football,Ryan Miller,MIA
+20996,football,Ryan Miller,NE
 20997,football,Isaiah Bowser,BUF
 21001,football,Emanuel Wilson,SEA
 21004,football,Dallas Daniels,DEN
@@ -8307,7 +8307,7 @@ id,sport,value,team
 21389,football,Jordan Whittington,LA
 21398,football,Tahj Washington,PHI
 21404,football,Will Reichard,MIN
-21408,football,Joe Milton III,PHI
+21408,football,Joe Milton,PHI
 21413,football,Spencer Rattler,NO
 21414,football,Bub Means,CLE
 21419,football,Jordan Travis,NYJ
@@ -9038,7 +9038,7 @@ id,sport,value,team
 23608,football,Sahmir Hagans,IND
 23609,football,Jordon Vaughn,IND
 23610,football,E.J. Horton,IND
-23612,football,Jackson Acker,BUF
+23612,football,Jackson Acker,SEA
 23614,football,Gabriel Benyard,CAR
 23616,football,Omari Kelly,CHI
 23618,football,Squirrel White,CHI

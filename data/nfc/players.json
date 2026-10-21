@@ -21918,6 +21918,30 @@
     "value": "Caden Hunter"
   },
   {
+    "id": 12807,
+    "sport": "baseball",
+    "team": "PIT",
+    "value": "Duce Gourson"
+  },
+  {
+    "id": 12808,
+    "sport": "baseball",
+    "team": "BAL",
+    "value": "Aron Estrada"
+  },
+  {
+    "id": 12809,
+    "sport": "baseball",
+    "team": "SEA",
+    "value": "Boston Smith"
+  },
+  {
+    "id": 12810,
+    "sport": "baseball",
+    "team": "HOU",
+    "value": "Bryce Mayer"
+  },
+  {
     "id": 1015,
     "sport": "basketball",
     "team": "HOU",
@@ -35924,7 +35948,7 @@
   {
     "id": 12271,
     "sport": "football",
-    "team": "GB",
+    "team": "LA",
     "value": "Brandon McManus"
   },
   {
@@ -40232,7 +40256,7 @@
   {
     "id": 16312,
     "sport": "football",
-    "team": "LAC",
+    "team": "PIT",
     "value": "Marquez Valdes-Scantling"
   },
   {
@@ -41792,7 +41816,7 @@
   {
     "id": 17053,
     "sport": "football",
-    "team": "BUF",
+    "team": "IND",
     "value": "Mecole Hardman Jr."
   },
   {
@@ -44996,7 +45020,7 @@
   {
     "id": 18810,
     "sport": "football",
-    "team": "CAR",
+    "team": "DAL",
     "value": "Kyle Trask"
   },
   {
@@ -48194,7 +48218,7 @@
   {
     "id": 20359,
     "sport": "football",
-    "team": "KC",
+    "team": "NYG",
     "value": "Jason Brownlee"
   },
   {

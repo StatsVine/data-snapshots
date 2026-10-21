@@ -3652,6 +3652,10 @@ id,sport,value,team
 12804,baseball,Bryan Rincon,PHI
 12805,baseball,Nolan Perry,TOR
 12806,baseball,Caden Hunter,BAL
+12807,baseball,Duce Gourson,PIT
+12808,baseball,Aron Estrada,BAL
+12809,baseball,Boston Smith,SEA
+12810,baseball,Bryce Mayer,HOU
 1015,basketball,Tyson Chandler,HOU
 1023,basketball,Joe Johnson,BOS
 1091,basketball,Mike James,BKN
@@ -5986,7 +5990,7 @@ id,sport,value,team
 12207,football,Russell Shepard,NYG
 12226,football,Jaron Brown,ARZ
 12253,football,Brandon Williams,IND
-12271,football,Brandon McManus,GB
+12271,football,Brandon McManus,LA
 12318,football,Benny Cunningham,JAX
 12321,football,Tyler Bray,SF
 12325,football,Demetrius Harris,ARZ
@@ -6704,7 +6708,7 @@ id,sport,value,team
 16303,football,Damion Ratley,MIN
 16305,football,Troy Fumagalli,MIN
 16309,football,Nick Bawden,HOU
-16312,football,Marquez Valdes-Scantling,LAC
+16312,football,Marquez Valdes-Scantling,PIT
 16315,football,Jordan Thomas,ATL
 16318,football,Jordan Wilkins,CLE
 16332,football,Dylan Cantrell,WAS
@@ -6964,7 +6968,7 @@ id,sport,value,team
 17050,football,David Sills V,TB
 17051,football,Riley Ridley,CHI
 17052,football,Hakeem Butler,DEN
-17053,football,Mecole Hardman Jr.,BUF
+17053,football,Mecole Hardman Jr.,IND
 17054,football,Miles Boykin,CHI
 17055,football,Hunter Renfrow,CAR
 17056,football,Gary Jennings,LAC
@@ -7498,7 +7502,7 @@ id,sport,value,team
 18806,football,Zach Wilson,NO
 18807,football,Tommy Tremble,CAR
 18809,football,Damonte Coxie,FA
-18810,football,Kyle Trask,CAR
+18810,football,Kyle Trask,DAL
 18811,football,Brennan Eagles,DAL
 18812,football,Simi Fehoko,ARZ
 18813,football,Adrian Hardy,FA
@@ -8031,7 +8035,7 @@ id,sport,value,team
 20356,football,C.J. Johnson,SEA
 20357,football,Tre Tucker,LV
 20358,football,Jalen Cropper,NO
-20359,football,Jason Brownlee,KC
+20359,football,Jason Brownlee,NYG
 20425,football,Brenton Strange,JAX
 20453,football,Cameron Latu,NE
 20455,football,Jake Moody,BAL

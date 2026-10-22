@@ -21942,6 +21942,42 @@
     "value": "Bryce Mayer"
   },
   {
+    "id": 12811,
+    "sport": "baseball",
+    "team": "ATH",
+    "value": "Drew Burress"
+  },
+  {
+    "id": 12812,
+    "sport": "baseball",
+    "team": "FA",
+    "value": "Drew Burress"
+  },
+  {
+    "id": 12813,
+    "sport": "baseball",
+    "team": "BOS",
+    "value": "John Holobetz"
+  },
+  {
+    "id": 12814,
+    "sport": "baseball",
+    "team": "NYM",
+    "value": "Jefferson Royals"
+  },
+  {
+    "id": 12815,
+    "sport": "baseball",
+    "team": "FA",
+    "value": "Jefferson Rojas"
+  },
+  {
+    "id": 12816,
+    "sport": "baseball",
+    "team": "KC",
+    "value": "Carson Roccaforte"
+  },
+  {
     "id": 1015,
     "sport": "basketball",
     "team": "HOU",
@@ -30926,7 +30962,7 @@
   {
     "id": 3787,
     "sport": "basketball",
-    "team": "NO",
+    "team": "UTH",
     "value": "Kobe Bufkin"
   },
   {
@@ -32732,7 +32768,7 @@
   {
     "id": 4144,
     "sport": "basketball",
-    "team": "MEM",
+    "team": "DAL",
     "value": "Walter Clayton Jr."
   },
   {

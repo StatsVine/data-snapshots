@@ -3656,6 +3656,12 @@ id,sport,value,team
 12808,baseball,Aron Estrada,BAL
 12809,baseball,Boston Smith,SEA
 12810,baseball,Bryce Mayer,HOU
+12811,baseball,Drew Burress,ATH
+12812,baseball,Drew Burress,FA
+12813,baseball,John Holobetz,BOS
+12814,baseball,Jefferson Royals,NYM
+12815,baseball,Jefferson Rojas,FA
+12816,baseball,Carson Roccaforte,KC
 1015,basketball,Tyson Chandler,HOU
 1023,basketball,Joe Johnson,BOS
 1091,basketball,Mike James,BKN
@@ -5153,7 +5159,7 @@ id,sport,value,team
 3784,basketball,Dereck Lively II,DAL
 3785,basketball,Dariq Whitehead,MEM
 3786,basketball,Maxwell Lewis,BKN
-3787,basketball,Kobe Bufkin,NO
+3787,basketball,Kobe Bufkin,UTH
 3788,basketball,Noah Clowney,BKN
 3789,basketball,Kris Murray,MEM
 3790,basketball,Bobi Klintman,DET
@@ -5454,7 +5460,7 @@ id,sport,value,team
 4141,basketball,Dylan Harper,SA
 4142,basketball,Collin Murray-Boyles,TOR
 4143,basketball,Yanic Konan Niederhauser,LAC
-4144,basketball,Walter Clayton Jr.,MEM
+4144,basketball,Walter Clayton Jr.,DAL
 4145,basketball,Ace Bailey,UTH
 4146,basketball,Kasparas Jakucionis,MIL
 4147,basketball,Cooper Flagg,DAL

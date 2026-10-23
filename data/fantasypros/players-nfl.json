@@ -432,7 +432,7 @@
     "positions": [
       "DST"
     ],
-    "sportsdata_player_id": "1c1cec48-6352-4556-b789-35304c1a6ae1",
+    "sportsdata_player_id": "7d4fcc64-9cb5-4d1b-8e75-8a906d1e1576",
     "team_id": "LV",
     "yahoo_id": "100013"
   },
@@ -48144,7 +48144,7 @@
       "CB"
     ],
     "sportsdata_player_id": "7a51270b-cbdf-451e-a9e7-0f0b23435dd0",
-    "team_id": "FA",
+    "team_id": "DET",
     "yahoo_id": "33319"
   },
   {
@@ -105403,7 +105403,7 @@
       "RB"
     ],
     "sportsdata_player_id": "f5e6eb8e-2c76-4bf9-b47f-57c62659341d",
-    "team_id": "FA",
+    "team_id": "PHI",
     "yahoo_id": "41935"
   },
   {
@@ -116462,7 +116462,7 @@
       "WR"
     ],
     "sportsdata_player_id": "6833ad69-9f24-4780-989c-83bdb090ec5e",
-    "team_id": "LV",
+    "team_id": "FA",
     "yahoo_id": "40141"
   },
   {
@@ -117637,7 +117637,7 @@
       "DE,LB"
     ],
     "sportsdata_player_id": "56688bd0-e777-11ed-ba5f-bf6902a39571",
-    "team_id": "FA",
+    "team_id": "PHI",
     "yahoo_id": "40340"
   },
   {
@@ -120495,7 +120495,7 @@
       "TE"
     ],
     "sportsdata_player_id": "626a1dd0-ebab-11ed-bb4c-e536974648f2",
-    "team_id": "PHI",
+    "team_id": "FA",
     "yahoo_id": "40550"
   },
   {
@@ -129938,7 +129938,7 @@
       "CB,LB,S"
     ],
     "sportsdata_player_id": "d83c6686-ffd6-41cd-a2ca-9583a0470769",
-    "team_id": "TEN",
+    "team_id": "FA",
     "yahoo_id": "41039"
   },
   {
@@ -132664,7 +132664,7 @@
       "LB"
     ],
     "sportsdata_player_id": "e81a9670-071c-11ef-8ced-698c301ae08b",
-    "team_id": "FA",
+    "team_id": "BAL",
     "yahoo_id": "41329"
   },
   {
@@ -153817,12 +153817,12 @@
     "draft_class": 2026,
     "espn_id": "4905664",
     "filename": "https://www.fantasypros.com/nfl/players/aj-haulcy.php",
-    "first_name": "AJ",
+    "first_name": "A.J.",
     "last_name": "Haulcy",
     "mfl_id": "17601",
     "nfl_id": null,
     "player_id": 28069,
-    "player_name": "AJ Haulcy",
+    "player_name": "A.J. Haulcy",
     "position_id": "S",
     "positions": [
       "S"
@@ -165921,7 +165921,7 @@
       "CB"
     ],
     "sportsdata_player_id": "7236cd20-4b35-11f1-bea8-033ff7d5e333",
-    "team_id": "ATL",
+    "team_id": "FA",
     "yahoo_id": "43381"
   },
   {

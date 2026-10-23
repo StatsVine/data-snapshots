@@ -3662,6 +3662,7 @@ id,sport,value,team
 12814,baseball,Jefferson Royals,NYM
 12815,baseball,Jefferson Rojas,FA
 12816,baseball,Carson Roccaforte,KC
+12817,baseball,Parks Harber,SF
 1015,basketball,Tyson Chandler,HOU
 1023,basketball,Joe Johnson,BOS
 1091,basketball,Mike James,BKN
@@ -5566,7 +5567,7 @@ id,sport,value,team
 4247,basketball,Caleb Wilson,CHI
 4248,basketball,Dailyn Swain,CHI
 4249,basketball,Yaxel Lendeborg,GS
-4250,basketball,Labaron Philon,PHI
+4250,basketball,Labaron Philon Jr.,PHI
 4251,basketball,AJ Dybantsa,WAS
 4252,basketball,Ebuka Okorie,DET
 4253,basketball,Hannes Steinbach,CHA
@@ -6729,7 +6730,7 @@ id,sport,value,team
 16387,football,Pharoah McKever,GB
 16393,football,Quadree Henderson,PIT
 16395,football,Richie James,KC
-16397,football,Trent Sherfield Sr.,BUF
+16397,football,Trent Sherfield,BUF
 16400,football,Austin Ramesh,ARZ
 16411,football,Andrew Vollert,IND
 16415,football,Corey Willis,ARZ

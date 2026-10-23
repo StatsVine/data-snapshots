@@ -21978,6 +21978,12 @@
     "value": "Carson Roccaforte"
   },
   {
+    "id": 12817,
+    "sport": "baseball",
+    "team": "SF",
+    "value": "Parks Harber"
+  },
+  {
     "id": 1015,
     "sport": "basketball",
     "team": "HOU",
@@ -33405,7 +33411,7 @@
     "id": 4250,
     "sport": "basketball",
     "team": "PHI",
-    "value": "Labaron Philon"
+    "value": "Labaron Philon Jr."
   },
   {
     "id": 4251,
@@ -40383,7 +40389,7 @@
     "id": 16397,
     "sport": "football",
     "team": "BUF",
-    "value": "Trent Sherfield Sr."
+    "value": "Trent Sherfield"
   },
   {
     "id": 16400,

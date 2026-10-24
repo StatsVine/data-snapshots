@@ -17728,7 +17728,7 @@
       "DE,DT,LB"
     ],
     "sportsdata_player_id": "852b00dd-fd1c-4edb-809d-912a6472cd07",
-    "team_id": "FA",
+    "team_id": "MIN",
     "yahoo_id": "29278"
   },
   {
@@ -29608,7 +29608,7 @@
       "DE,LB"
     ],
     "sportsdata_player_id": "eacc232b-701d-4a67-9ce5-61b9b931fd42",
-    "team_id": "SF",
+    "team_id": "FA",
     "yahoo_id": "31130"
   },
   {
@@ -33740,7 +33740,7 @@
       "CB"
     ],
     "sportsdata_player_id": "02753dc9-52ac-4ed1-8086-7894d35a3bd1",
-    "team_id": "SEA",
+    "team_id": "FA",
     "yahoo_id": "32721"
   },
   {
@@ -47055,7 +47055,7 @@
       "RB"
     ],
     "sportsdata_player_id": "48ef5bfa-7b91-4ed1-ad12-e94c0bc101c2",
-    "team_id": "MIN",
+    "team_id": "FA",
     "yahoo_id": "32814"
   },
   {
@@ -132491,7 +132491,7 @@
     "filename": "https://www.fantasypros.com/nfl/players/jamree-kromah.php",
     "first_name": "Jamree",
     "last_name": "Kromah",
-    "mfl_id": null,
+    "mfl_id": "17818",
     "nfl_id": "2572962",
     "player_id": 26634,
     "player_name": "Jamree Kromah",
@@ -148155,7 +148155,7 @@
       "RB"
     ],
     "sportsdata_player_id": "be0e5b20-2479-11f0-8e28-d7828261d278",
-    "team_id": "FA",
+    "team_id": "KC",
     "yahoo_id": "42196"
   },
   {

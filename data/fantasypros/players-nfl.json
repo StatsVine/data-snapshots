@@ -97939,7 +97939,7 @@
     "birthdate": "2000-07-22",
     "cbs_id": "3128011",
     "draft_class": 2025,
-    "espn_id": null,
+    "espn_id": "4427401",
     "filename": "https://www.fantasypros.com/nfl/players/jared-harrison-hunte.php",
     "first_name": "Jared",
     "last_name": "Harrison-Hunte",
@@ -97950,7 +97950,7 @@
     "position_id": "DT",
     "positions": [
       "DT",
-      "DE"
+      "DE,DT"
     ],
     "sportsdata_player_id": "c36ccd10-25f8-11f0-a425-c14e95a4d81b",
     "team_id": "ARI",
@@ -120495,7 +120495,7 @@
       "TE"
     ],
     "sportsdata_player_id": "626a1dd0-ebab-11ed-bb4c-e536974648f2",
-    "team_id": "FA",
+    "team_id": "ATL",
     "yahoo_id": "40550"
   },
   {
@@ -135098,7 +135098,7 @@
     "birthdate": "2001-07-31",
     "cbs_id": "3126958",
     "draft_class": 2024,
-    "espn_id": null,
+    "espn_id": "4427752",
     "filename": "https://www.fantasypros.com/nfl/players/cam-lampkin.php",
     "first_name": "Cam",
     "last_name": "Lampkin",
@@ -163792,7 +163792,7 @@
     "birthdate": "2003-10-06",
     "cbs_id": "28915686",
     "draft_class": 2026,
-    "espn_id": null,
+    "espn_id": "5084849",
     "filename": "https://www.fantasypros.com/nfl/players/kevin-jobity-jr.php",
     "first_name": "Kevin",
     "last_name": "Jobity",
@@ -164552,7 +164552,7 @@
     "birthdate": "2003-09-13",
     "cbs_id": "26726631",
     "draft_class": 2026,
-    "espn_id": null,
+    "espn_id": "4598574",
     "filename": "https://www.fantasypros.com/nfl/players/darryl-peterson-iii.php",
     "first_name": "Darryl",
     "last_name": "Peterson",
@@ -164671,7 +164671,7 @@
     "birthdate": "2002-09-11",
     "cbs_id": "28877283",
     "draft_class": 2026,
-    "espn_id": null,
+    "espn_id": "5082391",
     "filename": "https://www.fantasypros.com/nfl/players/maximus-pulley.php",
     "first_name": "Maximus",
     "last_name": "Pulley",

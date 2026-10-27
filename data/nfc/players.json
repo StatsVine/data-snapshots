@@ -21948,12 +21948,6 @@
     "value": "Drew Burress"
   },
   {
-    "id": 12812,
-    "sport": "baseball",
-    "team": "FA",
-    "value": "Drew Burress"
-  },
-  {
     "id": 12813,
     "sport": "baseball",
     "team": "BOS",
@@ -48980,7 +48974,7 @@
   {
     "id": 20863,
     "sport": "football",
-    "team": "PHI",
+    "team": "ATL",
     "value": "E.J. Jenkins"
   },
   {
@@ -50330,7 +50324,7 @@
   {
     "id": 21643,
     "sport": "football",
-    "team": "MIN",
+    "team": "CIN",
     "value": "Cam Grandy"
   },
   {

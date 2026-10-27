@@ -3657,7 +3657,6 @@ id,sport,value,team
 12809,baseball,Boston Smith,SEA
 12810,baseball,Bryce Mayer,HOU
 12811,baseball,Drew Burress,ATH
-12812,baseball,Drew Burress,FA
 12813,baseball,John Holobetz,BOS
 12814,baseball,Jefferson Royals,NYM
 12815,baseball,Jefferson Rojas,FA
@@ -8162,7 +8161,7 @@ id,sport,value,team
 20857,football,Brady Russell,SEA
 20859,football,Braxton Westfield,IND
 20862,football,Travis Dye,NYJ
-20863,football,E.J. Jenkins,PHI
+20863,football,E.J. Jenkins,ATL
 20865,football,T.J. Luther,CAR
 20866,football,Xavier Gipson,PHI
 20874,football,Josh Vann,CAR
@@ -8387,7 +8386,7 @@ id,sport,value,team
 21634,football,Kameron Johnson,TB
 21635,football,Zack Annexstad,TB
 21642,football,Noah Cain,CIN
-21643,football,Cam Grandy,MIN
+21643,football,Cam Grandy,CIN
 21644,football,Rocky Lombardi,CIN
 21648,football,Elijah Collins,CIN
 21649,football,Treyton Welch,NO

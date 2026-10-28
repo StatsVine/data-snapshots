@@ -3667,6 +3667,9 @@ id,sport,value,team
 12820,baseball,Eric Hartman,FA
 12821,baseball,Shugo Maki,FA
 12822,baseball,Jacob Kisting,MIA
+12824,baseball,Gary Gill Hill,NYM
+12825,baseball,Jaison Chourio,CLE
+12826,baseball,Tai Peete,STL
 1015,basketball,Tyson Chandler,HOU
 1023,basketball,Joe Johnson,BOS
 1091,basketball,Mike James,BKN
@@ -6413,7 +6416,7 @@ id,sport,value,team
 15245,football,O.J. Howard,LV
 15246,football,Corey Davis,NYJ
 15249,football,Chad Williams,KC
-15256,football,Zay Jones,HOU
+15256,football,Zay Jones,ARZ
 15257,football,Curtis Samuel,BUF
 15260,football,Adam Shaheen,MIA
 15261,football,Joe Mixon,SEA
@@ -8079,7 +8082,7 @@ id,sport,value,team
 20634,football,Jack Podlesny,GB
 20637,football,Malik Knowles,SF
 20638,football,Cephus Johnson,TB
-20639,football,Ben Sims,MIA
+20639,football,Ben Sims,SEA
 20646,football,Monte Pottebaum,PIT
 20647,football,Jordan Byrd,PIT
 20649,football,B.T. Potter,TB
@@ -8309,7 +8312,7 @@ id,sport,value,team
 21297,football,Sione Vaki,DET
 21304,football,Jared Wiley,KC
 21315,football,AJ Barner,SEA
-21324,football,Tejhaun Palmer,NE
+21324,football,Tejhaun Palmer,LAC
 21326,football,Casey Washington,CAR
 21329,football,Devin Leary,BAL
 21343,football,Tanner McLachlan,SF
@@ -8692,7 +8695,7 @@ id,sport,value,team
 22551,football,Nate McCollum,ARZ
 22555,football,Chandler Brayboy,NE
 22556,football,John Copenhaver,JAX
-22557,football,Eli Pancol,IND
+22557,football,Eli Pancol,DEN
 22561,football,Ja'Quinden Jackson,PHI
 22563,football,J.J. Jones,JAX
 22564,football,Cam Camper,NYJ
@@ -8701,7 +8704,7 @@ id,sport,value,team
 22576,football,Ethan Garbers,CAR
 22577,football,Jacolby George,CAR
 22578,football,Kye Robichaux,DET
-22579,football,Caden Prieskorn,CAR
+22579,football,Caden Prieskorn,CIN
 22581,football,Jakobie Keeney-James,PIT
 22584,football,Jackson Meeks,DET
 22585,football,Anthony Tyus III,CAR
@@ -8931,7 +8934,7 @@ id,sport,value,team
 23255,football,Brady Boyd,JAX
 23262,football,Joey Aguilar,JAX
 23265,football,Ethan Conner,MIA
-23267,football,Gregory Desrosiers,LAC
+23267,football,Gregory Desrosiers,NYG
 23270,football,Sincere Brown,LAC
 23272,football,Evan Svoboda,LAC
 23275,football,Devonte Ross,LAC

@@ -33800,7 +33800,7 @@
       "LB"
     ],
     "sportsdata_player_id": "ac012bab-43f3-4e8c-9cf4-0fb20ffa55a2",
-    "team_id": "IND",
+    "team_id": "FA",
     "yahoo_id": "31904"
   },
   {
@@ -36966,7 +36966,7 @@
       "CB,LB"
     ],
     "sportsdata_player_id": "57bda6af-7324-4e96-a207-525501224c41",
-    "team_id": "NO",
+    "team_id": "FA",
     "yahoo_id": "31911"
   },
   {
@@ -83770,7 +83770,8 @@
     "player_name": "Tre'von Moehrig",
     "position_id": "S",
     "positions": [
-      "S"
+      "S",
+      "CB,S"
     ],
     "sportsdata_player_id": "c8f74b89-065c-4857-be4e-4fcf897a5bc0",
     "team_id": "CAR",
@@ -108154,7 +108155,7 @@
       "DT"
     ],
     "sportsdata_player_id": "16b730e0-cc7f-11ec-8d55-87af3a9174bd",
-    "team_id": "FA",
+    "team_id": "TEN",
     "yahoo_id": "34289"
   },
   {
@@ -116402,7 +116403,7 @@
       "LB"
     ],
     "sportsdata_player_id": "664d2020-ec76-11ed-b1d3-55b3fe623f86",
-    "team_id": "TEN",
+    "team_id": "FA",
     "yahoo_id": "40598"
   },
   {
@@ -125041,7 +125042,7 @@
       "CB"
     ],
     "sportsdata_player_id": "804bd6a0-2c00-11ee-b1fc-571fc9ac66e0",
-    "team_id": "FA",
+    "team_id": "CHI",
     "yahoo_id": "40829"
   },
   {
@@ -132501,7 +132502,7 @@
       "DE,DT"
     ],
     "sportsdata_player_id": "4223ab40-071b-11ef-8947-5105bc3b519d",
-    "team_id": "CHI",
+    "team_id": "FA",
     "yahoo_id": "41321"
   },
   {
@@ -139996,7 +139997,8 @@
     "player_name": "Kamari Ramsey",
     "position_id": "S",
     "positions": [
-      "S"
+      "S",
+      "CB,S"
     ],
     "sportsdata_player_id": "0946cbee-dffc-4c74-93e5-e57393055807",
     "team_id": "HOU",
@@ -149842,7 +149844,8 @@
     "player_name": "Elliott Davison",
     "position_id": "S",
     "positions": [
-      "S"
+      "S",
+      "CB,S"
     ],
     "sportsdata_player_id": "9b9a1330-2551-11f0-9371-f9b494c39630",
     "team_id": "NE",

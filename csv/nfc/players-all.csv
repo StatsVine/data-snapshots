@@ -2160,7 +2160,7 @@ id,sport,value,team
 11087,baseball,Carlos Sanabria,KC
 11088,baseball,Travis Radke,SD
 11089,baseball,Humberto Castellanos,ARZ
-11090,baseball,Kyren Paris,LAA
+11090,baseball,Kyren Paris,NYM
 11091,baseball,Jared Kelley,CWS
 11092,baseball,Matt Thompson,CWS
 11093,baseball,Caleb Simpson,BOS
@@ -2508,7 +2508,7 @@ id,sport,value,team
 11512,baseball,Will Toffey,PHI
 11513,baseball,Bubby Rossman,PHI
 11514,baseball,Freddy Fermin,SD
-11515,baseball,Nate Eaton,BOS
+11515,baseball,Nate Eaton,ATH
 11516,baseball,Michael Massey,KC
 11517,baseball,Elier Hernandez,TEX
 11518,baseball,Erich Uelmen,PHI
@@ -2922,7 +2922,7 @@ id,sport,value,team
 11994,baseball,Jose Corniell,TEX
 11995,baseball,Kenedy Corona,HOU
 11997,baseball,Anthony Maldonado,ATH
-11998,baseball,Tsung-Che Cheng,BOS
+11998,baseball,Tsung-Che Cheng,DET
 11999,baseball,Braxton Ashcraft,PIT
 12000,baseball,Naoyuki Uwasawa,BOS
 12001,baseball,Woo-Suk Go,MIN
@@ -3049,7 +3049,7 @@ id,sport,value,team
 12150,baseball,Chase Shugart,PHI
 12151,baseball,Will Wagner,SD
 12153,baseball,Orlando Ribalta,WAS
-12154,baseball,Grant McCray,SF
+12154,baseball,Grant McCray,SEA
 12155,baseball,Trey Sweeney,DET
 12156,baseball,Shay Whitcomb,SF
 12157,baseball,Niko Kavadas,LAA
@@ -3593,7 +3593,7 @@ id,sport,value,team
 12745,baseball,Andrew Sears,DET
 12746,baseball,Blake Adams,COL
 12747,baseball,Mason Adams,COL
-12748,baseball,Braxton Roxby,SF
+12748,baseball,Braxton Roxby,WAS
 12749,baseball,Seth Lonsway,SF
 12750,baseball,Yunior Marte,SF
 12751,baseball,John Peck,DET
@@ -5533,7 +5533,7 @@ id,sport,value,team
 4206,basketball,Norchad Omier,MIN
 4207,basketball,Chaney Johnson,BKN
 4208,basketball,Tyler Burton,GS
-4209,basketball,Lawson Lovering,MEM
+4209,basketball,Lawson Lovering,LAL
 4210,basketball,Keshon Gilbert,ATL
 4211,basketball,Jonathan Pierre,WAS
 4212,basketball,John Poulakidas,DAL

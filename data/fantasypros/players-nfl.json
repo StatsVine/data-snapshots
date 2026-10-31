@@ -39960,7 +39960,7 @@
       "DT"
     ],
     "sportsdata_player_id": "2a86a6b4-58ef-42f5-aff9-d5d979bea6c7",
-    "team_id": "SF",
+    "team_id": "IND",
     "yahoo_id": "32321"
   },
   {
@@ -109179,7 +109179,7 @@
       "DE"
     ],
     "sportsdata_player_id": "5d64ba96-04f6-41ee-8620-ed251f16485c",
-    "team_id": "MIA",
+    "team_id": "FA",
     "yahoo_id": "40181"
   },
   {
@@ -127199,7 +127199,7 @@
       "CB"
     ],
     "sportsdata_player_id": "6393b3f5-c426-4895-81d2-b96e0320c450",
-    "team_id": "FA",
+    "team_id": "CAR",
     "yahoo_id": "41023"
   },
   {
@@ -129939,7 +129939,7 @@
       "CB,LB,S"
     ],
     "sportsdata_player_id": "d83c6686-ffd6-41cd-a2ca-9583a0470769",
-    "team_id": "FA",
+    "team_id": "TEN",
     "yahoo_id": "41039"
   },
   {
@@ -132502,7 +132502,7 @@
       "DE,DT"
     ],
     "sportsdata_player_id": "4223ab40-071b-11ef-8947-5105bc3b519d",
-    "team_id": "FA",
+    "team_id": "MIA",
     "yahoo_id": "41321"
   },
   {
@@ -133006,7 +133006,7 @@
       "DT"
     ],
     "sportsdata_player_id": "2c430580-072c-11ef-9d94-ad0be07b87fb",
-    "team_id": "MIA",
+    "team_id": "FA",
     "yahoo_id": null
   },
   {
@@ -161107,7 +161107,7 @@
     "filename": "https://www.fantasypros.com/nfl/players/greg-desrosiers-jr.php",
     "first_name": "Gregory",
     "last_name": "Desrosiers",
-    "mfl_id": null,
+    "mfl_id": "17821",
     "nfl_id": null,
     "player_id": 28510,
     "player_name": "Gregory Desrosiers",

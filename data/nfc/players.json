@@ -22026,6 +22026,18 @@
     "value": "Tai Peete"
   },
   {
+    "id": 12827,
+    "sport": "baseball",
+    "team": "LAA",
+    "value": "Nicolo Pinazzi"
+  },
+  {
+    "id": 12828,
+    "sport": "baseball",
+    "team": "CLE",
+    "value": "Milan Tolentino"
+  },
+  {
     "id": 1015,
     "sport": "basketball",
     "team": "HOU",
@@ -30128,7 +30140,7 @@
   {
     "id": 3636,
     "sport": "basketball",
-    "team": "NY",
+    "team": "OKC",
     "value": "Ochai Agbaji"
   },
   {

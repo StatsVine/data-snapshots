@@ -325,7 +325,7 @@ _key,active,full_name,team,position,status,espn_id,fantasy_data_id,gsis_id,kalsh
 11033,true,Isaiah Bolden,,CB,Active,,24466,,f807eeee-6044-42e9-9225-f8c47a29ae20,7582648185CC,17343,,738aba89-ba47-4b83-a63d-18ea677dfc12,,1126000,
 11034,true,Jalen Brooks,ARI,WR,Inactive,,24397,,dd332de7-1542-4d49-974f-ec58b605e6d6,A9F1E28C5B39,17185,,66f7bbe1-eb89-4b48-83db-d947b04ff1fd,,1223301,
 11035,true,Jordon Riley,GB,DL,Active,,24496,,b84e9c3a-331f-42c4-8271-0d0745e02222,A7F59DBC22B0,17414,,a1c5aca4-a0ba-4438-9101-7f85d3af488a,,976344,
-11036,true,Anthony Johnson Jr.,CHI,DB,Active,,24415,,56aba660-aba5-4597-854b-bfff579e635b,3631E0644551,17429,,f7bc36e8-7fb8-4d91-8216-f6a3a669f069,,1121747,
+11036,true,Anthony Johnson Jr.,,DB,Active,,24415,,56aba660-aba5-4597-854b-bfff579e635b,3631E0644551,17429,,f7bc36e8-7fb8-4d91-8216-f6a3a669f069,,1121747,
 11037,true,Cory Trice,,CB,Active,,24443,,b7d2f3ca-6fc1-4868-842c-677e405541aa,83405F2AF6EB,16718,,668cf263-300b-4ec1-a221-e4756daf892a,,1130283,
 11038,true,Derek Parish,,DL,Active,,24495,,26624dbe-d516-4a0e-aa5f-085fa43a3216,9659404BB7FB,17127,,5473d94d-0d3a-4b71-bd4b-b9ee41232ce5,,1053833,
 11039,true,Ryan Hayes,,OL,Inactive,,24156,,ed5a36c3-5a47-4f3a-bb0a-3a83f3fb03d2,6D1E7E358F57,16975,,b58ceca0-224f-4d08-9063-6528825b2405,,1130231,
@@ -3527,7 +3527,7 @@ _key,active,full_name,team,position,status,espn_id,fantasy_data_id,gsis_id,kalsh
 13920,true,Jonathan Brady,,WR,Active,,28521,,,,19669,,c603a2d0-47f6-11f1-8022-3d44fc502d61,,,
 13921,true,Isiah King,,LB,Active,,28523,,,,,,3802f180-4895-11f1-9334-0b9f66b8f775,,,
 13922,true,Sam Hagen,HOU,OL,Inactive,,28176,,865eb02b-186f-4591-bf84-05518a4b513d,,19707,,66b28ac0-4a1d-11f1-a49e-f57b0a68b047,,,
-13923,true,Joshua Pitsenberger,,RB,Inactive,,28533,,a82403a2-abf7-4157-b112-88c91b0e1657,,20032,,beff3f00-4a1a-11f1-8863-0f0f5f97b205,,,
+13923,true,Joshua Pitsenberger,HOU,RB,Active,,28533,,a82403a2-abf7-4157-b112-88c91b0e1657,,20032,,beff3f00-4a1a-11f1-8863-0f0f5f97b205,,,
 13924,true,Dominic Bailey,,DL,Active,,28524,,5e3e9fa5-1f13-4b30-a179-1a17fdaa9a8c,,,,c5df9520-4a1c-11f1-a77b-69ccb20d5ee5,,,
 13925,true,Jacob Graham,,LS,Active,,,,,,,,ffeb1720-4a1d-11f1-88eb-dde1d886c9a2,,,
 13926,true,Ben Barten,,DL,Active,,28471,,ab6d14d8-f865-40f6-9a63-2b79e5bf4409,,,,3ad47000-4a61-11f1-aeaa-73fa20174fb9,,,
@@ -7567,7 +7567,7 @@ _key,active,full_name,team,position,status,espn_id,fantasy_data_id,gsis_id,kalsh
 4879,false,Francis Owusu,,WR,Inactive,,19752,00-0033411,,,,,,,,
 488,false,Vance Walker,,DE,Inactive,12448,9890,,,,6898,,f0c7fed4-d422-4a57-9c2e-2a7614ef571e,,,9474
 4880,false,Mike Sullivan,,,Inactive,,19780,,,,,9305,,,,
-4881,true,Lamar Jackson,BAL,QB,Active,3916387,19781,00-0034796,2dc72f6e-337a-48ad-90c5-05af4aeacdea,1C18E878DAB7,12561,13059,e06a9c07-453a-4bb0-a7e9-2c3a64166dad,877745,877745,31002
+4881,true,Lamar Jackson,BAL,QB,Inactive,3916387,19781,00-0034796,2dc72f6e-337a-48ad-90c5-05af4aeacdea,1C18E878DAB7,12561,13059,e06a9c07-453a-4bb0-a7e9-2c3a64166dad,877745,877745,31002
 4882,false,George Paton,,,Inactive,,19782,,,,,12163,,,,
 4883,false,Eric Decosta,,,Inactive,,19783,,,,,11216,,,,
 4884,false,Reggie McKenzie,,,Inactive,,18750,,,,,9505,,,,
@@ -10831,7 +10831,7 @@ _key,active,full_name,team,position,status,espn_id,fantasy_data_id,gsis_id,kalsh
 7850,true,Justus Reed,,DE,Active,,,,,,15710,,0286d565-4914-492c-a726-9c1be03c8c39,,,
 7851,true,Chandon Herring,,OL,Active,,,,,,15632,,090d7fd9-5a44-454a-88e2-db84fd18fd1f,,945453,
 7852,true,Tory Carter,,FB,Active,,,,,,15562,,1e8324fc-540c-4a95-855a-8c0afcb4957e,,976645,
-7853,true,Naquan Jones,SF,DT,Active,,22866,,83e165af-a354-4913-95a3-d0a830dc8c10,7984B6EBDCE9,15243,,728571c3-6651-4534-ad27-d86d72dc7d16,,943192,
+7853,true,Naquan Jones,HOU,DT,Active,,22866,,83e165af-a354-4913-95a3-d0a830dc8c10,7984B6EBDCE9,15243,,728571c3-6651-4534-ad27-d86d72dc7d16,,943192,
 7854,true,Miller Forristall,,TE,Active,,,,,41005362B255,15539,,ab6618ed-8500-40ed-993b-7d3507dc52dd,,913368,
 7855,true,Blake Haubeil,,K,Active,,,,,,15401,,c5dd8fc7-7723-4a66-8faf-2106a9898f13,,1052016,
 7856,true,Cole Banwart,,G,Active,,,,,,15709,,d124ba69-9d3b-4e2e-bedc-032eabf95646,,923895,

@@ -86095,7 +86095,7 @@
       "DT"
     ],
     "sportsdata_player_id": "728571c3-6651-4534-ad27-d86d72dc7d16",
-    "team_id": "SF",
+    "team_id": "HOU",
     "yahoo_id": "33833"
   },
   {
@@ -88274,7 +88274,7 @@
       "RB"
     ],
     "sportsdata_player_id": "e444229e-c262-40a7-bb89-61d4b774da55",
-    "team_id": "HOU",
+    "team_id": "FA",
     "yahoo_id": "40240"
   },
   {
@@ -100336,7 +100336,7 @@
       "DT,DE"
     ],
     "sportsdata_player_id": "ab636859-ef8d-443e-b2db-b555b21705c8",
-    "team_id": "HOU",
+    "team_id": "FA",
     "yahoo_id": "41076"
   },
   {
@@ -137296,7 +137296,7 @@
     "birthdate": "1999-09-06",
     "cbs_id": "3128150",
     "draft_class": 2024,
-    "espn_id": null,
+    "espn_id": "4427348",
     "filename": "https://www.fantasypros.com/nfl/players/tecory-couch.php",
     "first_name": "Te'Cory",
     "last_name": "Couch",
@@ -149844,8 +149844,7 @@
     "player_name": "Elliott Davison",
     "position_id": "S",
     "positions": [
-      "S",
-      "CB,S"
+      "S"
     ],
     "sportsdata_player_id": "9b9a1330-2551-11f0-9371-f9b494c39630",
     "team_id": "NE",
@@ -165285,7 +165284,7 @@
       "RB"
     ],
     "sportsdata_player_id": "beff3f00-4a1a-11f1-8863-0f0f5f97b205",
-    "team_id": "FA",
+    "team_id": "HOU",
     "yahoo_id": null
   },
   {
@@ -170085,6 +170084,179 @@
     "position_id": "TE",
     "positions": [
       "TE"
+    ],
+    "sportsdata_player_id": "",
+    "team_id": "FA",
+    "yahoo_id": null
+  },
+  {
+    "birthdate": "",
+    "cbs_id": null,
+    "draft_class": 2027,
+    "espn_id": null,
+    "filename": "https://www.fantasypros.com/nfl/players/carlos-hernandez.php",
+    "first_name": "Carlos",
+    "last_name": "Hernandez",
+    "mfl_id": null,
+    "nfl_id": null,
+    "player_id": 29468,
+    "player_name": "Carlos Hernandez",
+    "position_id": "WR",
+    "positions": [
+      "WR"
+    ],
+    "sportsdata_player_id": "",
+    "team_id": "FA",
+    "yahoo_id": null
+  },
+  {
+    "birthdate": "",
+    "cbs_id": null,
+    "draft_class": 2029,
+    "espn_id": null,
+    "filename": "https://www.fantasypros.com/nfl/players/braden-atkinson.php",
+    "first_name": "Braden",
+    "last_name": "Atkinson",
+    "mfl_id": null,
+    "nfl_id": null,
+    "player_id": 29469,
+    "player_name": "Braden Atkinson",
+    "position_id": "QB",
+    "positions": [
+      "QB"
+    ],
+    "sportsdata_player_id": "",
+    "team_id": "FA",
+    "yahoo_id": null
+  },
+  {
+    "birthdate": "",
+    "cbs_id": null,
+    "espn_id": null,
+    "filename": "https://www.fantasypros.com/nfl/players/junior-sherrill.php",
+    "first_name": "Junior",
+    "last_name": "Sherrill",
+    "mfl_id": null,
+    "nfl_id": null,
+    "player_id": 29470,
+    "player_name": "Junior Sherrill",
+    "position_id": "WR",
+    "positions": [
+      "WR"
+    ],
+    "sportsdata_player_id": "",
+    "team_id": "FA",
+    "yahoo_id": null
+  },
+  {
+    "birthdate": "",
+    "cbs_id": null,
+    "espn_id": null,
+    "filename": "https://www.fantasypros.com/nfl/players/jaylin-carter.php",
+    "first_name": "Jaylin",
+    "last_name": "Carter",
+    "mfl_id": null,
+    "nfl_id": null,
+    "player_id": 29471,
+    "player_name": "Jaylin Carter",
+    "position_id": "RB",
+    "positions": [
+      "RB"
+    ],
+    "sportsdata_player_id": "",
+    "team_id": "FA",
+    "yahoo_id": null
+  },
+  {
+    "birthdate": "",
+    "cbs_id": null,
+    "espn_id": null,
+    "filename": "https://www.fantasypros.com/nfl/players/damon-ferguson-jr.php",
+    "first_name": "Damon",
+    "last_name": "Ferguson",
+    "mfl_id": null,
+    "nfl_id": null,
+    "player_id": 29472,
+    "player_name": "Damon Ferguson Jr.",
+    "position_id": "RB",
+    "positions": [
+      "RB"
+    ],
+    "sportsdata_player_id": "",
+    "team_id": "FA",
+    "yahoo_id": null
+  },
+  {
+    "birthdate": "",
+    "cbs_id": null,
+    "espn_id": null,
+    "filename": "https://www.fantasypros.com/nfl/players/isaiah-mizell.php",
+    "first_name": "Isaiah",
+    "last_name": "Mizell",
+    "mfl_id": null,
+    "nfl_id": null,
+    "player_id": 29473,
+    "player_name": "Isaiah Mizell",
+    "position_id": "WR",
+    "positions": [
+      "WR"
+    ],
+    "sportsdata_player_id": "",
+    "team_id": "FA",
+    "yahoo_id": null
+  },
+  {
+    "birthdate": "",
+    "cbs_id": null,
+    "espn_id": null,
+    "filename": "https://www.fantasypros.com/nfl/players/umari-hatcher.php",
+    "first_name": "Umari",
+    "last_name": "Hatcher",
+    "mfl_id": null,
+    "nfl_id": null,
+    "player_id": 29474,
+    "player_name": "Umari Hatcher",
+    "position_id": "WR",
+    "positions": [
+      "WR"
+    ],
+    "sportsdata_player_id": "",
+    "team_id": "FA",
+    "yahoo_id": null
+  },
+  {
+    "birthdate": "",
+    "cbs_id": null,
+    "espn_id": null,
+    "filename": "https://www.fantasypros.com/nfl/players/cole-tabb.php",
+    "first_name": "Cole",
+    "last_name": "Tabb",
+    "mfl_id": null,
+    "nfl_id": null,
+    "player_id": 29475,
+    "player_name": "Cole Tabb",
+    "position_id": "RB",
+    "positions": [
+      "RB"
+    ],
+    "sportsdata_player_id": "",
+    "team_id": "FA",
+    "yahoo_id": null
+  },
+  {
+    "birthdate": "",
+    "cbs_id": null,
+    "espn_id": null,
+    "filename": "https://www.fantasypros.com/nfl/players/quesean-brown.php",
+    "first_name": "Que'Sean",
+    "last_name": "Brown",
+    "mfl_id": null,
+    "nfl_id": null,
+    "player_id": 29476,
+    "player_name": "Que'Sean Brown",
+    "position_id": "WR",
+    "positions": [
+      "WR"
     ],
     "sportsdata_player_id": "",
     "team_id": "FA",

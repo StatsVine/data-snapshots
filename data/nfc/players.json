@@ -7958,7 +7958,7 @@
   {
     "id": 10124,
     "sport": "baseball",
-    "team": "MLW",
+    "team": "PIT",
     "value": "Akil Baddoo"
   },
   {
@@ -10406,7 +10406,7 @@
   {
     "id": 10604,
     "sport": "baseball",
-    "team": "PIT",
+    "team": "SEA",
     "value": "Isaac Mattson"
   },
   {
@@ -14414,7 +14414,7 @@
   {
     "id": 11377,
     "sport": "baseball",
-    "team": "LAD",
+    "team": "TB",
     "value": "Jack Suwinski"
   },
   {
@@ -14516,7 +14516,7 @@
   {
     "id": 11400,
     "sport": "baseball",
-    "team": "SF",
+    "team": "TEX",
     "value": "Jose Butto"
   },
   {
@@ -15650,7 +15650,7 @@
   {
     "id": 11630,
     "sport": "baseball",
-    "team": "WAS",
+    "team": "HOU",
     "value": "Evan Reifert"
   },
   {
@@ -15722,8 +15722,8 @@
   {
     "id": 11646,
     "sport": "baseball",
-    "team": "ATL",
-    "value": "Rolddy Munoz"
+    "team": "HOU",
+    "value": "Roddery Munoz"
   },
   {
     "id": 11647,
@@ -17168,7 +17168,7 @@
   {
     "id": 11930,
     "sport": "baseball",
-    "team": "STL",
+    "team": "BAL",
     "value": "Chase Hampton"
   },
   {
@@ -17312,7 +17312,7 @@
   {
     "id": 11954,
     "sport": "baseball",
-    "team": "MIA",
+    "team": "CWS",
     "value": "Graham Pauley"
   },
   {
@@ -17396,7 +17396,7 @@
   {
     "id": 11970,
     "sport": "baseball",
-    "team": "WAS",
+    "team": "ATL",
     "value": "Mitchell Parker"
   },
   {
@@ -17738,7 +17738,7 @@
   {
     "id": 12042,
     "sport": "baseball",
-    "team": "SF",
+    "team": "PHI",
     "value": "Brett Harris"
   },
   {
@@ -18116,7 +18116,7 @@
   {
     "id": 12121,
     "sport": "baseball",
-    "team": "MIN",
+    "team": "CHC",
     "value": "Eric Orze"
   },
   {
@@ -18314,7 +18314,7 @@
   {
     "id": 12156,
     "sport": "baseball",
-    "team": "SF",
+    "team": "PHI",
     "value": "Shay Whitcomb"
   },
   {
@@ -19490,7 +19490,7 @@
   {
     "id": 12383,
     "sport": "baseball",
-    "team": "WAS",
+    "team": "CIN",
     "value": "Paxton Schultz"
   },
   {
@@ -19772,7 +19772,7 @@
   {
     "id": 12432,
     "sport": "baseball",
-    "team": "COL",
+    "team": "NYM",
     "value": "Pierson Ohl"
   },
   {
@@ -19964,7 +19964,7 @@
   {
     "id": 12465,
     "sport": "baseball",
-    "team": "NYM",
+    "team": "BAL",
     "value": "Philip Abner"
   },
   {
@@ -20444,7 +20444,7 @@
   {
     "id": 12546,
     "sport": "baseball",
-    "team": "MIA",
+    "team": "BAL",
     "value": "Josh White"
   },
   {
@@ -20510,7 +20510,7 @@
   {
     "id": 12557,
     "sport": "baseball",
-    "team": "SF",
+    "team": "CIN",
     "value": "Duncan Davitt"
   },
   {
@@ -20996,7 +20996,7 @@
   {
     "id": 12652,
     "sport": "baseball",
-    "team": "MIN",
+    "team": "NYM",
     "value": "Jack Anderson"
   },
   {
@@ -21146,7 +21146,7 @@
   {
     "id": 12678,
     "sport": "baseball",
-    "team": "NYM",
+    "team": "MIA",
     "value": "Cameron Weston"
   },
   {
@@ -21488,7 +21488,7 @@
   {
     "id": 12735,
     "sport": "baseball",
-    "team": "SF",
+    "team": "BAL",
     "value": "Zach Morgan"
   },
   {
@@ -22042,6 +22042,18 @@
     "sport": "baseball",
     "team": "TEX",
     "value": "Aidan Curry"
+  },
+  {
+    "id": 12830,
+    "sport": "baseball",
+    "team": "FA",
+    "value": "Si-Hwan Roh"
+  },
+  {
+    "id": 12831,
+    "sport": "baseball",
+    "team": "SD",
+    "value": "Luis Gutierrez"
   },
   {
     "id": 1015,
@@ -46328,7 +46340,7 @@
   {
     "id": 19448,
     "sport": "football",
-    "team": "CLE",
+    "team": "NYG",
     "value": "Eric Gray"
   },
   {
@@ -51776,7 +51788,7 @@
   {
     "id": 22340,
     "sport": "football",
-    "team": "MIA",
+    "team": "GB",
     "value": "Cam Miller"
   },
   {

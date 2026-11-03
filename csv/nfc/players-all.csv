@@ -1325,7 +1325,7 @@ id,sport,value,team
 10120,baseball,Adam Kloffenstein,STL
 10121,baseball,Adonis Medina,NYM
 10123,baseball,Adrian Morejon,SD
-10124,baseball,Akil Baddoo,MLW
+10124,baseball,Akil Baddoo,PIT
 10125,baseball,Alec Bohm,PHI
 10126,baseball,Alek Thomas,LAD
 10127,baseball,Alex Faedo,TB
@@ -1733,7 +1733,7 @@ id,sport,value,team
 10601,baseball,Chavez Young,TOR
 10602,baseball,Brooks Kriske,ATH
 10603,baseball,Zach Houchins,LAA
-10604,baseball,Isaac Mattson,PIT
+10604,baseball,Isaac Mattson,SEA
 10605,baseball,Max Herrmann,LAA
 10606,baseball,Nate Griep,COL
 10607,baseball,Brock Lundquist,TOR
@@ -2401,7 +2401,7 @@ id,sport,value,team
 11372,baseball,Ricky Vanasco,ATL
 11375,baseball,Ryan Weiss,HOU
 11376,baseball,Canaan Smith-Njigba,PIT
-11377,baseball,Jack Suwinski,LAD
+11377,baseball,Jack Suwinski,TB
 11379,baseball,Felix Bautista,BAL
 11380,baseball,Logan Gillaspie,SD
 11382,baseball,Jhonkensy Noel,BAL
@@ -2418,7 +2418,7 @@ id,sport,value,team
 11397,baseball,Eddys Leonard,SF
 11398,baseball,Jorbit Vivas,WAS
 11399,baseball,James Outman,DET
-11400,baseball,Jose Butto,SF
+11400,baseball,Jose Butto,TEX
 11401,baseball,JP Sears,SD
 11403,baseball,Drey Jameson,ARZ
 11405,baseball,Nick Plummer,NYM
@@ -2607,7 +2607,7 @@ id,sport,value,team
 11627,baseball,Cam Robinson,MLW
 11628,baseball,Ceddanne Rafaela,BOS
 11629,baseball,Masataka Yoshida,BOS
-11630,baseball,Evan Reifert,WAS
+11630,baseball,Evan Reifert,HOU
 11631,baseball,Shintaro Fujinami,NYM
 11632,baseball,Mick Abel,MIN
 11634,baseball,Landen Roupp,SF
@@ -2619,7 +2619,7 @@ id,sport,value,team
 11642,baseball,Sean Reynolds,SD
 11643,baseball,Johan Rojas,PHI
 11645,baseball,David Hamilton,MLW
-11646,baseball,Rolddy Munoz,ATL
+11646,baseball,Roddery Munoz,HOU
 11647,baseball,Darius Vines,ATL
 11649,baseball,Lawrence Butler,ATH
 11650,baseball,Hogan Harris,ATH
@@ -2860,7 +2860,7 @@ id,sport,value,team
 11927,baseball,Royber Salinas,ATL
 11928,baseball,Yuki Matsui,SD
 11929,baseball,Jace Jung,DET
-11930,baseball,Chase Hampton,STL
+11930,baseball,Chase Hampton,BAL
 11931,baseball,Nick Frasso,COL
 11932,baseball,Justice Bigbie,DET
 11933,baseball,Rhett Lowder,CIN
@@ -2884,7 +2884,7 @@ id,sport,value,team
 11951,baseball,James Triantos,CHC
 11952,baseball,Joey Loperfido,HOU
 11953,baseball,Wikelman Gonzalez,MIA
-11954,baseball,Graham Pauley,MIA
+11954,baseball,Graham Pauley,CWS
 11956,baseball,Carson Whisenhunt,SF
 11957,baseball,Will Dion,WAS
 11958,baseball,Josh Stephan,TEX
@@ -2898,7 +2898,7 @@ id,sport,value,team
 11966,baseball,Bradley Blalock,MIA
 11967,baseball,Jack Kochanowicz,LAA
 11969,baseball,DJ Herz,WAS
-11970,baseball,Mitchell Parker,WAS
+11970,baseball,Mitchell Parker,ATL
 11971,baseball,Adam Macko,TEX
 11972,baseball,Brady Basso,ATH
 11974,baseball,Angel Chivilli,NYY
@@ -2955,7 +2955,7 @@ id,sport,value,team
 12038,baseball,Isaac Coffey,BOS
 12039,baseball,Samuel Basallo,BAL
 12040,baseball,Walker Jenkins,MIN
-12042,baseball,Brett Harris,SF
+12042,baseball,Brett Harris,PHI
 12043,baseball,Jake Armbruester,FA
 12044,baseball,Justin Armbruester,FA
 12045,baseball,Chase Petty,CIN
@@ -3018,7 +3018,7 @@ id,sport,value,team
 12118,baseball,Jacob Bosiokovic,STL
 12119,baseball,Gregory Barrios,TB
 12120,baseball,Walter Pennington,BAL
-12121,baseball,Eric Orze,MIN
+12121,baseball,Eric Orze,CHC
 12122,baseball,Hunter Bigge,ATH
 12123,baseball,Tanner Gordon,COL
 12124,baseball,Justin Wrobleski,LAD
@@ -3051,7 +3051,7 @@ id,sport,value,team
 12153,baseball,Orlando Ribalta,WAS
 12154,baseball,Grant McCray,SEA
 12155,baseball,Trey Sweeney,DET
-12156,baseball,Shay Whitcomb,SF
+12156,baseball,Shay Whitcomb,PHI
 12157,baseball,Niko Kavadas,LAA
 12158,baseball,Grant Holman,PHI
 12159,baseball,Ben Casparius,LAD
@@ -3247,7 +3247,7 @@ id,sport,value,team
 12379,baseball,Patrick Monteverde,MIA
 12380,baseball,Juan Morillo,ARZ
 12382,baseball,Cade Gibson,MIA
-12383,baseball,Paxton Schultz,WAS
+12383,baseball,Paxton Schultz,CIN
 12384,baseball,Sauryn Lao,WAS
 12385,baseball,Nathan Wiles,ATL
 12386,baseball,Jose Fermin,LAA
@@ -3294,7 +3294,7 @@ id,sport,value,team
 12429,baseball,Brandyn Garcia,ARZ
 12430,baseball,Troy Melton,DET
 12431,baseball,Houston Roth,BAL
-12432,baseball,Pierson Ohl,COL
+12432,baseball,Pierson Ohl,NYM
 12433,baseball,Dugan Darnell,DET
 12434,baseball,Luis Morales,ATH
 12435,baseball,CJ Kayfus,CLE
@@ -3326,7 +3326,7 @@ id,sport,value,team
 12461,baseball,Zach Cole,HOU
 12462,baseball,Denzer Guzman,LAA
 12463,baseball,Trey Yesavage,TOR
-12465,baseball,Philip Abner,NYM
+12465,baseball,Philip Abner,BAL
 12466,baseball,Jhancarlos Lara,WAS
 12467,baseball,Austin Pope,ARZ
 12468,baseball,Dylan Ross,NYM
@@ -3406,7 +3406,7 @@ id,sport,value,team
 12543,baseball,Jake Bennett,BOS
 12544,baseball,Nick Morabito,NYM
 12545,baseball,Phillip Glasser,WAS
-12546,baseball,Josh White,MIA
+12546,baseball,Josh White,BAL
 12547,baseball,Jack Brannigan,PIT
 12548,baseball,Brandan Bidois,MIA
 12549,baseball,Wilber Dotel,PIT
@@ -3417,7 +3417,7 @@ id,sport,value,team
 12554,baseball,Alex McFarlane,PHI
 12555,baseball,Jose Fernandez,ARZ
 12556,baseball,Dylan Ray,ARZ
-12557,baseball,Duncan Davitt,SF
+12557,baseball,Duncan Davitt,CIN
 12558,baseball,Thayron Liranzo,DET
 12559,baseball,Eduardo Valencia,DET
 12560,baseball,Trei Cruz,DET
@@ -3498,7 +3498,7 @@ id,sport,value,team
 12647,baseball,Seth Hernandez,PIT
 12649,baseball,Blaze Jordan,STL
 12651,baseball,Tyler Schweitzer,CWS
-12652,baseball,Jack Anderson,MIN
+12652,baseball,Jack Anderson,NYM
 12653,baseball,Gavin Collyer,TEX
 12654,baseball,Felix Reyes,PHI
 12655,baseball,Trevor Martin,LAA
@@ -3523,7 +3523,7 @@ id,sport,value,team
 12675,baseball,Rikuu Nishida,CWS
 12676,baseball,Tanner Andrews,TOR
 12677,baseball,Charles McAdoo,TOR
-12678,baseball,Cameron Weston,NYM
+12678,baseball,Cameron Weston,MIA
 12679,baseball,Jacob Gonzalez,PIT
 12680,baseball,Hayden Juenger,ATH
 12681,baseball,Jonah Cox,SF
@@ -3580,7 +3580,7 @@ id,sport,value,team
 12732,baseball,Brett Bateman,TOR
 12733,baseball,Trent Harris,SF
 12734,baseball,Jack Weisenburger,NYM
-12735,baseball,Zach Morgan,SF
+12735,baseball,Zach Morgan,BAL
 12736,baseball,Jackson Kent,WAS
 12737,baseball,Turner Hill,SF
 12738,baseball,Brock Rodden,SEA
@@ -3673,6 +3673,8 @@ id,sport,value,team
 12827,baseball,Nicolo Pinazzi,LAA
 12828,baseball,Milan Tolentino,CLE
 12829,baseball,Aidan Curry,TEX
+12830,baseball,Si-Hwan Roh,FA
+12831,baseball,Luis Gutierrez,SD
 1015,basketball,Tyson Chandler,HOU
 1023,basketball,Joe Johnson,BOS
 1091,basketball,Mike James,BKN
@@ -7720,7 +7722,7 @@ id,sport,value,team
 19445,football,Christian Watson,GB
 19446,football,Keaontay Ingram,KC
 19447,football,Dameon Pierce,PHI
-19448,football,Eric Gray,CLE
+19448,football,Eric Gray,NYG
 19449,football,Sam Howell,DAL
 19450,football,Kyren Williams,LA
 19451,football,Bam Knight,ARZ
@@ -8628,7 +8630,7 @@ id,sport,value,team
 22320,football,Graham Mertz,HOU
 22334,football,Konata Mumpfield,LA
 22336,football,KeAndre Lambert-Smith,LAC
-22340,football,Cam Miller,MIA
+22340,football,Cam Miller,GB
 22343,football,Tommy Mellott,NO
 22352,football,Gavin Bartholomew,MIN
 22356,football,Andy Borregales,NE

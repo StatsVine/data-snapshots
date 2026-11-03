@@ -1325,7 +1325,7 @@ id,value,team
 10120,Adam Kloffenstein,STL
 10121,Adonis Medina,NYM
 10123,Adrian Morejon,SD
-10124,Akil Baddoo,MLW
+10124,Akil Baddoo,PIT
 10125,Alec Bohm,PHI
 10126,Alek Thomas,LAD
 10127,Alex Faedo,TB
@@ -1733,7 +1733,7 @@ id,value,team
 10601,Chavez Young,TOR
 10602,Brooks Kriske,ATH
 10603,Zach Houchins,LAA
-10604,Isaac Mattson,PIT
+10604,Isaac Mattson,SEA
 10605,Max Herrmann,LAA
 10606,Nate Griep,COL
 10607,Brock Lundquist,TOR
@@ -2401,7 +2401,7 @@ id,value,team
 11372,Ricky Vanasco,ATL
 11375,Ryan Weiss,HOU
 11376,Canaan Smith-Njigba,PIT
-11377,Jack Suwinski,LAD
+11377,Jack Suwinski,TB
 11379,Felix Bautista,BAL
 11380,Logan Gillaspie,SD
 11382,Jhonkensy Noel,BAL
@@ -2418,7 +2418,7 @@ id,value,team
 11397,Eddys Leonard,SF
 11398,Jorbit Vivas,WAS
 11399,James Outman,DET
-11400,Jose Butto,SF
+11400,Jose Butto,TEX
 11401,JP Sears,SD
 11403,Drey Jameson,ARZ
 11405,Nick Plummer,NYM
@@ -2607,7 +2607,7 @@ id,value,team
 11627,Cam Robinson,MLW
 11628,Ceddanne Rafaela,BOS
 11629,Masataka Yoshida,BOS
-11630,Evan Reifert,WAS
+11630,Evan Reifert,HOU
 11631,Shintaro Fujinami,NYM
 11632,Mick Abel,MIN
 11634,Landen Roupp,SF
@@ -2619,7 +2619,7 @@ id,value,team
 11642,Sean Reynolds,SD
 11643,Johan Rojas,PHI
 11645,David Hamilton,MLW
-11646,Rolddy Munoz,ATL
+11646,Roddery Munoz,HOU
 11647,Darius Vines,ATL
 11649,Lawrence Butler,ATH
 11650,Hogan Harris,ATH
@@ -2860,7 +2860,7 @@ id,value,team
 11927,Royber Salinas,ATL
 11928,Yuki Matsui,SD
 11929,Jace Jung,DET
-11930,Chase Hampton,STL
+11930,Chase Hampton,BAL
 11931,Nick Frasso,COL
 11932,Justice Bigbie,DET
 11933,Rhett Lowder,CIN
@@ -2884,7 +2884,7 @@ id,value,team
 11951,James Triantos,CHC
 11952,Joey Loperfido,HOU
 11953,Wikelman Gonzalez,MIA
-11954,Graham Pauley,MIA
+11954,Graham Pauley,CWS
 11956,Carson Whisenhunt,SF
 11957,Will Dion,WAS
 11958,Josh Stephan,TEX
@@ -2898,7 +2898,7 @@ id,value,team
 11966,Bradley Blalock,MIA
 11967,Jack Kochanowicz,LAA
 11969,DJ Herz,WAS
-11970,Mitchell Parker,WAS
+11970,Mitchell Parker,ATL
 11971,Adam Macko,TEX
 11972,Brady Basso,ATH
 11974,Angel Chivilli,NYY
@@ -2955,7 +2955,7 @@ id,value,team
 12038,Isaac Coffey,BOS
 12039,Samuel Basallo,BAL
 12040,Walker Jenkins,MIN
-12042,Brett Harris,SF
+12042,Brett Harris,PHI
 12043,Jake Armbruester,FA
 12044,Justin Armbruester,FA
 12045,Chase Petty,CIN
@@ -3018,7 +3018,7 @@ id,value,team
 12118,Jacob Bosiokovic,STL
 12119,Gregory Barrios,TB
 12120,Walter Pennington,BAL
-12121,Eric Orze,MIN
+12121,Eric Orze,CHC
 12122,Hunter Bigge,ATH
 12123,Tanner Gordon,COL
 12124,Justin Wrobleski,LAD
@@ -3051,7 +3051,7 @@ id,value,team
 12153,Orlando Ribalta,WAS
 12154,Grant McCray,SEA
 12155,Trey Sweeney,DET
-12156,Shay Whitcomb,SF
+12156,Shay Whitcomb,PHI
 12157,Niko Kavadas,LAA
 12158,Grant Holman,PHI
 12159,Ben Casparius,LAD
@@ -3247,7 +3247,7 @@ id,value,team
 12379,Patrick Monteverde,MIA
 12380,Juan Morillo,ARZ
 12382,Cade Gibson,MIA
-12383,Paxton Schultz,WAS
+12383,Paxton Schultz,CIN
 12384,Sauryn Lao,WAS
 12385,Nathan Wiles,ATL
 12386,Jose Fermin,LAA
@@ -3294,7 +3294,7 @@ id,value,team
 12429,Brandyn Garcia,ARZ
 12430,Troy Melton,DET
 12431,Houston Roth,BAL
-12432,Pierson Ohl,COL
+12432,Pierson Ohl,NYM
 12433,Dugan Darnell,DET
 12434,Luis Morales,ATH
 12435,CJ Kayfus,CLE
@@ -3326,7 +3326,7 @@ id,value,team
 12461,Zach Cole,HOU
 12462,Denzer Guzman,LAA
 12463,Trey Yesavage,TOR
-12465,Philip Abner,NYM
+12465,Philip Abner,BAL
 12466,Jhancarlos Lara,WAS
 12467,Austin Pope,ARZ
 12468,Dylan Ross,NYM
@@ -3406,7 +3406,7 @@ id,value,team
 12543,Jake Bennett,BOS
 12544,Nick Morabito,NYM
 12545,Phillip Glasser,WAS
-12546,Josh White,MIA
+12546,Josh White,BAL
 12547,Jack Brannigan,PIT
 12548,Brandan Bidois,MIA
 12549,Wilber Dotel,PIT
@@ -3417,7 +3417,7 @@ id,value,team
 12554,Alex McFarlane,PHI
 12555,Jose Fernandez,ARZ
 12556,Dylan Ray,ARZ
-12557,Duncan Davitt,SF
+12557,Duncan Davitt,CIN
 12558,Thayron Liranzo,DET
 12559,Eduardo Valencia,DET
 12560,Trei Cruz,DET
@@ -3498,7 +3498,7 @@ id,value,team
 12647,Seth Hernandez,PIT
 12649,Blaze Jordan,STL
 12651,Tyler Schweitzer,CWS
-12652,Jack Anderson,MIN
+12652,Jack Anderson,NYM
 12653,Gavin Collyer,TEX
 12654,Felix Reyes,PHI
 12655,Trevor Martin,LAA
@@ -3523,7 +3523,7 @@ id,value,team
 12675,Rikuu Nishida,CWS
 12676,Tanner Andrews,TOR
 12677,Charles McAdoo,TOR
-12678,Cameron Weston,NYM
+12678,Cameron Weston,MIA
 12679,Jacob Gonzalez,PIT
 12680,Hayden Juenger,ATH
 12681,Jonah Cox,SF
@@ -3580,7 +3580,7 @@ id,value,team
 12732,Brett Bateman,TOR
 12733,Trent Harris,SF
 12734,Jack Weisenburger,NYM
-12735,Zach Morgan,SF
+12735,Zach Morgan,BAL
 12736,Jackson Kent,WAS
 12737,Turner Hill,SF
 12738,Brock Rodden,SEA
@@ -3673,3 +3673,5 @@ id,value,team
 12827,Nicolo Pinazzi,LAA
 12828,Milan Tolentino,CLE
 12829,Aidan Curry,TEX
+12830,Si-Hwan Roh,FA
+12831,Luis Gutierrez,SD

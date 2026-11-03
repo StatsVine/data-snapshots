@@ -16372,7 +16372,7 @@
       "DT"
     ],
     "sportsdata_player_id": "014038bd-e9b7-476f-b7bd-bd78a46a9a57",
-    "team_id": "FA",
+    "team_id": "JAC",
     "yahoo_id": "29277"
   },
   {
@@ -24189,7 +24189,7 @@
       "DT"
     ],
     "sportsdata_player_id": "1ad3e535-2b5c-48a8-82f0-c7a933d250f0",
-    "team_id": "NYG",
+    "team_id": "FA",
     "yahoo_id": "30586"
   },
   {
@@ -32430,7 +32430,7 @@
       "WR"
     ],
     "sportsdata_player_id": "6f124753-5c6c-454b-97c7-0f9b4d14e7c2",
-    "team_id": "FA",
+    "team_id": "SF",
     "yahoo_id": "31769"
   },
   {
@@ -39334,7 +39334,7 @@
       "LB"
     ],
     "sportsdata_player_id": "04d09b84-6c99-4d99-a1f0-c30d3360ab52",
-    "team_id": "JAC",
+    "team_id": "FA",
     "yahoo_id": "32666"
   },
   {
@@ -86236,7 +86236,7 @@
       "LB"
     ],
     "sportsdata_player_id": "2784acd6-85b1-4411-a00a-094a5fc01930",
-    "team_id": "NE",
+    "team_id": "DET",
     "yahoo_id": "33564"
   },
   {
@@ -89534,7 +89534,7 @@
       "RB"
     ],
     "sportsdata_player_id": "3b86dd7c-0b21-448d-a662-5675e87fd0da",
-    "team_id": "CLE",
+    "team_id": "FA",
     "yahoo_id": "41019"
   },
   {
@@ -89934,7 +89934,7 @@
       "RB"
     ],
     "sportsdata_player_id": "dcc536c1-36f2-4e34-8028-ccf32d930018",
-    "team_id": "FA",
+    "team_id": "NYG",
     "yahoo_id": "40198"
   },
   {
@@ -91652,7 +91652,7 @@
       "QB"
     ],
     "sportsdata_player_id": "4842ee80-07d1-11ef-977b-d7c6de486031",
-    "team_id": "GB",
+    "team_id": "BAL",
     "yahoo_id": "41476"
   },
   {
@@ -102651,7 +102651,7 @@
       "CB"
     ],
     "sportsdata_player_id": "9a7ecca5-faf4-468f-93e6-e0357c5854cb",
-    "team_id": "FA",
+    "team_id": "LAC",
     "yahoo_id": "34075"
   },
   {
@@ -104533,7 +104533,7 @@
       "DE"
     ],
     "sportsdata_player_id": "a134b125-37fb-4192-9ee2-f8a6f4da48bb",
-    "team_id": "ATL",
+    "team_id": "FA",
     "yahoo_id": "34017"
   },
   {
@@ -111350,7 +111350,7 @@
       "CB"
     ],
     "sportsdata_player_id": "97debc10-d3b9-11ec-96a0-c3471a31202c",
-    "team_id": "KC",
+    "team_id": "FA",
     "yahoo_id": "34529"
   },
   {
@@ -116403,7 +116403,7 @@
       "LB"
     ],
     "sportsdata_player_id": "664d2020-ec76-11ed-b1d3-55b3fe623f86",
-    "team_id": "FA",
+    "team_id": "CAR",
     "yahoo_id": "40598"
   },
   {
@@ -128575,7 +128575,7 @@
       "QB"
     ],
     "sportsdata_player_id": "3dd3c120-05b2-11ef-a7ec-77a76ba1f065",
-    "team_id": "FA",
+    "team_id": "BAL",
     "yahoo_id": "41220"
   },
   {
@@ -132765,7 +132765,7 @@
       "LB"
     ],
     "sportsdata_player_id": "38c63ba0-0723-11ef-acb3-9348ceb755d6",
-    "team_id": "CAR",
+    "team_id": "FA",
     "yahoo_id": "41336"
   },
   {
@@ -137772,7 +137772,7 @@
       "RB"
     ],
     "sportsdata_player_id": "e6fc9a80-1168-11ef-8e6a-d7d3a1fb0861",
-    "team_id": "FA",
+    "team_id": "NE",
     "yahoo_id": "41713"
   },
   {
@@ -139899,7 +139899,7 @@
       "DE,LB"
     ],
     "sportsdata_player_id": "521af940-2556-11f0-b31c-15f75b688f25",
-    "team_id": "ATL",
+    "team_id": "FA",
     "yahoo_id": "42358"
   },
   {
@@ -142145,7 +142145,7 @@
       "QB"
     ],
     "sportsdata_player_id": "065b4e2a-5071-4b33-aef8-0b3eb99dce35",
-    "team_id": "FA",
+    "team_id": "GB",
     "yahoo_id": "41964"
   },
   {
@@ -143731,7 +143731,7 @@
     "yahoo_id": null
   },
   {
-    "birthdate": "",
+    "birthdate": "2006-02-18",
     "cbs_id": null,
     "draft_class": 2027,
     "espn_id": null,
@@ -149847,7 +149847,7 @@
       "S"
     ],
     "sportsdata_player_id": "9b9a1330-2551-11f0-9371-f9b494c39630",
-    "team_id": "NE",
+    "team_id": "FA",
     "yahoo_id": "42346"
   },
   {
@@ -151756,7 +151756,7 @@
       "RB"
     ],
     "sportsdata_player_id": "9ecda000-2ffe-11f0-9156-0d63b2ee880c",
-    "team_id": "BAL",
+    "team_id": "FA",
     "yahoo_id": "42531"
   },
   {
@@ -158694,7 +158694,7 @@
     "yahoo_id": null
   },
   {
-    "birthdate": "",
+    "birthdate": "2007-09-19",
     "cbs_id": null,
     "draft_class": 2029,
     "espn_id": null,
@@ -159390,7 +159390,7 @@
       "RB"
     ],
     "sportsdata_player_id": "75063230-4260-11f1-a80d-bff068733e76",
-    "team_id": "SEA",
+    "team_id": "FA",
     "yahoo_id": "42986"
   },
   {
@@ -159594,7 +159594,7 @@
     "yahoo_id": null
   },
   {
-    "birthdate": "",
+    "birthdate": "2006-01-15",
     "cbs_id": null,
     "draft_class": 2027,
     "espn_id": null,
@@ -163798,7 +163798,7 @@
     "filename": "https://www.fantasypros.com/nfl/players/kevin-jobity-jr.php",
     "first_name": "Kevin",
     "last_name": "Jobity",
-    "mfl_id": null,
+    "mfl_id": "17824",
     "nfl_id": null,
     "player_id": 28680,
     "player_name": "Kevin Jobity Jr.",
@@ -164558,7 +164558,7 @@
     "filename": "https://www.fantasypros.com/nfl/players/darryl-peterson-iii.php",
     "first_name": "Darryl",
     "last_name": "Peterson",
-    "mfl_id": null,
+    "mfl_id": "17826",
     "nfl_id": null,
     "player_id": 28724,
     "player_name": "Darryl Peterson III",
@@ -170132,6 +170132,7 @@
   {
     "birthdate": "",
     "cbs_id": null,
+    "draft_class": 2027,
     "espn_id": null,
     "filename": "https://www.fantasypros.com/nfl/players/junior-sherrill.php",
     "first_name": "Junior",
@@ -170151,6 +170152,7 @@
   {
     "birthdate": "",
     "cbs_id": null,
+    "draft_class": 2029,
     "espn_id": null,
     "filename": "https://www.fantasypros.com/nfl/players/jaylin-carter.php",
     "first_name": "Jaylin",
@@ -170170,6 +170172,7 @@
   {
     "birthdate": "",
     "cbs_id": null,
+    "draft_class": 2029,
     "espn_id": null,
     "filename": "https://www.fantasypros.com/nfl/players/damon-ferguson-jr.php",
     "first_name": "Damon",
@@ -170189,6 +170192,7 @@
   {
     "birthdate": "",
     "cbs_id": null,
+    "draft_class": 2029,
     "espn_id": null,
     "filename": "https://www.fantasypros.com/nfl/players/isaiah-mizell.php",
     "first_name": "Isaiah",
@@ -170208,6 +170212,7 @@
   {
     "birthdate": "",
     "cbs_id": null,
+    "draft_class": 2027,
     "espn_id": null,
     "filename": "https://www.fantasypros.com/nfl/players/umari-hatcher.php",
     "first_name": "Umari",
@@ -170227,6 +170232,7 @@
   {
     "birthdate": "",
     "cbs_id": null,
+    "draft_class": 2027,
     "espn_id": null,
     "filename": "https://www.fantasypros.com/nfl/players/cole-tabb.php",
     "first_name": "Cole",
@@ -170246,6 +170252,7 @@
   {
     "birthdate": "",
     "cbs_id": null,
+    "draft_class": 2027,
     "espn_id": null,
     "filename": "https://www.fantasypros.com/nfl/players/quesean-brown.php",
     "first_name": "Que'Sean",

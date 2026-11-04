@@ -3502,7 +3502,7 @@ id,sport,value,team
 12653,baseball,Gavin Collyer,TEX
 12654,baseball,Felix Reyes,PHI
 12655,baseball,Trevor Martin,LAA
-12656,baseball,Eduardo Rivera,BOS
+12656,baseball,Eduardo Rivera,STL
 12657,baseball,Tyler Davis,CWS
 12658,baseball,Ty Cummings,SEA
 12659,baseball,Jesus Valdez,ARZ
@@ -5023,7 +5023,7 @@ id,sport,value,team
 3631,basketball,Jamaree Bouyea,PHO
 3632,basketball,Iverson Molinar,MIL
 3633,basketball,Keon Ellis,BKN
-3634,basketball,Dalen Terry,GS
+3634,basketball,Dalen Terry,OKC
 3635,basketball,Trevor Keels,WAS
 3636,basketball,Ochai Agbaji,OKC
 3637,basketball,Isaiah Mobley,PHI
@@ -7488,7 +7488,7 @@ id,sport,value,team
 18771,football,Javonte Williams,DAL
 18772,football,Kenny Gainwell,TB
 18773,football,Chuba Hubbard,CAR
-18774,football,Jaret Patterson,CLE
+18774,football,Jaret Patterson,DEN
 18775,football,Ja'Marr Chase,CIN
 18776,football,Javian Hawkins,LA
 18777,football,Pooka Williams,CIN
@@ -8259,7 +8259,7 @@ id,sport,value,team
 21131,football,Brian Thomas Jr.,JAX
 21132,football,Braelon Allen,NYJ
 21133,football,Jonathon Brooks,CAR
-21134,football,Audric Estime,CLE
+21134,football,Audric Estime,NO
 21135,football,Trey Benson,ARZ
 21136,football,Bucky Irving,TB
 21137,football,Xavier Legette,CAR
@@ -8436,7 +8436,7 @@ id,sport,value,team
 21753,football,Messiah Swinson,CLE
 21754,football,British Brooks,HOU
 21758,football,Jaxon Janke,HOU
-21760,football,Kedon Slovis,GB
+21760,football,Kedon Slovis,BAL
 21762,football,Malcolm Epps,IND
 21763,football,Justin Strong,IND
 21764,football,Xavier White,IND
@@ -8731,7 +8731,7 @@ id,sport,value,team
 22629,football,JJ Galbreath,IND
 22634,football,Sone Ntoh,BAL
 22639,football,Jahmal Banks,BAL
-22640,football,Xavier Guillory,BAL
+22640,football,Xavier Guillory,CLE
 22645,football,Mario Williams,LA
 22647,football,Tru Edwards,LA
 22649,football,Anthony Torres,LA
@@ -8855,7 +8855,7 @@ id,sport,value,team
 22950,football,CJ Daniels,LA
 22951,football,Zachariah Branch,ATL
 22952,football,Malachi Fields,NYG
-22953,football,Robert Henry Jr.,SEA
+22953,football,Robert Henry Jr.,WAS
 22954,football,Chris Brazzell II,CAR
 22955,football,Mike Washington Jr.,LV
 22956,football,Antonio Williams,WAS

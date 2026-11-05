@@ -29976,7 +29976,7 @@
       "DT"
     ],
     "sportsdata_player_id": "55998ec0-4d69-4d14-a2f4-cf72de36e998",
-    "team_id": "FA",
+    "team_id": "WAS",
     "yahoo_id": "31454"
   },
   {
@@ -40254,7 +40254,7 @@
       "WR"
     ],
     "sportsdata_player_id": "427038d8-ff50-4d6e-a088-4fdb8bc2f0e3",
-    "team_id": "FA",
+    "team_id": "LAR",
     "yahoo_id": "32124"
   },
   {
@@ -44448,7 +44448,7 @@
       "WR"
     ],
     "sportsdata_player_id": "c65488d4-251e-40fc-9f32-7019bbdaf75e",
-    "team_id": "FA",
+    "team_id": "ARI",
     "yahoo_id": "32871"
   },
   {
@@ -50205,7 +50205,7 @@
       "WR"
     ],
     "sportsdata_player_id": "d25a19a7-7de6-4476-b42a-833c8c3cb208",
-    "team_id": "LV",
+    "team_id": "FA",
     "yahoo_id": "32948"
   },
   {
@@ -54704,7 +54704,7 @@
       "RB"
     ],
     "sportsdata_player_id": "de456390-b27b-4146-87b9-0267f1ea8db4",
-    "team_id": "FA",
+    "team_id": "ARI",
     "yahoo_id": "33644"
   },
   {
@@ -87575,7 +87575,7 @@
       "RB"
     ],
     "sportsdata_player_id": "f75439c0-d3bb-11ec-96a0-c3471a31202c",
-    "team_id": "FA",
+    "team_id": "DAL",
     "yahoo_id": "34665"
   },
   {
@@ -89294,7 +89294,7 @@
       "QB"
     ],
     "sportsdata_player_id": "e95a83c0-e6f6-11ed-88d6-7977d3a68019",
-    "team_id": "FA",
+    "team_id": "SEA",
     "yahoo_id": "40299"
   },
   {
@@ -93157,7 +93157,7 @@
       "DT,DE"
     ],
     "sportsdata_player_id": "58643249-5d94-48a2-8ea2-13cab4ca2a89",
-    "team_id": "FA",
+    "team_id": "CHI",
     "yahoo_id": "33562"
   },
   {
@@ -109168,12 +109168,12 @@
     "draft_class": 2023,
     "espn_id": "4259558",
     "filename": "https://www.fantasypros.com/nfl/players/robert-beal.php",
-    "first_name": "Rob",
+    "first_name": "Robert",
     "last_name": "Beal",
     "mfl_id": "16322",
     "nfl_id": "2570299",
     "player_id": 24748,
-    "player_name": "Rob Beal Jr.",
+    "player_name": "Robert Beal Jr.",
     "position_id": "DE",
     "positions": [
       "DE"
@@ -110700,7 +110700,7 @@
       "TE"
     ],
     "sportsdata_player_id": "faaf7f80-d307-11ec-8b77-45b1765fd110",
-    "team_id": "HOU",
+    "team_id": "FA",
     "yahoo_id": "34489"
   },
   {
@@ -111350,7 +111350,7 @@
       "CB"
     ],
     "sportsdata_player_id": "97debc10-d3b9-11ec-96a0-c3471a31202c",
-    "team_id": "FA",
+    "team_id": "BUF",
     "yahoo_id": "34529"
   },
   {
@@ -117253,7 +117253,7 @@
       "CB"
     ],
     "sportsdata_player_id": "17093231-3e82-42fb-bec7-75160d097538",
-    "team_id": "FA",
+    "team_id": "PHI",
     "yahoo_id": "40208"
   },
   {
@@ -133167,7 +133167,7 @@
       "LB"
     ],
     "sportsdata_player_id": "a132f370-0725-11ef-a24c-e3710bb6fc6a",
-    "team_id": "SEA",
+    "team_id": "FA",
     "yahoo_id": "41355"
   },
   {
@@ -138156,7 +138156,7 @@
       "DE,LB"
     ],
     "sportsdata_player_id": "7293eba0-5423-11ef-921f-9d5e2bfaf044",
-    "team_id": "FA",
+    "team_id": "SEA",
     "yahoo_id": "41739"
   },
   {
@@ -139899,7 +139899,7 @@
       "DE,LB"
     ],
     "sportsdata_player_id": "521af940-2556-11f0-b31c-15f75b688f25",
-    "team_id": "FA",
+    "team_id": "ATL",
     "yahoo_id": "42358"
   },
   {
@@ -146350,7 +146350,7 @@
       "DT"
     ],
     "sportsdata_player_id": "21441b4b-dd79-4845-93d6-725ca427d6fb",
-    "team_id": "HOU",
+    "team_id": "FA",
     "yahoo_id": "42011"
   },
   {
@@ -149847,7 +149847,7 @@
       "S"
     ],
     "sportsdata_player_id": "9b9a1330-2551-11f0-9371-f9b494c39630",
-    "team_id": "FA",
+    "team_id": "NE",
     "yahoo_id": "42346"
   },
   {
@@ -164368,7 +164368,7 @@
       "WR"
     ],
     "sportsdata_player_id": "90250e60-4323-11f1-aefa-a7f05498862d",
-    "team_id": "FA",
+    "team_id": "HOU",
     "yahoo_id": "43195"
   },
   {
@@ -165024,7 +165024,7 @@
       "WR"
     ],
     "sportsdata_player_id": "e0244f50-458c-11f1-9a11-ab5d13db5b69",
-    "team_id": "FA",
+    "team_id": "KC",
     "yahoo_id": "43258"
   },
   {
@@ -167407,7 +167407,7 @@
       "WR"
     ],
     "sportsdata_player_id": "dab522e0-637a-11f1-b3ac-1141f054753e",
-    "team_id": "SEA",
+    "team_id": "FA",
     "yahoo_id": "43460"
   },
   {

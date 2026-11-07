@@ -2337,7 +2337,7 @@ id,sport,value,team
 11293,baseball,Seth Martinez,BOS
 11294,baseball,Dauri Moreta,PIT
 11295,baseball,Jhon Romero,MIN
-11296,baseball,Reiver Sanmartin,SF
+11296,baseball,Reiver Sanmartin,WAS
 11297,baseball,Matt Brash,SEA
 11300,baseball,Spencer Strider,ATL
 11302,baseball,Juan Yepez,WAS
@@ -2405,7 +2405,7 @@ id,sport,value,team
 11379,baseball,Felix Bautista,BAL
 11380,baseball,Logan Gillaspie,SD
 11382,baseball,Jhonkensy Noel,BAL
-11383,baseball,Jose Tena,WAS
+11383,baseball,Jose Tena,CLE
 11386,baseball,Konnor Pilkington,WAS
 11387,baseball,Maikel Garcia,KC
 11388,baseball,Jonathan Bowlan,PHI
@@ -3675,6 +3675,7 @@ id,sport,value,team
 12829,baseball,Aidan Curry,TEX
 12830,baseball,Si-Hwan Roh,FA
 12831,baseball,Luis Gutierrez,SD
+12832,baseball,Robert Cranz,SF
 1015,basketball,Tyson Chandler,HOU
 1023,basketball,Joe Johnson,BOS
 1091,basketball,Mike James,BKN
@@ -5535,7 +5536,7 @@ id,sport,value,team
 4203,basketball,Tyrese Samuel,PHO
 4204,basketball,Moussa Cisse,DAL
 4205,basketball,Matthew Cleveland,DAL
-4206,basketball,Norchad Omier,MIN
+4206,basketball,Norchad Omier,CLE
 4207,basketball,Chaney Johnson,BKN
 4208,basketball,Tyler Burton,GS
 4209,basketball,Lawson Lovering,LAL
@@ -8981,7 +8982,7 @@ id,sport,value,team
 23392,football,Camden Brown,DAL
 23393,football,Jordan Hudson,DAL
 23396,football,DJ Rogers,DAL
-23401,football,Joseph Manjack,NYJ
+23401,football,Joseph Manjack IV,NYJ
 23402,football,Cameron Ross,DEN
 23405,football,Miles Kitselman,DET
 23409,football,J. Michael Sturdivant,GB

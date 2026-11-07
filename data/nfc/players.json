@@ -14030,7 +14030,7 @@
   {
     "id": 11296,
     "sport": "baseball",
-    "team": "SF",
+    "team": "WAS",
     "value": "Reiver Sanmartin"
   },
   {
@@ -14438,7 +14438,7 @@
   {
     "id": 11383,
     "sport": "baseball",
-    "team": "WAS",
+    "team": "CLE",
     "value": "Jose Tena"
   },
   {
@@ -22054,6 +22054,12 @@
     "sport": "baseball",
     "team": "SD",
     "value": "Luis Gutierrez"
+  },
+  {
+    "id": 12832,
+    "sport": "baseball",
+    "team": "SF",
+    "value": "Robert Cranz"
   },
   {
     "id": 1015,
@@ -33218,7 +33224,7 @@
   {
     "id": 4206,
     "sport": "basketball",
-    "team": "MIN",
+    "team": "CLE",
     "value": "Norchad Omier"
   },
   {
@@ -53895,7 +53901,7 @@
     "id": 23401,
     "sport": "football",
     "team": "NYJ",
-    "value": "Joseph Manjack"
+    "value": "Joseph Manjack IV"
   },
   {
     "id": 23402,

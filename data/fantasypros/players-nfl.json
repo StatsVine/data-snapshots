@@ -13314,7 +13314,7 @@
       "WR"
     ],
     "sportsdata_player_id": "c682e8ea-fe48-45d2-af60-682a6125ab22",
-    "team_id": "LV",
+    "team_id": "FA",
     "yahoo_id": "28417"
   },
   {
@@ -17870,7 +17870,7 @@
       "QB"
     ],
     "sportsdata_player_id": "ad2258ab-67f0-41c2-bcf3-f3ba145187dc",
-    "team_id": "ARI",
+    "team_id": "BAL",
     "yahoo_id": "29325"
   },
   {
@@ -22672,7 +22672,7 @@
     "position_id": "DE",
     "positions": [
       "DE",
-      "DE,DT"
+      "DE,DT,LB"
     ],
     "sportsdata_player_id": "887dc7b2-fb32-4126-be14-509b40424d34",
     "team_id": "NYG",
@@ -87555,7 +87555,7 @@
       "RB"
     ],
     "sportsdata_player_id": "5d4ef6da-a6b5-4d9c-adc0-28dfdbe9315e",
-    "team_id": "PHI",
+    "team_id": "FA",
     "yahoo_id": "34063"
   },
   {
@@ -105704,7 +105704,7 @@
       "RB"
     ],
     "sportsdata_player_id": "66627686-34fe-4599-84ac-e436fd7d798a",
-    "team_id": "NO",
+    "team_id": "FA",
     "yahoo_id": "40108"
   },
   {
@@ -108958,7 +108958,7 @@
       "QB"
     ],
     "sportsdata_player_id": "70376919-8220-4128-a089-72d5b10f2346",
-    "team_id": "FA",
+    "team_id": "NYG",
     "yahoo_id": "40144"
   },
   {
@@ -113710,7 +113710,7 @@
       "CB"
     ],
     "sportsdata_player_id": "8197c5b4-ade0-47e4-81b3-f16aa47eab12",
-    "team_id": "FA",
+    "team_id": "CAR",
     "yahoo_id": "40148"
   },
   {
@@ -128575,7 +128575,7 @@
       "QB"
     ],
     "sportsdata_player_id": "3dd3c120-05b2-11ef-a7ec-77a76ba1f065",
-    "team_id": "BAL",
+    "team_id": "FA",
     "yahoo_id": "41220"
   },
   {
@@ -131419,12 +131419,12 @@
     "draft_class": 2024,
     "espn_id": null,
     "filename": "https://www.fantasypros.com/nfl/players/aj-woods.php",
-    "first_name": "A.J.",
+    "first_name": "AJ",
     "last_name": "Woods",
     "mfl_id": null,
     "nfl_id": "2573617",
     "player_id": 26569,
-    "player_name": "A.J. Woods",
+    "player_name": "AJ Woods",
     "position_id": "CB",
     "positions": [
       "CB"
@@ -132986,7 +132986,7 @@
       "TE"
     ],
     "sportsdata_player_id": "07814d30-072a-11ef-ba75-176276cf11f0",
-    "team_id": "NO",
+    "team_id": "FA",
     "yahoo_id": "41363"
   },
   {
@@ -145407,7 +145407,7 @@
       "TE"
     ],
     "sportsdata_player_id": "a4af6950-2625-11f0-be8a-29068ea3d60c",
-    "team_id": "FA",
+    "team_id": "LV",
     "yahoo_id": "42433"
   },
   {
@@ -147816,7 +147816,7 @@
       "CB,S"
     ],
     "sportsdata_player_id": "c25a50c0-2439-11f0-91d4-0ba1f9234b62",
-    "team_id": "CAR",
+    "team_id": "FA",
     "yahoo_id": "42155"
   },
   {
@@ -159310,7 +159310,7 @@
       "TE"
     ],
     "sportsdata_player_id": "9d8c7f71-3c7e-4459-bbcc-2c7c0f984b78",
-    "team_id": "FA",
+    "team_id": "CLE",
     "yahoo_id": "42870"
   },
   {
@@ -162828,7 +162828,7 @@
     "mfl_id": null,
     "nfl_id": null,
     "player_id": 28618,
-    "player_name": "Joseph Manjack",
+    "player_name": "Joseph Manjack IV",
     "position_id": "WR",
     "positions": [
       "WR"

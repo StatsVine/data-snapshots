@@ -204,7 +204,7 @@ id,value,team
 10967,T.Y. Hilton,DAL
 10971,Travis Benjamin,SF
 10973,Lamar Miller,NO
-10974,Kirk Cousins,LV
+10974,Kirk Cousins,MIN
 10983,Robert Turbin,SEA
 10986,Orson Charles,DEN
 10989,Jarius Wright,CAR
@@ -259,7 +259,7 @@ id,value,team
 11852,Mike Glennon,MIA
 11853,Marquise Goodwin,CLE
 11854,Terrance Williams,DAL
-11857,Keenan Allen,IND
+11857,Keenan Allen,SF
 11864,Markus Wheaton,PHI
 11875,Knile Davis,CHI
 11877,Matt Barkley,JAX
@@ -412,7 +412,7 @@ id,value,team
 13541,DeVante Parker,PHI
 13543,Melvin Gordon,BAL
 13549,Nelson Agholor,BAL
-13556,Phillip Dorsett II,LV
+13556,Phillip Dorsett II,ARZ
 13557,Breshad Perriman,IND
 13564,T.J. Yeldon,BUF
 13570,Devin Funchess,DET
@@ -2185,7 +2185,7 @@ id,value,team
 20083,Travell Harris,CLE
 20088,Isaiah Weston,CLE
 20090,Felix Harper,CLE
-20091,Zaire Mitchell-Paden,HOU
+20091,Zaire Mitchell-Paden,CLE
 20092,Ty Fryfogle,KC
 20093,Dennis Houston,TB
 20098,Jaquarii Roberson,LA
@@ -2264,7 +2264,7 @@ id,value,team
 20280,C.J. Stroud,HOU
 20281,Bryce Young,CAR
 20282,Michael Mayer,LV
-20283,Josh Downs,IND
+20283,Josh Downs,KC
 20284,De'Von Achane,MIA
 20285,Sean Tucker,TB
 20286,Kenny McIntosh,SEA
@@ -2285,7 +2285,7 @@ id,value,team
 20301,Darnell Washington,PIT
 20302,Arik Gilbert,FA
 20303,Luke Musgrave,GB
-20304,Kendre Miller,NO
+20304,Kendre Miller,DAL
 20305,Xavier Hutchinson,HOU
 20306,Israel Abanikanda,DAL
 20307,Jase McClellan,TB
@@ -2340,7 +2340,7 @@ id,value,team
 20359,Jason Brownlee,NYG
 20425,Brenton Strange,JAX
 20453,Cameron Latu,NE
-20455,Jake Moody,BAL
+20455,Jake Moody,ATL
 20468,Charlie Jones,NYG
 20479,Stetson Bennett IV,LA
 20480,Derius Davis,LAC
@@ -2404,7 +2404,7 @@ id,value,team
 20729,Zay Malone,ATL
 20730,Keilahn Harris,PIT
 20731,Justin Marshall,SEA
-20736,Xavier Smith,SF
+20736,Xavier Smith,LA
 20737,Dresser Winn,LA
 20739,Malik Flowers,LV
 20740,Shae Wyatt,SF
@@ -3220,7 +3220,7 @@ id,value,team
 23253,Michael Wortham,JAX
 23254,Trebor Pena,JAX
 23255,Brady Boyd,JAX
-23262,Joey Aguilar,JAX
+23262,Joey Aguilar,ARZ
 23265,Ethan Conner,MIA
 23267,Gregory Desrosiers,NYG
 23270,Sincere Brown,LAC
@@ -3296,7 +3296,7 @@ id,value,team
 23480,Jacob Clark,LV
 23482,Kansei Matsuzawa,LV
 23483,E.J. Williams Jr.,CAR
-23484,Matt Lauter,MIN
+23484,Matt Lauter,NO
 23486,Roman Hemby,LV
 23488,Mark Gronowski,HOU
 23489,Donaven McCulley,MIA
@@ -3358,7 +3358,7 @@ id,value,team
 23644,Jimmy Kibble,NE
 23645,Nick DeGennaro,WAS
 23646,Damon Bankston,GB
-23653,Kenny Fletcher Jr.,IND
+23653,Kenny Fletcher Jr.,GB
 23660,Drew Stevens,WAS
 23661,Kolbe Katsis,DEN
 23669,Stone Eby,DEN

@@ -22062,6 +22062,12 @@
     "value": "Robert Cranz"
   },
   {
+    "id": 12833,
+    "sport": "baseball",
+    "team": "CHC",
+    "value": "Kane Kepley"
+  },
+  {
     "id": 1015,
     "sport": "basketball",
     "team": "HOU",
@@ -33860,7 +33866,7 @@
   {
     "id": 4313,
     "sport": "basketball",
-    "team": "MEM",
+    "team": "LAL",
     "value": "Carson Cooper"
   },
   {
@@ -35540,7 +35546,7 @@
   {
     "id": 10974,
     "sport": "football",
-    "team": "LV",
+    "team": "MIN",
     "value": "Kirk Cousins"
   },
   {
@@ -35870,7 +35876,7 @@
   {
     "id": 11857,
     "sport": "football",
-    "team": "IND",
+    "team": "SF",
     "value": "Keenan Allen"
   },
   {
@@ -36788,7 +36794,7 @@
   {
     "id": 13556,
     "sport": "football",
-    "team": "LV",
+    "team": "ARZ",
     "value": "Phillip Dorsett II"
   },
   {
@@ -47426,7 +47432,7 @@
   {
     "id": 20091,
     "sport": "football",
-    "team": "HOU",
+    "team": "CLE",
     "value": "Zaire Mitchell-Paden"
   },
   {
@@ -47900,7 +47906,7 @@
   {
     "id": 20283,
     "sport": "football",
-    "team": "IND",
+    "team": "KC",
     "value": "Josh Downs"
   },
   {
@@ -48026,7 +48032,7 @@
   {
     "id": 20304,
     "sport": "football",
-    "team": "NO",
+    "team": "DAL",
     "value": "Kendre Miller"
   },
   {
@@ -48356,7 +48362,7 @@
   {
     "id": 20455,
     "sport": "football",
-    "team": "BAL",
+    "team": "ATL",
     "value": "Jake Moody"
   },
   {
@@ -48740,7 +48746,7 @@
   {
     "id": 20736,
     "sport": "football",
-    "team": "SF",
+    "team": "LA",
     "value": "Xavier Smith"
   },
   {
@@ -53636,7 +53642,7 @@
   {
     "id": 23262,
     "sport": "football",
-    "team": "JAX",
+    "team": "ARZ",
     "value": "Joey Aguilar"
   },
   {
@@ -54092,7 +54098,7 @@
   {
     "id": 23484,
     "sport": "football",
-    "team": "MIN",
+    "team": "NO",
     "value": "Matt Lauter"
   },
   {
@@ -54464,7 +54470,7 @@
   {
     "id": 23653,
     "sport": "football",
-    "team": "IND",
+    "team": "GB",
     "value": "Kenny Fletcher Jr."
   },
   {

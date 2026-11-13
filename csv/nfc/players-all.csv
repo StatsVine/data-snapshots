@@ -3928,7 +3928,7 @@ id,sport,value,team
 2290,basketball,Sergey Karasev,BKN
 2291,basketball,Tony Snell,NO
 2292,basketball,Gorgui Dieng,SA
-2293,basketball,Mason Plumlee,SA
+2293,basketball,Mason Plumlee,SAC
 2294,basketball,Solomon Hill,NY
 2295,basketball,Tim Hardaway Jr.,MIA
 2296,basketball,Reggie Bullock,HOU
@@ -5493,7 +5493,7 @@ id,sport,value,team
 4159,basketball,Alex Toohey,GS
 4160,basketball,Will Richard,GS
 4161,basketball,Hunter Sallis,PHI
-4162,basketball,Johni Broome,MIL
+4162,basketball,Johni Broome,MIN
 4163,basketball,Jamir Watkins,WAS
 4164,basketball,Chaz Lanier,DET
 4165,basketball,Ryan Kalkbrenner,CHA
@@ -7630,7 +7630,7 @@ id,sport,value,team
 19219,football,Myron Mitchell,MIN
 19221,football,Whop Philyor,MIN
 19222,football,A.J. Rose,LA
-19227,football,Riley Patterson,MIA
+19227,football,Riley Patterson,BAL
 19228,football,Stevie Scott,ARZ
 19229,football,Dylan Soehner,NO
 19242,football,Kenny Yeboah,ARZ
@@ -8029,7 +8029,7 @@ id,sport,value,team
 20327,football,Nathan Rourke,ATL
 20328,football,Deuce Vaughn,HOU
 20329,football,Tyjae Spears,TEN
-20330,football,Tyler Scott,LV
+20330,football,Tyler Scott,LA
 20331,football,A.T. Perry,PIT
 20332,football,Jonathan Mingo,DAL
 20333,football,Dontay Demus Jr.,FA
@@ -8387,7 +8387,7 @@ id,sport,value,team
 21601,football,Sam Hartman,WAS
 21602,football,Marcus Rosemy-Jacksaint,PHI
 21607,football,Jaden Shirden,CAR
-21609,football,Harrison Mevis,LA
+21609,football,Harrison Mevis,BAL
 21612,football,Devin Carter,CAR
 21615,football,OJ Hiliare,ATL
 21618,football,Ian Wheeler,PHI
@@ -8532,7 +8532,7 @@ id,sport,value,team
 22023,football,David Wallis,NE
 22026,football,Derek Slywka,IND
 22033,football,Rory Starkey,GB
-22034,football,Nikko Remigio,KC
+22034,football,Nikko Remigio,HOU
 22036,football,Ben Bryant,NYJ
 22037,football,Kairee Robinson,SEA
 22038,football,Geor'Quarius Spivey,KC

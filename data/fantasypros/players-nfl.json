@@ -24391,7 +24391,7 @@
       "RB"
     ],
     "sportsdata_player_id": "42b57148-fc06-4aee-b40b-bb941271b5b7",
-    "team_id": "HOU",
+    "team_id": "FA",
     "yahoo_id": "30860"
   },
   {
@@ -157381,9 +157381,8 @@
     "nfl_id": null,
     "player_id": 28290,
     "player_name": "Kendal Daniels",
-    "position_id": "S",
+    "position_id": "LB",
     "positions": [
-      "S",
       "LB"
     ],
     "sportsdata_player_id": "268ce1f0-3ddd-4c15-80a8-0d6c1b6fbafa",

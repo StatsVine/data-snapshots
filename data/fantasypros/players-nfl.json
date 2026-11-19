@@ -22672,7 +22672,7 @@
     "position_id": "DE",
     "positions": [
       "DE",
-      "DE,DT,LB"
+      "DE,LB"
     ],
     "sportsdata_player_id": "887dc7b2-fb32-4126-be14-509b40424d34",
     "team_id": "NYG",
@@ -44691,7 +44691,7 @@
       "WR"
     ],
     "sportsdata_player_id": "1d1c217b-6407-40d7-aebb-ba95fa05d127",
-    "team_id": "PIT",
+    "team_id": "FA",
     "yahoo_id": "32877"
   },
   {
@@ -50143,7 +50143,7 @@
       "LB"
     ],
     "sportsdata_player_id": "ae372a9d-6f85-4e37-a910-47fd77483ebc",
-    "team_id": "KC",
+    "team_id": "FA",
     "yahoo_id": "32977"
   },
   {
@@ -85051,7 +85051,7 @@
       "WR"
     ],
     "sportsdata_player_id": "4a76219c-34b8-4cfe-81ab-2bb011368367",
-    "team_id": "FA",
+    "team_id": "MIN",
     "yahoo_id": "33444"
   },
   {
@@ -103708,8 +103708,7 @@
     "player_name": "Percy Butler",
     "position_id": "S",
     "positions": [
-      "S",
-      "CB,S"
+      "S"
     ],
     "sportsdata_player_id": "5f70ae1d-2014-4f95-b0f5-26c9d4920ccc",
     "team_id": "WAS",
@@ -113771,7 +113770,7 @@
       "DE,LB"
     ],
     "sportsdata_player_id": "59e9c19c-c6f6-4f53-b231-d76134ba8fb6",
-    "team_id": "FA",
+    "team_id": "CAR",
     "yahoo_id": "40179"
   },
   {
@@ -114761,7 +114760,7 @@
       "WR"
     ],
     "sportsdata_player_id": "c634c231-61fb-4725-8533-2cce14bfebbf",
-    "team_id": "FA",
+    "team_id": "NYG",
     "yahoo_id": "40158"
   },
   {
@@ -118990,7 +118989,7 @@
       "CB"
     ],
     "sportsdata_player_id": "746c9640-e8ed-11ed-af6f-21e65a511f8c",
-    "team_id": "FA",
+    "team_id": "DET",
     "yahoo_id": "40415"
   },
   {
@@ -120995,8 +120994,7 @@
     "player_name": "Trevor Nowaske",
     "position_id": "LB",
     "positions": [
-      "LB",
-      "DE,LB"
+      "LB"
     ],
     "sportsdata_player_id": "bb52aa90-ec71-11ed-a9ce-551f11053e13",
     "team_id": "DET",
@@ -128111,7 +128109,7 @@
       "WR"
     ],
     "sportsdata_player_id": "ef0feb13-57b8-474c-a723-cf03f57a321a",
-    "team_id": "FA",
+    "team_id": "ARI",
     "yahoo_id": "41045"
   },
   {
@@ -132300,7 +132298,7 @@
       "P"
     ],
     "sportsdata_player_id": "ddd2e220-0709-11ef-8cb5-b5238826fa26",
-    "team_id": "FA",
+    "team_id": "MIA",
     "yahoo_id": null
   },
   {
@@ -147634,7 +147632,7 @@
       "CB"
     ],
     "sportsdata_player_id": "441f06f0-23cc-11f0-aeb7-39a1d644c2f5",
-    "team_id": "FA",
+    "team_id": "NYG",
     "yahoo_id": "42141"
   },
   {
@@ -159309,7 +159307,7 @@
       "TE"
     ],
     "sportsdata_player_id": "9d8c7f71-3c7e-4459-bbcc-2c7c0f984b78",
-    "team_id": "FA",
+    "team_id": "CLE",
     "yahoo_id": "42870"
   },
   {
@@ -165014,7 +165012,7 @@
     "filename": "https://www.fantasypros.com/nfl/players/jacob-de-jesus.php",
     "first_name": "Jacob",
     "last_name": "De Jesus",
-    "mfl_id": null,
+    "mfl_id": "17833",
     "nfl_id": null,
     "player_id": 28756,
     "player_name": "Jacob De Jesus",

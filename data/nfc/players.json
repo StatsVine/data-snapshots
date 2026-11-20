@@ -22068,6 +22068,12 @@
     "value": "Kane Kepley"
   },
   {
+    "id": 12834,
+    "sport": "baseball",
+    "team": "ATH",
+    "value": "Cole Conn"
+  },
+  {
     "id": 1015,
     "sport": "basketball",
     "team": "HOU",
@@ -43892,7 +43898,7 @@
   {
     "id": 18104,
     "sport": "football",
-    "team": "SEA",
+    "team": "LAC",
     "value": "Josiah Deguara"
   },
   {
@@ -48824,7 +48830,7 @@
   {
     "id": 20765,
     "sport": "football",
-    "team": "ATL",
+    "team": "WAS",
     "value": "Malik Heath"
   },
   {

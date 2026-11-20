@@ -3677,6 +3677,7 @@ id,sport,value,team
 12831,baseball,Luis Gutierrez,SD
 12832,baseball,Robert Cranz,SF
 12833,baseball,Kane Kepley,CHC
+12834,baseball,Cole Conn,ATH
 1015,basketball,Tyson Chandler,HOU
 1023,basketball,Joe Johnson,BOS
 1091,basketball,Mike James,BKN
@@ -7314,7 +7315,7 @@ id,sport,value,team
 18040,football,Jacques Patrick,NYJ
 18041,football,James Robinson,NO
 18042,football,Ramiz Ahmed,WAS
-18104,football,Josiah Deguara,SEA
+18104,football,Josiah Deguara,LAC
 18128,football,Dalton Keene,HOU
 18158,football,Tyler Bass,BUF
 18169,football,Darnell Mooney,NYG
@@ -8136,7 +8137,7 @@ id,sport,value,team
 20757,football,Tim DeMorat,WAS
 20758,football,Duece Watts,PIT
 20764,football,Henry Pearson,GB
-20765,football,Malik Heath,ATL
+20765,football,Malik Heath,WAS
 20769,football,Camren McDonald,LA
 20770,football,Calvin Tyler,CIN
 20771,football,Matt Landers,TEN

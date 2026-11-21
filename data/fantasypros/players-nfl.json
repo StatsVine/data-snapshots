@@ -33136,7 +33136,7 @@
       "QB"
     ],
     "sportsdata_player_id": "0042266b-cb28-4012-bfd2-06650badad97",
-    "team_id": "IND",
+    "team_id": "FA",
     "yahoo_id": "31838"
   },
   {
@@ -39334,7 +39334,7 @@
       "LB"
     ],
     "sportsdata_player_id": "04d09b84-6c99-4d99-a1f0-c30d3360ab52",
-    "team_id": "IND",
+    "team_id": "FA",
     "yahoo_id": "32666"
   },
   {
@@ -55224,7 +55224,7 @@
       "WR"
     ],
     "sportsdata_player_id": "39156891-0d05-470b-8b64-751602820bb1",
-    "team_id": "CAR",
+    "team_id": "FA",
     "yahoo_id": "33545"
   },
   {
@@ -161106,7 +161106,7 @@
     "mfl_id": "17821",
     "nfl_id": null,
     "player_id": 28510,
-    "player_name": "Gregory Desrosiers",
+    "player_name": "Gregory Desrosiers Jr.",
     "position_id": "RB",
     "positions": [
       "RB"

@@ -7389,7 +7389,7 @@
       "WR"
     ],
     "sportsdata_player_id": "b6b954eb-4591-4b7a-86b9-a481f15fdd58",
-    "team_id": "SF",
+    "team_id": "FA",
     "yahoo_id": "27548"
   },
   {
@@ -16070,7 +16070,7 @@
       "LB"
     ],
     "sportsdata_player_id": "3128aa52-4c62-4096-bf31-bef0fe8d6abc",
-    "team_id": "LAR",
+    "team_id": "FA",
     "yahoo_id": "25549"
   },
   {
@@ -103408,7 +103408,7 @@
       "RB"
     ],
     "sportsdata_player_id": "8a9a3c7f-57a1-4064-9bda-2c7fad7b5c01",
-    "team_id": "FA",
+    "team_id": "GB",
     "yahoo_id": "34083"
   },
   {
@@ -114096,7 +114096,7 @@
       "DE,LB"
     ],
     "sportsdata_player_id": "11feb266-14e8-488c-9f7e-f221eaa92df8",
-    "team_id": "GB",
+    "team_id": "FA",
     "yahoo_id": "40092"
   },
   {
@@ -151564,7 +151564,7 @@
     "filename": "https://www.fantasypros.com/nfl/players/max-hurleman.php",
     "first_name": "Max",
     "last_name": "Hurleman",
-    "mfl_id": null,
+    "mfl_id": "17834",
     "nfl_id": "2574495",
     "player_id": 27911,
     "player_name": "Max Hurleman",
@@ -162397,7 +162397,7 @@
     "yahoo_id": "43056"
   },
   {
-    "birthdate": "",
+    "birthdate": "2004-03-07",
     "cbs_id": "28901524",
     "draft_class": 2026,
     "espn_id": null,
@@ -164945,7 +164945,7 @@
     "yahoo_id": "43248"
   },
   {
-    "birthdate": "",
+    "birthdate": "2003-06-08",
     "cbs_id": "26704989",
     "draft_class": 2026,
     "espn_id": null,

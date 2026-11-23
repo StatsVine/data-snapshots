@@ -42884,7 +42884,7 @@
       "WR"
     ],
     "sportsdata_player_id": "c90471cc-fa60-4416-9388-5aebb5d877eb",
-    "team_id": "SF",
+    "team_id": "FA",
     "yahoo_id": "32695"
   },
   {
@@ -96005,7 +96005,7 @@
       "LB"
     ],
     "sportsdata_player_id": "54bd7952-4bec-4b5a-beb0-d65421408293",
-    "team_id": "ATL",
+    "team_id": "FA",
     "yahoo_id": "34031"
   },
   {
@@ -116665,7 +116665,7 @@
       "CB"
     ],
     "sportsdata_player_id": "3c6085b1-7c02-498e-b587-1ff13c0ac27b",
-    "team_id": "FA",
+    "team_id": "ATL",
     "yahoo_id": "40175"
   },
   {
@@ -131893,7 +131893,7 @@
       "RB"
     ],
     "sportsdata_player_id": "7fcfe130-06fc-11ef-9592-67ed152bdb91",
-    "team_id": "LV",
+    "team_id": "FA",
     "yahoo_id": "41261"
   },
   {
@@ -135077,7 +135077,7 @@
     "birthdate": "1997-11-03",
     "cbs_id": "29379145",
     "draft_class": 2024,
-    "espn_id": null,
+    "espn_id": "5211114",
     "filename": "https://www.fantasypros.com/nfl/players/david-olajiga.php",
     "first_name": "David",
     "last_name": "Olajiga",
@@ -139897,7 +139897,7 @@
       "DE,LB"
     ],
     "sportsdata_player_id": "521af940-2556-11f0-b31c-15f75b688f25",
-    "team_id": "ATL",
+    "team_id": "FA",
     "yahoo_id": "42358"
   },
   {
@@ -142709,7 +142709,7 @@
     "yahoo_id": null
   },
   {
-    "birthdate": "",
+    "birthdate": "2004-04-29",
     "cbs_id": "28875653",
     "draft_class": 2026,
     "espn_id": "4685477",
@@ -148828,7 +148828,7 @@
     "birthdate": "2002-05-24",
     "cbs_id": "3161763",
     "draft_class": 2025,
-    "espn_id": null,
+    "espn_id": "4775268",
     "filename": "https://www.fantasypros.com/nfl/players/mike-reid.php",
     "first_name": "Mike",
     "last_name": "Reid",
@@ -150656,7 +150656,7 @@
     "birthdate": "2001-09-22",
     "cbs_id": null,
     "draft_class": 2025,
-    "espn_id": null,
+    "espn_id": "4566165",
     "filename": "https://www.fantasypros.com/nfl/players/jj-roberts.php",
     "first_name": "JJ",
     "last_name": "Roberts",
@@ -151560,7 +151560,7 @@
     "birthdate": "2001-10-19",
     "cbs_id": "3163775",
     "draft_class": 2025,
-    "espn_id": null,
+    "espn_id": "4694237",
     "filename": "https://www.fantasypros.com/nfl/players/max-hurleman.php",
     "first_name": "Max",
     "last_name": "Hurleman",
@@ -151568,9 +151568,9 @@
     "nfl_id": "2574495",
     "player_id": 27911,
     "player_name": "Max Hurleman",
-    "position_id": "CB",
+    "position_id": "WR",
     "positions": [
-      "CB",
+      "WR",
       "RB,WR"
     ],
     "sportsdata_player_id": "d0d3ec70-2f64-11f0-b6b1-59c4a0e5b23c",
@@ -159871,7 +159871,7 @@
     "yahoo_id": "43265"
   },
   {
-    "birthdate": "",
+    "birthdate": "2002-03-12",
     "cbs_id": "26726059",
     "draft_class": 2026,
     "espn_id": null,
@@ -162675,7 +162675,7 @@
     "yahoo_id": null
   },
   {
-    "birthdate": "",
+    "birthdate": "2002-05-26",
     "cbs_id": "29451858",
     "draft_class": 2026,
     "espn_id": null,
@@ -163191,7 +163191,7 @@
     "yahoo_id": "43092"
   },
   {
-    "birthdate": "",
+    "birthdate": "2003-04-15",
     "cbs_id": "26697658",
     "draft_class": 2026,
     "espn_id": null,
@@ -164269,7 +164269,7 @@
     "yahoo_id": "43179"
   },
   {
-    "birthdate": "",
+    "birthdate": "2002-02-13",
     "cbs_id": "3171677",
     "draft_class": 2026,
     "espn_id": null,
@@ -164528,7 +164528,7 @@
     "yahoo_id": "43201"
   },
   {
-    "birthdate": "",
+    "birthdate": "2000-08-26",
     "cbs_id": "26702243",
     "draft_class": 2026,
     "espn_id": null,
@@ -164687,7 +164687,7 @@
     "yahoo_id": "43211"
   },
   {
-    "birthdate": "",
+    "birthdate": "2002-11-26",
     "cbs_id": "26694220",
     "draft_class": 2026,
     "espn_id": null,
@@ -165005,7 +165005,7 @@
     "yahoo_id": "43262"
   },
   {
-    "birthdate": "",
+    "birthdate": "2002-03-13",
     "cbs_id": "29121519",
     "draft_class": 2026,
     "espn_id": "5155179",
@@ -165265,7 +165265,7 @@
     "yahoo_id": "43288"
   },
   {
-    "birthdate": "",
+    "birthdate": "2003-10-12",
     "cbs_id": null,
     "draft_class": 2026,
     "espn_id": null,
@@ -165644,7 +165644,7 @@
     "yahoo_id": "43356"
   },
   {
-    "birthdate": "",
+    "birthdate": "2004-04-12",
     "cbs_id": "28927738",
     "draft_class": 2026,
     "espn_id": null,
@@ -165764,7 +165764,7 @@
     "yahoo_id": "43368"
   },
   {
-    "birthdate": "",
+    "birthdate": "2000-12-29",
     "cbs_id": "3166956",
     "draft_class": 2026,
     "espn_id": null,
@@ -165907,7 +165907,7 @@
     "birthdate": "2002-01-04",
     "cbs_id": "29418235",
     "draft_class": 2026,
-    "espn_id": null,
+    "espn_id": "5225251",
     "filename": "https://www.fantasypros.com/nfl/players/malcom-dewalt-iv.php",
     "first_name": "Malcolm",
     "last_name": "DeWalt",
@@ -167368,7 +167368,7 @@
     "yahoo_id": "43458"
   },
   {
-    "birthdate": "",
+    "birthdate": "2003-05-14",
     "cbs_id": null,
     "draft_class": 2026,
     "espn_id": null,
@@ -168904,7 +168904,7 @@
       "CB"
     ],
     "sportsdata_player_id": "bcaf78b0-6981-11f1-a6f3-3f8f46fdc411",
-    "team_id": "FA",
+    "team_id": "DEN",
     "yahoo_id": "43461"
   },
   {

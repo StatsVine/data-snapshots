@@ -818,7 +818,7 @@
   {
     "id": 8126,
     "sport": "baseball",
-    "team": "NYY",
+    "team": "NYM",
     "value": "Paul Goldschmidt"
   },
   {
@@ -1436,7 +1436,7 @@
   {
     "id": 8494,
     "sport": "baseball",
-    "team": "CHC",
+    "team": "KC",
     "value": "Caleb Thielbar"
   },
   {
@@ -1520,7 +1520,7 @@
   {
     "id": 8546,
     "sport": "baseball",
-    "team": "BOS",
+    "team": "MIN",
     "value": "Sonny Gray"
   },
   {
@@ -4682,7 +4682,7 @@
   {
     "id": 9436,
     "sport": "baseball",
-    "team": "ATL",
+    "team": "NYY",
     "value": "Brent Suter"
   },
   {
@@ -4976,7 +4976,7 @@
   {
     "id": 9506,
     "sport": "baseball",
-    "team": "CWS",
+    "team": "COL",
     "value": "Luis Castillo"
   },
   {
@@ -5606,7 +5606,7 @@
   {
     "id": 9635,
     "sport": "baseball",
-    "team": "LAD",
+    "team": "ATL",
     "value": "Evan Phillips"
   },
   {
@@ -5696,7 +5696,7 @@
   {
     "id": 9652,
     "sport": "baseball",
-    "team": "CIN",
+    "team": "DET",
     "value": "Emilio Pagan"
   },
   {
@@ -6350,7 +6350,7 @@
   {
     "id": 9788,
     "sport": "baseball",
-    "team": "MLW",
+    "team": "BOS",
     "value": "Jake Bauers"
   },
   {
@@ -6878,7 +6878,7 @@
   {
     "id": 9897,
     "sport": "baseball",
-    "team": "ARZ",
+    "team": "NYY",
     "value": "Jonathan Loaisiga"
   },
   {
@@ -6956,7 +6956,7 @@
   {
     "id": 9915,
     "sport": "baseball",
-    "team": "TB",
+    "team": "BAL",
     "value": "Freddy Peralta"
   },
   {
@@ -8246,7 +8246,7 @@
   {
     "id": 10178,
     "sport": "baseball",
-    "team": "BAL",
+    "team": "NYM",
     "value": "Darwinzon Hernandez"
   },
   {
@@ -8312,7 +8312,7 @@
   {
     "id": 10189,
     "sport": "baseball",
-    "team": "MLW",
+    "team": "CWS",
     "value": "Dustin May"
   },
   {
@@ -8630,7 +8630,7 @@
   {
     "id": 10245,
     "sport": "baseball",
-    "team": "CWS",
+    "team": "CHC",
     "value": "Joey Bart"
   },
   {
@@ -9050,7 +9050,7 @@
   {
     "id": 10319,
     "sport": "baseball",
-    "team": "MIN",
+    "team": "LAD",
     "value": "Royce Lewis"
   },
   {
@@ -9236,7 +9236,7 @@
   {
     "id": 10351,
     "sport": "baseball",
-    "team": "BAL",
+    "team": "CHC",
     "value": "Trevor Rogers"
   },
   {
@@ -10982,7 +10982,7 @@
   {
     "id": 10711,
     "sport": "baseball",
-    "team": "LAD",
+    "team": "NYM",
     "value": "Tarik Skubal"
   },
   {
@@ -11222,7 +11222,7 @@
   {
     "id": 10760,
     "sport": "baseball",
-    "team": "NYY",
+    "team": "DET",
     "value": "Luis Gil"
   },
   {
@@ -11876,7 +11876,7 @@
   {
     "id": 10892,
     "sport": "baseball",
-    "team": "BOS",
+    "team": "ARZ",
     "value": "Johan Oviedo"
   },
   {
@@ -12110,7 +12110,7 @@
   {
     "id": 10933,
     "sport": "baseball",
-    "team": "LAD",
+    "team": "CLE",
     "value": "Kris Bubic"
   },
   {
@@ -12872,7 +12872,7 @@
   {
     "id": 11073,
     "sport": "baseball",
-    "team": "LAD",
+    "team": "MIN",
     "value": "Bobby Miller"
   },
   {
@@ -13988,7 +13988,7 @@
   {
     "id": 11289,
     "sport": "baseball",
-    "team": "TB",
+    "team": "BOS",
     "value": "Nick Fortes"
   },
   {
@@ -14276,7 +14276,7 @@
   {
     "id": 11345,
     "sport": "baseball",
-    "team": "KC",
+    "team": "SEA",
     "value": "James McArthur"
   },
   {
@@ -14402,7 +14402,7 @@
   {
     "id": 11375,
     "sport": "baseball",
-    "team": "HOU",
+    "team": "SD",
     "value": "Ryan Weiss"
   },
   {
@@ -14450,7 +14450,7 @@
   {
     "id": 11387,
     "sport": "baseball",
-    "team": "KC",
+    "team": "SEA",
     "value": "Maikel Garcia"
   },
   {
@@ -14834,7 +14834,7 @@
   {
     "id": 11470,
     "sport": "baseball",
-    "team": "CWS",
+    "team": "COL",
     "value": "Davis Martin"
   },
   {
@@ -15680,7 +15680,7 @@
   {
     "id": 11636,
     "sport": "baseball",
-    "team": "SEA",
+    "team": "KC",
     "value": "Bryce Miller"
   },
   {
@@ -15806,7 +15806,7 @@
   {
     "id": 11662,
     "sport": "baseball",
-    "team": "SEA",
+    "team": "KC",
     "value": "Jose A. Ferrer"
   },
   {
@@ -16040,7 +16040,7 @@
   {
     "id": 11731,
     "sport": "baseball",
-    "team": "WAS",
+    "team": "NYM",
     "value": "Gus Varland"
   },
   {
@@ -16370,7 +16370,7 @@
   {
     "id": 11794,
     "sport": "baseball",
-    "team": "SF",
+    "team": "MLW",
     "value": "Ryan Walker"
   },
   {
@@ -17042,7 +17042,7 @@
   {
     "id": 11909,
     "sport": "baseball",
-    "team": "NYM",
+    "team": "CHC",
     "value": "Chayce McDermott"
   },
   {
@@ -17162,13 +17162,13 @@
   {
     "id": 11929,
     "sport": "baseball",
-    "team": "DET",
+    "team": "LAA",
     "value": "Jace Jung"
   },
   {
     "id": 11930,
     "sport": "baseball",
-    "team": "BAL",
+    "team": "NYY",
     "value": "Chase Hampton"
   },
   {
@@ -17666,7 +17666,7 @@
   {
     "id": 12028,
     "sport": "baseball",
-    "team": "CWS",
+    "team": "PHI",
     "value": "Jordan Leasure"
   },
   {
@@ -18086,7 +18086,7 @@
   {
     "id": 12116,
     "sport": "baseball",
-    "team": "BOS",
+    "team": "ATH",
     "value": "Raymond Burgos"
   },
   {
@@ -18614,7 +18614,7 @@
   {
     "id": 12208,
     "sport": "baseball",
-    "team": "SEA",
+    "team": "KC",
     "value": "Logan Evans"
   },
   {
@@ -18645,7 +18645,7 @@
     "id": 12213,
     "sport": "baseball",
     "team": "BAL",
-    "value": "Enrique Bradfield"
+    "value": "Enrique Bradfield Jr."
   },
   {
     "id": 12214,
@@ -18740,7 +18740,7 @@
   {
     "id": 12230,
     "sport": "baseball",
-    "team": "TEX",
+    "team": "WAS",
     "value": "Alejandro Rosario"
   },
   {
@@ -19058,7 +19058,7 @@
   {
     "id": 12293,
     "sport": "baseball",
-    "team": "TOR",
+    "team": "COL",
     "value": "Chase Lee"
   },
   {
@@ -19190,7 +19190,7 @@
   {
     "id": 12325,
     "sport": "baseball",
-    "team": "NYM",
+    "team": "TOR",
     "value": "Christian Cairo"
   },
   {
@@ -19418,13 +19418,13 @@
   {
     "id": 12370,
     "sport": "baseball",
-    "team": "SF",
+    "team": "TB",
     "value": "Christian Koss"
   },
   {
     "id": 12371,
     "sport": "baseball",
-    "team": "ATL",
+    "team": "KC",
     "value": "Lucas Braun"
   },
   {
@@ -19964,7 +19964,7 @@
   {
     "id": 12465,
     "sport": "baseball",
-    "team": "BAL",
+    "team": "WAS",
     "value": "Philip Abner"
   },
   {
@@ -20444,7 +20444,7 @@
   {
     "id": 12546,
     "sport": "baseball",
-    "team": "BAL",
+    "team": "TEX",
     "value": "Josh White"
   },
   {
@@ -20540,7 +20540,7 @@
   {
     "id": 12562,
     "sport": "baseball",
-    "team": "BAL",
+    "team": "ATL",
     "value": "Cameron Foster"
   },
   {
@@ -20594,7 +20594,7 @@
   {
     "id": 12571,
     "sport": "baseball",
-    "team": "ATH",
+    "team": "BAL",
     "value": "Braden Nett"
   },
   {
@@ -21236,7 +21236,7 @@
   {
     "id": 12693,
     "sport": "baseball",
-    "team": "COL",
+    "team": "CWS",
     "value": "Sean Sullivan"
   },
   {
@@ -21368,7 +21368,7 @@
   {
     "id": 12715,
     "sport": "baseball",
-    "team": "ATH",
+    "team": "NYM",
     "value": "Yunior Tur"
   },
   {
@@ -21566,7 +21566,7 @@
   {
     "id": 12748,
     "sport": "baseball",
-    "team": "WAS",
+    "team": "CHC",
     "value": "Braxton Roxby"
   },
   {
@@ -21699,7 +21699,7 @@
     "id": 12770,
     "sport": "baseball",
     "team": "LAD",
-    "value": "Christian Zazueta"
+    "value": "Christian Zazueta Jr."
   },
   {
     "id": 12771,
@@ -21884,7 +21884,7 @@
   {
     "id": 12801,
     "sport": "baseball",
-    "team": "NYY",
+    "team": "SF",
     "value": "Henry Lalane"
   },
   {
@@ -22072,6 +22072,246 @@
     "sport": "baseball",
     "team": "ATH",
     "value": "Cole Conn"
+  },
+  {
+    "id": 12835,
+    "sport": "baseball",
+    "team": "MIA",
+    "value": "Jace Beck"
+  },
+  {
+    "id": 12836,
+    "sport": "baseball",
+    "team": "MIA",
+    "value": "Juan Matheus"
+  },
+  {
+    "id": 12837,
+    "sport": "baseball",
+    "team": "MIA",
+    "value": "Eliazar Dishmey"
+  },
+  {
+    "id": 12838,
+    "sport": "baseball",
+    "team": "MIA",
+    "value": "Brandon White"
+  },
+  {
+    "id": 12839,
+    "sport": "baseball",
+    "team": "ATL",
+    "value": "Davis Polo"
+  },
+  {
+    "id": 12840,
+    "sport": "baseball",
+    "team": "ATL",
+    "value": "Cedric De Grandpre"
+  },
+  {
+    "id": 12841,
+    "sport": "baseball",
+    "team": "TOR",
+    "value": "Daniel Guerra"
+  },
+  {
+    "id": 12842,
+    "sport": "baseball",
+    "team": "ARZ",
+    "value": "Wellington Aracena"
+  },
+  {
+    "id": 12843,
+    "sport": "baseball",
+    "team": "ARZ",
+    "value": "Spencer Giesting"
+  },
+  {
+    "id": 12844,
+    "sport": "baseball",
+    "team": "ARZ",
+    "value": "Ashton Izzi"
+  },
+  {
+    "id": 12845,
+    "sport": "baseball",
+    "team": "ARZ",
+    "value": "Cristofer Torin"
+  },
+  {
+    "id": 12846,
+    "sport": "baseball",
+    "team": "COL",
+    "value": "Bryant Betancourt"
+  },
+  {
+    "id": 12847,
+    "sport": "baseball",
+    "team": "COL",
+    "value": "Jack Mahoney"
+  },
+  {
+    "id": 12848,
+    "sport": "baseball",
+    "team": "COL",
+    "value": "Jackson Cox"
+  },
+  {
+    "id": 12849,
+    "sport": "baseball",
+    "team": "STL",
+    "value": "Jacob Odle"
+  },
+  {
+    "id": 12850,
+    "sport": "baseball",
+    "team": "CWS",
+    "value": "Jaden Woods"
+  },
+  {
+    "id": 12851,
+    "sport": "baseball",
+    "team": "CWS",
+    "value": "William Bergolla"
+  },
+  {
+    "id": 12852,
+    "sport": "baseball",
+    "team": "PIT",
+    "value": "Axiel Plaz"
+  },
+  {
+    "id": 12853,
+    "sport": "baseball",
+    "team": "PIT",
+    "value": "Mitch Jebb"
+  },
+  {
+    "id": 12854,
+    "sport": "baseball",
+    "team": "LAA",
+    "value": "Raudi Rodriguez"
+  },
+  {
+    "id": 12855,
+    "sport": "baseball",
+    "team": "CHC",
+    "value": "Brody McCullough"
+  },
+  {
+    "id": 12856,
+    "sport": "baseball",
+    "team": "DET",
+    "value": "Peyton Graham"
+  },
+  {
+    "id": 12857,
+    "sport": "baseball",
+    "team": "BAL",
+    "value": "Levi Wells"
+  },
+  {
+    "id": 12858,
+    "sport": "baseball",
+    "team": "BAL",
+    "value": "Patrick Reilly"
+  },
+  {
+    "id": 12859,
+    "sport": "baseball",
+    "team": "BAL",
+    "value": "Braxton Bragg"
+  },
+  {
+    "id": 12860,
+    "sport": "baseball",
+    "team": "CLE",
+    "value": "Justin Campbell"
+  },
+  {
+    "id": 12862,
+    "sport": "baseball",
+    "team": "NYY",
+    "value": "Garrett Martin"
+  },
+  {
+    "id": 12863,
+    "sport": "baseball",
+    "team": "NYY",
+    "value": "Kyle Carr"
+  },
+  {
+    "id": 12864,
+    "sport": "baseball",
+    "team": "SF",
+    "value": "Josh Bostick"
+  },
+  {
+    "id": 12866,
+    "sport": "baseball",
+    "team": "SF",
+    "value": "Marty Gair"
+  },
+  {
+    "id": 12867,
+    "sport": "baseball",
+    "team": "CIN",
+    "value": "Carter Graham"
+  },
+  {
+    "id": 12868,
+    "sport": "baseball",
+    "team": "SD",
+    "value": "Ian Gregory Koenig"
+  },
+  {
+    "id": 12869,
+    "sport": "baseball",
+    "team": "SD",
+    "value": "Tucker Musgrove"
+  },
+  {
+    "id": 12871,
+    "sport": "baseball",
+    "team": "MLW",
+    "value": "Dylan O'Rae"
+  },
+  {
+    "id": 12872,
+    "sport": "baseball",
+    "team": "MLW",
+    "value": "Tate Kuehner"
+  },
+  {
+    "id": 12873,
+    "sport": "baseball",
+    "team": "MLW",
+    "value": "Matthew Wood"
+  },
+  {
+    "id": 12874,
+    "sport": "baseball",
+    "team": "MLW",
+    "value": "Cameron Wagoner"
+  },
+  {
+    "id": 12875,
+    "sport": "baseball",
+    "team": "HOU",
+    "value": "Jackson Nezuh"
+  },
+  {
+    "id": 12876,
+    "sport": "baseball",
+    "team": "LAD",
+    "value": "Adam Serwinowski"
+  },
+  {
+    "id": 12877,
+    "sport": "baseball",
+    "team": "CHC",
+    "value": "Teruaki Sato"
   },
   {
     "id": 1015,
@@ -46358,7 +46598,7 @@
   {
     "id": 19448,
     "sport": "football",
-    "team": "NYG",
+    "team": "IND",
     "value": "Eric Gray"
   },
   {

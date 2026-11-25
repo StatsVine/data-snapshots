@@ -78,7 +78,6 @@ player_id,player_name,first_name,last_name,position_id,positions,team_id,birthda
 9683,Golden Tate,Golden,Tate,WR,"[""WR""]",FA,1988-08-02,2010,c88d9352-b835-45ed-a909-1cfec09a58bc,13217,24035,1265470,497326,9831,https://www.fantasypros.com/nfl/players/golden-tate.php
 9696,Andre Roberts,Andre,Roberts,WR,"[""WR""]",FA,1988-01-09,2010,9691f874-be36-4529-a7eb-dde22ee4a848,13226,24063,1687529,497320,9921,https://www.fantasypros.com/nfl/players/andre-roberts.php
 9707,Emmanuel Sanders,Emmanuel,Sanders,WR,"[""WR""]",FA,1987-03-17,2010,fd4e8681-f2f4-47c7-b954-a72be9b1ca00,13295,24057,564943,497322,9918,https://www.fantasypros.com/nfl/players/emmanuel-sanders.php
-9712,Jimmy Graham,Jimmy,Graham,TE,"[""TE""]",FA,1986-11-24,2010,fd85786d-3900-4dc0-9b30-334ee30413ed,13232,24070,1691166,497236,9925,https://www.fantasypros.com/nfl/players/jimmy-graham.php
 9714,Joe Webb III,Joe,Webb,QB,"[""QB""]",FA,1986-11-14,2010,250199f2-1387-4b55-b96f-17fedea6db7f,13484,24175,1123545,1037347,9992,https://www.fantasypros.com/nfl/players/joe-webb.php
 9721,Rob Gronkowski,Rob,Gronkowski,TE,"[""TE""]",FA,1989-05-14,2010,2142a164-48ad-47d6-bb27-0bc58c6b2e62,13229,24017,1244303,497240,9902,https://www.fantasypros.com/nfl/players/rob-gronkowski.php
 9722,Shawnbrey McNeal,Shawnbrey,McNeal,RB,"[""RB""]",FA,1988-10-17,,03c0a72e-4c36-47f5-ba96-8790e8b84b0b,,24488,1272291,,10039,https://www.fantasypros.com/nfl/players/shawnbrey-mcneal.php
@@ -390,7 +389,6 @@ player_id,player_name,first_name,last_name,position_id,positions,team_id,birthda
 12160,Aaron Lynch,Aaron,Lynch,LB,"[""LB"",""DE,LB""]",FA,1993-03-08,2014,df4d7b62-ef37-494b-b068-f319ad336bbb,16941,27678,1825187,2543650,11712,https://www.fantasypros.com/nfl/players/aaron-lynch.php
 12165,Tim Jernigan,Timmy,Jernigan,DE,"[""DE"",""DT""]",FA,1992-09-24,2014,1de5c7ea-54dd-4a1a-a319-4429ce604b3d,16785,27576,1860755,2543461,11717,https://www.fantasypros.com/nfl/players/timmy-jernigan.php
 12167,Daniel McCullers,Daniel,McCullers,DT,"[""DT""]",FA,1992-08-11,2014,f6ff73b1-d607-4226-83ab-b523bdc0be4e,16952,27743,,2550154,11719,https://www.fantasypros.com/nfl/players/daniel-mccullers.php
-12168,Anthony Barr,Anthony,Barr,LB,"[""LB""]",FA,1992-03-18,2014,23616a22-8266-4b0c-b0b9-5f8187178168,16711,27537,1759765,2543459,11720,https://www.fantasypros.com/nfl/players/anthony-barr.php
 12169,Khalil Mack,Khalil,Mack,LB,"[""LB"",""LB,DE""]",LAC,1991-02-22,2014,33c74bf8-7621-48be-a769-e219703988d9,16710,27533,1692203,2543463,11721,https://www.fantasypros.com/nfl/players/khalil-mack.php
 12171,Kyle Van Noy,Kyle,Van Noy,LB,"[""LB"",""LB,DE""]",MIN,1991-03-26,2014,0ad845ff-44e8-4576-bc91-61b557e06f05,16772,27568,1752529,2543699,11723,https://www.fantasypros.com/nfl/players/kyle-van-noy.php
 12173,Jeremiah Attaochu,Jeremiah,Attaochu,LB,"[""LB"",""LB,DE""]",FA,1993-01-17,2014,614c6237-8fe9-4a62-beec-0c44ca0fc2ad,16761,27578,1759310,2543717,11725,https://www.fantasypros.com/nfl/players/jeremiah-attaochu.php
@@ -1096,7 +1094,7 @@ player_id,player_name,first_name,last_name,position_id,positions,team_id,birthda
 16470,Tyus Bowser,Tyus,Bowser,LB,"[""LB"",""LB,DE""]",FA,1995-05-23,2017,b36539fa-de45-4cfd-90be-49d14149e64e,3040037,30160,2071873,2558166,13256,https://www.fantasypros.com/nfl/players/tyus-bowser.php
 16472,Adoree' Jackson,Adoree',Jackson,CB,"[""CB""]",FA,1995-09-18,2017,6db40c6e-7d09-486e-b80d-1d8008547250,3120347,30131,2139614,2558065,13226,https://www.fantasypros.com/nfl/players/adoree-jackson.php
 16473,Kevin King,Kevin,King,CB,"[""CB""]",FA,1995-05-05,2017,ae0498b4-0ccb-4b11-9449-f26c621d7c79,3052170,30146,2079703,2557996,13250,https://www.fantasypros.com/nfl/players/kevin-king.php
-16477,Cooper Rush,Cooper,Rush,QB,"[""QB""]",TB,1993-11-21,2017,4595c8ea-9d85-4504-8a34-2c8a02349105,2972515,30788,2000176,2559242,13124,https://www.fantasypros.com/nfl/players/cooper-rush.php
+16477,Cooper Rush,Cooper,Rush,QB,"[""QB""]",FA,1993-11-21,2017,4595c8ea-9d85-4504-8a34-2c8a02349105,2972515,30788,2000176,2559242,13124,https://www.fantasypros.com/nfl/players/cooper-rush.php
 16481,T.J. Logan,T.J.,Logan,RB,"[""RB""]",FA,1994-09-03,2017,987fb8b2-98ba-4a01-bd84-d962dcdcd053,3039723,30292,2818319,2558273,13142,https://www.fantasypros.com/nfl/players/tj-logan.php
 16483,Austin Ekeler,Austin,Ekeler,RB,"[""RB""]",WAS,1995-05-17,2017,e5b8c439-a48a-4f83-b63b-1a4d30e04cd3,3068267,30423,2820090,2559169,13404,https://www.fantasypros.com/nfl/players/austin-ekeler.php
 16488,Kenny Golladay,Kenny,Golladay,WR,"[""WR""]",FA,1993-11-03,2017,659d31a3-9c62-4e3d-a0ea-b2e4967d6947,2974858,30209,2005894,2558052,13277,https://www.fantasypros.com/nfl/players/kenny-golladay.php
@@ -1452,7 +1450,7 @@ player_id,player_name,first_name,last_name,position_id,positions,team_id,birthda
 17563,Zaire Franklin,Zaire,Franklin,LB,"[""LB""]",GB,1996-07-02,2018,b0ad00bc-3b30-41ce-8892-f8105e0943e2,3124005,31205,2139141,2561155,13837,https://www.fantasypros.com/nfl/players/zaire-franklin.php
 17567,Peter Kalambayi,Peter,Kalambayi,LB,"[""LB""]",FA,1995-06-26,2018,872967b4-d1ab-4b27-82e9-c40774fc995e,3043276,31184,2067005,2560774,13820,https://www.fantasypros.com/nfl/players/peter-kalambayi.php
 17568,Dane Cruikshank,Dane,Cruikshank,CB,"[""CB"",""S""]",FA,1995-04-27,2018,7f969cc9-59cd-43e9-bcd0-c1885f0b18b7,3931422,31122,2189462,2561033,13784,https://www.fantasypros.com/nfl/players/dane-cruikshank.php
-17570,Isaac Yiadom,Isaac,Yiadom,CB,"[""CB""]",FA,1996-02-20,2018,5bde0a71-c7ec-465f-ad35-c195e1d10b29,3122797,31069,2130980,2560946,13754,https://www.fantasypros.com/nfl/players/isaac-yiadom.php
+17570,Isaac Yiadom,Isaac,Yiadom,CB,"[""CB""]",CHI,1996-02-20,2018,5bde0a71-c7ec-465f-ad35-c195e1d10b29,3122797,31069,2130980,2560946,13754,https://www.fantasypros.com/nfl/players/isaac-yiadom.php
 17571,Dylan Cantrell,Dylan,Cantrell,WR,"[""WR"",""TE,WR""]",FA,1994-06-29,2018,870e89e7-018a-466b-adff-d0fe872b3e20,3052576,31161,2080023,2560990,13807,https://www.fantasypros.com/nfl/players/dylan-cantrell.php
 17572,Justin Jones,Justin,Jones,DT,"[""DT""]",FA,1996-08-28,2018,c82a3f67-90b7-4cc8-ac3b-e6cf469cc541,3116746,31054,2146582,2560769,13748,https://www.fantasypros.com/nfl/players/justin-jones-dt.php
 17573,Tremon Smith,Tremon,Smith,CB,"[""CB""]",HOU,1996-07-20,2018,aecd8785-d22b-43b4-bbff-76b7e4319ed6,3134448,31166,2161394,2561103,13811,https://www.fantasypros.com/nfl/players/tremon-smith.php
@@ -2070,7 +2068,7 @@ player_id,player_name,first_name,last_name,position_id,positions,team_id,birthda
 19064,Tuzar Skipper,Tuzar,Skipper,DE,"[""DE"",""LB,DE""]",FA,1995-06-05,2019,8471f3e4-b507-4554-afbb-df333694360b,4039521,32582,3117129,2563257,14678,https://www.fantasypros.com/nfl/players/tuzar-skipper.php
 19067,Parker Hesse,Parker,Hesse,TE,"[""TE""]",FA,1995-05-26,2019,5aab93f1-bc81-4d83-b105-d579a14eb349,3144991,32588,3117115,2563272,15564,https://www.fantasypros.com/nfl/players/parker-hesse.php
 19070,Kareem Orr,Kareem,Orr,CB,"[""CB""]",FA,1997-01-02,2019,aee4f924-aaf5-4351-b503-9fce1ade59c5,3675805,32589,3117116,2563274,14579,https://www.fantasypros.com/nfl/players/kareem-orr.php
-19074,Craig Reynolds,Craig,Reynolds,RB,"[""RB""]",WAS,1996-06-15,2019,0deb1dc9-0945-470d-8352-220d26d03d7d,4421446,32596,3117134,2562834,14727,https://www.fantasypros.com/nfl/players/craig-reynolds.php
+19074,Craig Reynolds,Craig,Reynolds,RB,"[""RB""]",FA,1996-06-15,2019,0deb1dc9-0945-470d-8352-220d26d03d7d,4421446,32596,3117134,2562834,14727,https://www.fantasypros.com/nfl/players/craig-reynolds.php
 19077,Anthony Pittman,Anthony,Pittman,LB,"[""LB""]",FA,1996-11-24,2019,23df1eb7-f589-4e49-bb31-0b4ce983fe32,4423367,32457,3117026,2563195,14506,https://www.fantasypros.com/nfl/players/anthony-pittman.php
 19084,Juston Christian,Juston,Christian,WR,"[""WR""]",FA,1997-12-17,,2ef7859d-a8bf-49c2-a191-0c8439a687a0,,,,,,https://www.fantasypros.com/nfl/players/juston-christian.php
 19089,Deyon Sizer,Deyon,Sizer,DT,"[""DT""]",FA,1996-08-16,2019,a1329bf2-4f70-48db-9785-3cd29fc7b56f,3145343,32578,3117112,2563254,14610,https://www.fantasypros.com/nfl/players/deyon-sizer.php
@@ -2234,7 +2232,7 @@ player_id,player_name,first_name,last_name,position_id,positions,team_id,birthda
 19372,Colby Parkinson,Colby,Parkinson,TE,"[""TE""]",LAR,1999-01-08,2020,1ea7affb-e5e7-491a-aaa3-55e200b2eb48,4242557,32803,2867522,2565180,14871,https://www.fantasypros.com/nfl/players/colby-parkinson.php
 19374,Benning Potoa'e,Benning,Potoa'e,DT,"[""DT""]",FA,1996-09-17,2020,b5e33405-ea22-4fb7-97d8-8b324d6c90b9,3886826,33277,3159192,2565246,15674,https://www.fantasypros.com/nfl/players/benning-potoae.php
 19375,Isaiah Hodgins,Isaiah,Hodgins,WR,"[""WR""]",FA,1998-10-21,2020,1d1c217b-6407-40d7-aebb-ba95fa05d127,4242540,32877,2783899,2563611,14849,https://www.fantasypros.com/nfl/players/isaiah-hodgins.php
-19376,Shane Buechele,Shane,Buechele,QB,"[""QB""]",BUF,1998-01-08,2021,d7c63db7-dfe8-4cd6-a684-90342d12fa26,4039034,33879,2240307,2566983,15248,https://www.fantasypros.com/nfl/players/shane-buechele.php
+19376,Shane Buechele,Shane,Buechele,QB,"[""QB""]",IND,1998-01-08,2021,d7c63db7-dfe8-4cd6-a684-90342d12fa26,4039034,33879,2240307,2566983,15248,https://www.fantasypros.com/nfl/players/shane-buechele.php
 19377,Michael Pinckney,Michael,Pinckney,LB,"[""LB""]",FA,1998-05-28,2021,a377423e-416b-4a5d-b183-9f37645e447f,,33369,2221933,,,https://www.fantasypros.com/nfl/players/michael-pinckney.php
 19378,Jashon Cornell,Jashon,Cornell,DT,"[""DT"",""DE,DT""]",FA,1996-12-29,2020,564fdf8b-c21e-4889-b371-e8ca079ae9b7,3873928,32905,2179802,2563929,15012,https://www.fantasypros.com/nfl/players/jashon-cornell.php
 19379,Alohi Gilman,Alohi,Gilman,S,"[""S""]",KC,1997-09-17,2020,f3a7ab39-ead2-4dbf-b760-d652b8a26853,4039413,32856,2868542,2565042,14982,https://www.fantasypros.com/nfl/players/alohi-gilman.php
@@ -2294,7 +2292,7 @@ player_id,player_name,first_name,last_name,position_id,positions,team_id,birthda
 19451,Reggie Corbin,Reggie,Corbin,RB,"[""RB""]",FA,,2020,,,,,,14822,https://www.fantasypros.com/nfl/players/reggie-corbin.php
 19452,T.J. Carter,T.J.,Carter,CB,"[""CB"",""DE,DT""]",FA,1998-09-15,2020,c57e6ac8-b427-4c99-9cd0-763651d53268,4035044,33074,3159084,2564898,,https://www.fantasypros.com/nfl/players/tj-carter.php
 19454,Kendall Coleman,Kendall,Coleman,DE,"[""DE""]",FA,1998-04-09,2020,f468ae4a-bd7e-4655-80a6-629624d92227,,33213,2251272,2564112,,https://www.fantasypros.com/nfl/players/kendall-coleman.php
-19456,Josiah Deguara,Josiah,Deguara,TE,"[""TE""]",LAC,1997-02-14,2020,7874d188-0fcd-4af9-9289-27c27e2bbd16,3914151,32764,2181108,2563980,14876,https://www.fantasypros.com/nfl/players/josiah-deguara.php
+19456,Josiah Deguara,Josiah,Deguara,TE,"[""TE""]",FA,1997-02-14,2020,7874d188-0fcd-4af9-9289-27c27e2bbd16,3914151,32764,2181108,2563980,14876,https://www.fantasypros.com/nfl/players/josiah-deguara.php
 19459,Kam Curl,Kam,Curl,S,"[""S""]",LAR,1999-03-31,2020,eff8e3ec-98e4-49c8-b865-436e3abb0870,4242154,32886,2866171,2565270,15001,https://www.fantasypros.com/nfl/players/kamren-curl.php
 19460,William Bradley-King,William,Bradley-King,DE,"[""DE"",""DE,LB""]",FA,1997-12-22,2021,16913d50-4fcd-401e-abb8-3a9fdfd24de5,4036476,33628,2239815,2566583,15485,https://www.fantasypros.com/nfl/players/william-bradley-king.php
 19461,Nate Stanley,Nate,Stanley,QB,"[""QB""]",FA,1997-08-26,2020,fa781bd3-04ed-4536-8d48-af9742c8aa13,4036149,32914,2251110,2564577,14785,https://www.fantasypros.com/nfl/players/nate-stanley.php
@@ -2499,7 +2497,7 @@ player_id,player_name,first_name,last_name,position_id,positions,team_id,birthda
 19723,Riley Neal,Riley,Neal,QB,"[""QB""]",FA,1996-10-02,2020,8e4cd763-30ec-4a00-9dc2-5567a80a3191,,32928,3159056,2563905,14796,https://www.fantasypros.com/nfl/players/riley-neal.php
 19724,Davion Taylor,Davion,Taylor,LB,"[""LB""]",FA,1998-08-05,2020,423b3b98-da9a-4786-84c9-0662ec0ce11f,4360645,32773,2962569,2564862,14941,https://www.fantasypros.com/nfl/players/davion-taylor.php
 19725,Theo Majette,Theo,Majette,DE,"[""DE""]",FA,,2020,,,,,,,https://www.fantasypros.com/nfl/players/theo-majette.php
-19726,Sean McKeon,Sean,McKeon,TE,"[""TE""]",FA,1997-12-28,2020,0f369885-8ecd-4ca0-a3dc-df8530a0db6e,4036275,33101,2239736,2563854,15097,https://www.fantasypros.com/nfl/players/sean-mckeon.php
+19726,Sean McKeon,Sean,McKeon,TE,"[""TE""]",IND,1997-12-28,2020,0f369885-8ecd-4ca0-a3dc-df8530a0db6e,4036275,33101,2239736,2563854,15097,https://www.fantasypros.com/nfl/players/sean-mckeon.php
 19729,Freddie Swain,Freddie,Swain,WR,"[""WR""]",FA,1998-08-04,2020,81997ce2-9e70-4014-999a-25ebb405dbf6,4034950,32884,2221836,2565195,14865,https://www.fantasypros.com/nfl/players/freddie-swain.php
 19730,Ja'Marcus Bradley,Ja'Marcus,Bradley,WR,"[""WR""]",FA,1996-12-11,2020,f1236815-5ed7-4bab-808f-700c4516fd7d,3917569,33302,2188157,2563761,15206,https://www.fantasypros.com/nfl/players/jamarcus-bradley.php
 19732,Dylan Singleton,Dylan,Singleton,S,"[""S""]",FA,,2020,,,,,,,https://www.fantasypros.com/nfl/players/dylan-singleton.php
@@ -4529,14 +4527,14 @@ player_id,player_name,first_name,last_name,position_id,positions,team_id,birthda
 23036,Jaden Walley,Jaden,Walley,WR,"[""WR""]",FA,,2023,,,,,,,https://www.fantasypros.com/nfl/players/jaden-walley.php
 23037,Ricky Person Jr.,Ricky,Person,RB,"[""RB""]",FA,1999-11-12,2023,4f48ca10-c980-11ec-a1a0-57a82b503f37,,34402,2966141,2568372,15740,https://www.fantasypros.com/nfl/players/ricky-person-jr.php
 23039,Thomas Fidone II,Thomas,Fidone,TE,"[""TE""]",NYG,2002-09-20,2025,0e21445d-6318-43ce-ba78-310ee648b602,4590292,42004,26699695,2574421,17243,https://www.fantasypros.com/nfl/players/thomas-fidone.php
-23040,Adrian Martinez,Adrian,Martinez,QB,"[""QB""]",FA,2000-01-07,2023,e95a83c0-e6f6-11ed-88d6-7977d3a68019,4361182,40299,2966360,2570984,16868,https://www.fantasypros.com/nfl/players/adrian-martinez.php
+23040,Adrian Martinez,Adrian,Martinez,QB,"[""QB""]",SEA,2000-01-07,2023,e95a83c0-e6f6-11ed-88d6-7977d3a68019,4361182,40299,2966360,2570984,16868,https://www.fantasypros.com/nfl/players/adrian-martinez.php
 23041,Ronald Thompkins,Ronald,Thompkins,RB,"[""RB""]",FA,,2024,,,,,,,https://www.fantasypros.com/nfl/players/ronald-thompkins.php
 23044,Kamarro Edmonds,Kamarro,Edmonds,RB,"[""RB""]",FA,,2024,,,,,,,https://www.fantasypros.com/nfl/players/kamarro-edmonds.php
 23045,Sam Howell,Sam,Howell,QB,"[""QB""]",DAL,2000-09-16,2022,7d85e9c2-f464-4654-9200-acfcffd7dfaf,4426875,34100,3123797,2568333,15693,https://www.fantasypros.com/nfl/players/sam-howell.php
 23046,Drake Maye,Drake,Maye,QB,"[""QB""]",NE,2002-08-30,2024,d0c0630e-8925-4b81-a32b-e4146d95f01f,4431452,40881,26695757,2572294,16580,https://www.fantasypros.com/nfl/players/drake-maye.php
 23047,Emery Simmons,Emery,Simmons,WR,"[""WR""]",FA,,2022,,,,,,,https://www.fantasypros.com/nfl/players/emery-simmons.php
 23048,Ryan Hilinski,Ryan,Hilinski,QB,"[""QB""]",FA,,2022,,,,,,,https://www.fantasypros.com/nfl/players/ryan-hilinski.php
-23049,Kevin Austin Jr.,Kevin,Austin,WR,"[""WR""]",FA,2000-03-30,2022,3173c5c0-cbb6-11ec-88c8-199e5defa0d2,4372758,34242,2969073,2568954,15765,https://www.fantasypros.com/nfl/players/kevin-austin.php
+23049,Kevin Austin Jr.,Kevin,Austin,WR,"[""WR""]",NO,2000-03-30,2022,3173c5c0-cbb6-11ec-88c8-199e5defa0d2,4372758,34242,2969073,2568954,15765,https://www.fantasypros.com/nfl/players/kevin-austin.php
 23050,Kevin Bauman,Kevin,Bauman,TE,"[""TE""]",FA,,2023,,,,,,,https://www.fantasypros.com/nfl/players/kevin-bauman.php
 23051,Cane Berrong,Cane,Berrong,TE,"[""TE""]",FA,,2024,,,,,,,https://www.fantasypros.com/nfl/players/cane-berrong.php
 23052,Tyler Buchner,Tyler,Buchner,QB,"[""QB""]",FA,,2024,,,,,,,https://www.fantasypros.com/nfl/players/tyler-buchner.php
@@ -4702,7 +4700,7 @@ player_id,player_name,first_name,last_name,position_id,positions,team_id,birthda
 23249,Kene Nwangwu,Kene,Nwangwu,RB,"[""RB""]",NYJ,1998-02-09,2021,482c1032-765a-48d3-b46e-b47a809dbee4,4035537,33507,2261254,2566313,15414,https://www.fantasypros.com/nfl/players/kene-nwangwu.php
 23251,Jacob Harris,Jacob,Harris,TE,"[""TE"",""WR,TE""]",FA,1997-04-16,2021,bdbb1693-3509-494c-8308-ae26a415fc96,3932144,33529,2189290,2566220,15425,https://www.fantasypros.com/nfl/players/jacob-harris.php
 23252,Chris Rumph II,Chris,Rumph,DE,"[""DE"",""LB,DE""]",NO,1998-10-19,2021,dcbf373f-7336-457f-888f-02596a391d89,4240475,33506,2866844,2566508,15413,https://www.fantasypros.com/nfl/players/chris-rumph-de.php
-23253,Darren Hall,Darren,Hall,CB,"[""CB"",""S,CB""]",FA,2000-05-02,2021,e2aa4576-83a6-4b81-ab95-49126a0cf1d4,4261606,33496,2875216,2565821,15406,https://www.fantasypros.com/nfl/players/darren-hall.php
+23253,Darren Hall,Darren,Hall,CB,"[""CB"",""S,CB""]",WAS,2000-05-02,2021,e2aa4576-83a6-4b81-ab95-49126a0cf1d4,4261606,33496,2875216,2565821,15406,https://www.fantasypros.com/nfl/players/darren-hall.php
 23254,Patrick Jones II,Patrick,Jones,DE,"[""DE"",""LB,DE""]",CAR,1998-09-29,2021,74013f08-f920-4de7-9740-cc461d84beec,4036063,33478,2239584,2566307,15398,https://www.fantasypros.com/nfl/players/patrick-jones-de.php
 23255,Josh Pederson,Josh,Pederson,TE,"[""TE""]",FA,1997-09-22,2021,bb7a78a0-def1-4e82-b04c-15236810229a,4036595,33828,2240612,2567085,,https://www.fantasypros.com/nfl/players/josh-pederson.php
 23256,Jack Batho,Jack,Batho,DT,"[""DT""]",FA,1996-12-18,,319009fc-aece-4236-8545-0134ce5d0d8f,,,,,,https://www.fantasypros.com/nfl/players/jack-batho-iv.php
@@ -4776,7 +4774,7 @@ player_id,player_name,first_name,last_name,position_id,positions,team_id,birthda
 23348,Rico Bussey Jr.,Rico,Bussey,WR,"[""WR""]",FA,1998-02-25,2021,c1b4d9d1-1e49-48e7-93d6-bf47688d33c6,,33658,2251993,2565780,15522,https://www.fantasypros.com/nfl/players/rico-bussey.php
 23349,Artayvious Lynn,Artayvious,Lynn,TE,"[""TE""]",FA,1996-03-13,2020,c3b8df6d-c6b7-43f0-a902-fbb7e70fa2e3,,33715,2240334,,,https://www.fantasypros.com/nfl/players/artayvious-lynn.php
 23350,Blake Haubeil,Blake,Haubeil,K,"[""K""]",FA,,2021,c5dd8fc7-7723-4a66-8faf-2106a9898f13,,33831,2826774,,15518,https://www.fantasypros.com/nfl/players/blake-haubeil.php
-23351,Brandon Smith,Brandon,Smith,WR,"[""WR""]",FA,1998-12-10,2021,c9ef678b-959b-445b-b32a-81c767c8ad65,4240577,33710,2865783,2566839,17405,https://www.fantasypros.com/nfl/players/brandon-smith-wr.php
+23351,Brandon Smith,Brandon,Smith,WR,"[""WR""]",PIT,1998-12-10,2021,c9ef678b-959b-445b-b32a-81c767c8ad65,4240577,33710,2865783,2566839,17405,https://www.fantasypros.com/nfl/players/brandon-smith-wr.php
 23353,Calvin Bundage,Calvin,Bundage,LB,"[""LB"",""DL,LB""]",FA,1998-04-08,2021,e58adf80-8e1d-4d9a-a605-619cb2fff852,,33657,2250376,2565777,,https://www.fantasypros.com/nfl/players/calvin-bundage.php
 23354,Austin Faoliu,Austin,Faoliu,DT,"[""DT""]",FA,1999-01-09,2021,e627dd8c-8b33-4a26-829f-5aeceefe57f9,4242509,33719,2865886,2566815,15594,https://www.fantasypros.com/nfl/players/austin-faoliu.php
 23358,Michael Dwumfour,Michael,Dwumfour,DT,"[""DT""]",FA,1998-01-01,2021,426048d5-8634-4df9-a0cc-b92f2c76a03d,4046544,33695,2260644,2565723,15673,https://www.fantasypros.com/nfl/players/michael-dwumfour.php
@@ -4787,7 +4785,7 @@ player_id,player_name,first_name,last_name,position_id,positions,team_id,birthda
 23363,Hamilcar Rashed Jr.,Hamilcar,Rashed,LB,"[""LB"",""DE,LB""]",FA,1998-01-02,2021,9ed520e7-a3d6-4e80-9815-a145631d20fd,4042827,33702,2250854,2565756,15640,https://www.fantasypros.com/nfl/players/hamilcar-rashed-lb.php
 23365,A.J. Rose Jr.,A.J.,Rose,RB,"[""RB""]",FA,1997-10-14,2021,aa9c3e2b-711b-44ed-9cb3-0fbed3f2fead,,33784,2245147,2567022,15267,https://www.fantasypros.com/nfl/players/asim-rose.php
 23367,Christian Elliss,Christian,Elliss,LB,"[""LB""]",NE,1999-01-02,2021,c3ef92f7-29f7-43db-bbef-4e9875d756e9,4245273,33778,2806830,2567004,15681,https://www.fantasypros.com/nfl/players/christian-elliss.php
-23368,Milo Eifler,Milo,Eifler,LB,"[""LB""]",TEN,1998-02-13,2021,c75717d2-be1d-4305-9bae-5a18d9cedca6,4371940,33696,2251377,2565729,16020,https://www.fantasypros.com/nfl/players/milo-eifler.php
+23368,Milo Eifler,Milo,Eifler,LB,"[""LB""]",FA,1998-02-13,2021,c75717d2-be1d-4305-9bae-5a18d9cedca6,4371940,33696,2251377,2565729,16020,https://www.fantasypros.com/nfl/players/milo-eifler.php
 23369,Landen Akers,Landen,Akers,WR,"[""WR""]",FA,1997-07-07,2021,cdfce34c-8220-4074-9ea3-70c5593cd38b,4035554,33664,2221935,2566193,15539,https://www.fantasypros.com/nfl/players/landen-akers.php
 23370,Riley Patterson,Riley,Patterson,K,"[""K""]",BAL,1999-09-07,2021,deac735c-af0a-4f01-ada8-379ef66917ba,4243371,33781,2865368,2567013,15369,https://www.fantasypros.com/nfl/players/riley-patterson.php
 23373,Alex Kessman,Alex,Kessman,K,"[""K""]",FA,1998-01-02,2021,3f677102-c26e-49e3-9b59-48bbf0603e81,4046164,33677,2261453,2566484,15656,https://www.fantasypros.com/nfl/players/alex-kessman.php
@@ -4833,7 +4831,7 @@ player_id,player_name,first_name,last_name,position_id,positions,team_id,birthda
 23426,Max Richardson,Max,Richardson,LB,"[""LB""]",FA,1998-01-22,2021,41248bff-35b7-42bd-be6e-087fe45d274c,,33810,2246838,2565657,15526,https://www.fantasypros.com/nfl/players/max-richardson.php
 23427,Riley Cole,Riley,Cole,LB,"[""LB""]",FA,1997-11-03,2021,13651f18-ad2d-4628-9b6f-002dc1c5f8f4,,33881,2259966,,,https://www.fantasypros.com/nfl/players/riley-cole.php
 23428,Marlon Character,Marlon,Character,DB,"[""DB""]",FA,1996-12-08,2021,6a96e03c-f646-4221-bb4d-48d209f43a1e,,,,,,https://www.fantasypros.com/nfl/players/marlon-character.php
-23429,Zayne Anderson,Zayne,Anderson,LB,"[""LB"",""S""]",MIA,1997-01-03,2021,6fd330e6-8cab-4351-b9e8-bc6ffb125b1c,3932335,33877,2188199,2566977,15676,https://www.fantasypros.com/nfl/players/zayne-anderson.php
+23429,Zayne Anderson,Zayne,Anderson,S,"[""S""]",MIA,1997-01-03,2021,6fd330e6-8cab-4351-b9e8-bc6ffb125b1c,3932335,33877,2188199,2566977,15676,https://www.fantasypros.com/nfl/players/zayne-anderson.php
 23430,Dillon Stoner,Dillon,Stoner,WR,"[""WR""]",FA,1998-02-06,2021,977bcabb-f79b-4e96-91f9-c8e44f73c3e8,4038460,33812,2250402,2565663,15311,https://www.fantasypros.com/nfl/players/dillon-stoner.php
 23432,Devon Key,Devon,Key,S,"[""S""]",DEN,1997-10-28,2021,83b719f1-e6ac-4611-8235-c2f6bd198fa3,4037559,33883,2247985,2566995,15527,https://www.fantasypros.com/nfl/players/devon-key.php
 23433,Malik Herring,Malik,Herring,DT,"[""DT"",""DE""]",MIA,1997-11-09,2021,96d1c6e6-a450-476e-987b-c1e469c43f1b,4259547,33882,2871647,2566992,16058,https://www.fantasypros.com/nfl/players/malik-herring.php
@@ -4969,7 +4967,7 @@ player_id,player_name,first_name,last_name,position_id,positions,team_id,birthda
 23755,Erik Ezukanma,Erik,Ezukanma,WR,"[""WR""]",PHI,2000-01-25,2022,7934c2db-a5f1-404c-a313-74a8aacd5946,4362186,34081,2962352,2567889,15780,https://www.fantasypros.com/nfl/players/erik-ezukanma.php
 23756,Tyler Davis,Tyler,Davis,DT,"[""DT"",""DE,DT""]",LAR,2000-11-01,2024,4adfc559-1138-4476-a095-3bbaa7ba18b3,4568217,41080,1703029,2572192,16767,https://www.fantasypros.com/nfl/players/tyler-davis-dt.php
 23757,Devonte Wyatt,Devonte,Wyatt,DT,"[""DT""]",GB,1998-03-31,2022,5250f409-d4d7-48ac-adf4-35c3561ffad1,4361791,33983,2961867,2567640,15819,https://www.fantasypros.com/nfl/players/devonte-wyatt.php
-23758,Josh Ross,Josh,Ross,LB,"[""LB""]",MIN,1999-10-31,2022,82546a90-c980-11ec-a1a0-57a82b503f37,,34404,2878199,2567307,16008,https://www.fantasypros.com/nfl/players/josh-ross.php
+23758,Josh Ross,Josh,Ross,LB,"[""LB""]",FA,1999-10-31,2022,82546a90-c980-11ec-a1a0-57a82b503f37,,34404,2878199,2567307,16008,https://www.fantasypros.com/nfl/players/josh-ross.php
 23761,Davis Allen,Davis,Allen,TE,"[""TE""]",LAR,2001-02-03,2023,02a77d8c-3b89-4a61-86a2-0c005c1e589a,4426553,40164,3123267,2570017,16219,https://www.fantasypros.com/nfl/players/davis-allen.php
 23762,Tyreke Smith,Tyreke,Smith,DE,"[""DE"",""LB,DE""]",KC,2000-02-14,2022,a7bc7c40-dd11-4aaf-bfdb-664b245eb415,4361340,34114,2965301,2568276,15896,https://www.fantasypros.com/nfl/players/tyreke-smith.php
 23763,Nik Bonitto,Nik,Bonitto,DE,"[""DE"",""LB,DE""]",DEN,1999-09-26,2022,784f8433-0379-46bc-b9ed-6c5a1783513d,4360259,34020,2962030,2567517,15861,https://www.fantasypros.com/nfl/players/nik-bonitto.php
@@ -5027,7 +5025,7 @@ player_id,player_name,first_name,last_name,position_id,positions,team_id,birthda
 23846,Qwuantrezz Knight,Qwuantrezz,Knight,S,"[""S"",""CB,S""]",FA,1997-10-10,2022,078aff90-ca7f-11ec-97ae-e1573849d1a6,4036219,34317,2251077,2569248,16491,https://www.fantasypros.com/nfl/players/qwuantrezz-knight.php
 23849,Ali Gaye,Ali,Gaye,DE,"[""DE"",""DE,LB""]",HOU,1998-11-29,2023,8f09cdb0-e6ef-11ed-abca-c7a3a205e21d,4243321,40293,2815169,2571005,16925,https://www.fantasypros.com/nfl/players/ali-gaye.php
 23850,Colin Schooler,Colin,Schooler,LB,"[""LB""]",FA,,2022,,,,,,,https://www.fantasypros.com/nfl/players/colin-schooler.php
-23851,Leon O'Neal Jr.,Leon,O'Neal,S,"[""S""]",FA,1998-12-23,2022,c72770a0-ca83-11ec-97ae-e1573849d1a6,,34323,2965227,,,https://www.fantasypros.com/nfl/players/leon-oneal.php
+23851,Leon O'Neal Jr.,Leon,O'Neal,S,"[""S""]",FA,1998-12-23,,c72770a0-ca83-11ec-97ae-e1573849d1a6,,34323,2965227,,,https://www.fantasypros.com/nfl/players/leon-oneal.php
 23854,Bryan Cook,Bryan,Cook,S,"[""S""]",CIN,1999-09-07,2022,21a56bce-7c06-44d7-b641-99f499111739,4247726,34018,2869797,2567787,15860,https://www.fantasypros.com/nfl/players/bryan-cook.php
 23855,Garrett Williams,Garrett,Williams,CB,"[""CB""]",ARI,2001-06-01,2023,e2fdfaf7-d2c4-4482-9ac2-f8fe43c49130,4568506,40127,3126891,2570221,16274,https://www.fantasypros.com/nfl/players/garrett-williams.php
 23857,Thomas Booker IV,Thomas,Booker,DT,"[""DT"",""DT,DE""]",LV,1999-11-11,2022,5605cc4e-a0ed-4525-9dc1-5d439544793a,4360749,34106,2965893,2567670,15892,https://www.fantasypros.com/nfl/players/thomas-booker.php
@@ -5521,7 +5519,7 @@ player_id,player_name,first_name,last_name,position_id,positions,team_id,birthda
 24743,Andre Carter,Andre,Carter,DE,"[""DE"",""LB,DE""]",FA,2000-06-02,2024,160f8060-07e3-11ef-9847-e94b667bb2a5,4577333,40303,3138801,2571207,16229,https://www.fantasypros.com/nfl/players/andre-carter-edge.php
 24744,Kris Abrams-Draine,Kris,Abrams-Draine,CB,"[""CB""]",DEN,2001-10-04,2024,f66366c2-7849-4c96-86d3-19882a7a27b7,4429193,41047,3163896,2571988,16735,https://www.fantasypros.com/nfl/players/kris-abrams-draine.php
 24747,Jaheim Bell,Jaheim,Bell,TE,"[""TE""]",FA,2001-06-14,2024,c9b2f6f5-b8bc-48ca-ac33-fa18883c2f6b,4429262,41106,3169583,2572288,16646,https://www.fantasypros.com/nfl/players/jaheim-bell.php
-24748,Robert Beal Jr.,Robert,Beal,DE,"[""DE""]",SF,1999-08-18,2023,5d64ba96-04f6-41ee-8620-ed251f16485c,4259558,40181,2871726,2570299,16322,https://www.fantasypros.com/nfl/players/robert-beal.php
+24748,Robert Beal Jr.,Robert,Beal,DE,"[""DE""]",FA,1999-08-18,2023,5d64ba96-04f6-41ee-8620-ed251f16485c,4259558,40181,2871726,2570299,16322,https://www.fantasypros.com/nfl/players/robert-beal.php
 24749,Siaki Ika,Siaki,Ika,DT,"[""DT""]",FA,2000-11-07,2023,5a99d26a-0c11-4705-99de-8c4960d6fbc9,4426440,40104,3122596,2569675,16285,https://www.fantasypros.com/nfl/players/siaki-ika.php
 24751,Colby Wooden,Colby,Wooden,DE,"[""DE"",""DT""]",NO,2000-12-21,2023,1a7b6176-ef99-4566-a38c-14abe051b899,4567224,40132,3121177,2569783,16294,https://www.fantasypros.com/nfl/players/colby-wooden.php
 24752,Zion Tupuola-Fetui,Zion,Tupuola-Fetui,DE,"[""DE"",""DL""]",FA,,2024,,,,2961893,,,https://www.fantasypros.com/nfl/players/zion-tupuola-fetui.php
@@ -6048,7 +6046,7 @@ player_id,player_name,first_name,last_name,position_id,positions,team_id,birthda
 25689,Devonnsha Maxwell,Devonnsha,Maxwell,DT,"[""DT""]",FA,1999-05-05,2023,8e098ef0-ea14-11ed-8483-d5fc9d55db67,,40471,2866059,2570807,,https://www.fantasypros.com/nfl/players/devonnsha-maxwell.php
 25691,Morrell Osling III,Morrell,Osling,S,"[""S""]",FA,1999-01-17,2023,d2965100-ea16-11ed-8d34-41182339b277,,40473,,,,https://www.fantasypros.com/nfl/players/mo-osling-iii.php
 25693,Jacob Saylors,Jacob,Saylors,RB,"[""RB""]",DET,2001-03-08,2023,99a7f770-ea18-11ed-a93b-a93886fe0bfd,4383429,40474,2976071,2570840,16850,https://www.fantasypros.com/nfl/players/jacob-saylors.php
-25695,Patrick Murtagh,Patrick,Murtagh,TE,"[""TE""]",FA,2000-02-11,2024,5f79de60-ea7c-11ed-91f6-779a59a61c18,,40477,29375400,2572150,,https://www.fantasypros.com/nfl/players/alex-murtagh.php
+25695,Patrick Murtagh,Patrick,Murtagh,TE,"[""TE""]",NO,2000-02-11,2024,5f79de60-ea7c-11ed-91f6-779a59a61c18,,40477,29375400,2572150,,https://www.fantasypros.com/nfl/players/alex-murtagh.php
 25696,Kenneth Odumegwu,Kenneth,Odumegwu,DT,"[""DT"",""LB,DE""]",FA,2000-11-29,2023,9acb9170-ea7c-11ed-9dd6-9359588efa60,,40479,29113654,2570515,,https://www.fantasypros.com/nfl/players/kenneth-odumegwu.php
 25697,David Agoha,David,Agoha,DT,"[""DT"",""DE""]",DEN,2001-05-18,2023,059b6690-ea7f-11ed-ad49-b7425ed07670,,40482,29117317,2571090,,https://www.fantasypros.com/nfl/players/david-ebuka-agoha.php
 25698,Junior Aho,Junior,Aho,DT,"[""DT"",""DL""]",FA,1999-02-02,2023,735deba0-ea7d-11ed-ba38-cbabef9bccaf,,40478,3168281,2571195,,https://www.fantasypros.com/nfl/players/junior-aho.php
@@ -6454,7 +6452,7 @@ player_id,player_name,first_name,last_name,position_id,positions,team_id,birthda
 26334,Jarrian Jones,Jarrian,Jones,CB,"[""CB""]",JAC,2001-05-08,2024,fc21a61f-75aa-4398-973f-7ff1058e6a9e,4426448,40947,3126303,2572144,16714,https://www.fantasypros.com/nfl/players/jarrian-jones.php
 26335,AJ Barner,AJ,Barner,TE,"[""TE""]",SEA,2002-05-03,2024,e96127b4-d381-43d4-b0ae-8790c706756f,4576297,41001,3169283,2572513,16723,https://www.fantasypros.com/nfl/players/aj-barner.php
 26337,Jalyx Hunt,Jalyx,Hunt,LB,"[""LB"",""DE,LB""]",PHI,2001-03-13,2024,b779251c-3250-405f-ae4a-3cadbf6925d9,4571162,40968,3125143,2572378,16712,https://www.fantasypros.com/nfl/players/jalyx-hunt.php
-26338,Gabe Hall,Gabe,Hall,DT,"[""DT""]",PHI,2001-01-12,2024,41778790-072d-11ef-8f9f-dd59e5c066c4,4429731,41381,3127823,2572738,,https://www.fantasypros.com/nfl/players/gabe-hall.php
+26338,Gabe Hall,Gabe,Hall,DT,"[""DT""]",PHI,2001-01-12,2024,41778790-072d-11ef-8f9f-dd59e5c066c4,4429731,41381,3127823,2572738,17836,https://www.fantasypros.com/nfl/players/gabe-hall.php
 26339,Braiden McGregor,Braiden,McGregor,LB,"[""LB"",""DE""]",NYJ,2001-07-12,2024,8eae21b0-071c-11ef-a3c0-935b79634141,4429005,41328,3169492,2572705,16894,https://www.fantasypros.com/nfl/players/braiden-mcgregor.php
 26340,Kenny Logan Jr.,Kenny,Logan,S,"[""S""]",FA,2000-10-25,2024,bd84d130-07c3-11ef-b9d6-f1106cbcee99,,41433,3127019,2573731,16844,https://www.fantasypros.com/nfl/players/kenny-logan-jr.php
 26341,Will Reichard,Will,Reichard,K,"[""K""]",MIN,2001-01-09,2024,6f667582-b880-4c41-a105-59c347a36c0d,4567104,41093,3121084,2572273,16681,https://www.fantasypros.com/nfl/players/will-reichard.php
@@ -6559,7 +6557,7 @@ player_id,player_name,first_name,last_name,position_id,positions,team_id,birthda
 26456,Mike Hall Jr.,Mike,Hall,DT,"[""DT""]",CLE,2003-06-13,2024,593fdfcf-8852-457e-bb9a-0411533eca32,4600415,40921,,2571949,,https://www.fantasypros.com/nfl/players/michael-hall.php
 26459,Decamerion Richardson,Decamerion,Richardson,CB,"[""CB""]",NO,2001-03-16,2024,9c6fe5a6-5553-4803-bc7a-93d095029a7d,4605498,40979,3171034,2572237,16720,https://www.fantasypros.com/nfl/players/decamerion-richardson.php
 26461,Jordan Magee,Jordan,Magee,LB,"[""LB""]",WAS,2001-03-24,2024,0df0a32a-00df-40be-b8c8-774d923957c0,4568617,41014,3124180,2572573,16730,https://www.fantasypros.com/nfl/players/jordan-magee.php
-26464,Dominique Hampton,Dominique,Hampton,CB,"[""CB"",""CB,LB,S""]",TEN,2000-07-25,2024,d83c6686-ffd6-41cd-a2ca-9583a0470769,4361094,41039,2965365,2572567,16744,https://www.fantasypros.com/nfl/players/dominique-hampton.php
+26464,Dominique Hampton,Dominique,Hampton,CB,"[""CB"",""CB,LB,S""]",FA,2000-07-25,2024,d83c6686-ffd6-41cd-a2ca-9583a0470769,4361094,41039,2965365,2572567,16744,https://www.fantasypros.com/nfl/players/dominique-hampton.php
 26465,Jaylon Carlies,Jaylon,Carlies,LB,"[""LB"",""LB,S""]",IND,2001-09-13,2024,dd21aafb-0647-4b85-aa55-603fb75a859f,4601021,41040,3163862,2572114,16738,https://www.fantasypros.com/nfl/players/jaylon-carlies.php
 26467,Tarheeb Still,Tarheeb,Still,CB,"[""CB""]",LAC,2002-06-09,2024,a28d9b86-30ec-40be-98bc-48089b23ba9c,4432571,41051,3166939,2572483,16729,https://www.fantasypros.com/nfl/players/tarheeb-still.php
 26468,Daequan Hardy,Daequan,Hardy,CB,"[""CB""]",FA,2001-06-13,2024,10126054-8bc0-4470-b1a8-a98c94c0afb7,4429743,41055,3125566,2571868,16779,https://www.fantasypros.com/nfl/players/daequan-hardy.php
@@ -6633,7 +6631,7 @@ player_id,player_name,first_name,last_name,position_id,positions,team_id,birthda
 26564,Taki Taimani,Taki,Taimani,DT,"[""DT""]",DET,1999-10-06,2024,53ab1910-0596-11ef-9ab5-875e1d93ea64,4361114,41218,2965804,2573328,16888,https://www.fantasypros.com/nfl/players/taki-taimani.php
 26567,Ben Nikkel,Ben,Nikkel,S,"[""S""]",FA,1999-09-24,2024,e0e76010-0643-11ef-973d-2b9f3d75bf4d,,41221,26700047,2573605,,https://www.fantasypros.com/nfl/players/ben-nikkel.php
 26568,Tyler Owens,Tyler,Owens,S,"[""S""]",WAS,2001-05-12,2024,782d0d60-0655-11ef-bea4-a5fd3793027b,4572460,41222,3127028,2573608,16880,https://www.fantasypros.com/nfl/players/tyler-owens.php
-26569,AJ Woods,AJ,Woods,CB,"[""CB""]",FA,2001-03-28,2024,93c05980-0658-11ef-909c-d744eed76b9a,,41223,3126869,2573617,,https://www.fantasypros.com/nfl/players/aj-woods.php
+26569,AJ Woods,AJ,Woods,CB,"[""CB""]",LV,2001-03-28,2024,93c05980-0658-11ef-909c-d744eed76b9a,,41223,3126869,2573617,,https://www.fantasypros.com/nfl/players/aj-woods.php
 26570,Norell Pollard,Norell,Pollard,DT,"[""DT"",""DE,DT""]",FA,2000-02-18,2024,c12da780-065b-11ef-86cb-337243229df4,,41224,3126669,2573815,,https://www.fantasypros.com/nfl/players/norell-pollard.php
 26571,Myles Murphy,Myles,Murphy,DT,"[""DT""]",FA,,2024,42d40e90-0662-11ef-9367-dfa98cdb6552,,41227,3169179,2573406,,https://www.fantasypros.com/nfl/players/myles-murphy-dt.php
 26572,Isaiah Wooden,Isaiah,Wooden,WR,"[""WR""]",FA,2000-02-03,2024,c9d747c0-0664-11ef-8dd6-6906564117f3,,41226,3139308,2572899,16830,https://www.fantasypros.com/nfl/players/isaiah-wooden.php
@@ -6687,7 +6685,7 @@ player_id,player_name,first_name,last_name,position_id,positions,team_id,birthda
 26632,Judge Culpepper,Judge,Culpepper,DT,"[""DT""]",FA,1999-11-24,2024,309a2210-0715-11ef-84d4-1170edc55ac0,,41306,2963061,2573554,,https://www.fantasypros.com/nfl/players/judge-culpepper.php
 26633,DeVere Levelston,DeVere,Levelston,DE,"[""DE""]",FA,2001-04-05,2024,3860d600-0716-11ef-b2ed-133cc2fe2ea6,,41314,3162772,2572774,,https://www.fantasypros.com/nfl/players/devere-levelston.php
 26634,Jamree Kromah,Jamree,Kromah,DT,"[""DT"",""DE,DT""]",CLE,2000-06-14,2024,4223ab40-071b-11ef-8947-5105bc3b519d,4372463,41321,2962602,2572962,17818,https://www.fantasypros.com/nfl/players/jamree-kromah.php
-26635,Ian Wheeler,Ian,Wheeler,RB,"[""RB""]",FA,2001-09-15,2024,4cbe3c80-0718-11ef-ad6b-0f2dd4b44ccd,,41322,3126061,2572977,16871,https://www.fantasypros.com/nfl/players/ian-wheeler.php
+26635,Ian Wheeler,Ian,Wheeler,RB,"[""RB""]",LAC,2001-09-15,2024,4cbe3c80-0718-11ef-ad6b-0f2dd4b44ccd,,41322,3126061,2572977,16871,https://www.fantasypros.com/nfl/players/ian-wheeler.php
 26636,Rason Williams II,Rason,Williams,DT,"[""DT"",""DE""]",FA,,2024,513a8af0-071a-11ef-8f3b-e92b5c737243,,41315,3127483,2572795,,https://www.fantasypros.com/nfl/players/rason-williams-ii.php
 26637,Sunny Anderson,Sunny,Anderson,DE,"[""DE"",""DL,LB""]",FA,,2024,61f7b280-0717-11ef-b717-b334f8042a10,,41316,2965694,,,https://www.fantasypros.com/nfl/players/sundiata-anderson.php
 26638,Harrison Mevis,Harrison,Mevis,K,"[""K""]",FA,2002-03-27,2025,663ada70-0717-11ef-94de-1b2fbd1e412b,4574716,41312,3162619,2572932,16843,https://www.fantasypros.com/nfl/players/harrison-mevis.php
@@ -6815,7 +6813,7 @@ player_id,player_name,first_name,last_name,position_id,positions,team_id,birthda
 26789,David White Jr.,David,White,WR,"[""WR""]",FA,2000-07-18,2024,96467d20-07e2-11ef-b227-fd8634559ae4,,41522,,2573202,16822,https://www.fantasypros.com/nfl/players/david-white-jr.php
 26791,Denzel Daxon,Denzel,Daxon,DT,"[""DT""]",FA,1999-03-27,2024,acf423f0-07de-11ef-84b2-7fd111d85b9e,,41525,3139217,2573046,,https://www.fantasypros.com/nfl/players/denzel-daxon.php
 26792,Lorenzo Lingard,Lorenzo,Lingard,RB,"[""RB""]",FA,1999-05-29,2024,d8f665b0-07e0-11ef-a6e5-cf19e7fc44ea,,41524,2966652,2573701,,https://www.fantasypros.com/nfl/players/lorenzo-lingard.php
-26794,David Olajiga,David,Olajiga,DT,"[""DT""]",BAL,1997-11-03,2024,60adebf0-08ad-11ef-a6d9-5b0f6f983e06,5211114,41526,29379145,2573740,,https://www.fantasypros.com/nfl/players/david-olajiga.php
+26794,David Olajiga,David,Olajiga,DT,"[""DT""]",BAL,1997-11-03,2024,60adebf0-08ad-11ef-a6d9-5b0f6f983e06,5211114,41526,29379145,2573740,17837,https://www.fantasypros.com/nfl/players/david-olajiga.php
 26795,Cam Lampkin,Cam,Lampkin,CB,"[""CB""]",LAR,2001-07-31,2024,b2986c00-08ae-11ef-aa35-dd89832b46ac,4427752,41527,3126958,2573817,16938,https://www.fantasypros.com/nfl/players/cam-lampkin.php
 26796,JJ Laap,JJ,Laap,WR,"[""WR""]",FA,2001-01-28,2024,fb32ce70-08ad-11ef-a2b1-2fae8c439512,,41528,29379354,2573722,,https://www.fantasypros.com/nfl/players/jj-laap.php
 26797,Elias Neal,Elias,Neal,LB,"[""LB""]",NE,2001-09-11,2024,032ecdc0-08b0-11ef-90c2-f769b87dd8cb,,41529,3133475,2573737,17456,https://www.fantasypros.com/nfl/players/eli-neal.php
@@ -6851,7 +6849,7 @@ player_id,player_name,first_name,last_name,position_id,positions,team_id,birthda
 26839,Andrew Peasley,Andrew,Peasley,QB,"[""QB""]",FA,2000-01-06,2024,d457b9b0-0be5-11ef-8e50-9d203e364b13,,41580,2966161,2572859,16867,https://www.fantasypros.com/nfl/players/andrew-peasley.php
 26840,John Matocha,John,Matocha,QB,"[""QB""]",FA,,2024,f8c94ba0-0be6-11ef-a3ba-1d0cf59a0254,,,,,,https://www.fantasypros.com/nfl/players/john-matocha.php
 26841,Dimitri Stanley,Dimitri,Stanley,WR,"[""WR""]",FA,1999-11-23,2024,0455ad90-0bfd-11ef-8ab2-1d0f45ed27de,,41581,2962329,2572802,,https://www.fantasypros.com/nfl/players/dimitri-stanley.php
-26842,C.J. Ravenell,C.J.,Ravenell,DT,"[""DT"",""DE,DT""]",FA,2000-07-07,2024,59018c00-0c08-11ef-b868-8de1d998f84e,4700676,41582,,2572866,17374,https://www.fantasypros.com/nfl/players/c-j-ravenell.php
+26842,C.J. Ravenell,C.J.,Ravenell,DT,"[""DT"",""DE,DT""]",CAR,2000-07-07,2024,59018c00-0c08-11ef-b868-8de1d998f84e,4700676,41582,,2572866,17374,https://www.fantasypros.com/nfl/players/c-j-ravenell.php
 26843,Eddie Heckard,Eddie,Heckard,CB,"[""CB""]",FA,,2024,2fa54c40-0c6f-11ef-b97e-abcb394fd719,,,,,,https://www.fantasypros.com/nfl/players/eddie-heckard.php
 26844,Michael Herzog,Michael,Herzog,RB,"[""RB""]",FA,2000-03-23,2024,397aaa00-0c72-11ef-8029-1d21cd93ac2d,,,,,,https://www.fantasypros.com/nfl/players/michael-herzog.php
 26845,Cade Peterson,Cade,Peterson,QB,"[""QB""]",FA,,2024,bf130560-0c70-11ef-b80c-4961ec472b8c,,,,,,https://www.fantasypros.com/nfl/players/cade-peterson.php
@@ -7115,7 +7113,7 @@ player_id,player_name,first_name,last_name,position_id,positions,team_id,birthda
 27217,Shilo Sanders,Shilo,Sanders,S,"[""S""]",FA,2000-02-09,2025,43756940-22f7-11f0-89d3-c7b82190d975,,42044,3131579,2574598,17290,https://www.fantasypros.com/nfl/players/shilo-sanders.php
 27218,Juice Wells Jr.,Antwane,Wells,WR,"[""WR""]",ATL,2001-04-02,2025,483872b0-2630-11f0-b7f1-df7c830143e7,,42444,3161901,2574429,17089,https://www.fantasypros.com/nfl/players/antwane-wells-jr.php
 27221,Jaylin Smith,Jaylin,Smith,CB,"[""CB""]",HOU,2003-11-05,2025,65a9a4da-5aac-4596-ba66-ec3e467463b8,4594277,41871,26720327,2574179,17168,https://www.fantasypros.com/nfl/players/jaylin-smith.php
-27222,Theo Wease Jr.,Theo,Wease,WR,"[""WR""]",LAC,2001-06-25,2025,277f6ff0-2442-11f0-ac20-e1591f73b631,4426535,42161,3124276,2574335,17088,https://www.fantasypros.com/nfl/players/theo-wease-jr.php
+27222,Theo Wease Jr.,Theo,Wease,WR,"[""WR""]",FA,2001-06-25,2025,277f6ff0-2442-11f0-ac20-e1591f73b631,4426535,42161,3124276,2574335,17088,https://www.fantasypros.com/nfl/players/theo-wease-jr.php
 27223,Jordan Phillips,Jordan,Phillips,DT,"[""DT""]",MIA,2004-06-30,2025,b8c1665f-5e43-4370-88b8-a73a6dee7a23,4837188,41929,28875263,2574329,17196,https://www.fantasypros.com/nfl/players/jordan-phillips-dl.php
 27224,Jack Bech,Jack,Bech,WR,"[""WR""]",LV,2002-12-18,2025,01079767-a3a3-437d-b935-ea0ecb1fe68b,4603186,41843,26700682,2574285,17078,https://www.fantasypros.com/nfl/players/jack-bech.php
 27225,Kobe King,Kobe,King,LB,"[""LB""]",FA,2003-01-28,2025,22b01678-952c-4923-b1a9-1249aa1e0791,4588300,41966,26693554,2574352,17230,https://www.fantasypros.com/nfl/players/kobe-king.php
@@ -7308,7 +7306,7 @@ player_id,player_name,first_name,last_name,position_id,positions,team_id,birthda
 27444,Josh Williams,Josh,Williams,RB,"[""RB""]",TB,2001-06-09,2025,bfb346f0-2318-11f0-81b8-b7cb2fd8d89b,4568024,42086,3121241,2574602,17359,https://www.fantasypros.com/nfl/players/josh-williams-rb.php
 27445,Efton Chism III,Efton,Chism,WR,"[""WR""]",NE,2001-10-26,2025,6704a490-2534-11f0-a084-3df705a62310,4695193,42296,3163509,2574369,17269,https://www.fantasypros.com/nfl/players/efton-chismi.php
 27446,Isaac TeSlaa,Isaac,TeSlaa,WR,"[""WR""]",DET,2002-02-20,2025,41e5e4a9-f04c-462e-a1d1-e35a8115b974,5123663,41865,29122587,2574120,17157,https://www.fantasypros.com/nfl/players/isaac-teslaa.php
-27447,LaJohntay Wester,LaJohntay,Wester,WR,"[""WR""]",BAL,2002-03-29,2025,f4e1d4de-95e9-452e-95ab-3555989d90bb,4690143,42000,3170389,2573954,17232,https://www.fantasypros.com/nfl/players/lajohntay-wester.php
+27447,LaJohntay Wester,LaJohntay,Wester,WR,"[""WR""]",FA,2002-03-29,2025,f4e1d4de-95e9-452e-95ab-3555989d90bb,4690143,42000,3170389,2573954,17232,https://www.fantasypros.com/nfl/players/lajohntay-wester.php
 27448,Traeshin Holden,Traeshin,Holden,WR,"[""WR""]",DAL,,2025,,,,,,,https://www.fantasypros.com/nfl/players/traeshin-holden.php
 27449,Konata Mumpfield,Konata,Mumpfield,WR,"[""WR""]",LAR,2002-10-24,2025,ccb6d700-ac74-4f6b-9f86-d1aa74d0c318,4710855,42035,26694679,2574272,17254,https://www.fantasypros.com/nfl/players/konata-mumpfield.php
 27450,Sam Brown Jr.,Sam,Brown,WR,"[""WR""]",FA,2002-08-15,2025,71bd62b0-3ccb-11f0-b22b-71ee09ef21d6,,42545,29052184,2574623,,https://www.fantasypros.com/nfl/players/sam-brown-wr.php
@@ -7456,7 +7454,7 @@ player_id,player_name,first_name,last_name,position_id,positions,team_id,birthda
 27652,Alex Huntley,Alex,Huntley,DT,"[""DT""]",FA,2001-10-08,2025,d5980380-2448-11f0-a59d-bd350912bf48,,42174,3169775,2574325,,https://www.fantasypros.com/nfl/players/alex-huntley.php
 27653,Lance Dixon,Lance,Dixon,LB,"[""LB""]",FA,2001-07-18,2025,4d4fe2b0-2450-11f0-9549-f3c45db86236,,42175,3120939,2574457,,https://www.fantasypros.com/nfl/players/lance-dixon.php
 27654,BJ Mayes,BJ,Mayes,CB,"[""CB""]",FA,,2025,801201a0-2451-11f0-9f65-ef3f4ca7be78,,42178,26706434,2574464,,https://www.fantasypros.com/nfl/players/bj-mayes.php
-27655,Brandon Johnson,Brandon,Johnson,CB,"[""CB"",""CB,S""]",FA,2003-03-25,2025,e7fd0db0-2450-11f0-9355-ab13517f07bb,4594338,42179,26697256,,17433,https://www.fantasypros.com/nfl/players/brandon-johnson-db.php
+27655,Brandon Johnson,Brandon,Johnson,CB,"[""CB"",""CB,S""]",TB,2003-03-25,2025,e7fd0db0-2450-11f0-9355-ab13517f07bb,4594338,42179,26697256,,17433,https://www.fantasypros.com/nfl/players/brandon-johnson-db.php
 27656,Chaz Chambliss,Chaz,Chambliss,DE,"[""DE"",""DE,LB""]",MIN,2002-10-25,2025,5a00fa10-245c-11f0-bd01-e9abfbd27879,4431520,42183,26702810,2574342,17355,https://www.fantasypros.com/nfl/players/chaz-chambliss.php
 27657,Silas Bolden,Silas,Bolden,WR,"[""WR""]",FA,2001-11-09,2025,84ff19a0-245b-11f0-a7e0-afe00708f14c,,42180,3176940,2574339,,https://www.fantasypros.com/nfl/players/silas-bolden.php
 27659,Quincy Skinner Jr.,Quincy,Skinner,WR,"[""WR""]",GB,2003-02-28,2025,ab7254b0-246c-11f0-a479-43ecd63a7ee8,,42187,26697082,2573918,17311,https://www.fantasypros.com/nfl/players/quincy-skinner-jr.php
@@ -7495,7 +7493,7 @@ player_id,player_name,first_name,last_name,position_id,positions,team_id,birthda
 27699,Johnathan Baldwin II,Johnathan,Baldwin,S,"[""S"",""CB,S""]",GB,2003-02-08,2025,d5717000-2509-11f0-b726-7de0ae623782,4709980,42236,26698089,2574123,17443,https://www.fantasypros.com/nfl/players/johnathan-baldwin.php
 27700,Anthony Tyus III,Anthony,Tyus,RB,"[""RB""]",CAR,2003-03-20,2025,ddfc3ea0-2507-11f0-be8f-f5c6930b3c52,4709392,42235,26696862,2574121,17791,https://www.fantasypros.com/nfl/players/anthony-tyus-iii.php
 27701,Bam Martin-Scott,Bam,Martin-Scott,LB,"[""LB""]",CAR,2000-07-04,2025,01ec2e60-2512-11f0-9a31-bd52e2c1bc10,4880613,42260,26720276,2573991,17340,https://www.fantasypros.com/nfl/players/bam-martin-scott.php
-27702,Corey Thornton,Corey,Thornton,CB,"[""CB""]",CAR,2000-01-30,2025,02c194e0-2514-11f0-a382-97906c339a3b,4431426,42264,3162054,2574002,17357,https://www.fantasypros.com/nfl/players/corey-thornton.php
+27702,Corey Thornton,Corey,Thornton,CB,"[""CB""]",TEN,2000-01-30,2025,02c194e0-2514-11f0-a382-97906c339a3b,4431426,42264,3162054,2574002,17357,https://www.fantasypros.com/nfl/players/corey-thornton.php
 27703,Isaac Gifford,Isaac,Gifford,S,"[""S""]",FA,,2025,0cefabe0-2515-11f0-a68f-05e563e4f5c3,,42270,3161920,2573982,,https://www.fantasypros.com/nfl/players/isaac-gifford.php
 27704,Kye Robichaux,Kye,Robichaux,RB,"[""RB""]",FA,2002-10-06,2025,1b2c2360-250f-11f0-a5ff-67d677fc4b78,,42245,26705587,2574119,17748,https://www.fantasypros.com/nfl/players/kye-robichaux.php
 27705,Jakobie Keeney-James,Jakobie,Keeney-James,WR,"[""WR""]",FA,2000-09-26,2025,544fef60-250e-11f0-857f-bb5e18a396f3,5178972,42246,3122024,2574113,17444,https://www.fantasypros.com/nfl/players/jakobie-keeney-james.php
@@ -7537,7 +7535,7 @@ player_id,player_name,first_name,last_name,position_id,positions,team_id,birthda
 27760,Josh Pearcy,Josh,Pearcy,LB,"[""LB""]",FA,,2025,7d238f30-254c-11f0-85e6-ad6d4b9a9b15,,42320,3121141,2574275,,https://www.fantasypros.com/nfl/players/josh-pearcy.php
 27761,Treven Ma'ae,Treven,Ma'ae,DT,"[""DT"",""DE,DT""]",FA,2001-02-26,2025,94cf0180-2549-11f0-a83e-ad940baadbf4,,42307,3127481,2574302,,https://www.fantasypros.com/nfl/players/treven-maae.php
 27763,Desmond Igbinosun,Desmond,Igbinosun,S,"[""S""]",FA,2003-02-20,2025,b837b220-254e-11f0-bbb1-dfff98110c96,,42332,26738671,2573934,,https://www.fantasypros.com/nfl/players/desmond-igbinosun.php
-27767,Greedy Vance Jr.,Greedy,Vance,CB,"[""CB""]",LV,2001-10-08,2025,e2d06080-254a-11f0-bf93-999a1fb5633c,4686337,42309,3164665,2574313,17332,https://www.fantasypros.com/nfl/players/greedy-vance-jr.php
+27767,Greedy Vance Jr.,Greedy,Vance,CB,"[""CB""]",FA,2001-10-08,2025,e2d06080-254a-11f0-bf93-999a1fb5633c,4686337,42309,3164665,2574313,17332,https://www.fantasypros.com/nfl/players/greedy-vance-jr.php
 27768,Marquise Robinson,Marquise,Robinson,CB,"[""CB""]",FA,2002-06-16,2025,e9994c20-254e-11f0-bbb1-dfff98110c96,,42338,28873404,2573949,,https://www.fantasypros.com/nfl/players/marquise-robinson.php
 27769,Brennan Presley,Brennan,Presley,WR,"[""WR""]",LAR,2002-02-02,2025,ec0ecae0-254c-11f0-85e6-ad6d4b9a9b15,4431342,42322,3169136,2574276,17321,https://www.fantasypros.com/nfl/players/brennan-presley.php
 27771,Jahmal Banks,Jahmal,Banks,WR,"[""WR""]",FA,2001-10-02,2025,f18e7f90-254e-11f0-bbb1-dfff98110c96,,42339,3162810,2573923,,https://www.fantasypros.com/nfl/players/jahmal-banks.php
@@ -7646,7 +7644,7 @@ player_id,player_name,first_name,last_name,position_id,positions,team_id,birthda
 27924,Cade McDonald,Cade,McDonald,WR,"[""WR""]",FA,2001-05-07,,5653dd00-2f93-11f0-89c9-a564218f169a,,42530,3132630,2574058,,https://www.fantasypros.com/nfl/players/cade-mcdonald.php
 27925,Lucas Scott,Lucas,Scott,RB,"[""RB""]",BAL,2003-08-25,2025,9ecda000-2ffe-11f0-9156-0d63b2ee880c,,42531,26728625,2573951,,https://www.fantasypros.com/nfl/players/lucas-scott.php
 27926,Kaimon Rucker,Kaimon,Rucker,LB,"[""LB"",""DE,LB""]",BAL,2002-02-28,2025,eb99c870-3001-11f0-9f94-3d07fc4bb119,,42532,3169161,2573950,,https://www.fantasypros.com/nfl/players/kaimon-rucker.php
-27928,Derrick Canteen,Derrick,Canteen,CB,"[""CB""]",FA,2001-04-02,2025,489ad3d0-303d-11f0-b3d6-7fc7c050227e,,42536,3121151,2574537,,https://www.fantasypros.com/nfl/players/derrick-canteen.php
+27928,Derrick Canteen,Derrick,Canteen,CB,"[""CB""]",TEN,2001-04-02,2025,489ad3d0-303d-11f0-b3d6-7fc7c050227e,,42536,3121151,2574537,,https://www.fantasypros.com/nfl/players/derrick-canteen.php
 27929,Hunter Dekkers,Hunter,Dekkers,QB,"[""QB""]",FA,2001-07-04,2025,561d7ac0-3043-11f0-aa21-cfe6c5a5e328,,42537,3164837,2574397,17294,https://www.fantasypros.com/nfl/players/hunter-dekkers.php
 27930,Michael Fletcher,Michael,Fletcher,DE,"[""DE""]",FA,,2025,b96ba3c0-327f-11f0-afe9-4f1211e8b65c,,42538,3132636,2574438,,https://www.fantasypros.com/nfl/players/michael-fletcher.php
 27933,Keydrain Calligan,Keydrain,Calligan,CB,"[""CB""]",FA,2001-12-04,2025,d3303ec0-35c1-11f0-9106-5d333e7a6e8f,,42540,3171932,2574620,,https://www.fantasypros.com/nfl/players/keydrain-calligan.php
@@ -7875,7 +7873,7 @@ player_id,player_name,first_name,last_name,position_id,positions,team_id,birthda
 28206,Hezekiah Masses,Hezekiah,Masses,CB,"[""CB""]",LV,2004-06-30,2026,f93ac61f-a7ac-484e-9bcd-850414b45204,4917354,42779,28888826,,17653,https://www.fantasypros.com/nfl/players/hezekiah-masses.php
 28209,Red Murdock,Red,Murdock,LB,"[""LB""]",DEN,2003-09-24,2026,d2a9d4e7-00ca-4457-8066-30cf1fed7a94,4912190,42879,28878235,,17700,https://www.fantasypros.com/nfl/players/red-murdock.php
 28210,Michael Kilbane,Michael,Kilbane,EDGE,"[""EDGE""]",FA,,2026,,,,,,,https://www.fantasypros.com/nfl/players/michael-kilbane.php
-28211,Max Llewellyn,Max,Llewellyn,DE,"[""DE""]",FA,2002-08-16,2026,0de37898-9685-4165-bba2-0f1426aa80f6,4683101,42860,26699511,,17688,https://www.fantasypros.com/nfl/players/max-llewellyn.php
+28211,Max Llewellyn,Max,Llewellyn,DE,"[""DE""]",MIA,2002-08-16,2026,0de37898-9685-4165-bba2-0f1426aa80f6,4683101,42860,26699511,,17688,https://www.fantasypros.com/nfl/players/max-llewellyn.php
 28212,Bud Clark,Bud,Clark,S,"[""S""]",SEA,2002-05-03,2026,056e91ac-fb38-426b-855a-6c3e16d69eee,4430262,42686,3162273,,17594,https://www.fantasypros.com/nfl/players/bud-clark.php
 28214,Christian Gray,Christian,Gray,CB,"[""CB""]",FA,,2026,,,,,,,https://www.fantasypros.com/nfl/players/christian-gray.php
 28215,Devon Marshall,Devon,Marshall,CB,"[""CB""]",FA,2004-08-27,2026,ee61cd00-41bc-11f1-b01e-4947c61c1366,,42966,28895435,,,https://www.fantasypros.com/nfl/players/devon-marshall.php
@@ -7928,7 +7926,7 @@ player_id,player_name,first_name,last_name,position_id,positions,team_id,birthda
 28290,Kendal Daniels,Kendal,Daniels,LB,"[""LB""]",ATL,2002-12-16,2026,268ce1f0-3ddd-4c15-80a8-0d6c1b6fbafa,4595343,42756,26727091,,17628,https://www.fantasypros.com/nfl/players/kendal-daniels.php
 28291,Dasan McCullough,Dasan,McCullough,LB,"[""LB""]",FA,2003-03-07,2026,65862d30-4321-11f1-9dc5-aff797125ef8,,43190,28876923,,,https://www.fantasypros.com/nfl/players/dasan-mccullough.php
 28292,Wesley Williams,Wesley,Williams,DT,"[""DT"",""DE""]",JAC,2004-09-22,2026,dab3ad29-ec03-421e-9dba-192e6d11f0a4,4832922,42741,28889262,,17618,https://www.fantasypros.com/nfl/players/wesley-williams.php
-28294,Avery Smith,Avery,Smith,CB,"[""CB""]",SEA,2004-01-01,2026,d6066da0-41a9-11f1-a265-01abfcf61716,,42934,28875185,,17751,https://www.fantasypros.com/nfl/players/avery-smith.php
+28294,Avery Smith,Avery,Smith,CB,"[""CB""]",FA,2004-01-01,2026,d6066da0-41a9-11f1-a265-01abfcf61716,,42934,28875185,,17751,https://www.fantasypros.com/nfl/players/avery-smith.php
 28296,Jackie Marshall,Jackie,Marshall,DT,"[""DT""]",TEN,2003-04-26,2026,2742c72a-a3ba-430a-8b3e-c4e3d7ef1542,5081785,42806,28902115,,17659,https://www.fantasypros.com/nfl/players/jackie-marshall.php
 28297,Eli Heidenreich,Eli,Heidenreich,RB,"[""RB""]",PIT,2003-06-28,2026,4e49c857-13bf-4156-ab13-706e4088179b,5081508,42852,28901170,,17685,https://www.fantasypros.com/nfl/players/eli-heidenreich.php
 28299,Joey Aguilar,Joey,Aguilar,QB,"[""QB""]",ARI,2001-06-16,2026,ca2ec650-419d-11f1-a791-7db750a0dbd9,,42903,29123610,,17832,https://www.fantasypros.com/nfl/players/joey-aguilar.php
@@ -8248,7 +8246,7 @@ player_id,player_name,first_name,last_name,position_id,positions,team_id,birthda
 28679,Rene Konga,Rene,Konga,DT,"[""DT""]",MIA,2002-11-14,2026,3a6498d0-42ae-11f1-b70c-095718df0050,,43145,3177365,,,https://www.fantasypros.com/nfl/players/rene-konga.php
 28680,Kevin Jobity Jr.,Kevin,Jobity,DT,"[""DT""]",PIT,2003-10-06,2026,42014c00-42ae-11f1-87f2-673503972815,5084849,43144,28915686,,17824,https://www.fantasypros.com/nfl/players/kevin-jobity-jr.php
 28681,Nick Andersen,Nick,Andersen,S,"[""S""]",LAR,2002-01-28,2026,9167d290-42aa-11f1-92e2-bdef4861620f,,43151,3171171,,,https://www.fantasypros.com/nfl/players/nick-andersen.php
-28682,David Blay Jr.,David,Blay,DT,"[""DT""]",FA,2003-01-28,2026,a89b30e0-42b6-11f1-929f-b150d5e57a50,,43154,29131048,,,https://www.fantasypros.com/nfl/players/david-blay-jr.php
+28682,David Blay Jr.,David,Blay,DT,"[""DT""]",LV,2003-01-28,2026,a89b30e0-42b6-11f1-929f-b150d5e57a50,,43154,29131048,,,https://www.fantasypros.com/nfl/players/david-blay-jr.php
 28683,Drey Norwood,Drey,Norwood,CB,"[""CB""]",FA,2003-01-27,2026,a9bae4a0-42a9-11f1-b682-c71eae4652af,,43142,26728736,,,https://www.fantasypros.com/nfl/players/drey-norwood.php
 28684,Kyle Dixon,Kyle,Dixon,WR,"[""WR""]",NE,2000-09-14,2026,bebc5680-42af-11f1-adfc-3df37c519cef,,43155,50049245,,17711,https://www.fantasypros.com/nfl/players/kyle-dixon.php
 28685,Eddie Walls III,Eddie,Walls,DT,"[""DT"",""DE,LB""]",LAR,2002-08-07,2026,f04e48f0-42a7-11f1-8c38-5d019bd4fe2f,,43141,26707209,,,https://www.fantasypros.com/nfl/players/eddie-walls-iii.php
@@ -8286,7 +8284,7 @@ player_id,player_name,first_name,last_name,position_id,positions,team_id,birthda
 28722,Quentin Moore,Quentin,Moore,TE,"[""TE""]",WAS,2000-08-26,2026,93655d90-4329-11f1-9f9d-c3887298df33,,43206,26702243,,,https://www.fantasypros.com/nfl/players/quentin-moore.php
 28724,Darryl Peterson III,Darryl,Peterson,LB,"[""LB""]",LAR,2003-09-13,2026,fd1a8d30-4326-11f1-bff5-fb81daa4567d,4598574,43203,26726631,,17826,https://www.fantasypros.com/nfl/players/darryl-peterson-iii.php
 28725,Sam Scott,Sam,Scott,RB,"[""RB""]",FA,,2026,0b509e40-4330-11f1-96db-af366dfd645d,,43209,26700754,,,https://www.fantasypros.com/nfl/players/sam-scott.php
-28726,Jaxson Moi,Jaxson,Moi,DT,"[""DT""]",FA,2004-01-11,2026,13baec90-432e-11f1-b3d5-fd85c1e2f939,,43207,28901098,,,https://www.fantasypros.com/nfl/players/jaxson-moi.php
+28726,Jaxson Moi,Jaxson,Moi,DT,"[""DT""]",LAR,2004-01-11,2026,13baec90-432e-11f1-b3d5-fd85c1e2f939,,43207,28901098,,,https://www.fantasypros.com/nfl/players/jaxson-moi.php
 28728,Mory Bamba,Mory,Bamba,CB,"[""CB""]",NYJ,2000-11-21,2026,54b5ae40-4330-11f1-b6e4-a9003b921fad,,43216,28946261,,,https://www.fantasypros.com/nfl/players/mory-bamba.php
 28729,Anquin Barnes Jr.,Anquin,Barnes,DT,"[""DT""]",FA,2022-10-21,2026,5a76e020-432f-11f1-92e2-298ca838e057,,43214,26727097,,,https://www.fantasypros.com/nfl/players/anquin-barnes-jr.php
 28730,Duce Chestnut,Duce,Chestnut,S,"[""S""]",FA,2002-12-05,,9cf4edd0-432e-11f1-aa5a-b35b98b16c34,,43208,,,,https://www.fantasypros.com/nfl/players/duce-chestnut.php
@@ -8307,7 +8305,7 @@ player_id,player_name,first_name,last_name,position_id,positions,team_id,birthda
 28753,Amari McNeill,Amari,McNeill,DT,"[""DT""]",NYJ,2003-06-08,2026,535b9720-458e-11f1-81f5-817b05a22f50,,43260,26704989,,,https://www.fantasypros.com/nfl/players/amari-mcneill.php
 28754,Anthony Dunn Jr.,Anthony,Dunn,DE,"[""DE""]",FA,,2026,70aff100-458d-11f1-a100-2d2e8f5201de,,43259,28882957,,,https://www.fantasypros.com/nfl/players/anthony-dunn-jr.php
 28755,Damon Payne,Damon,Payne,DT,"[""DT""]",FA,2003-04-15,2026,c6025430-458e-11f1-83d1-d55c2c9ad4e9,,43262,26727013,,,https://www.fantasypros.com/nfl/players/damon-payne.php
-28756,Jacob De Jesus,Jacob,De Jesus,WR,"[""WR""]",FA,2002-03-13,2026,e0244f50-458c-11f1-9a11-ab5d13db5b69,5155179,43258,29121519,,17833,https://www.fantasypros.com/nfl/players/jacob-de-jesus.php
+28756,Jacob De Jesus,Jacob,De Jesus,WR,"[""WR""]",SEA,2002-03-13,2026,e0244f50-458c-11f1-9a11-ab5d13db5b69,5155179,43258,29121519,,17833,https://www.fantasypros.com/nfl/players/jacob-de-jesus.php
 28757,Elijah Tau-Tolliver,Elijah,Tau-Tolliver,RB,"[""RB""]",FA,2003-05-16,2026,6fe63430-4594-11f1-b9ac-57fcf0dd2ce3,,43268,26697830,,,https://www.fantasypros.com/nfl/players/elijah-tau-tolliver.php
 28760,Dion Wilson Jr.,Dion,Wilson,DT,"[""DT""]",FA,2002-05-06,2026,b7bf4d00-4594-11f1-b59b-cd643487454a,,43266,3174810,,,https://www.fantasypros.com/nfl/players/dion-wilson-jr.php
 28761,D'Arco Perkins-McAllister,D'Arco,Perkins-McAllister,CB,"[""CB""]",KC,2002-09-11,2026,dce18e20-4591-11f1-ac38-497baf86f65d,,43264,26736711,,,https://www.fantasypros.com/nfl/players/darco-perkins-mcallister.php

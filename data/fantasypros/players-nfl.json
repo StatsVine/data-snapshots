@@ -1548,26 +1548,6 @@
     "yahoo_id": "24057"
   },
   {
-    "birthdate": "1986-11-24",
-    "cbs_id": "1691166",
-    "draft_class": 2010,
-    "espn_id": "13232",
-    "filename": "https://www.fantasypros.com/nfl/players/jimmy-graham.php",
-    "first_name": "Jimmy",
-    "last_name": "Graham",
-    "mfl_id": "9925",
-    "nfl_id": "497236",
-    "player_id": 9712,
-    "player_name": "Jimmy Graham",
-    "position_id": "TE",
-    "positions": [
-      "TE"
-    ],
-    "sportsdata_player_id": "fd85786d-3900-4dc0-9b30-334ee30413ed",
-    "team_id": "FA",
-    "yahoo_id": "24070"
-  },
-  {
     "birthdate": "1986-11-14",
     "cbs_id": "1123545",
     "draft_class": 2010,
@@ -7776,26 +7756,6 @@
     "sportsdata_player_id": "f6ff73b1-d607-4226-83ab-b523bdc0be4e",
     "team_id": "FA",
     "yahoo_id": "27743"
-  },
-  {
-    "birthdate": "1992-03-18",
-    "cbs_id": "1759765",
-    "draft_class": 2014,
-    "espn_id": "16711",
-    "filename": "https://www.fantasypros.com/nfl/players/anthony-barr.php",
-    "first_name": "Anthony",
-    "last_name": "Barr",
-    "mfl_id": "11720",
-    "nfl_id": "2543459",
-    "player_id": 12168,
-    "player_name": "Anthony Barr",
-    "position_id": "LB",
-    "positions": [
-      "LB"
-    ],
-    "sportsdata_player_id": "23616a22-8266-4b0c-b0b9-5f8187178168",
-    "team_id": "FA",
-    "yahoo_id": "27537"
   },
   {
     "birthdate": "1991-02-22",
@@ -21850,7 +21810,7 @@
       "QB"
     ],
     "sportsdata_player_id": "4595c8ea-9d85-4504-8a34-2c8a02349105",
-    "team_id": "TB",
+    "team_id": "FA",
     "yahoo_id": "30788"
   },
   {
@@ -28998,7 +28958,7 @@
       "CB"
     ],
     "sportsdata_player_id": "5bde0a71-c7ec-465f-ad35-c195e1d10b29",
-    "team_id": "FA",
+    "team_id": "CHI",
     "yahoo_id": "31069"
   },
   {
@@ -41395,7 +41355,7 @@
       "RB"
     ],
     "sportsdata_player_id": "0deb1dc9-0945-470d-8352-220d26d03d7d",
-    "team_id": "WAS",
+    "team_id": "FA",
     "yahoo_id": "32596"
   },
   {
@@ -44711,7 +44671,7 @@
       "QB"
     ],
     "sportsdata_player_id": "d7c63db7-dfe8-4cd6-a684-90342d12fa26",
-    "team_id": "BUF",
+    "team_id": "IND",
     "yahoo_id": "33879"
   },
   {
@@ -45925,7 +45885,7 @@
       "TE"
     ],
     "sportsdata_player_id": "7874d188-0fcd-4af9-9289-27c27e2bbd16",
-    "team_id": "LAC",
+    "team_id": "FA",
     "yahoo_id": "32764"
   },
   {
@@ -50063,7 +50023,7 @@
       "TE"
     ],
     "sportsdata_player_id": "0f369885-8ecd-4ca0-a3dc-df8530a0db6e",
-    "team_id": "FA",
+    "team_id": "IND",
     "yahoo_id": "33101"
   },
   {
@@ -89294,7 +89254,7 @@
       "QB"
     ],
     "sportsdata_player_id": "e95a83c0-e6f6-11ed-88d6-7977d3a68019",
-    "team_id": "FA",
+    "team_id": "SEA",
     "yahoo_id": "40299"
   },
   {
@@ -89434,7 +89394,7 @@
       "WR"
     ],
     "sportsdata_player_id": "3173c5c0-cbb6-11ec-88c8-199e5defa0d2",
-    "team_id": "FA",
+    "team_id": "NO",
     "yahoo_id": "34242"
   },
   {
@@ -92756,7 +92716,7 @@
       "S,CB"
     ],
     "sportsdata_player_id": "e2aa4576-83a6-4b81-ab95-49126a0cf1d4",
-    "team_id": "FA",
+    "team_id": "WAS",
     "yahoo_id": "33496"
   },
   {
@@ -94242,7 +94202,7 @@
       "WR"
     ],
     "sportsdata_player_id": "c9ef678b-959b-445b-b32a-81c767c8ad65",
-    "team_id": "FA",
+    "team_id": "PIT",
     "yahoo_id": "33710"
   },
   {
@@ -94462,7 +94422,7 @@
       "LB"
     ],
     "sportsdata_player_id": "c75717d2-be1d-4305-9bae-5a18d9cedca6",
-    "team_id": "TEN",
+    "team_id": "FA",
     "yahoo_id": "33696"
   },
   {
@@ -95379,9 +95339,8 @@
     "nfl_id": "2566977",
     "player_id": 23429,
     "player_name": "Zayne Anderson",
-    "position_id": "LB",
+    "position_id": "S",
     "positions": [
-      "LB",
       "S"
     ],
     "sportsdata_player_id": "6fd330e6-8cab-4351-b9e8-bc6ffb125b1c",
@@ -98115,7 +98074,7 @@
       "LB"
     ],
     "sportsdata_player_id": "82546a90-c980-11ec-a1a0-57a82b503f37",
-    "team_id": "MIN",
+    "team_id": "FA",
     "yahoo_id": "34404"
   },
   {
@@ -99271,7 +99230,6 @@
   {
     "birthdate": "1998-12-23",
     "cbs_id": "2965227",
-    "draft_class": 2022,
     "espn_id": null,
     "filename": "https://www.fantasypros.com/nfl/players/leon-oneal.php",
     "first_name": "Leon",
@@ -109178,7 +109136,7 @@
       "DE"
     ],
     "sportsdata_player_id": "5d64ba96-04f6-41ee-8620-ed251f16485c",
-    "team_id": "SF",
+    "team_id": "FA",
     "yahoo_id": "40181"
   },
   {
@@ -119672,7 +119630,7 @@
       "TE"
     ],
     "sportsdata_player_id": "5f79de60-ea7c-11ed-91f6-779a59a61c18",
-    "team_id": "FA",
+    "team_id": "NO",
     "yahoo_id": "40477"
   },
   {
@@ -127818,7 +127776,7 @@
     "filename": "https://www.fantasypros.com/nfl/players/gabe-hall.php",
     "first_name": "Gabe",
     "last_name": "Hall",
-    "mfl_id": null,
+    "mfl_id": "17836",
     "nfl_id": "2572738",
     "player_id": 26338,
     "player_name": "Gabe Hall",
@@ -129937,7 +129895,7 @@
       "CB,LB,S"
     ],
     "sportsdata_player_id": "d83c6686-ffd6-41cd-a2ca-9583a0470769",
-    "team_id": "TEN",
+    "team_id": "FA",
     "yahoo_id": "41039"
   },
   {
@@ -131428,7 +131386,7 @@
       "CB"
     ],
     "sportsdata_player_id": "93c05980-0658-11ef-909c-d744eed76b9a",
-    "team_id": "FA",
+    "team_id": "LV",
     "yahoo_id": "41223"
   },
   {
@@ -132520,7 +132478,7 @@
       "RB"
     ],
     "sportsdata_player_id": "4cbe3c80-0718-11ef-ad6b-0f2dd4b44ccd",
-    "team_id": "FA",
+    "team_id": "LAC",
     "yahoo_id": "41322"
   },
   {
@@ -135081,7 +135039,7 @@
     "filename": "https://www.fantasypros.com/nfl/players/david-olajiga.php",
     "first_name": "David",
     "last_name": "Olajiga",
-    "mfl_id": null,
+    "mfl_id": "17837",
     "nfl_id": "2573740",
     "player_id": 26794,
     "player_name": "David Olajiga",
@@ -135814,7 +135772,7 @@
       "DE,DT"
     ],
     "sportsdata_player_id": "59018c00-0c08-11ef-b868-8de1d998f84e",
-    "team_id": "FA",
+    "team_id": "CAR",
     "yahoo_id": "41582"
   },
   {
@@ -141134,7 +141092,7 @@
       "WR"
     ],
     "sportsdata_player_id": "277f6ff0-2442-11f0-ac20-e1591f73b631",
-    "team_id": "LAC",
+    "team_id": "FA",
     "yahoo_id": "42161"
   },
   {
@@ -145005,7 +144963,7 @@
       "WR"
     ],
     "sportsdata_player_id": "f4e1d4de-95e9-452e-95ab-3555989d90bb",
-    "team_id": "BAL",
+    "team_id": "FA",
     "yahoo_id": "42000"
   },
   {
@@ -147974,7 +147932,7 @@
       "CB,S"
     ],
     "sportsdata_player_id": "e7fd0db0-2450-11f0-9355-ab13517f07bb",
-    "team_id": "FA",
+    "team_id": "TB",
     "yahoo_id": "42179"
   },
   {
@@ -148761,7 +148719,7 @@
       "CB"
     ],
     "sportsdata_player_id": "02c194e0-2514-11f0-a382-97906c339a3b",
-    "team_id": "CAR",
+    "team_id": "TEN",
     "yahoo_id": "42264"
   },
   {
@@ -149604,7 +149562,7 @@
       "CB"
     ],
     "sportsdata_player_id": "e2d06080-254a-11f0-bf93-999a1fb5633c",
-    "team_id": "LV",
+    "team_id": "FA",
     "yahoo_id": "42309"
   },
   {
@@ -151795,7 +151753,7 @@
       "CB"
     ],
     "sportsdata_player_id": "489ad3d0-303d-11f0-b3d6-7fc7c050227e",
-    "team_id": "FA",
+    "team_id": "TEN",
     "yahoo_id": "42536"
   },
   {
@@ -156377,7 +156335,7 @@
       "DE"
     ],
     "sportsdata_player_id": "0de37898-9685-4165-bba2-0f1426aa80f6",
-    "team_id": "FA",
+    "team_id": "MIA",
     "yahoo_id": "42860"
   },
   {
@@ -157445,7 +157403,7 @@
       "CB"
     ],
     "sportsdata_player_id": "d6066da0-41a9-11f1-a265-01abfcf61716",
-    "team_id": "SEA",
+    "team_id": "FA",
     "yahoo_id": "42934"
   },
   {
@@ -163844,7 +163802,7 @@
       "DT"
     ],
     "sportsdata_player_id": "a89b30e0-42b6-11f1-929f-b150d5e57a50",
-    "team_id": "FA",
+    "team_id": "LV",
     "yahoo_id": "43154"
   },
   {
@@ -164604,7 +164562,7 @@
       "DT"
     ],
     "sportsdata_player_id": "13baec90-432e-11f1-b3d5-fd85c1e2f939",
-    "team_id": "FA",
+    "team_id": "LAR",
     "yahoo_id": "43207"
   },
   {
@@ -165021,7 +164979,7 @@
       "WR"
     ],
     "sportsdata_player_id": "e0244f50-458c-11f1-9a11-ab5d13db5b69",
-    "team_id": "FA",
+    "team_id": "SEA",
     "yahoo_id": "43258"
   },
   {

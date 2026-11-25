@@ -1317,7 +1317,7 @@ id,value,team
 10111,Harold Castro,COL
 10112,John Means,CLE
 10113,Jon Berti,CHC
-10114,Tyrone Taylor,CHC
+10114,Tyrone Taylor,CWS
 10116,Joey Curletta,BOS
 10117,Aaron Bracho,CLE
 10118,Adam Hall,BAL
@@ -1326,7 +1326,7 @@ id,value,team
 10121,Adonis Medina,NYM
 10123,Adrian Morejon,SD
 10124,Akil Baddoo,PIT
-10125,Alec Bohm,PHI
+10125,Alec Bohm,KC
 10126,Alek Thomas,LAD
 10127,Alex Faedo,TB
 10128,Alex Kirilloff,MIN
@@ -2215,7 +2215,7 @@ id,value,team
 11144,Alec Marsh,KC
 11145,Nick Yorke,PIT
 11146,Joel Cesar,PHI
-11147,Ha-Seong Kim,ATL
+11147,Ha-Seong Kim,DET
 11148,Tomoyuki Sugano,COL
 11149,Kohei Arihara,TEX
 11150,Wandisson Charles,ATH
@@ -3613,7 +3613,7 @@ id,value,team
 12765,Alexander Cornielle,NYY
 12766,Franklin Arias,BOS
 12767,Rainiel Rodriguez,STL
-12768,Teruaki Sato,FA
+12768,Teruaki Sato,CHC
 12769,Anthony Eyanson,BAL
 12770,Christian Zazueta Jr.,LAD
 12771,Arjun Nimmala,LAA
@@ -3635,7 +3635,7 @@ id,value,team
 12787,Roc Riggio,COL
 12788,Ryan Sloan,FA
 12789,Max Williams,MIA
-12790,Kaima Taira,FA
+12790,Kaima Taira,TOR
 12791,Jackson Flora,SF
 12792,Vahn Lackey,MIN
 12793,Leonardo Pineda,TB
@@ -3717,4 +3717,3 @@ id,value,team
 12874,Cameron Wagoner,MLW
 12875,Jackson Nezuh,HOU
 12876,Adam Serwinowski,LAD
-12877,Teruaki Sato,CHC

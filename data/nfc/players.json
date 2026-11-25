@@ -7910,7 +7910,7 @@
   {
     "id": 10114,
     "sport": "baseball",
-    "team": "CHC",
+    "team": "CWS",
     "value": "Tyrone Taylor"
   },
   {
@@ -7964,7 +7964,7 @@
   {
     "id": 10125,
     "sport": "baseball",
-    "team": "PHI",
+    "team": "KC",
     "value": "Alec Bohm"
   },
   {
@@ -13298,7 +13298,7 @@
   {
     "id": 11147,
     "sport": "baseball",
-    "team": "ATL",
+    "team": "DET",
     "value": "Ha-Seong Kim"
   },
   {
@@ -21686,7 +21686,7 @@
   {
     "id": 12768,
     "sport": "baseball",
-    "team": "FA",
+    "team": "CHC",
     "value": "Teruaki Sato"
   },
   {
@@ -21818,7 +21818,7 @@
   {
     "id": 12790,
     "sport": "baseball",
-    "team": "FA",
+    "team": "TOR",
     "value": "Kaima Taira"
   },
   {
@@ -22306,12 +22306,6 @@
     "sport": "baseball",
     "team": "LAD",
     "value": "Adam Serwinowski"
-  },
-  {
-    "id": 12877,
-    "sport": "baseball",
-    "team": "CHC",
-    "value": "Teruaki Sato"
   },
   {
     "id": 1015,
@@ -46154,7 +46148,7 @@
   {
     "id": 19305,
     "sport": "football",
-    "team": "BUF",
+    "team": "IND",
     "value": "Shane Buechele"
   },
   {
@@ -49154,7 +49148,7 @@
   {
     "id": 20798,
     "sport": "football",
-    "team": "DEN",
+    "team": "NO",
     "value": "Patrick Murtagh"
   },
   {
@@ -50594,7 +50588,7 @@
   {
     "id": 21618,
     "sport": "football",
-    "team": "PHI",
+    "team": "LAC",
     "value": "Ian Wheeler"
   },
   {
@@ -54584,7 +54578,7 @@
   {
     "id": 23589,
     "sport": "football",
-    "team": "KC",
+    "team": "SEA",
     "value": "Jacob De Jesus"
   },
   {

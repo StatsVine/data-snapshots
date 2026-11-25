@@ -1317,7 +1317,7 @@ id,sport,value,team
 10111,baseball,Harold Castro,COL
 10112,baseball,John Means,CLE
 10113,baseball,Jon Berti,CHC
-10114,baseball,Tyrone Taylor,CHC
+10114,baseball,Tyrone Taylor,CWS
 10116,baseball,Joey Curletta,BOS
 10117,baseball,Aaron Bracho,CLE
 10118,baseball,Adam Hall,BAL
@@ -1326,7 +1326,7 @@ id,sport,value,team
 10121,baseball,Adonis Medina,NYM
 10123,baseball,Adrian Morejon,SD
 10124,baseball,Akil Baddoo,PIT
-10125,baseball,Alec Bohm,PHI
+10125,baseball,Alec Bohm,KC
 10126,baseball,Alek Thomas,LAD
 10127,baseball,Alex Faedo,TB
 10128,baseball,Alex Kirilloff,MIN
@@ -2215,7 +2215,7 @@ id,sport,value,team
 11144,baseball,Alec Marsh,KC
 11145,baseball,Nick Yorke,PIT
 11146,baseball,Joel Cesar,PHI
-11147,baseball,Ha-Seong Kim,ATL
+11147,baseball,Ha-Seong Kim,DET
 11148,baseball,Tomoyuki Sugano,COL
 11149,baseball,Kohei Arihara,TEX
 11150,baseball,Wandisson Charles,ATH
@@ -3613,7 +3613,7 @@ id,sport,value,team
 12765,baseball,Alexander Cornielle,NYY
 12766,baseball,Franklin Arias,BOS
 12767,baseball,Rainiel Rodriguez,STL
-12768,baseball,Teruaki Sato,FA
+12768,baseball,Teruaki Sato,CHC
 12769,baseball,Anthony Eyanson,BAL
 12770,baseball,Christian Zazueta Jr.,LAD
 12771,baseball,Arjun Nimmala,LAA
@@ -3635,7 +3635,7 @@ id,sport,value,team
 12787,baseball,Roc Riggio,COL
 12788,baseball,Ryan Sloan,FA
 12789,baseball,Max Williams,MIA
-12790,baseball,Kaima Taira,FA
+12790,baseball,Kaima Taira,TOR
 12791,baseball,Jackson Flora,SF
 12792,baseball,Vahn Lackey,MIN
 12793,baseball,Leonardo Pineda,TB
@@ -3717,7 +3717,6 @@ id,sport,value,team
 12874,baseball,Cameron Wagoner,MLW
 12875,baseball,Jackson Nezuh,HOU
 12876,baseball,Adam Serwinowski,LAD
-12877,baseball,Teruaki Sato,CHC
 1015,basketball,Tyson Chandler,HOU
 1023,basketball,Joe Johnson,BOS
 1091,basketball,Mike James,BKN
@@ -7691,7 +7690,7 @@ id,sport,value,team
 19291,football,Quintin Morris,JAX
 19292,football,Collin Hill,CIN
 19298,football,Riley Lees,CIN
-19305,football,Shane Buechele,BUF
+19305,football,Shane Buechele,IND
 19306,football,DJ Turner,HOU
 19307,football,Garrett Groshek,MIN
 19309,football,Matt Bushman,KC
@@ -8191,7 +8190,7 @@ id,sport,value,team
 20788,football,Isaiah Winstead,PIT
 20790,football,Jacob Saylors,DET
 20791,football,Christian Trahan,CIN
-20798,football,Patrick Murtagh,DEN
+20798,football,Patrick Murtagh,NO
 20806,football,Andre Szmyt,CLE
 20807,football,Damien Caffrey,CHI
 20813,football,Thyrick Pitts,GB
@@ -8431,7 +8430,7 @@ id,sport,value,team
 21609,football,Harrison Mevis,BAL
 21612,football,Devin Carter,CAR
 21615,football,OJ Hiliare,ATL
-21618,football,Ian Wheeler,PHI
+21618,football,Ian Wheeler,LAC
 21621,football,TD Ayo-Durojaiye,KC
 21632,football,D.J. Williams,TB
 21634,football,Kameron Johnson,TB
@@ -9096,7 +9095,7 @@ id,sport,value,team
 23578,football,Corey Rucker,LV
 23579,football,Elijah Tau-Tolliver,BAL
 23581,football,Jaden Nixon,GB
-23589,football,Jacob De Jesus,KC
+23589,football,Jacob De Jesus,SEA
 23590,football,Omari Evans,KC
 23593,football,Patrick Gurd,LV
 23597,football,Xavier Loyd,KC

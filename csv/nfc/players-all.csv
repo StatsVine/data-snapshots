@@ -154,7 +154,7 @@ id,sport,value,team
 8189,baseball,Drew Pomeranz,CHC
 8210,baseball,Yu Darvish,SD
 8211,baseball,Travis d'Arnaud,LAA
-8212,baseball,Gary Sanchez,MLW
+8212,baseball,Gary Sanchez,MIA
 8213,baseball,Jon Singleton,HOU
 8215,baseball,Yasmani Grandal,PIT
 8217,baseball,Kolten Wong,LAD
@@ -214,7 +214,7 @@ id,sport,value,team
 8418,baseball,Taijuan Walker,PHI
 8424,baseball,James Paxton,BOS
 8426,baseball,Michael Wacha,KC
-8427,baseball,Kevin Gausman,CHC
+8427,baseball,Kevin Gausman,DET
 8428,baseball,Matt Barnes,WAS
 8431,baseball,Austin Hedges,CLE
 8432,baseball,Jackie Bradley Jr.,KC
@@ -1061,7 +1061,7 @@ id,sport,value,team
 9789,baseball,Tyler O'Neill,BAL
 9790,baseball,Kolby Allard,CLE
 9791,baseball,Michael Soroka,ARZ
-9792,baseball,A.J. Puk,ARZ
+9792,baseball,A.J. Puk,WAS
 9793,baseball,Stephen Gonsalves,BOS
 9794,baseball,Justus Sheffield,SEA
 9795,baseball,Danny Jansen,TEX
@@ -1376,7 +1376,7 @@ id,sport,value,team
 10178,baseball,Darwinzon Hernandez,NYM
 10179,baseball,Daulton Jefferies,PIT
 10180,baseball,Daulton Varsho,HOU
-10181,baseball,David Peterson,CHC
+10181,baseball,David Peterson,COL
 10182,baseball,Daz Cameron,TOR
 10183,baseball,Dean Kremer,MIN
 10184,baseball,Deivi Garcia,CWS
@@ -1497,7 +1497,7 @@ id,sport,value,team
 10305,baseball,Oneil Cruz,PIT
 10306,baseball,Oscar Gonzalez,SD
 10307,baseball,Parker Meadows,DET
-10308,baseball,Patrick Sandoval,BOS
+10308,baseball,Patrick Sandoval,COL
 10309,baseball,Pavin Smith,ARZ
 10310,baseball,Pedro Avila,CLE
 10311,baseball,Pedro Gonzalez,TEX
@@ -1667,7 +1667,7 @@ id,sport,value,team
 10525,baseball,Richard Lovelady,WAS
 10526,baseball,Tommy Eveld,MIA
 10527,baseball,Cole Irvin,LAD
-10528,baseball,JoJo Romero,MLW
+10528,baseball,JoJo Romero,SD
 10531,baseball,Jake Rogers,CWS
 10532,baseball,Griffin Benson,ATL
 10533,baseball,AJ Graffanino,ATL
@@ -1784,7 +1784,7 @@ id,sport,value,team
 10659,baseball,Travis Demeritte,ATL
 10660,baseball,Reggie McClain,NYY
 10661,baseball,Emmanuel Clase,CLE
-10662,baseball,Kevin Ginkel,ARZ
+10662,baseball,Kevin Ginkel,MIN
 10663,baseball,Robert Dugger,CIN
 10665,baseball,Devin Williams,NYM
 10666,baseball,Junior Fernandez,TOR
@@ -4646,7 +4646,7 @@ id,sport,value,team
 3149,basketball,Justin Wright-Foreman,UTH
 3150,basketball,Bol Bol,PHO
 3151,basketball,Tyler Herro,MIL
-3152,basketball,Kevin Porter Jr.,MIL
+3152,basketball,Kevin Porter Jr.,ORL
 3153,basketball,Jarrett Culver,ORL
 3154,basketball,Brandon Clarke,MEM
 3155,basketball,Nassir Little,MIA
@@ -7294,7 +7294,7 @@ id,sport,value,team
 17980,football,Eno Benjamin,NO
 17981,football,KJ Hamler,BUF
 17982,football,Antonio Gandy-Golden,WAS
-17983,football,Brandon Aiyuk,SF
+17983,football,Brandon Aiyuk,WAS
 17984,football,Lynn Bowden,NO
 17985,football,Anthony McFarland,MIA
 17986,football,Thaddeus Moss,CIN
@@ -8478,7 +8478,7 @@ id,sport,value,team
 21753,football,Messiah Swinson,CLE
 21754,football,British Brooks,HOU
 21758,football,Jaxon Janke,HOU
-21760,football,Kedon Slovis,BAL
+21760,football,Kedon Slovis,ARZ
 21762,football,Malcolm Epps,IND
 21763,football,Justin Strong,IND
 21764,football,Xavier White,IND

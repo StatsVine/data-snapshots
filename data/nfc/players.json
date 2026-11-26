@@ -932,7 +932,7 @@
   {
     "id": 8212,
     "sport": "baseball",
-    "team": "MLW",
+    "team": "MIA",
     "value": "Gary Sanchez"
   },
   {
@@ -1292,7 +1292,7 @@
   {
     "id": 8427,
     "sport": "baseball",
-    "team": "CHC",
+    "team": "DET",
     "value": "Kevin Gausman"
   },
   {
@@ -6374,7 +6374,7 @@
   {
     "id": 9792,
     "sport": "baseball",
-    "team": "ARZ",
+    "team": "WAS",
     "value": "A.J. Puk"
   },
   {
@@ -8264,7 +8264,7 @@
   {
     "id": 10181,
     "sport": "baseball",
-    "team": "CHC",
+    "team": "COL",
     "value": "David Peterson"
   },
   {
@@ -8990,7 +8990,7 @@
   {
     "id": 10308,
     "sport": "baseball",
-    "team": "BOS",
+    "team": "COL",
     "value": "Patrick Sandoval"
   },
   {
@@ -10010,7 +10010,7 @@
   {
     "id": 10528,
     "sport": "baseball",
-    "team": "MLW",
+    "team": "SD",
     "value": "JoJo Romero"
   },
   {
@@ -10712,7 +10712,7 @@
   {
     "id": 10662,
     "sport": "baseball",
-    "team": "ARZ",
+    "team": "MIN",
     "value": "Kevin Ginkel"
   },
   {
@@ -27884,7 +27884,7 @@
   {
     "id": 3152,
     "sport": "basketball",
-    "team": "MIL",
+    "team": "ORL",
     "value": "Kevin Porter Jr."
   },
   {
@@ -43772,7 +43772,7 @@
   {
     "id": 17983,
     "sport": "football",
-    "team": "SF",
+    "team": "WAS",
     "value": "Brandon Aiyuk"
   },
   {
@@ -50876,7 +50876,7 @@
   {
     "id": 21760,
     "sport": "football",
-    "team": "BAL",
+    "team": "ARZ",
     "value": "Kedon Slovis"
   },
   {

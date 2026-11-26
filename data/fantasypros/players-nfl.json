@@ -643,7 +643,7 @@
       "QB"
     ],
     "sportsdata_player_id": "0ce48193-e2fa-466e-a986-33f751add206",
-    "team_id": "PIT",
+    "team_id": "FA",
     "yahoo_id": "7200"
   },
   {
@@ -7369,7 +7369,7 @@
       "WR"
     ],
     "sportsdata_player_id": "b6b954eb-4591-4b7a-86b9-a481f15fdd58",
-    "team_id": "FA",
+    "team_id": "SF",
     "yahoo_id": "27548"
   },
   {
@@ -22839,7 +22839,7 @@
       "DE"
     ],
     "sportsdata_player_id": "cb43fb1e-9c65-4462-8c05-798d5885b845",
-    "team_id": "TEN",
+    "team_id": "FA",
     "yahoo_id": "30172"
   },
   {
@@ -24351,7 +24351,7 @@
       "RB"
     ],
     "sportsdata_player_id": "42b57148-fc06-4aee-b40b-bb941271b5b7",
-    "team_id": "HOU",
+    "team_id": "FA",
     "yahoo_id": "30860"
   },
   {
@@ -36624,7 +36624,7 @@
       "DT"
     ],
     "sportsdata_player_id": "757c55e1-2f3a-41d2-a211-16bf577a1586",
-    "team_id": "FA",
+    "team_id": "DEN",
     "yahoo_id": "31916"
   },
   {
@@ -42844,7 +42844,7 @@
       "WR"
     ],
     "sportsdata_player_id": "c90471cc-fa60-4416-9388-5aebb5d877eb",
-    "team_id": "FA",
+    "team_id": "WAS",
     "yahoo_id": "32695"
   },
   {
@@ -84322,7 +84322,7 @@
       "CB"
     ],
     "sportsdata_player_id": "7da672ef-7d6f-4162-b3ee-7faa37b0ed95",
-    "team_id": "FA",
+    "team_id": "WAS",
     "yahoo_id": "33490"
   },
   {
@@ -91612,7 +91612,7 @@
       "QB"
     ],
     "sportsdata_player_id": "4842ee80-07d1-11ef-977b-d7c6de486031",
-    "team_id": "FA",
+    "team_id": "ARI",
     "yahoo_id": "41476"
   },
   {
@@ -119310,7 +119310,7 @@
       "WR"
     ],
     "sportsdata_player_id": "c0fccfb0-e907-11ed-8194-c7505aa5766b",
-    "team_id": "WAS",
+    "team_id": "FA",
     "yahoo_id": "40445"
   },
   {
@@ -141293,7 +141293,7 @@
       "DT"
     ],
     "sportsdata_player_id": "84670ec0-2560-11f0-af22-1731557928d7",
-    "team_id": "CAR",
+    "team_id": "FA",
     "yahoo_id": "42370"
   },
   {
@@ -149904,7 +149904,7 @@
       "DT"
     ],
     "sportsdata_player_id": "d153ff40-255b-11f0-9086-8b7ff6c4841b",
-    "team_id": "FA",
+    "team_id": "HOU",
     "yahoo_id": "42366"
   },
   {
@@ -151331,7 +151331,7 @@
       "DT"
     ],
     "sportsdata_player_id": "177cbd40-2ce1-11f0-9704-05df0b0bc434",
-    "team_id": "FA",
+    "team_id": "NYJ",
     "yahoo_id": "42499"
   },
   {
@@ -157403,7 +157403,7 @@
       "CB"
     ],
     "sportsdata_player_id": "d6066da0-41a9-11f1-a265-01abfcf61716",
-    "team_id": "FA",
+    "team_id": "LAC",
     "yahoo_id": "42934"
   },
   {
@@ -164323,7 +164323,7 @@
       "WR"
     ],
     "sportsdata_player_id": "90250e60-4323-11f1-aefa-a7f05498862d",
-    "team_id": "FA",
+    "team_id": "HOU",
     "yahoo_id": "43195"
   },
   {
